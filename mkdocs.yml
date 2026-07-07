@@ -1,9 +1,6 @@
 site_name: Galactic Confederation Review
-site_description: Selected scholarship from across the Galactic Confederation
-site_url: https://frankhaugen.github.io/galactic-confederation-review/
-
-repo_url: https://github.com/frankhaugen/galactic-confederation-review
-repo_name: Galactic Confederation Review
+site_description: Independent republication review of selected Confederation scholarship
+copyright: Galactic Confederation Review Registry 2496.212
 
 theme:
   name: material
@@ -51,15 +48,14 @@ markdown_extensions:
 
 plugins:
   - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-      enable_git_follow: false
-      type: date
   - minify:
       minify_html: true
 
 extra_css:
   - assets/stylesheets/extra.css
+
+extra:
+  generator: false
 
 nav:
   - Review Home: index.md

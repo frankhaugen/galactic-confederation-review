@@ -1,19 +1,39 @@
+---
+title: "Children of Terra"
+description: "How a translator's improvisation became a durable legal category."
+review_selection: "2496.187"
+original_date: "2496.187"
+author: "Review Language Desk"
+field: "Policy and Xenology"
+series: "Earth Union Institutions"
+tags:
+  - Earth Union Institutions
+  - Xenology
+  - Policy
+---
 # Children of Terra
 
-> Originally published in: *Galactic Confederation Review*, Language Desk  
-> Republished by: Galactic Confederation Review  
-> Original date: 2496.187  
-> Review selection: 2496.187  
-> Author: Review Language Desk  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Galactic Confederation Review*, Language Desk
+> Republished by: Galactic Confederation Review
+> Original date: 2496.187
+> Review selection: 2496.187
+> Author: Review Language Desk
 > Field: Policy and Xenology
 
-## Editorial note
+</div>
 
-The following essay was prepared by the Review's language desk after renewed debate over species terminology in Confederation legal translation. The editors accept full responsibility for the indulgence. Some historical accidents deserve to be remembered.
+!!! editorial "Editorial note"
+    The following essay was prepared by the Review's language desk after renewed debate over species terminology in Confederation legal translation. The editors accept full responsibility for the indulgence. Some historical accidents deserve to be remembered.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 "Children of Terra" is now a legal category. It began as a translator's improvisation under pressure during a live diplomatic exchange, while avoiding an obscene idiom in French. This essay traces how the phrase separated biological species from civic identity inside Earth Union and became a replicable politeness strategy across Confederation translation practice.
+
+</div>
 
 ## Article
 

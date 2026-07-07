@@ -1,19 +1,39 @@
+---
+title: "Status Laundering at the Registry Interface"
+description: "How paperwork converts coercion into transferable legal status."
+review_selection: "2496.219"
+original_date: "2495.256"
+author: "Commissioner Raleth Vo, Protective Policy Division, Nosies Customs"
+field: "Law and Enforcement"
+series: "Founding & Charter Law"
+tags:
+  - Founding & Charter Law
+  - Law
+  - Enforcement
+---
 # Status Laundering at the Registry Interface
 
-> Originally published in: *Nosies Customs Investigative Review*, Vol. 12  
-> Republished by: Galactic Confederation Review  
-> Original date: 2495.256  
-> Review selection: 2496.219  
-> Author: Commissioner Raleth Vo, Protective Policy Division, Nosies Customs  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Nosies Customs Investigative Review*, Vol. 12
+> Republished by: Galactic Confederation Review
+> Original date: 2495.256
+> Review selection: 2496.219
+> Author: Commissioner Raleth Vo, Protective Policy Division, Nosies Customs
 > Field: Law and Enforcement
 
-## Editorial note
+</div>
 
-Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication.
+!!! editorial "Editorial note"
+    Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Inside the Confederation mesh, raw violence is not the only way to erase freedom. Status laundering converts coercion into documented, transferable, insurable registry objects. Recovery fails not at the locked door but at the paperwork chain that makes the victim look like complicated legal status rather than a kidnapped person in transit.
+
+</div>
 
 ## Article
 

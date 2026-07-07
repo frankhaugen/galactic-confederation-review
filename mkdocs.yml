@@ -1,17 +1,22 @@
 site_name: Galactic Confederation Review
 site_description: Independent republication review of selected Confederation scholarship
-copyright: Galactic Confederation Review Registry 2496.213
+site_url: https://frankhaugen.github.io/galactic-confederation-review/
+copyright: Galactic Confederation Review Registry · Public archive edition · Review cycle 2496.221
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
     - navigation.top
+    - navigation.indexes
+    - toc.follow
     - search.highlight
     - search.share
+    - search.suggest
     - content.code.copy
     - content.footnote.tooltips
   palette:
@@ -40,6 +45,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - def_list
+  - meta
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.snippets
@@ -48,6 +54,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - tags
   - minify:
       minify_html: true
 
@@ -56,28 +63,43 @@ extra_css:
 
 extra:
   generator: false
+  review_cycle: "2496.221"
+  archive_class: Public archive edition
+
+exclude_docs: |
+  articles/freight-insurance-as-governance.md
+  articles/humanitys-second-abolition.md
+  articles/infinite-brutality-civilian-response.md
+  articles/notes-on-informal-shipboard-ritual.md
 
 nav:
   - Review Home: index.md
   - About the Review: about.md
   - Editorial Policy: editorial-policy.md
+  - Archive Register: articles/index.md
+  - Classification Index: tags.md
   - Contributing Authors: authors.md
   - Republished Articles:
-      - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
-      - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
-      - The Confederation Does Not Deliver Messages: articles/the-confederation-does-not-deliver-messages.md
-      - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
-      - Prize-Class Recovery and the Vigilantism Line: articles/prize-class-recovery-and-the-vigilantism-line.md
-      - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
-      - Capability Is Not Classification: articles/capability-is-not-classification.md
-      - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
-      - Institutions Without Parenthood: articles/institutions-without-parenthood.md
-      - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
-      - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
-      - Children of Terra: articles/children-of-terra.md
-      - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
-      - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
-      - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
-      - The Human Trap in the Guardianship Settlement: articles/the-human-trap-in-guardianship-settlement.md
-      - Faster-Than-Light Transit: articles/ftl-transit-operational-tradeoffs.md
-      - The Ansible Is Not a Radio: articles/ansible-is-not-a-radio.md
+      - Founding & Charter Law:
+          - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
+          - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
+          - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
+          - The Human Trap in the Guardianship Settlement: articles/the-human-trap-in-guardianship-settlement.md
+          - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
+          - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
+      - Earth Union Institutions:
+          - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
+          - Children of Terra: articles/children-of-terra.md
+          - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
+          - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
+      - Infrastructure & Commerce:
+          - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
+          - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
+          - Faster-Than-Light Transit: articles/ftl-transit-operational-tradeoffs.md
+          - The Confederation Does Not Deliver Messages: articles/the-confederation-does-not-deliver-messages.md
+          - The Ansible Is Not a Radio: articles/ansible-is-not-a-radio.md
+      - Law, Cognition & Enforcement:
+          - Prize-Class Recovery and the Vigilantism Line: articles/prize-class-recovery-and-the-vigilantism-line.md
+          - Capability Is Not Classification: articles/capability-is-not-classification.md
+      - Comparative Policy & Xenology:
+          - Institutions Without Parenthood: articles/institutions-without-parenthood.md

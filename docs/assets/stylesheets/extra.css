@@ -32,11 +32,6 @@
   font-size: 0.78rem;
 }
 
-.md-typeset blockquote {
-  border-left: 0.2rem solid var(--md-primary-fg-color);
-  color: var(--review-muted);
-}
-
 .md-typeset h1 {
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 600;
@@ -51,6 +46,65 @@
 
 .md-typeset table:not([class]) {
   font-size: 0.9rem;
+}
+
+.republication-masthead {
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
+  border-left: 0.2rem solid var(--md-primary-fg-color);
+  margin: 0 0 1.25rem;
+  padding: 0.75rem 0.9rem 0.55rem;
+}
+
+.republication-masthead blockquote {
+  border-left: 0;
+  color: var(--review-muted);
+  font-size: 0.72rem;
+  margin: 0;
+  padding: 0;
+}
+
+.republication-masthead blockquote p {
+  margin: 0.15rem 0;
+}
+
+.review-abstract {
+  border-top: 0.08rem solid var(--review-rule);
+  margin: 0 0 1.4rem;
+  padding-top: 0.65rem;
+}
+
+.review-abstract h2 {
+  border-bottom: 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0;
+  text-transform: uppercase;
+}
+
+.review-abstract p {
+  color: var(--review-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin-bottom: 0;
+}
+
+.md-typeset .md-tags {
+  margin: -0.35rem 0 1rem;
+}
+
+.md-typeset .md-tag {
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 80%, transparent);
+  border-radius: 0;
+  font-size: 0.58rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.md-typeset blockquote {
+  border-left: 0.2rem solid var(--md-primary-fg-color);
+  color: var(--review-muted);
 }
 
 .review-front {
@@ -136,14 +190,26 @@
   margin-bottom: 0.4rem;
 }
 
+.selection-meta {
+  color: var(--review-muted);
+  font-size: 0.64rem;
+  letter-spacing: 0.05em;
+  margin: 0 0 0.35rem;
+  text-transform: uppercase;
+}
+
 .md-typeset .admonition.editorial,
 .md-typeset details.editorial {
   border-color: var(--md-primary-fg-color);
+  margin: 0 0 1.25rem;
 }
 
 .md-typeset .editorial > .admonition-title,
 .md-typeset .editorial > summary {
   background-color: color-mix(in srgb, var(--md-primary-fg-color) 15%, transparent);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .md-typeset .editorial > .admonition-title::before,
@@ -153,6 +219,18 @@
 
 .md-footer-meta {
   border-top: 0.15rem double color-mix(in srgb, var(--md-primary-fg-color) 50%, transparent);
+}
+
+.review-copyright__highlight {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+}
+
+.review-copyright__line {
+  color: var(--review-muted);
+  font-size: 0.64rem;
+  margin: 0.2rem 0 0;
 }
 
 @media screen and (max-width: 44.9375em) {

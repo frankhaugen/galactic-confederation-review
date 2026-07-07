@@ -1,19 +1,39 @@
+---
+title: "Prize-Class Recovery and the Vigilantism Line"
+description: "Prize Court doctrine on self-defense exclusivity and registry enforcement."
+review_selection: "2496.216"
+original_date: "2495.334"
+author: "Advocate-Commissioner Senna Orr, Prize Court liaison practice"
+field: "Maritime Law and Confederation Procedure"
+series: "Law, Cognition & Enforcement"
+tags:
+  - Law, Cognition & Enforcement
+  - Maritime Law
+  - Enforcement
+---
 # Prize-Class Recovery and the Vigilantism Line
 
-> Originally published in: *Lucene Institute Procedural Review*, Vol. 156  
-> Republished by: Galactic Confederation Review  
-> Original date: 2495.334  
-> Review selection: 2496.216  
-> Author: Advocate-Commissioner Senna Orr, Prize Court liaison practice  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Lucene Institute Procedural Review*, Vol. 156
+> Republished by: Galactic Confederation Review
+> Original date: 2495.334
+> Review selection: 2496.216
+> Author: Advocate-Commissioner Senna Orr, Prize Court liaison practice
 > Field: Maritime Law and Confederation Procedure
 
-## Editorial note
+</div>
 
-Selected after authenticated sector recordings of Prize Court determinations circulated beyond legal professional channels. The Review notes that several Earth Fleet boarding memoranda cited in the original remain restricted.
+!!! editorial "Editorial note"
+    Selected after authenticated sector recordings of Prize Court determinations circulated beyond legal professional channels. The Review notes that several Earth Fleet boarding memoranda cited in the original remain restricted.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Prize-class recovery attaches only when violence remains exclusively self-defense after hostile initiation against the defending hull. The Confederation draws a hard line against Q-ship postures, armed decoys, and hunter routing without sustained hostile acts. The Prize Court is not a moral tribunal. It expresses outcomes as registry actions, escrow releases, and liability schedules routed through local enforcement proxies.
+
+</div>
 
 ## Article
 

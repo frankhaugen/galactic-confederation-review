@@ -1,15 +1,33 @@
+---
+title: "The Compromise That Named the Chain"
+description: "Moral-historical analysis of the legal language that structured Confederation accession."
+review_selection: "2495.019"
+original_date: "2493.244"
+author: "Dr. Elian Voss, Department of Post-Union Ethics, University of Mars"
+field: "Ethics and History"
+series: "Founding & Charter Law"
+tags:
+  - Founding & Charter Law
+  - Guardianship
+  - Ethics
+---
 # The Compromise That Named the Chain
 
-> Originally published in: *The Sol Review of Moral History*, Vol. 211  
-> Republished by: Galactic Confederation Review  
-> Original date: 2493.244  
-> Review selection: 2495.019  
-> Author: Dr. Elian Voss, Department of Post-Union Ethics, University of Mars  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *The Sol Review of Moral History*, Vol. 211
+> Republished by: Galactic Confederation Review
+> Original date: 2493.244
+> Review selection: 2495.019
+> Author: Dr. Elian Voss, Department of Post-Union Ethics, University of Mars
 > Field: Ethics and History
 
-## Editorial note
+</div>
 
-Republished as part of the Review's series on the legal foundations of the Galactic Confederation. The Review notes incompatible arguments in this selection and related Guardianship scholarship republished separately.
+!!! editorial "Editorial note"
+    Republished as part of the Review's series on the legal foundations of the Galactic Confederation. The Review notes incompatible arguments in this selection and related Guardianship scholarship republished separately.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -28,6 +46,8 @@ Some people entered the Confederation as persons.
 Others entered it as dependents whose autonomy could be held by another.
 
 This paper argues that humanity's role in the Guardianship compromise was not merely a tragic necessity. It was a moral failure made durable by law.
+
+</div>
 
 ## Article
 

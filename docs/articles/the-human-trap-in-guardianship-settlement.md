@@ -1,15 +1,33 @@
+---
+title: "The Human Trap in the Guardianship Settlement"
+description: "Twislha political economy of compliance burdens and dependency institutions."
+review_selection: "2496.198"
+original_date: "2496.156"
+author: "Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate"
+field: "Economics and Policy"
+series: "Founding & Charter Law"
+tags:
+  - Founding & Charter Law
+  - Guardianship
+  - Economics
+---
 # The Human Trap in the Guardianship Settlement
 
-> Originally published in: *Protectorate Review of State Capacity and Social Order*, Vol. 417  
-> Republished by: Galactic Confederation Review  
-> Original date: 2496.156  
-> Review selection: 2496.198  
-> Author: Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Protectorate Review of State Capacity and Social Order*, Vol. 417
+> Republished by: Galactic Confederation Review
+> Original date: 2496.156
+> Review selection: 2496.198
+> Author: Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate
 > Field: Economics and Policy
 
-## Editorial note
+</div>
 
-Selected for republication after the Twislha Abolition Decrees and the ongoing fiscal crisis in the Protectorate agricultural provinces. The Review notes that the Twislha Household League response has not been selected for republication at this time.
+!!! editorial "Editorial note"
+    Selected for republication after the Twislha Abolition Decrees and the ongoing fiscal crisis in the Protectorate agricultural provinces. The Review notes that the Twislha Household League response has not been selected for republication at this time.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -22,6 +40,8 @@ The result in the Twislha Protectorate was predictable in retrospect and ruinous
 Humanity did not persuade the Protectorate to abolish slavery.
 
 It made slavery insolvent.
+
+</div>
 
 ## Article
 

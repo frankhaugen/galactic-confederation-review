@@ -1,15 +1,33 @@
+---
+title: "The Ansible Is Not a Radio"
+description: "Public-science correction of common misunderstandings about ansible communication."
+review_selection: "2495.301"
+original_date: "2495.267"
+author: "Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr"
+field: "Engineering"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Earth Fleet
+  - Engineering
+---
 # The Ansible Is Not a Radio
 
-> Originally published in: *Kharrek Journal of Public Science and Technical Frustration*, Vol. 19  
-> Republished by: Galactic Confederation Review  
-> Original date: 2495.267  
-> Review selection: 2495.301  
-> Author: Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Kharrek Journal of Public Science and Technical Frustration*, Vol. 19
+> Republished by: Galactic Confederation Review
+> Original date: 2495.267
+> Review selection: 2495.301
+> Author: Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr
 > Field: Engineering
 
-## Editorial note
+</div>
 
-Selected for republication due to continuing interest in Earth Fleet expeditionary communications and the persistent public misuse of the word entanglement. Earth Fleet has not responded to the Review's request for technical clarification.
+!!! editorial "Editorial note"
+    Selected for republication due to continuing interest in Earth Fleet expeditionary communications and the persistent public misuse of the word entanglement. Earth Fleet has not responded to the Review's request for technical clarification.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -24,6 +42,8 @@ This is, of course, speculation.
 Earth Fleet could end the speculation by publishing the operating principle.
 
 Earth Fleet has declined to be useful.
+
+</div>
 
 ## Article
 

@@ -1,19 +1,39 @@
+---
+title: "Why Earth Union Is Still Called Earth Union"
+description: "Civic naming, legal continuity, and the political value of inherited institutional names."
+review_selection: "2496.201"
+original_date: "2496.201"
+author: "Review Language Desk"
+field: "Policy and History"
+series: "Earth Union Institutions"
+tags:
+  - Earth Union Institutions
+  - Policy
+  - History
+---
 # Why Earth Union Is Still Called Earth Union
 
-> Originally published in: *Galactic Confederation Review*, Language Desk  
-> Republished by: Galactic Confederation Review  
-> Original date: 2496.201  
-> Review selection: 2496.201  
-> Author: Review Language Desk  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Galactic Confederation Review*, Language Desk
+> Republished by: Galactic Confederation Review
+> Original date: 2496.201
+> Review selection: 2496.201
+> Author: Review Language Desk
 > Field: Policy and History
 
-## Editorial note
+</div>
 
-Last issue's language desk essay on "Children of Terra" produced more reader correspondence than our last six shipping-law republications combined. This confirms either the health of Confederation civic curiosity or the collapse of serious reading habits. Encouraged against our better judgment, we continue with another Earth Union naming oddity.
+!!! editorial "Editorial note"
+    Last issue's language desk essay on "Children of Terra" produced more reader correspondence than our last six shipping-law republications combined. This confirms either the health of Confederation civic curiosity or the collapse of serious reading habits. Encouraged against our better judgment, we continue with another Earth Union naming oddity.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Earth Union should not still be called Earth Union. Negotiators, ministries, and constitutional lawyers prepared a successor name for the enlarged post-Compact polity. The first Assembly motion to retire the old name was rejected by representatives who had campaigned to join Earth Union, not an unnamed successor entity. This essay explains why prestige, legal continuity, and symbolic assets mattered more than geographic accuracy.
+
+</div>
 
 ## Article
 

@@ -1,19 +1,39 @@
+---
+title: "Bells, Bread, and Field Hospitals"
+description: "Earth-origin religious humanitarian institutions in external service."
+review_selection: "2496.045"
+original_date: "2495.178"
+author: "Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology"
+field: "Xenology and Policy"
+series: "Earth Union Institutions"
+tags:
+  - Earth Union Institutions
+  - Xenology
+  - Humanitarian Practice
+---
 # Bells, Bread, and Field Hospitals
 
-> Originally published in: *Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)  
-> Republished by: Galactic Confederation Review  
-> Original date: 2495.178  
-> Review selection: 2496.045  
-> Author: Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)
+> Republished by: Galactic Confederation Review
+> Original date: 2495.178
+> Review selection: 2496.045
+> Author: Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology
 > Field: Xenology and Policy
 
-## Editorial note
+</div>
 
-Selected for republication after renewed debate over Earth-origin humanitarian practice in Confederation frontier operations. This essay is adapted from an internal Cultural Exchange Office briefing. The Review notes that several cited Catholic institutional responses and secular counter-briefings have not been selected for republication.
+!!! editorial "Editorial note"
+    Selected for republication after renewed debate over Earth-origin humanitarian practice in Confederation frontier operations. This essay is adapted from an internal Cultural Exchange Office briefing. The Review notes that several cited Catholic institutional responses and secular counter-briefings have not been selected for republication.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Non-Earther observers often treat the Catholic Church as preserved Earth folklore. This report argues that Earth Union's reliance on Catholic humanitarian institutions in external service is not primarily theological but sociological: the Church functions as a translocal continuity machine with habits of care, minority endurance, and institutional presence that secular agencies struggle to replicate at comparable cost and duration.
+
+</div>
 
 ## Article
 

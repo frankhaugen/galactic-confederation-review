@@ -1,15 +1,33 @@
+---
+title: "The Chain Was Not Softened"
+description: "Abolitionist legal argument against conciliatory accounts of the Guardianship compromise."
+review_selection: "2495.022"
+original_date: "2494.088"
+author: "Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars"
+field: "Law and Ethics"
+series: "Founding & Charter Law"
+tags:
+  - Founding & Charter Law
+  - Guardianship
+  - Law
+---
 # The Chain Was Not Softened
 
-> Originally published in: *The Journal of Human Moral Law*, Vol. 302  
-> Republished by: Galactic Confederation Review  
-> Original date: 2494.088  
-> Review selection: 2495.022  
-> Author: Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *The Journal of Human Moral Law*, Vol. 302
+> Republished by: Galactic Confederation Review
+> Original date: 2494.088
+> Review selection: 2495.022
+> Author: Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars
 > Field: Law and Ethics
 
-## Editorial note
+</div>
 
-Republished with permission as part of the Review's series on the legal foundations of the Galactic Confederation. The Review notes that several cited human diplomatic rebuttals have not been selected for republication.
+!!! editorial "Editorial note"
+    Republished with permission as part of the Review's series on the legal foundations of the Galactic Confederation. The Review notes that several cited human diplomatic rebuttals have not been selected for republication.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -30,6 +48,8 @@ Humanity knew this. Human negotiators understood the history, language, and mech
 And still, humanity helped write the framework.
 
 This paper argues that Guardianship was not a humane compromise. It was the Confederation's founding permission slip for unfreedom, drafted with human assistance by a civilization that claimed autonomy as its highest political value.
+
+</div>
 
 ## Article
 

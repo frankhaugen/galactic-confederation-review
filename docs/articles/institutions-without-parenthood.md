@@ -1,19 +1,39 @@
+---
+title: "Institutions Without Parenthood"
+description: "Threni cohort bonds, technocracy, and the human misreading of cold institutions."
+review_selection: "2496.220"
+original_date: "2495.144"
+author: "Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology"
+field: "Xenology and Policy"
+series: "Comparative Policy & Xenology"
+tags:
+  - Comparative Policy & Xenology
+  - Threni
+  - Xenology
+---
 # Institutions Without Parenthood
 
-> Originally published in: *Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64  
-> Republished by: Galactic Confederation Review  
-> Original date: 2495.144  
-> Review selection: 2496.220  
-> Author: Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64
+> Republished by: Galactic Confederation Review
+> Original date: 2495.144
+> Review selection: 2496.220
+> Author: Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology
 > Field: Xenology and Policy
 
-## Editorial note
+</div>
 
-Selected as an accessible counterexample for policymakers who mistake emotional warmth for institutional reliability. The Review notes that several Threni wandering-mortality tables and hatchling-pond sanctity proceedings remain outside this archive.
+!!! editorial "Editorial note"
+    Selected as an accessible counterexample for policymakers who mistake emotional warmth for institutional reliability. The Review notes that several Threni wandering-mortality tables and hatchling-pond sanctity proceedings remain outside this archive.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Threni parental aversion is biologically absolute, not ideological. Parenthood does not exist as a social role. Cohort bonds and competence-based technocracy replace kinship as the organizing structure. Humans read Threni as cold. The species disproportionately staffs infrastructure stewardship because institutions, not charisma, scale across centuries.
+
+</div>
 
 ## Article
 

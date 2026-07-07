@@ -1,19 +1,39 @@
+---
+title: "Capability Is Not Classification"
+description: "The Confederation two-tier artificial cognition framework."
+review_selection: "2496.218"
+original_date: "2495.089"
+author: "Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr"
+field: "Law and Engineering"
+series: "Law, Cognition & Enforcement"
+tags:
+  - Law, Cognition & Enforcement
+  - Artificial Cognition
+  - Law
+---
 # Capability Is Not Classification
 
-> Originally published in: *Kharrek Journal of Comparative Cognitive Law*, Vol. 7  
-> Republished by: Galactic Confederation Review  
-> Original date: 2495.089  
-> Review selection: 2496.218  
-> Author: Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Kharrek Journal of Comparative Cognitive Law*, Vol. 7
+> Republished by: Galactic Confederation Review
+> Original date: 2495.089
+> Review selection: 2496.218
+> Author: Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr
 > Field: Law and Engineering
 
-## Editorial note
+</div>
 
-Selected after port-inspector disputes over shipboard integrated cognition and several Emergence Review stays. The Review notes that manufacturer responsible-disclosure filings cited in the original remain partially sealed.
+!!! editorial "Editorial note"
+    Selected after port-inspector disputes over shipboard integrated cognition and several Emergence Review stays. The Review notes that manufacturer responsible-disclosure filings cited in the original remain partially sealed.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Confederation artificial cognition law rests on a two-tier compromise: intentional manufacture of Sophont-class systems is prohibited as civilizational risk, while accidental emergence triggers provisional protections. Between those poles, compliant Tool AI may exhibit autonomy, dialogue, creativity, and long-horizon planning without personhood. Tribunals repeat until clerks memorize it: capability is not classification.
+
+</div>
 
 ## Article
 

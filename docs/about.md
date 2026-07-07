@@ -10,7 +10,7 @@ Its purpose is circulation.
 
 ## Current archive register
 
-This public archive edition is maintained as of **review cycle 2496.212**.
+This public archive edition is maintained as of **review cycle 2496.221**.
 Selection dates use Confederation standard ordinal notation: year followed by
 cycle day. A selection marked `2496.201`, for example, entered the Review
 register on the 201st day of 2496.

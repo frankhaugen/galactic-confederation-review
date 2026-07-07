@@ -1,19 +1,39 @@
+---
+title: "When Moral Alignment Failed at Interstellar Scale"
+description: "Why the Interstellar Union of Aligned Societies failed and the Galactic Confederation turned procedural."
+review_selection: "2496.215"
+original_date: "2493.112"
+author: "Professor Keth Maren, Department of Founding History, University of Mars"
+field: "History and Policy"
+series: "Founding & Charter Law"
+tags:
+  - Founding & Charter Law
+  - History
+  - Confederation Institutions
+---
 # When Moral Alignment Failed at Interstellar Scale
 
-> Originally published in: *Annals of Post-Compact Political History*, Vol. 41  
-> Republished by: Galactic Confederation Review  
-> Original date: 2493.112  
-> Review selection: 2496.215  
-> Author: Professor Keth Maren, Department of Founding History, University of Mars  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Annals of Post-Compact Political History*, Vol. 41
+> Republished by: Galactic Confederation Review
+> Original date: 2493.112
+> Review selection: 2496.215
+> Author: Professor Keth Maren, Department of Founding History, University of Mars
 > Field: History and Policy
 
-## Editorial note
+</div>
 
-Republished during renewed argument over whether the Galactic Confederation's procedural minimalism constitutes moral abdication. The Review notes that several IUAS founding memorials and successor-union constitutional drafts remain outside this archive.
+!!! editorial "Editorial note"
+    Republished during renewed argument over whether the Galactic Confederation's procedural minimalism constitutes moral abdication. The Review notes that several IUAS founding memorials and successor-union constitutional drafts remain outside this archive.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 The Interstellar Union of Aligned Societies failed not because its members were insincere, but because it treated moral alignment as the basis of membership in a map where ethics did not sort cleanly by geometry. The Galactic Confederation that followed is best understood as institutional design after that failure: legibility and interoperability substituted for shared civilizational virtue.
+
+</div>
 
 ## Article
 

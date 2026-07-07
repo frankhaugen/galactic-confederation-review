@@ -1,21 +1,41 @@
+---
+title: "C-Series Containers and the Founding Standard"
+description: "The C10, C20, and C40 container family adopted during founding standards work."
+review_selection: "2496.212"
+original_date: "2418.144"
+author: "Confederation Standards Office, Containerization Working Group"
+field: "Engineering and Standards"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Standards
+  - Engineering
+---
 # C-Series Containers and the Founding Standard
 
-> Originally published in: *Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series  
-> Republished by: Galactic Confederation Review  
-> Original date: 2418.144  
-> Review selection: 2496.212  
-> Author: Confederation Standards Office, Containerization Working Group  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series
+> Republished by: Galactic Confederation Review
+> Original date: 2418.144
+> Review selection: 2496.212
+> Author: Confederation Standards Office, Containerization Working Group
 > Field: Engineering and Standards
 
-## Editorial note
+</div>
 
-Selected for republication because the C-series container standard is a useful example of founding-era Confederation work that was neither ceremonial nor dramatic, but became structurally important. The memorandum is also notable for its restraint. It treats interstellar commerce as a problem of dimensions, locks, markings, inspections, liability, and patience.
+!!! editorial "Editorial note"
+    Selected for republication because the C-series container standard is a useful example of founding-era Confederation work that was neither ceremonial nor dramatic, but became structurally important. The memorandum is also notable for its restraint. It treats interstellar commerce as a problem of dimensions, locks, markings, inspections, liability, and patience.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 The C10, C20, and C40 freight containers were adopted during the early standards work of the Galactic Confederation to provide a common cargo unit across member polity ports, surface networks, orbital elevators, transfer stations, and interstellar haulers. The standard did not attempt to harmonize every local transport system. It defined a narrow, durable interface: three container lengths, one handling envelope, common lock points, common identification plates, minimum environmental tolerances, and inspection rules.
 
 This memorandum summarizes the technical basis of the C-series standard and explains why a simplified container family became one of the Confederation's earliest successful infrastructure agreements.
+
+</div>
 
 ## Article
 

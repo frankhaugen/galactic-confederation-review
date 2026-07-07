@@ -1,21 +1,41 @@
+---
+title: "What Fits Inside the Standard"
+description: "Secondary uses of C-series containers beyond freight."
+review_selection: "2496.213"
+original_date: "2496.091"
+author: "Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College"
+field: "Infrastructure Sociology"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Standards
+  - Sociology
+---
 # What Fits Inside the Standard
 
-> Originally published in: *Undergraduate Papers in Port Society*, Tesh-Vorr Interchange College, No. 44  
-> Republished by: Galactic Confederation Review  
-> Original date: 2496.091  
-> Review selection: 2496.213  
-> Author: Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Undergraduate Papers in Port Society*, Tesh-Vorr Interchange College, No. 44
+> Republished by: Galactic Confederation Review
+> Original date: 2496.091
+> Review selection: 2496.213
+> Author: Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College
 > Field: Infrastructure Sociology
 
-## Editorial note
+</div>
 
-Selected as a student essay of unusual clarity on a subject often treated as too ordinary for notice. The Review has republished an excerpt rather than the full bachelor thesis. The omitted sections concern local permitting disputes, survey design, and a useful but lengthy appendix on container salvage law.
+!!! editorial "Editorial note"
+    Selected as a student essay of unusual clarity on a subject often treated as too ordinary for notice. The Review has republished an excerpt rather than the full bachelor thesis. The omitted sections concern local permitting disputes, survey design, and a useful but lengthy appendix on container salvage law.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 The C-series container was standardized to move freight. Its wider historical importance lies in the fact that it also made a cheap, durable, inspectable room available wherever interstellar logistics reached. This excerpt examines several secondary uses of standardized containers, including modular field hospitals, temporary schools, customs offices, shrine rooms, heat shelters, illicit workshops, detention errors, and improvised travel accommodations for aquatic sentient species.
 
 The argument is not that the container caused these practices. The argument is that standardization lowered the cost of improvisation. Once ports, haulers, relief agencies, militaries, and settlements all knew what a C10, C20, or C40 could endure, they also knew how to misuse one with confidence.
+
+</div>
 
 ## Article
 

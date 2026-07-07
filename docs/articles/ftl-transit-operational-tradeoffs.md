@@ -1,19 +1,39 @@
+---
+title: "Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers"
+description: "How FTL performance shapes governance, trade, and risk."
+review_selection: "2494.338"
+original_date: "2494.312"
+author: "Galactic Confederation Assembly Research Office"
+field: "Policy and Engineering"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - FTL
+  - Policy
+---
 # Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers
 
-> Originally published in: *Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)  
-> Republished by: Galactic Confederation Review  
-> Original date: 2494.312  
-> Review selection: 2494.338  
-> Author: Galactic Confederation Assembly Research Office  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)
+> Republished by: Galactic Confederation Review
+> Original date: 2494.312
+> Review selection: 2494.338
+> Author: Galactic Confederation Assembly Research Office
 > Field: Policy and Engineering
 
-## Editorial note
+</div>
 
-Republished as part of the Review's infrastructure literacy series. The Review thanks the Assembly Research Office for producing a document that explains drive economics without requiring seven specialist degrees and a personal grudge against tensor notation. Distribution classification in the original briefing was public technical summary.
+!!! editorial "Editorial note"
+    Republished as part of the Review's infrastructure literacy series. The Review thanks the Assembly Research Office for producing a document that explains drive economics without requiring seven specialist degrees and a personal grudge against tensor notation. Distribution classification in the original briefing was public technical summary.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Faster-than-light transit is often discussed as if it were a single capability: ships go faster than light, therefore distance has been solved. This is inaccurate. FTL transit is governed by tradeoffs between mass, distance, speed, energy cost, drive wear, navigational uncertainty, turbulence, safety margin, cargo value, and operational risk. The central policy lesson is simple: FTL does not abolish logistics. It makes logistics more political.
+
+</div>
 
 ## Article
 

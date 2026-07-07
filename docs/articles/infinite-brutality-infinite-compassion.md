@@ -1,21 +1,41 @@
+---
+title: "Infinite Brutality, Infinite Compassion"
+description: "Boarding Marine doctrine, rescue assault, and the motto that survived training."
+review_selection: "2496.221"
+original_date: "2492.156"
+author: "Colonel Mara Venn, Earth Fleet Marine Corps (retired)"
+field: "History and Military Ethics"
+series: "Earth Union Institutions"
+tags:
+  - Earth Union Institutions
+  - Earth Fleet
+  - Military Ethics
+---
 # Infinite Brutality, Infinite Compassion
 
-> Originally published in: *Proceedings of the Earth Fleet Historical Society*, Vol. 144  
-> Republished by: Galactic Confederation Review  
-> Original date: 2492.156  
-> Review selection: 2496.221  
-> Author: Colonel Mara Venn, Earth Fleet Marine Corps (retired)  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Proceedings of the Earth Fleet Historical Society*, Vol. 144
+> Republished by: Galactic Confederation Review
+> Original date: 2492.156
+> Review selection: 2496.221
+> Author: Colonel Mara Venn, Earth Fleet Marine Corps (retired)
 > Field: History and Military Ethics
 
-## Editorial note
+</div>
 
-This essay is adapted from Colonel Venn's Harker Memorial Lecture on the history and doctrine of Earth Fleet Boarding Marines. It is republished as part of the Review's series on Earth Union external security institutions. The views expressed are those of the author and do not constitute current Earth Fleet doctrine, though several Fleet officers have informed the Review that this disclaimer is legally necessary and practically unconvincing.
+!!! editorial "Editorial note"
+    This essay is adapted from Colonel Venn's Harker Memorial Lecture on the history and doctrine of Earth Fleet Boarding Marines. It is republished as part of the Review's series on Earth Union external security institutions. The views expressed are those of the author and do not constitute current Earth Fleet doctrine, though several Fleet officers have informed the Review that this disclaimer is legally necessary and practically unconvincing.
 
-The Review notes that Professor Eleanor Hayes's critique of boarding doctrine and the Historical Society's formal reply have not been selected for republication at this time.
+    The Review notes that Professor Eleanor Hayes's critique of boarding doctrine and the Historical Society's formal reply have not been selected for republication at this time.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 "Infinite brutality, infinite compassion" began as a training-room correction, not a public-relations slogan. This lecture argues that Boarding Marines exist because ordinary assault doctrine killed too many people Earth Fleet was trying to rescue. The branch is a specialized rescue-assault force trained to be more dangerous than the captor and more careful than the victim can reasonably expect, inside machines that must keep working after the fight.
+
+</div>
 
 ## Article
 

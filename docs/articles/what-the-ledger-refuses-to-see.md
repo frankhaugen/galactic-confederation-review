@@ -1,19 +1,39 @@
+---
+title: "What the Ledger Refuses to See"
+description: "Effort credits, moral blindness, and guardianship at the accounting layer."
+review_selection: "2496.217"
+original_date: "2494.201"
+author: "Auditor-General Solenn Vek (retired), Charter Ledger Bureau"
+field: "Political Economy and Charter Finance"
+series: "Founding & Charter Law"
+tags:
+  - Founding & Charter Law
+  - Economics
+  - Guardianship
+---
 # What the Ledger Refuses to See
 
-> Originally published in: *Charter Finance Quarterly*, Vol. 29  
-> Republished by: Galactic Confederation Review  
-> Original date: 2494.201  
-> Review selection: 2496.217  
-> Author: Auditor-General Solenn Vek (retired), Charter Ledger Bureau  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Charter Finance Quarterly*, Vol. 29
+> Republished by: Galactic Confederation Review
+> Original date: 2494.201
+> Review selection: 2496.217
+> Author: Auditor-General Solenn Vek (retired), Charter Ledger Bureau
 > Field: Political Economy and Charter Finance
 
-## Editorial note
+</div>
 
-Republished after renewed Twislha fiscal correspondence and Assembly debate over effort-credit normalization. The Review notes that several internal Bureau memoranda on coerced-labor certification remain restricted.
+!!! editorial "Editorial note"
+    Republished after renewed Twislha fiscal correspondence and Assembly debate over effort-credit normalization. The Review notes that several internal Bureau memoranda on coerced-labor certification remain restricted.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Confederation effort credits abstract measurable contribution: one normative day equals ten credits. The ledger deliberately ignores whether work was voluntary, coerced, biological, or automated. That portability is also a moral blind spot. Guardianship persists partly because the rail can record output without resolving abolition at the accounting layer.
+
+</div>
 
 ## Article
 

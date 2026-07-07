@@ -1,19 +1,39 @@
+---
+title: "The Confederation Does Not Deliver Messages"
+description: "Why the mesh propagates signed information instead of guaranteeing delivery."
+review_selection: "2496.214"
+original_date: "2494.067"
+author: "Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate"
+field: "Communications Policy and Infrastructure Law"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Communications
+  - Policy
+---
 # The Confederation Does Not Deliver Messages
 
-> Originally published in: *Journal of Confederation Communications Policy*, Vol. 88  
-> Republished by: Galactic Confederation Review  
-> Original date: 2494.067  
-> Review selection: 2496.214  
-> Author: Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate  
+<div class="republication-masthead" markdown="1">
+
+> Originally published in: *Journal of Confederation Communications Policy*, Vol. 88
+> Republished by: Galactic Confederation Review
+> Original date: 2494.067
+> Review selection: 2496.214
+> Author: Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate
 > Field: Communications Policy and Infrastructure Law
 
-## Editorial note
+</div>
 
-Selected after repeated Assembly debate over whether the Postal Authority should be expanded into a delivery guarantee service. The Review notes that Earth Fleet command-communications briefings cited in the original have not been selected for republication.
+!!! editorial "Editorial note"
+    Selected after repeated Assembly debate over whether the Postal Authority should be expanded into a delivery guarantee service. The Review notes that Earth Fleet command-communications briefings cited in the original have not been selected for republication.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
 Observers persist in describing the Confederation information mesh as a postal service that has failed to arrive on time. This misreads the architecture. The mesh is a publish-and-propagate ecosystem designed for cryptographic visibility across independent infrastructure, not point-to-point delivery. Its political function is to make signed information difficult to deny, not to make messages arrive simultaneously everywhere.
+
+</div>
 
 ## Article
 

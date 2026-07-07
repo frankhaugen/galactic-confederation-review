@@ -2,6 +2,48 @@
 
 This page tracks recurring authors whose work has been selected for republication.
 
+## Dr. Ilena Cors
+
+Former liaison, Confederation Postal Authority Standards Directorate.
+
+Known for institutional explanations of mesh architecture, pulse-versus-bulk policy, and the recurring category error of "failed delivery."
+
+## Professor Keth Maren
+
+Department of Founding History, University of Mars.
+
+Known for comparative analysis of the Compact, IUAS, and Galactic Confederation founding logics.
+
+## Advocate-Commissioner Senna Orr
+
+Prize Court liaison practice, Lucene Institute procedural network.
+
+Known for dry exposition of prize eligibility, vigilance limits, and registry-routed enforcement.
+
+## Auditor-General Solenn Vek (retired)
+
+Charter Ledger Bureau.
+
+Known for effort-credit audits and polemical clarity about what the rail records and what it refuses to see.
+
+## Dr. Palet Rho
+
+Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr.
+
+Known for two-tier AI doctrine, Emergence Review procedure, and the sentence "capability is not classification."
+
+## Commissioner Raleth Vo
+
+Protective Policy Division, Nosies Customs.
+
+Known for investigative work on registry fraud, status laundering, and Cartel-linked custody chains.
+
+## Professor Ven Ileth
+
+Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology.
+
+Known for Threni institutional xenology and comparative critiques of kinship-default policymaking.
+
 ## Narev Thol
 
 Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College.

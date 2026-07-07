@@ -29,6 +29,62 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <div class="selection-grid" markdown>
 
 <article markdown>
+### [The Confederation Does Not Deliver Messages](articles/the-confederation-does-not-deliver-messages.md)
+**Review selection:** 2496.214  
+**Field:** Communications Policy
+
+Why the mesh propagates signed information instead of guaranteeing delivery.
+</article>
+
+<article markdown>
+### [When Moral Alignment Failed at Interstellar Scale](articles/when-moral-alignment-failed-at-interstellar-scale.md)
+**Review selection:** 2496.215  
+**Field:** History and Policy
+
+Founding-history essay on the IUAS collapse and the GC's procedural turn.
+</article>
+
+<article markdown>
+### [Prize-Class Recovery and the Vigilantism Line](articles/prize-class-recovery-and-the-vigilantism-line.md)
+**Review selection:** 2496.216  
+**Field:** Maritime Law
+
+Prize Court doctrine on self-defense exclusivity and registry enforcement.
+</article>
+
+<article markdown>
+### [What the Ledger Refuses to See](articles/what-the-ledger-refuses-to-see.md)
+**Review selection:** 2496.217  
+**Field:** Political Economy
+
+Effort credits, moral blindness, and guardianship at the accounting layer.
+</article>
+
+<article markdown>
+### [Capability Is Not Classification](articles/capability-is-not-classification.md)
+**Review selection:** 2496.218  
+**Field:** Law and Engineering
+
+Comparative analysis of the Confederation two-tier artificial cognition framework.
+</article>
+
+<article markdown>
+### [Status Laundering at the Registry Interface](articles/status-laundering-at-the-registry-interface.md)
+**Review selection:** 2496.219  
+**Field:** Law and Enforcement
+
+How paperwork converts coercion into transferable legal status.
+</article>
+
+<article markdown>
+### [Institutions Without Parenthood](articles/institutions-without-parenthood.md)
+**Review selection:** 2496.220  
+**Field:** Xenology and Policy
+
+Threni cohort bonds, technocracy, and the human misreading of cold institutions.
+</article>
+
+<article markdown>
 ### [What Fits Inside the Standard](articles/what-fits-inside-the-standard.md)
 **Review selection:** 2496.213  
 **Field:** Infrastructure Sociology

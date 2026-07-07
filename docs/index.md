@@ -1,5 +1,3 @@
-# Galactic Confederation Review
-
 <section class="review-front">
   <p class="review-kicker">Confederation independent republication periodical</p>
   <h1>Galactic Confederation Review</h1>

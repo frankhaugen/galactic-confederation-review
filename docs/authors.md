@@ -2,6 +2,10 @@
 
 This page tracks recurring authors whose work has been selected for republication.
 
+## Confederation Standards Office, Containerization Working Group
+
+Founding-era technical standards body responsible for intermodal freight compatibility, container identification, cargo handling interfaces, and related inspection rules.
+
 ## Professor Leth Avarin
 
 Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology.

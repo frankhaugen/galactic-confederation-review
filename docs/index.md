@@ -29,6 +29,14 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <div class="selection-grid" markdown>
 
 <article markdown>
+### [C-Series Containers and the Founding Standard](articles/c-series-containers-founding-standard.md)
+**Review selection:** 2496.212  
+**Field:** Engineering and Standards
+
+Technical memorandum on the simplified C10, C20, and C40 container family adopted during Confederation founding standards work.
+</article>
+
+<article markdown>
 ### [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
 **Review selection:** 2496.201  
 **Field:** Policy and History

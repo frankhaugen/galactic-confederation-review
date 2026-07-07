@@ -1,10 +1,10 @@
 # The Chain Was Not Softened
 
-> Originally published in: *The Journal of Human Moral Law*, Vol. 302
-> Republished by: Galactic Confederation Review
-> Original date: 2494.088
-> Review selection: 2495.022
-> Author: Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars
+> Originally published in: *The Journal of Human Moral Law*, Vol. 302  
+> Republished by: Galactic Confederation Review  
+> Original date: 2494.088  
+> Review selection: 2495.022  
+> Author: Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars  
 > Field: Law and Ethics
 
 ## Editorial note

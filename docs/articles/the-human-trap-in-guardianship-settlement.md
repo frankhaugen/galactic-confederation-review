@@ -1,10 +1,10 @@
 # The Human Trap in the Guardianship Settlement
 
-> Originally published in: *Protectorate Review of State Capacity and Social Order*, Vol. 417
-> Republished by: Galactic Confederation Review
-> Original date: 2496.156
-> Review selection: 2496.198
-> Author: Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate
+> Originally published in: *Protectorate Review of State Capacity and Social Order*, Vol. 417  
+> Republished by: Galactic Confederation Review  
+> Original date: 2496.156  
+> Review selection: 2496.198  
+> Author: Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate  
 > Field: Economics and Policy
 
 ## Editorial note

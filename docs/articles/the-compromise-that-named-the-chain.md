@@ -1,10 +1,10 @@
 # The Compromise That Named the Chain
 
-> Originally published in: *The Sol Review of Moral History*, Vol. 211
-> Republished by: Galactic Confederation Review
-> Original date: 2493.244
-> Review selection: 2495.019
-> Author: Dr. Elian Voss, Department of Post-Union Ethics, University of Mars
+> Originally published in: *The Sol Review of Moral History*, Vol. 211  
+> Republished by: Galactic Confederation Review  
+> Original date: 2493.244  
+> Review selection: 2495.019  
+> Author: Dr. Elian Voss, Department of Post-Union Ethics, University of Mars  
 > Field: Ethics and History
 
 ## Editorial note

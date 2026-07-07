@@ -1,10 +1,10 @@
 # The Ansible Is Not a Radio
 
-> Originally published in: *Kharrek Journal of Public Science and Technical Frustration*, Vol. 19
-> Republished by: Galactic Confederation Review
-> Original date: 2495.267
-> Review selection: 2495.301
-> Author: Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr
+> Originally published in: *Kharrek Journal of Public Science and Technical Frustration*, Vol. 19  
+> Republished by: Galactic Confederation Review  
+> Original date: 2495.267  
+> Review selection: 2495.301  
+> Author: Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr  
 > Field: Engineering
 
 ## Editorial note

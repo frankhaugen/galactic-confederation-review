@@ -7,7 +7,7 @@
   <dl class="review-register">
     <div>
       <dt>Current register</dt>
-      <dd>Review cycle 2496.212</dd>
+      <dd>Review cycle 2496.213</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -27,6 +27,14 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Current issue selections
 
 <div class="selection-grid" markdown>
+
+<article markdown>
+### [What Fits Inside the Standard](articles/what-fits-inside-the-standard.md)
+**Review selection:** 2496.213  
+**Field:** Infrastructure Sociology
+
+Undergraduate thesis excerpt on field hospitals, improvised rooms, aquatic accommodation, and other secondary uses of C-series containers.
+</article>
 
 <article markdown>
 ### [C-Series Containers and the Founding Standard](articles/c-series-containers-founding-standard.md)

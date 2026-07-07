@@ -25,6 +25,31 @@ Use when creating or materially changing a republished selection.
 6. Add related Review selections only when the relationship is meaningful.
 7. Run `mkdocs build --strict`.
 
+## Skill: Add a companion or excerpt article
+
+Use when a new selection builds on an existing article, standards document,
+historical event, or technical concept already present in the archive.
+
+1. Read the related existing article first and identify what perspective is
+   missing: technical rule, legal consequence, social practice, field report,
+   dissent, or later historical reassessment.
+2. Choose an originating venue and author status that fit the requested voice:
+   standards office, university journal, undergraduate paper, professional
+   society bulletin, policy office, field report, or local archive.
+3. Make the new article additive. Avoid repeating the same explanation except
+   where a short recap is needed for context.
+4. If the piece is a thesis excerpt, student essay, or partial republication,
+   state that clearly in the editorial note or notes and keep the scope
+   appropriately narrower than a mature monograph.
+5. For alien or non-Earth authors, ground the voice in institution, discipline,
+   method, and social position rather than exotic phrasing.
+6. Include concrete examples that demonstrate the article's claim, especially
+   mundane cases alongside unusual ones. The Review voice works best when
+   strange material is treated with administrative seriousness.
+7. Link back to the primary related selection in `## Related Review selections`
+   and update `docs/index.md`, `docs/authors.md`, and `mkdocs.yml`.
+8. Run `mkdocs build --strict` after article, navigation, or index changes.
+
 ## Skill: Edit house pages
 
 Use when changing `index.md`, `about.md`, `editorial-policy.md`, or
@@ -70,5 +95,5 @@ Use before committing and pushing.
 3. Run `mkdocs build --strict` when source, config, or workflow files changed.
 4. Stage only intended files.
 5. Commit with a short descriptive message.
-6. Push the current branch to its upstream remote.
-
+6. Push `main` to its upstream remote when work is complete, unless the user
+   explicitly asks not to publish yet.

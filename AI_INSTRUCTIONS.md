@@ -73,6 +73,29 @@ Prefer internal Markdown links to related selections where appropriate. Do not
 invent tracked source files for cited works unless the user asks for a new
 republished article.
 
+Article selections may take several in-universe forms. Match the form to the
+originating institution and author:
+
+- Technical memoranda should be procedural, bounded, and clear about standards,
+  interfaces, ratings, definitions, and implementation limits.
+- Essays and thesis excerpts may be more observational, but should still show
+  academic discipline: defined scope, concrete examples, explicit uncertainty,
+  and a conclusion that follows from the evidence.
+- Student-authored work should not be made falsely polished or omniscient.
+  Preserve a narrower viewpoint, visible fieldwork limits, and occasional
+  undergraduate directness, while keeping the Review's surrounding note
+  restrained.
+- Companion articles should add a new angle rather than restating the earlier
+  selection. A standards article might explain the formal rule; a companion
+  sociology article might examine unintended uses, institutional consequences,
+  or local adaptations.
+- When a piece is an excerpt, say so in the editorial note or notes. Mention
+  what kind of material was omitted when useful, without inventing a full
+  bibliography or inaccessible source apparatus.
+- Alien authors may write in translated academic prose, but should not be used
+  as novelty decoration. Give them a discipline, institution, method, and
+  reason to notice what the article notices.
+
 ## Technical conventions
 
 - This is a MkDocs Material site.
@@ -111,4 +134,4 @@ If using Windows PowerShell, activate the virtual environment with:
 - Do not commit generated `site/` output.
 - Do not revert unrelated worktree changes.
 - Use concise commit messages that describe the editorial or technical change.
-
+- When work is complete, commit the finished changes and push `main` to its upstream unless the user explicitly asks not to publish yet.

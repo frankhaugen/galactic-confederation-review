@@ -28,6 +28,7 @@ Read these files before making changes:
 - Prefer source changes in `docs/` and config changes in `mkdocs.yml`; do not edit generated `site/` output.
 - Run `mkdocs build --strict` when changing content, navigation, theme configuration, or publishing behavior.
 - If a build cannot be run, state that clearly in the handoff.
+- When work is complete, commit the finished changes and push `main` to its upstream unless the user explicitly asks not to publish yet.
 
 ## Voice
 
@@ -42,4 +43,3 @@ When in doubt, favor:
 - institutional language over casual narration
 - concrete political, legal, technical, or historical claims over vague atmosphere
 - respectful distance over endorsement
-

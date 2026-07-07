@@ -2,6 +2,12 @@
 
 This page tracks recurring authors whose work has been selected for republication.
 
+## Narev Thol
+
+Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College.
+
+Undergraduate researcher focused on port society, container conversion, improvised civic space, and the social afterlives of logistics standards.
+
 ## Confederation Standards Office, Containerization Working Group
 
 Founding-era technical standards body responsible for intermodal freight compatibility, container identification, cargo handling interfaces, and related inspection rules.

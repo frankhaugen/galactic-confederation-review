@@ -1,6 +1,6 @@
 site_name: Galactic Confederation Review
 site_description: Independent republication review of selected Confederation scholarship
-copyright: Galactic Confederation Review Registry 2496.212
+copyright: Galactic Confederation Review Registry 2496.213
 
 theme:
   name: material
@@ -63,6 +63,7 @@ nav:
   - Editorial Policy: editorial-policy.md
   - Contributing Authors: authors.md
   - Republished Articles:
+      - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
       - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
       - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
       - Children of Terra: articles/children-of-terra.md

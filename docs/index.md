@@ -8,10 +8,10 @@ The Review is funded under Confederation mandate, but editorially independent. S
 
 ## Current selections
 
-- [Humanity's Second Abolition](articles/humanitys-second-abolition.md)
-- [Freight Insurance as Governance](articles/freight-insurance-as-governance.md)
-- [Infinite Brutality, Civilian Response](articles/infinite-brutality-civilian-response.md)
-- [Notes on Informal Shipboard Ritual](articles/notes-on-informal-shipboard-ritual.md)
+- [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md)
+- [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](articles/ftl-transit-operational-tradeoffs.md)
+- [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
+- [Children of Terra](articles/children-of-terra.md)
 
 ## Editorial mandate
 

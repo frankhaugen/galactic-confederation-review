@@ -2,6 +2,18 @@
 
 This page tracks recurring authors whose work has been selected for republication.
 
+## Professor Leth Avarin
+
+Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology.
+
+Known for comparative study of Earth-origin religious institutions, humanitarian sociology, and the awkward interface between secular policy and translocal continuity machines.
+
+## Review Language Desk
+
+Galactic Confederation Review.
+
+Editorial essays on terminology, translation accidents, and the civic language of member polities. The desk accepts full responsibility for its indulgences.
+
 ## Professor Eleanor Hayes
 
 Department of Ethics, University of Earth.

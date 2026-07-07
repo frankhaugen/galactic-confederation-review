@@ -20,7 +20,7 @@ tags:
     </div>
     <div>
       <dt>Selections</dt>
-      <dd>6</dd>
+      <dd>7</dd>
     </div>
     <div>
       <dt>Desk note</dt>
@@ -32,12 +32,13 @@ tags:
 !!! editorial "Editorial introduction"
     The board planned this as a **Guardianship issue** from the first selection cycle. Not a grab bag of founding law — one subject: the settlement humans accepted, the moral language used to name it, the fiscal machinery underneath it, and the registry interfaces that turn coercion into transferable status.
 
-    We held the first two essays for years waiting for the ledger and enforcement pieces. When *Status Laundering* arrived, we closed the issue. The arguments disagree. That is the point.
+    We held this survey from the first planning cycle as the issue's historical anchor, then waited years for the argumentative pieces. When *Status Laundering* arrived, we closed the issue. The arguments disagree. That is the point.
 
 ## Selections
 
 | Selection | Title | Field |
 | --------- | ----- | ----- |
+| 2495.018 | [The Galactic Confederation at Founding](../articles/galactic-confederation-at-founding.md) | History and Policy |
 | 2495.019 | [The Compromise That Named the Chain](../articles/the-compromise-that-named-the-chain.md) | Ethics and History |
 | 2495.022 | [The Chain Was Not Softened](../articles/the-chain-was-not-softened.md) | Law and Ethics |
 | 2496.198 | [The Human Trap in the Guardianship Settlement](../articles/the-human-trap-in-guardianship-settlement.md) | Economics and Policy |

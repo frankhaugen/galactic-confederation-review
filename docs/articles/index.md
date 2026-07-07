@@ -40,6 +40,7 @@ Released 2496.219 · [Issue page](../issues/2495-019-guardianship.md)
 | 2496.198 | [The Human Trap in the Guardianship Settlement](the-human-trap-in-guardianship-settlement.md) | Economics and Policy |
 | 2495.022 | [The Chain Was Not Softened](the-chain-was-not-softened.md) | Law and Ethics |
 | 2495.019 | [The Compromise That Named the Chain](the-compromise-that-named-the-chain.md) | Ethics and History |
+| 2495.018 | [The Galactic Confederation at Founding](galactic-confederation-at-founding.md) | History and Policy |
 
 ## Issue 2494.338 — *Hard Science*
 

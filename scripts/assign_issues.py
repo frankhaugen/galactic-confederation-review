@@ -5,6 +5,7 @@ from pathlib import Path
 ISSUES = {
     # Guardianship
     "the-compromise-that-named-the-chain.md": ("2495.019", "Guardianship"),
+    "galactic-confederation-at-founding.md": ("2495.019", "Guardianship"),
     "the-chain-was-not-softened.md": ("2495.019", "Guardianship"),
     "the-human-trap-in-guardianship-settlement.md": ("2495.019", "Guardianship"),
     "when-moral-alignment-failed-at-interstellar-scale.md": ("2495.019", "Guardianship"),

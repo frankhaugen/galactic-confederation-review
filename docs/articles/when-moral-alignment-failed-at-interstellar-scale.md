@@ -114,6 +114,6 @@ Professor Maren's distance figures for the IUAS envelope follow maintainer-era r
 
 ## Related Review selections
 
+- [The Galactic Confederation at Founding](galactic-confederation-at-founding.md)
 - [The Compromise That Named the Chain](the-compromise-that-named-the-chain.md)
 - [What the Ledger Refuses to See](what-the-ledger-refuses-to-see.md)
-- [Why Earth Union Is Still Called Earth Union](why-earth-union-is-still-called-earth-union.md)

@@ -9,9 +9,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Current selections
 
 - [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md)
-- [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](articles/ftl-transit-operational-tradeoffs.md)
-- [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
 - [Children of Terra](articles/children-of-terra.md)
+- [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
+- [The Compromise That Named the Chain](articles/the-compromise-that-named-the-chain.md)
+- [The Chain Was Not Softened](articles/the-chain-was-not-softened.md)
+- [The Human Trap in the Guardianship Settlement](articles/the-human-trap-in-guardianship-settlement.md)
+- [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](articles/ftl-transit-operational-tradeoffs.md)
+- [The Ansible Is Not a Radio](articles/ansible-is-not-a-radio.md)
 
 ## Editorial mandate
 

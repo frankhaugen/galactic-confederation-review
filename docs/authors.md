@@ -14,6 +14,30 @@ Galactic Confederation Review.
 
 Editorial essays on terminology, translation accidents, and the civic language of member polities. The desk accepts full responsibility for its indulgences.
 
+## Professor Amara Telle
+
+Chair of Abolitionist Legal History, University of Mars.
+
+Known for uncompromising abolitionist legal history and disputes with scholars who describe Guardianship as a tragic necessity.
+
+## Dr. Elian Voss
+
+Department of Post-Union Ethics, University of Mars.
+
+Known for moral-historical analysis of Earth Union's founding compromises and the language by which unfreedom entered Confederation law.
+
+## Professor Sarel Vun Tha
+
+Department of Political Economy, Royal Civic Institute of the Twislha Protectorate.
+
+Known for fiscal analysis of dependency institutions and polemical accounts of human-drafted compliance regimes.
+
+## Siven Marr Khet
+
+Kharrek University of Tesh-Vorr.
+
+Postgraduate researcher in applied field physics. Known for public-science essays on Earth Fleet technology and irritable precision about entanglement.
+
 ## Professor Eleanor Hayes
 
 Department of Ethics, University of Earth.

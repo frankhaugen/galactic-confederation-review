@@ -10,6 +10,8 @@ tags:
   - Earth Union Institutions
   - Earth Fleet
   - Military Ethics
+issue: "2496.216"
+issue_theme: "Persons, Force, and Classification"
 ---
 # Infinite Brutality, Infinite Compassion
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Proceedings of the Earth Fleet Historical Society*, Vol. 144
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.216 — *Persons, Force, and Classification*](../issues/2496-216-persons-force-and-classification.md)
 > Original date: 2492.156
 > Review selection: 2496.221
 > Author: Colonel Mara Venn, Earth Fleet Marine Corps (retired)

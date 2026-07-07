@@ -10,6 +10,8 @@ tags:
   - Founding & Charter Law
   - Guardianship
   - Economics
+issue: "2496.198"
+issue_theme: "Accounts of Dependency"
 ---
 # The Human Trap in the Guardianship Settlement
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Protectorate Review of State Capacity and Social Order*, Vol. 417
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.198 — *Accounts of Dependency*](../issues/2496-198-accounts-of-dependency.md)
 > Original date: 2496.156
 > Review selection: 2496.198
 > Author: Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate

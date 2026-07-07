@@ -10,6 +10,8 @@ tags:
   - Founding & Charter Law
   - History
   - Confederation Institutions
+issue: "2496.214"
+issue_theme: "Legibility"
 ---
 # When Moral Alignment Failed at Interstellar Scale
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Annals of Post-Compact Political History*, Vol. 41
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.214 — *Legibility*](../issues/2496-214-legibility.md)
 > Original date: 2493.112
 > Review selection: 2496.215
 > Author: Professor Keth Maren, Department of Founding History, University of Mars

@@ -10,6 +10,8 @@ tags:
   - Founding & Charter Law
   - Guardianship
   - Law
+issue: "2495.019"
+issue_theme: "The Chain in the Charter"
 ---
 # The Chain Was Not Softened
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *The Journal of Human Moral Law*, Vol. 302
 > Republished by: Galactic Confederation Review
+> Review issue: [2495.019 — *The Chain in the Charter*](../issues/2495-019-the-chain-in-the-charter.md)
 > Original date: 2494.088
 > Review selection: 2495.022
 > Author: Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars

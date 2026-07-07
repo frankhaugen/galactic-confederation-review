@@ -10,6 +10,8 @@ tags:
   - Law, Cognition & Enforcement
   - Maritime Law
   - Enforcement
+issue: "2496.216"
+issue_theme: "Persons, Force, and Classification"
 ---
 # Prize-Class Recovery and the Vigilantism Line
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Lucene Institute Procedural Review*, Vol. 156
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.216 — *Persons, Force, and Classification*](../issues/2496-216-persons-force-and-classification.md)
 > Original date: 2495.334
 > Review selection: 2496.216
 > Author: Advocate-Commissioner Senna Orr, Prize Court liaison practice

@@ -10,6 +10,8 @@ tags:
   - Infrastructure & Commerce
   - Standards
   - Sociology
+issue: "2496.212"
+issue_theme: "The Founding Standard"
 ---
 # What Fits Inside the Standard
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Undergraduate Papers in Port Society*, Tesh-Vorr Interchange College, No. 44
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.212 — *The Founding Standard*](../issues/2496-212-the-founding-standard.md)
 > Original date: 2496.091
 > Review selection: 2496.213
 > Author: Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College

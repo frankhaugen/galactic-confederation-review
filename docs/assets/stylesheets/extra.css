@@ -233,14 +233,102 @@
   margin: 0.2rem 0 0;
 }
 
+.issue-front {
+  border-bottom: 0.15rem double var(--review-rule);
+  margin: 0 0 1.4rem;
+  padding: 0 0 1rem;
+  text-align: center;
+}
+
+.issue-front h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-style: normal;
+  line-height: 1.15;
+  margin: 0.2rem 0 0.6rem;
+}
+
+.issue-front h1 em {
+  font-style: italic;
+  text-transform: none;
+}
+
+.issue-kicker {
+  color: var(--review-muted);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.issue-register {
+  border-top: 0.05rem solid var(--review-rule);
+  display: grid;
+  gap: 0;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0.75rem auto 0;
+  max-width: 36rem;
+  padding-top: 0.65rem;
+  text-align: left;
+}
+
+.issue-register div {
+  border-left: 0.05rem solid color-mix(in srgb, var(--review-rule) 60%, transparent);
+  padding: 0 0.75rem;
+}
+
+.issue-register div:first-child {
+  border-left: 0;
+}
+
+.issue-register dt {
+  color: var(--review-muted);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.issue-register dd {
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 0.15rem 0 0;
+}
+
+.issue-card {
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
+  border-left: 0.2rem solid var(--md-primary-fg-color);
+  margin: 0 0 1.5rem;
+  padding: 0.85rem 1rem;
+}
+
+.issue-card--current {
+  background: color-mix(in srgb, var(--md-primary-fg-color) 6%, transparent);
+}
+
+.issue-card h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 0 0 0.45rem;
+}
+
 @media screen and (max-width: 44.9375em) {
   .review-front h1 {
     font-size: 1.8rem;
   }
 
   .review-register,
+  .issue-register,
   .selection-grid {
     grid-template-columns: 1fr;
+  }
+
+  .issue-register div {
+    border-left: 0;
+    border-top: 0.05rem solid color-mix(in srgb, var(--review-rule) 50%, transparent);
+    padding: 0.55rem 0 0;
+  }
+
+  .issue-register div:first-child {
+    border-top: 0;
   }
 
   .review-register div {

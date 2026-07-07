@@ -10,6 +10,8 @@ tags:
   - Comparative Policy & Xenology
   - Threni
   - Xenology
+issue: "2496.216"
+issue_theme: "Persons, Force, and Classification"
 ---
 # Institutions Without Parenthood
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.216 — *Persons, Force, and Classification*](../issues/2496-216-persons-force-and-classification.md)
 > Original date: 2495.144
 > Review selection: 2496.220
 > Author: Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology

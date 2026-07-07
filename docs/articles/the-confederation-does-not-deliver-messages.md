@@ -10,6 +10,8 @@ tags:
   - Infrastructure & Commerce
   - Communications
   - Policy
+issue: "2496.214"
+issue_theme: "Legibility"
 ---
 # The Confederation Does Not Deliver Messages
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Journal of Confederation Communications Policy*, Vol. 88
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.214 — *Legibility*](../issues/2496-214-legibility.md)
 > Original date: 2494.067
 > Review selection: 2496.214
 > Author: Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate

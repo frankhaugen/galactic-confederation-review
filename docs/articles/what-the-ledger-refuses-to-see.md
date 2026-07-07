@@ -10,6 +10,8 @@ tags:
   - Founding & Charter Law
   - Economics
   - Guardianship
+issue: "2496.214"
+issue_theme: "Legibility"
 ---
 # What the Ledger Refuses to See
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Charter Finance Quarterly*, Vol. 29
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.214 — *Legibility*](../issues/2496-214-legibility.md)
 > Original date: 2494.201
 > Review selection: 2496.217
 > Author: Auditor-General Solenn Vek (retired), Charter Ledger Bureau

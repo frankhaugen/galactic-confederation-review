@@ -76,30 +76,46 @@ nav:
   - Review Home: index.md
   - About the Review: about.md
   - Editorial Policy: editorial-policy.md
+  - Review Issues: issues/index.md
+  - Issue Archive:
+      - "2496.216 · Persons, Force, and Classification":
+          - issues/2496-216-persons-force-and-classification.md
+          - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
+          - Institutions Without Parenthood: articles/institutions-without-parenthood.md
+          - Capability Is Not Classification: articles/capability-is-not-classification.md
+          - Prize-Class Recovery and the Vigilantism Line: articles/prize-class-recovery-and-the-vigilantism-line.md
+      - "2496.214 · Legibility":
+          - issues/2496-214-legibility.md
+          - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
+          - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
+          - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
+          - The Confederation Does Not Deliver Messages: articles/the-confederation-does-not-deliver-messages.md
+      - "2496.212 · The Founding Standard":
+          - issues/2496-212-the-founding-standard.md
+          - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
+          - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
+      - "2496.201 · The Name on the Door":
+          - issues/2496-201-language-desk-the-name-on-the-door.md
+          - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
+      - "2496.198 · Accounts of Dependency":
+          - issues/2496-198-accounts-of-dependency.md
+          - The Human Trap in the Guardianship Settlement: articles/the-human-trap-in-guardianship-settlement.md
+      - "2496.187 · Children of Terra":
+          - issues/2496-187-language-desk-children-of-terra.md
+          - Children of Terra: articles/children-of-terra.md
+      - "2496.045 · Mercy at the Frontier":
+          - issues/2496-045-mercy-at-the-frontier.md
+          - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
+      - "2495.301 · Signals Without Command":
+          - issues/2495-301-signals-without-command.md
+          - The Ansible Is Not a Radio: articles/ansible-is-not-a-radio.md
+      - "2495.019 · The Chain in the Charter":
+          - issues/2495-019-the-chain-in-the-charter.md
+          - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
+          - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
+      - "2494.338 · Distance and Governance":
+          - issues/2494-338-distance-and-governance.md
+          - Faster-Than-Light Transit: articles/ftl-transit-operational-tradeoffs.md
   - Archive Register: articles/index.md
   - Classification Index: tags.md
   - Contributing Authors: authors.md
-  - Republished Articles:
-      - Founding & Charter Law:
-          - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
-          - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
-          - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
-          - The Human Trap in the Guardianship Settlement: articles/the-human-trap-in-guardianship-settlement.md
-          - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
-          - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
-      - Earth Union Institutions:
-          - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
-          - Children of Terra: articles/children-of-terra.md
-          - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
-          - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
-      - Infrastructure & Commerce:
-          - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
-          - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
-          - Faster-Than-Light Transit: articles/ftl-transit-operational-tradeoffs.md
-          - The Confederation Does Not Deliver Messages: articles/the-confederation-does-not-deliver-messages.md
-          - The Ansible Is Not a Radio: articles/ansible-is-not-a-radio.md
-      - Law, Cognition & Enforcement:
-          - Prize-Class Recovery and the Vigilantism Line: articles/prize-class-recovery-and-the-vigilantism-line.md
-          - Capability Is Not Classification: articles/capability-is-not-classification.md
-      - Comparative Policy & Xenology:
-          - Institutions Without Parenthood: articles/institutions-without-parenthood.md

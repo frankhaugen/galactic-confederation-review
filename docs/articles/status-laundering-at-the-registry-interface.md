@@ -10,6 +10,8 @@ tags:
   - Founding & Charter Law
   - Law
   - Enforcement
+issue: "2496.214"
+issue_theme: "Legibility"
 ---
 # Status Laundering at the Registry Interface
 
@@ -17,6 +19,7 @@ tags:
 
 > Originally published in: *Nosies Customs Investigative Review*, Vol. 12
 > Republished by: Galactic Confederation Review
+> Review issue: [2496.214 — *Legibility*](../issues/2496-214-legibility.md)
 > Original date: 2495.256
 > Review selection: 2496.219
 > Author: Commissioner Raleth Vo, Protective Policy Division, Nosies Customs

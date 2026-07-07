@@ -17,13 +17,15 @@ issue_theme: "Earth Union"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Proceedings of the Earth Fleet Historical Society*, Vol. 144
-> Republished by: Galactic Confederation Review
-> Review issue: [2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)
-> Original date: 2492.156
-> Review selection: 2496.221
-> Author: Colonel Mara Venn, Earth Fleet Marine Corps (retired)
-> Field: History and Military Ethics
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Proceedings of the Earth Fleet Historical Society*, Vol. 144</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
+  <div><dt>Original date</dt><dd>2492.156</dd></div>
+  <div><dt>Review selection</dt><dd>2496.221</dd></div>
+  <div><dt>Author</dt><dd>Colonel Mara Venn, Earth Fleet Marine Corps (retired)</dd></div>
+  <div><dt>Field</dt><dd>History and Military Ethics</dd></div>
+</dl>
 
 </div>
 

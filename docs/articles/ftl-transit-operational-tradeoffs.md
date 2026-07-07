@@ -17,13 +17,15 @@ issue_theme: "Hard Science"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)
-> Republished by: Galactic Confederation Review
-> Review issue: [2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)
-> Original date: 2494.312
-> Review selection: 2494.338
-> Author: Galactic Confederation Assembly Research Office
-> Field: Policy and Engineering
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
+  <div><dt>Original date</dt><dd>2494.312</dd></div>
+  <div><dt>Review selection</dt><dd>2494.338</dd></div>
+  <div><dt>Author</dt><dd>Galactic Confederation Assembly Research Office</dd></div>
+  <div><dt>Field</dt><dd>Policy and Engineering</dd></div>
+</dl>
 
 </div>
 

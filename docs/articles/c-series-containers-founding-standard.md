@@ -17,13 +17,15 @@ issue_theme: "Hard Science"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series
-> Republished by: Galactic Confederation Review
-> Review issue: [2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)
-> Original date: 2418.144
-> Review selection: 2496.212
-> Author: Confederation Standards Office, Containerization Working Group
-> Field: Engineering and Standards
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
+  <div><dt>Original date</dt><dd>2418.144</dd></div>
+  <div><dt>Review selection</dt><dd>2496.212</dd></div>
+  <div><dt>Author</dt><dd>Confederation Standards Office, Containerization Working Group</dd></div>
+  <div><dt>Field</dt><dd>Engineering and Standards</dd></div>
+</dl>
 
 </div>
 

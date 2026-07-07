@@ -17,13 +17,15 @@ issue_theme: "Earth Union"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)
-> Republished by: Galactic Confederation Review
-> Review issue: [2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)
-> Original date: 2495.178
-> Review selection: 2496.045
-> Author: Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology
-> Field: Xenology and Policy
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
+  <div><dt>Original date</dt><dd>2495.178</dd></div>
+  <div><dt>Review selection</dt><dd>2496.045</dd></div>
+  <div><dt>Author</dt><dd>Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology</dd></div>
+  <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
+</dl>
 
 </div>
 

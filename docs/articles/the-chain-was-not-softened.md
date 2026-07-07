@@ -17,13 +17,15 @@ issue_theme: "Guardianship"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *The Journal of Human Moral Law*, Vol. 302
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
-> Original date: 2494.088
-> Review selection: 2495.022
-> Author: Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars
-> Field: Law and Ethics
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*The Journal of Human Moral Law*, Vol. 302</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
+  <div><dt>Original date</dt><dd>2494.088</dd></div>
+  <div><dt>Review selection</dt><dd>2495.022</dd></div>
+  <div><dt>Author</dt><dd>Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars</dd></div>
+  <div><dt>Field</dt><dd>Law and Ethics</dd></div>
+</dl>
 
 </div>
 

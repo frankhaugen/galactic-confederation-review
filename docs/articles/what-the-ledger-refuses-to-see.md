@@ -17,13 +17,15 @@ issue_theme: "Guardianship"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Charter Finance Quarterly*, Vol. 29
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
-> Original date: 2494.201
-> Review selection: 2496.217
-> Author: Auditor-General Solenn Vek (retired), Charter Ledger Bureau
-> Field: Political Economy and Charter Finance
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Charter Finance Quarterly*, Vol. 29</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
+  <div><dt>Original date</dt><dd>2494.201</dd></div>
+  <div><dt>Review selection</dt><dd>2496.217</dd></div>
+  <div><dt>Author</dt><dd>Auditor-General Solenn Vek (retired), Charter Ledger Bureau</dd></div>
+  <div><dt>Field</dt><dd>Political Economy and Charter Finance</dd></div>
+</dl>
 
 </div>
 

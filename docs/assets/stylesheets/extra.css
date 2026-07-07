@@ -4,6 +4,8 @@
   --review-paper: #fbfaf6;
   --review-rule: #9aa7ad;
   --review-accent: #244c63;
+  --review-panel: #f3f1eb;
+  --review-panel-border: #c5cdd2;
 }
 
 [data-md-color-scheme="default"] {
@@ -13,8 +15,15 @@
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #354e5d;
-  --md-accent-fg-color: #9bb4c2;
+  --review-ink: #e3e8eb;
+  --review-muted: #a3afb8;
+  --review-paper: #161b1f;
+  --review-rule: #4f5c66;
+  --review-accent: #9bb4c2;
+  --review-panel: #1e262c;
+  --review-panel-border: #3d4a54;
+  --md-primary-fg-color: #8fa4b0;
+  --md-accent-fg-color: #b8c9d4;
 }
 
 .md-header {
@@ -33,9 +42,12 @@
 }
 
 .md-typeset h1 {
+  border-bottom: 0.1rem double color-mix(in srgb, var(--review-rule) 80%, transparent);
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 600;
   letter-spacing: 0.01em;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
 }
 
 .md-typeset h2 {
@@ -48,11 +60,80 @@
   font-size: 0.9rem;
 }
 
+/* Classification tags */
+.md-typeset .md-tags {
+  gap: 0.35rem;
+  margin: 0 0 0.65rem;
+}
+
+.md-typeset .md-tag {
+  background: color-mix(in srgb, var(--md-primary-fg-color) 10%, var(--md-default-bg-color));
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 85%, transparent);
+  border-radius: 0;
+  color: var(--review-muted);
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  padding: 0.12rem 0.45rem;
+  text-transform: uppercase;
+}
+
+.md-typeset .md-tag:hover {
+  background: color-mix(in srgb, var(--md-primary-fg-color) 18%, var(--md-default-bg-color));
+  color: var(--review-ink);
+}
+
+/* Republication colophon */
 .republication-masthead {
-  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
-  border-left: 0.2rem solid var(--md-primary-fg-color);
+  background: var(--review-panel);
+  border: 0.05rem solid var(--review-panel-border);
+  border-left: 0.22rem solid var(--md-primary-fg-color);
   margin: 0 0 1.25rem;
-  padding: 0.75rem 0.9rem 0.55rem;
+  padding: 0.7rem 0.95rem 0.75rem;
+}
+
+.masthead-register {
+  display: grid;
+  gap: 0.35rem 1rem;
+  grid-template-columns: minmax(7.5rem, 9.5rem) 1fr;
+  margin: 0;
+}
+
+.masthead-register div {
+  display: contents;
+}
+
+.masthead-register dt {
+  color: var(--review-muted);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.45;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.masthead-register dd {
+  color: var(--review-ink);
+  font-size: 0.72rem;
+  line-height: 1.45;
+  margin: 0;
+}
+
+.masthead-register dd p {
+  margin: 0;
+}
+
+.masthead-register a {
+  color: var(--review-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--md-primary-fg-color) 55%, transparent);
+  text-underline-offset: 0.14em;
+}
+
+.masthead-register a:hover {
+  color: var(--md-accent-fg-color);
 }
 
 .republication-masthead blockquote {
@@ -67,17 +148,21 @@
   margin: 0.15rem 0;
 }
 
+/* Abstract panel */
 .review-abstract {
-  border-top: 0.08rem solid var(--review-rule);
-  margin: 0 0 1.4rem;
-  padding-top: 0.65rem;
+  background: color-mix(in srgb, var(--md-primary-fg-color) 7%, var(--md-default-bg-color));
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 0.95rem 0.85rem;
 }
 
 .review-abstract h2 {
   border-bottom: 0;
-  font-size: 0.72rem;
-  letter-spacing: 0.1em;
-  margin-bottom: 0.45rem;
+  color: var(--review-muted);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.5rem;
   padding-bottom: 0;
   text-transform: uppercase;
 }
@@ -85,26 +170,61 @@
 .review-abstract p {
   color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.92rem;
-  line-height: 1.55;
+  font-size: 0.9rem;
+  line-height: 1.58;
   margin-bottom: 0;
-}
-
-.md-typeset .md-tags {
-  margin: -0.35rem 0 1rem;
-}
-
-.md-typeset .md-tag {
-  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 80%, transparent);
-  border-radius: 0;
-  font-size: 0.58rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
 }
 
 .md-typeset blockquote {
   border-left: 0.2rem solid var(--md-primary-fg-color);
   color: var(--review-muted);
+}
+
+/* Editorial margin note */
+.md-typeset .admonition.editorial,
+.md-typeset details.editorial {
+  background: color-mix(in srgb, var(--md-primary-fg-color) 9%, var(--md-default-bg-color));
+  border: 0.05rem solid color-mix(in srgb, var(--md-primary-fg-color) 35%, transparent);
+  border-left: 0.22rem solid var(--md-primary-fg-color);
+  box-shadow: none;
+  margin: 0 0 1.25rem;
+}
+
+.md-typeset .editorial > .admonition-title,
+.md-typeset .editorial > summary {
+  background: transparent;
+  border-bottom: 0.05rem solid color-mix(in srgb, var(--md-primary-fg-color) 22%, transparent);
+  color: var(--review-muted);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin: 0;
+  min-height: auto;
+  padding: 0.45rem 0.85rem 0.4rem;
+  text-transform: uppercase;
+}
+
+.md-typeset .editorial > .admonition-title::before,
+.md-typeset .editorial > summary::before {
+  display: none;
+}
+
+.md-typeset .editorial > .admonition-title::after,
+.md-typeset .editorial > summary::after {
+  display: none;
+}
+
+.md-typeset .editorial > .admonition-title + * {
+  margin-top: 0;
+}
+
+.md-typeset .editorial > p,
+.md-typeset .editorial > .admonition-content {
+  color: var(--review-ink);
+  font-size: 0.74rem;
+  line-height: 1.55;
+  margin: 0;
+  padding: 0.65rem 0.85rem 0.75rem;
 }
 
 .review-front {
@@ -116,9 +236,11 @@
 }
 
 .review-front h1 {
+  border-bottom: 0;
   font-size: 2.4rem;
   line-height: 1;
   margin: 0.1rem 0 0.4rem;
+  padding-bottom: 0;
   text-transform: uppercase;
 }
 
@@ -131,6 +253,7 @@
 }
 
 .review-deck {
+  color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1rem;
   margin: 0 auto 1rem;
@@ -165,6 +288,7 @@
 }
 
 .review-register dd {
+  color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
   margin: 0.15rem 0 0;
 }
@@ -198,25 +322,6 @@
   text-transform: uppercase;
 }
 
-.md-typeset .admonition.editorial,
-.md-typeset details.editorial {
-  border-color: var(--md-primary-fg-color);
-  margin: 0 0 1.25rem;
-}
-
-.md-typeset .editorial > .admonition-title,
-.md-typeset .editorial > summary {
-  background-color: color-mix(in srgb, var(--md-primary-fg-color) 15%, transparent);
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.md-typeset .editorial > .admonition-title::before,
-.md-typeset .editorial > summary::before {
-  background-color: var(--md-primary-fg-color);
-}
-
 .md-footer-meta {
   border-top: 0.15rem double color-mix(in srgb, var(--md-primary-fg-color) 50%, transparent);
 }
@@ -241,11 +346,13 @@
 }
 
 .issue-front h1 {
+  border-bottom: 0;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 2rem;
   font-style: normal;
   line-height: 1.15;
   margin: 0.2rem 0 0.6rem;
+  padding-bottom: 0;
 }
 
 .issue-front h1 em {
@@ -290,19 +397,21 @@
 }
 
 .issue-register dd {
+  color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
   margin: 0.15rem 0 0;
 }
 
 .issue-card {
-  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
-  border-left: 0.2rem solid var(--md-primary-fg-color);
+  background: var(--review-panel);
+  border: 0.05rem solid var(--review-panel-border);
+  border-left: 0.22rem solid var(--md-primary-fg-color);
   margin: 0 0 1.5rem;
   padding: 0.85rem 1rem;
 }
 
 .issue-card--current {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 6%, transparent);
+  background: color-mix(in srgb, var(--md-primary-fg-color) 10%, var(--review-panel));
 }
 
 .issue-card h3 {
@@ -313,6 +422,19 @@
 @media screen and (max-width: 44.9375em) {
   .review-front h1 {
     font-size: 1.8rem;
+  }
+
+  .masthead-register {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+
+  .masthead-register dt {
+    margin-top: 0.35rem;
+  }
+
+  .masthead-register div:first-child dt {
+    margin-top: 0;
   }
 
   .review-register,

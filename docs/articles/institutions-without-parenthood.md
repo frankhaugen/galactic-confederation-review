@@ -17,13 +17,15 @@ issue_theme: "Comparative Law"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64
-> Republished by: Galactic Confederation Review
-> Review issue: [2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)
-> Original date: 2495.144
-> Review selection: 2496.220
-> Author: Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology
-> Field: Xenology and Policy
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)</dd></div>
+  <div><dt>Original date</dt><dd>2495.144</dd></div>
+  <div><dt>Review selection</dt><dd>2496.220</dd></div>
+  <div><dt>Author</dt><dd>Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology</dd></div>
+  <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
+</dl>
 
 </div>
 

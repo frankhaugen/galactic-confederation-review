@@ -17,13 +17,15 @@ issue_theme: "Guardianship"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Annals of Post-Compact Political History*, Vol. 41
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
-> Original date: 2493.112
-> Review selection: 2496.215
-> Author: Professor Keth Maren, Department of Founding History, University of Mars
-> Field: History and Policy
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Annals of Post-Compact Political History*, Vol. 41</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
+  <div><dt>Original date</dt><dd>2493.112</dd></div>
+  <div><dt>Review selection</dt><dd>2496.215</dd></div>
+  <div><dt>Author</dt><dd>Professor Keth Maren, Department of Founding History, University of Mars</dd></div>
+  <div><dt>Field</dt><dd>History and Policy</dd></div>
+</dl>
 
 </div>
 

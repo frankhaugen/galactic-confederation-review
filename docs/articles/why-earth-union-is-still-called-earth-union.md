@@ -17,13 +17,15 @@ issue_theme: "Earth Union"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Galactic Confederation Review*, Language Desk
-> Republished by: Galactic Confederation Review
-> Review issue: [2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)
-> Original date: 2496.201
-> Review selection: 2496.201
-> Author: Review Language Desk
-> Field: Policy and History
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Galactic Confederation Review*, Language Desk</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
+  <div><dt>Original date</dt><dd>2496.201</dd></div>
+  <div><dt>Review selection</dt><dd>2496.201</dd></div>
+  <div><dt>Author</dt><dd>Review Language Desk</dd></div>
+  <div><dt>Field</dt><dd>Policy and History</dd></div>
+</dl>
 
 </div>
 

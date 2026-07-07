@@ -17,13 +17,15 @@ issue_theme: "Guardianship"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *The Sol Review of Moral History*, Vol. 211
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
-> Original date: 2493.244
-> Review selection: 2495.019
-> Author: Dr. Elian Voss, Department of Post-Union Ethics, University of Mars
-> Field: Ethics and History
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*The Sol Review of Moral History*, Vol. 211</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
+  <div><dt>Original date</dt><dd>2493.244</dd></div>
+  <div><dt>Review selection</dt><dd>2495.019</dd></div>
+  <div><dt>Author</dt><dd>Dr. Elian Voss, Department of Post-Union Ethics, University of Mars</dd></div>
+  <div><dt>Field</dt><dd>Ethics and History</dd></div>
+</dl>
 
 </div>
 

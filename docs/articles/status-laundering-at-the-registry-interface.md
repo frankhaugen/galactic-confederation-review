@@ -17,13 +17,15 @@ issue_theme: "Guardianship"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Nosies Customs Investigative Review*, Vol. 12
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
-> Original date: 2495.256
-> Review selection: 2496.219
-> Author: Commissioner Raleth Vo, Protective Policy Division, Nosies Customs
-> Field: Law and Enforcement
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Nosies Customs Investigative Review*, Vol. 12</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
+  <div><dt>Original date</dt><dd>2495.256</dd></div>
+  <div><dt>Review selection</dt><dd>2496.219</dd></div>
+  <div><dt>Author</dt><dd>Commissioner Raleth Vo, Protective Policy Division, Nosies Customs</dd></div>
+  <div><dt>Field</dt><dd>Law and Enforcement</dd></div>
+</dl>
 
 </div>
 

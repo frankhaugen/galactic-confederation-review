@@ -17,13 +17,15 @@ issue_theme: "Comparative Law"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Lucene Institute Procedural Review*, Vol. 156
-> Republished by: Galactic Confederation Review
-> Review issue: [2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)
-> Original date: 2495.334
-> Review selection: 2496.216
-> Author: Advocate-Commissioner Senna Orr, Prize Court liaison practice
-> Field: Maritime Law and Confederation Procedure
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Lucene Institute Procedural Review*, Vol. 156</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)</dd></div>
+  <div><dt>Original date</dt><dd>2495.334</dd></div>
+  <div><dt>Review selection</dt><dd>2496.216</dd></div>
+  <div><dt>Author</dt><dd>Advocate-Commissioner Senna Orr, Prize Court liaison practice</dd></div>
+  <div><dt>Field</dt><dd>Maritime Law and Confederation Procedure</dd></div>
+</dl>
 
 </div>
 

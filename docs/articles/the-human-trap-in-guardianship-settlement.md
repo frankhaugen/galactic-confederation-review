@@ -17,13 +17,15 @@ issue_theme: "Guardianship"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Protectorate Review of State Capacity and Social Order*, Vol. 417
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
-> Original date: 2496.156
-> Review selection: 2496.198
-> Author: Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate
-> Field: Economics and Policy
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Protectorate Review of State Capacity and Social Order*, Vol. 417</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
+  <div><dt>Original date</dt><dd>2496.156</dd></div>
+  <div><dt>Review selection</dt><dd>2496.198</dd></div>
+  <div><dt>Author</dt><dd>Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate</dd></div>
+  <div><dt>Field</dt><dd>Economics and Policy</dd></div>
+</dl>
 
 </div>
 

@@ -17,13 +17,15 @@ issue_theme: "Communications"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Journal of Confederation Communications Policy*, Vol. 88
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.301 — *Communications*](../issues/2495-301-communications.md)
-> Original date: 2494.067
-> Review selection: 2496.214
-> Author: Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate
-> Field: Communications Policy and Infrastructure Law
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Journal of Confederation Communications Policy*, Vol. 88</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.301 — *Communications*](../issues/2495-301-communications.md)</dd></div>
+  <div><dt>Original date</dt><dd>2494.067</dd></div>
+  <div><dt>Review selection</dt><dd>2496.214</dd></div>
+  <div><dt>Author</dt><dd>Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate</dd></div>
+  <div><dt>Field</dt><dd>Communications Policy and Infrastructure Law</dd></div>
+</dl>
 
 </div>
 

@@ -17,13 +17,15 @@ issue_theme: "Communications"
 
 <div class="republication-masthead" markdown="1">
 
-> Originally published in: *Kharrek Journal of Public Science and Technical Frustration*, Vol. 19
-> Republished by: Galactic Confederation Review
-> Review issue: [2495.301 — *Communications*](../issues/2495-301-communications.md)
-> Original date: 2495.267
-> Review selection: 2495.301
-> Author: Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr
-> Field: Engineering
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Kharrek Journal of Public Science and Technical Frustration*, Vol. 19</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2495.301 — *Communications*](../issues/2495-301-communications.md)</dd></div>
+  <div><dt>Original date</dt><dd>2495.267</dd></div>
+  <div><dt>Review selection</dt><dd>2495.301</dd></div>
+  <div><dt>Author</dt><dd>Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr</dd></div>
+  <div><dt>Field</dt><dd>Engineering</dd></div>
+</dl>
 
 </div>
 

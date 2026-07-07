@@ -118,5 +118,6 @@ Dr. Rho references several Emergence Review procedures associated with integrate
 
 ## Related Review selections
 
+- [The Thinking Software Taboo](the-thinking-software-taboo.md)
 - [The Ansible Is Not a Radio](ansible-is-not-a-radio.md)
 - [Status Laundering at the Registry Interface](status-laundering-at-the-registry-interface.md)

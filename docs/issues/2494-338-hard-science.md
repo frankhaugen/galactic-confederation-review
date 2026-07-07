@@ -21,7 +21,7 @@ tags:
     </div>
     <div>
       <dt>Selections</dt>
-      <dd>4</dd>
+      <dd>5</dd>
     </div>
     <div>
       <dt>Desk note</dt>
@@ -42,6 +42,7 @@ tags:
 | 2494.338 | [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](../articles/ftl-transit-operational-tradeoffs.md) | Policy and Engineering |
 | 2496.212 | [C-Series Containers and the Founding Standard](../articles/c-series-containers-founding-standard.md) | Engineering and Standards |
 | 2496.213 | [What Fits Inside the Standard](../articles/what-fits-inside-the-standard.md) | Infrastructure Sociology |
+| 2496.223 | [The Thinking Software Taboo](../articles/the-thinking-software-taboo.md) | Cognitive Law and Policy |
 | 2496.218 | [Capability Is Not Classification](../articles/capability-is-not-classification.md) | Law and Engineering |
 
 ## Absent from this issue

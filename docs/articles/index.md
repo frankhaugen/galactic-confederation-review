@@ -49,6 +49,7 @@ Released 2496.218 · [Issue page](../issues/2494-338-hard-science.md)
 
 | Selection | Title | Field |
 | --------- | ----- | ----- |
+| 2496.223 | [The Thinking Software Taboo](the-thinking-software-taboo.md) | Cognitive Law and Policy |
 | 2496.218 | [Capability Is Not Classification](capability-is-not-classification.md) | Law and Engineering |
 | 2496.213 | [What Fits Inside the Standard](what-fits-inside-the-standard.md) | Infrastructure Sociology |
 | 2496.212 | [C-Series Containers and the Founding Standard](c-series-containers-founding-standard.md) | Engineering and Standards |

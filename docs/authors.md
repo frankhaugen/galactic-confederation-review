@@ -32,6 +32,12 @@ Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr.
 
 Known for two-tier AI doctrine, Emergence Review procedure, and the sentence "capability is not classification."
 
+## Dr. Helan Vosk
+
+Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences.
+
+Known for polemical essays on the Thinking Software Taboo, person-discovery procedure, and the moral economics of deliberate artificial personhood research.
+
 ## Commissioner Raleth Vo
 
 Protective Policy Division, Nosies Customs.

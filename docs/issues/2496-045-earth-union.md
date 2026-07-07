@@ -20,7 +20,7 @@ tags:
     </div>
     <div>
       <dt>Selections</dt>
-      <dd>4</dd>
+      <dd>5</dd>
     </div>
     <div>
       <dt>Desk note</dt>
@@ -43,6 +43,7 @@ tags:
 | 2496.045 | [Bells, Bread, and Field Hospitals](../articles/bells-bread-and-field-hospitals.md) | Xenology and Policy |
 | 2496.187 | [Children of Terra](../articles/children-of-terra.md) | Policy and Xenology |
 | 2496.201 | [Why Earth Union Is Still Called Earth Union](../articles/why-earth-union-is-still-called-earth-union.md) | Policy and History |
+| 2496.222 | [The Ships That Do Not Fight](../articles/the-ships-that-do-not-fight.md) | Administrative Practice |
 | 2496.221 | [Infinite Brutality, Infinite Compassion](../articles/infinite-brutality-infinite-compassion.md) | History and Military Ethics |
 
 ## Absent from this issue

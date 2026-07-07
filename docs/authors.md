@@ -38,6 +38,12 @@ Protective Policy Division, Nosies Customs.
 
 Known for investigative work on registry fraud, status laundering, and Cartel-linked custody chains.
 
+## Commissioner Halveth Ruun (retired)
+
+Confederation Search, Rescue, and Customs Service; former Deputy Commissioner for Lane Safety and Wreck Certification.
+
+Known for institutional essays on non-combatant rescue doctrine, wreck certification procedure, and the division of labor between Nosies cutters and armed enforcement services.
+
 ## Professor Ven Ileth
 
 Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology.

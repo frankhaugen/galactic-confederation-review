@@ -42,6 +42,13 @@ Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that sur
 </article>
 
 <article markdown>
+### [The Ships That Do Not Fight](articles/the-ships-that-do-not-fight.md)
+<p class="selection-meta">2496.222 · Earth Union issue · Administrative Practice</p>
+
+Commissioner Ruun on the Nosies — rescue, customs, wreck certification, and why non-combatant neutrality is access.
+</article>
+
+<article markdown>
 ### [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
 <p class="selection-meta">2496.201 · Earth Union issue · Policy and History</p>
 

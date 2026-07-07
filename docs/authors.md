@@ -14,6 +14,12 @@ Department of Founding History, University of Mars.
 
 Known for comparative analysis of the Compact, IUAS, and Galactic Confederation founding logics.
 
+## Advocate Rel Varo Kess
+
+Senior Counsel, Association for Lawful Guardianship Claimants.
+
+Known for claimant-side analysis of Guardianship enforcement, the Havren Claim sequence, and Earth Union procedural dissolution of Charter status rights.
+
 ## Advocate-Commissioner Senna Orr
 
 Prize Court liaison practice, Lucene Institute procedural network.

@@ -366,6 +366,7 @@ Several provincial fiscal tables cited in the original have been omitted from th
 
 ## Related Review selections
 
+- [Earth Stole My Property](earth-stole-my-property.md)
 - [The Chain Was Not Softened](the-chain-was-not-softened.md)
 - [The Compromise That Named the Chain](the-compromise-that-named-the-chain.md)
 

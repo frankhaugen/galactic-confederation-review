@@ -20,7 +20,7 @@ tags:
     </div>
     <div>
       <dt>Selections</dt>
-      <dd>7</dd>
+      <dd>8</dd>
     </div>
     <div>
       <dt>Desk note</dt>
@@ -44,6 +44,7 @@ tags:
 | 2496.198 | [The Human Trap in the Guardianship Settlement](../articles/the-human-trap-in-guardianship-settlement.md) | Economics and Policy |
 | 2496.215 | [When Moral Alignment Failed at Interstellar Scale](../articles/when-moral-alignment-failed-at-interstellar-scale.md) | History and Policy |
 | 2496.217 | [What the Ledger Refuses to See](../articles/what-the-ledger-refuses-to-see.md) | Political Economy |
+| 2496.224 | [Earth Stole My Property](../articles/earth-stole-my-property.md) | Property and Status Law |
 | 2496.219 | [Status Laundering at the Registry Interface](../articles/status-laundering-at-the-registry-interface.md) | Law and Enforcement |
 
 ## Absent from this issue

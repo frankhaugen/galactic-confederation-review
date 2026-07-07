@@ -20,6 +20,12 @@ Senior Counsel, Association for Lawful Guardianship Claimants.
 
 Known for claimant-side analysis of Guardianship enforcement, the Havren Claim sequence, and Earth Union procedural dissolution of Charter status rights.
 
+## Professor Seli Oranth
+
+Chair of Comparative Public Law, Veyari Interstellar University.
+
+Known for analysis of Earth Union recognition-versus-participation doctrine, child-protection superlaw, and the public-law mechanics of Fleet accession in Guardianship disputes.
+
 ## Advocate-Commissioner Senna Orr
 
 Prize Court liaison practice, Lucene Institute procedural network.

@@ -35,6 +35,7 @@ Released 2496.219 · [Issue page](../issues/2495-019-guardianship.md)
 
 | Selection | Title | Field |
 | --------- | ----- | ----- |
+| 2496.225 | [The Door Was Not Hidden](the-door-was-not-hidden.md) | Comparative Public Law |
 | 2496.224 | [Earth Stole My Property](earth-stole-my-property.md) | Property and Status Law |
 | 2496.219 | [Status Laundering at the Registry Interface](status-laundering-at-the-registry-interface.md) | Law and Enforcement |
 | 2496.217 | [What the Ledger Refuses to See](what-the-ledger-refuses-to-see.md) | Political Economy |

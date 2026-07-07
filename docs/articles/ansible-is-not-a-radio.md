@@ -11,7 +11,7 @@ tags:
   - Earth Fleet
   - Engineering
 issue: "2495.301"
-issue_theme: "Signals Without Command"
+issue_theme: "Communications"
 ---
 # The Ansible Is Not a Radio
 
@@ -19,7 +19,7 @@ issue_theme: "Signals Without Command"
 
 > Originally published in: *Kharrek Journal of Public Science and Technical Frustration*, Vol. 19
 > Republished by: Galactic Confederation Review
-> Review issue: [2495.301 — *Signals Without Command*](../issues/2495-301-signals-without-command.md)
+> Review issue: [2495.301 — *Communications*](../issues/2495-301-communications.md)
 > Original date: 2495.267
 > Review selection: 2495.301
 > Author: Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr

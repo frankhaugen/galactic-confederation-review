@@ -10,8 +10,8 @@ tags:
   - Infrastructure & Commerce
   - Standards
   - Engineering
-issue: "2496.212"
-issue_theme: "The Founding Standard"
+issue: "2494.338"
+issue_theme: "Hard Science"
 ---
 # C-Series Containers and the Founding Standard
 
@@ -19,7 +19,7 @@ issue_theme: "The Founding Standard"
 
 > Originally published in: *Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series
 > Republished by: Galactic Confederation Review
-> Review issue: [2496.212 — *The Founding Standard*](../issues/2496-212-the-founding-standard.md)
+> Review issue: [2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)
 > Original date: 2418.144
 > Review selection: 2496.212
 > Author: Confederation Standards Office, Containerization Working Group

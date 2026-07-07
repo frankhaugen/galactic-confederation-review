@@ -7,7 +7,7 @@
   <dl class="review-register">
     <div>
       <dt>Current issue</dt>
-      <dd>2496.216 · <em>Persons, Force, and Classification</em></dd>
+      <dd>2496.045 · <em>Earth Union</em></dd>
     </div>
     <div>
       <dt>Issue release</dt>
@@ -28,11 +28,9 @@ The Review is funded under Confederation mandate, but editorially independent. S
 
 <div class="issue-card issue-card--current" markdown>
 
-### [Review Issue 2496.216 — *Persons, Force, and Classification*](issues/2496-216-persons-force-and-classification.md)
+### [Review Issue 2496.045 — *Earth Union*](issues/2496-045-earth-union.md)
 
-**Released:** 2496.221 · **Theme:** Prize doctrine, artificial cognition, comparative institutions, and Earth Fleet rescue violence.
-
-The board closed this issue after renewed argument over persons, force, and what registries are willing to classify.
+**Released:** 2496.221 · **Planned as:** Earth-origin institutions — naming, humanitarian practice, species terminology, fleet ethics.
 
 </div>
 
@@ -40,44 +38,49 @@ The board closed this issue after renewed argument over persons, force, and what
 
 <article markdown>
 ### [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md)
-<p class="selection-meta">2496.221 · Issue 2496.216 · History and Military Ethics</p>
+<p class="selection-meta">2496.221 · Earth Union issue · History and Military Ethics</p>
 
 Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
 </article>
 
 <article markdown>
-### [Institutions Without Parenthood](articles/institutions-without-parenthood.md)
-<p class="selection-meta">2496.220 · Issue 2496.216 · Xenology and Policy</p>
+### [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
+<p class="selection-meta">2496.201 · Earth Union issue · Policy and History</p>
 
-Threni cohort bonds, technocracy, and the human misreading of cold institutions.
+Civic naming, prestige, and why the polity kept the old sign on the door.
 </article>
 
 <article markdown>
-### [Capability Is Not Classification](articles/capability-is-not-classification.md)
-<p class="selection-meta">2496.218 · Issue 2496.216 · Law and Engineering</p>
+### [Children of Terra](articles/children-of-terra.md)
+<p class="selection-meta">2496.187 · Earth Union issue · Policy and Xenology</p>
 
-Comparative analysis of the Confederation two-tier artificial cognition framework.
+Species terminology, translation accidents, and what Confederation law inherited.
 </article>
 
 <article markdown>
-### [Prize-Class Recovery and the Vigilantism Line](articles/prize-class-recovery-and-the-vigilantism-line.md)
-<p class="selection-meta">2496.216 · Issue 2496.216 · Maritime Law</p>
+### [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md)
+<p class="selection-meta">2496.045 · Earth Union issue · Xenology and Policy</p>
 
-Prize Court doctrine on self-defense exclusivity and registry enforcement.
+Earth-origin humanitarian institutions in Confederation frontier service.
 </article>
 
 </div>
 
-<p class="selection-meta">Full issue table and editorial introduction: <a href="issues/2496-216-persons-force-and-classification.md">Issue 2496.216</a> · <a href="issues/index.md">All issues</a> · <a href="articles/index.md">Archive Register</a></p>
+<p class="selection-meta">Issue table and editorial introduction: <a href="issues/2496-045-earth-union.md">Issue 2496.045</a> · <a href="issues/index.md">All issues</a> · <a href="articles/index.md">Archive Register</a></p>
 
 ## Prior issues
 
-Recent closed issues include [*Legibility*](issues/2496-214-legibility.md) (2496.214–2496.219), [*The Founding Standard*](issues/2496-212-the-founding-standard.md), and the Language Desk pair on Earth Union naming. The complete issue archive lists ten themed collections from 2494.338 onward.
+| Issue | Subject |
+| ----- | ------- |
+| [2496.216 · Comparative Law](issues/2496-216-comparative-law.md) | Prize doctrine and Threni institutional xenology |
+| [2495.019 · Guardianship](issues/2495-019-guardianship.md) | The settlement, founding arguments, ledger, enforcement |
+| [2494.338 · Hard Science](issues/2494-338-hard-science.md) | FTL, container standards, artificial cognition law |
+| [2495.301 · Communications](issues/2495-301-communications.md) | Ansible physics and mesh propagation policy |
 
 ## Editorial mandate
 
 The Review exists to make important arguments portable.
 
-Most academic work remains within local institutions, subscription systems, polity archives, professional guilds, or restricted technical exchanges. The Review selects works judged to have wider relevance across member polities and assembles them into themed issues when cross-reading clarifies the argument.
+Most academic work remains within local institutions, subscription systems, polity archives, professional guilds, or restricted technical exchanges. The Review selects works judged to have wider relevance across member polities and assembles them into **planned issues** — Guardianship, Communications, hard science, polity profiles — when cross-reading clarifies the subject.
 
 Referenced works may not appear in this archive unless separately selected for republication.

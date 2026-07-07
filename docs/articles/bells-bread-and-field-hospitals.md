@@ -11,7 +11,7 @@ tags:
   - Xenology
   - Humanitarian Practice
 issue: "2496.045"
-issue_theme: "Mercy at the Frontier"
+issue_theme: "Earth Union"
 ---
 # Bells, Bread, and Field Hospitals
 
@@ -19,7 +19,7 @@ issue_theme: "Mercy at the Frontier"
 
 > Originally published in: *Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)
 > Republished by: Galactic Confederation Review
-> Review issue: [2496.045 — *Mercy at the Frontier*](../issues/2496-045-mercy-at-the-frontier.md)
+> Review issue: [2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)
 > Original date: 2495.178
 > Review selection: 2496.045
 > Author: Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology

@@ -6,13 +6,15 @@ The current public archive edition is indexed to **review cycle 2496.221**. The 
 
 ## Issues
 
-The Review publishes in **themed issues**: editorial collections assembled when cross-reading clarifies an argument. Each issue has:
+The Review publishes in **planned issues** — each built around a subject the editorial board can state plainly: *this issue is Guardianship*, *that one is Communications*, *the spring slot is hard science*.
 
-- an **issue number** (the opening cycle stamp of the collection)
-- a **theme title** chosen by the editorial board
-- an **issue release** date (when the board closed the collection for publication)
+Each issue has:
 
-Individual articles retain their own **selection dates**. Selection dates within an issue may span several cycles while the board assembles a coherent set. Issue pages carry editorial introductions explaining assembly logic.
+- an **issue number** (identifying the collection)
+- a **subject title** (*Guardianship*, *Communications*, *Hard Science*, and so on)
+- an **issue release** date (when the board closed the collection)
+
+The board may hold individual selections across many cycles while waiting for a planned issue to complete. A Guardianship issue, for example, may open with founding essays and close years later when enforcement and ledger scholarship arrives. Individual articles retain their own **selection dates**.
 
 ## Selection criteria
 

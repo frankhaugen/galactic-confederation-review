@@ -11,7 +11,7 @@ tags:
   - FTL
   - Policy
 issue: "2494.338"
-issue_theme: "Distance and Governance"
+issue_theme: "Hard Science"
 ---
 # Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers
 
@@ -19,7 +19,7 @@ issue_theme: "Distance and Governance"
 
 > Originally published in: *Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)
 > Republished by: Galactic Confederation Review
-> Review issue: [2494.338 — *Distance and Governance*](../issues/2494-338-distance-and-governance.md)
+> Review issue: [2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)
 > Original date: 2494.312
 > Review selection: 2494.338
 > Author: Galactic Confederation Assembly Research Office

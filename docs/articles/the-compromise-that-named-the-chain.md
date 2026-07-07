@@ -11,7 +11,7 @@ tags:
   - Guardianship
   - Ethics
 issue: "2495.019"
-issue_theme: "The Chain in the Charter"
+issue_theme: "Guardianship"
 ---
 # The Compromise That Named the Chain
 
@@ -19,7 +19,7 @@ issue_theme: "The Chain in the Charter"
 
 > Originally published in: *The Sol Review of Moral History*, Vol. 211
 > Republished by: Galactic Confederation Review
-> Review issue: [2495.019 — *The Chain in the Charter*](../issues/2495-019-the-chain-in-the-charter.md)
+> Review issue: [2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)
 > Original date: 2493.244
 > Review selection: 2495.019
 > Author: Dr. Elian Voss, Department of Post-Union Ethics, University of Mars

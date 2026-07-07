@@ -10,8 +10,8 @@ tags:
   - Earth Union Institutions
   - Xenology
   - Policy
-issue: "2496.187"
-issue_theme: "Language Desk: Children of Terra"
+issue: "2496.045"
+issue_theme: "Earth Union"
 ---
 # Children of Terra
 
@@ -19,7 +19,7 @@ issue_theme: "Language Desk: Children of Terra"
 
 > Originally published in: *Galactic Confederation Review*, Language Desk
 > Republished by: Galactic Confederation Review
-> Review issue: [2496.187 — *Language Desk: Children of Terra*](../issues/2496-187-language-desk-children-of-terra.md)
+> Review issue: [2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)
 > Original date: 2496.187
 > Review selection: 2496.187
 > Author: Review Language Desk

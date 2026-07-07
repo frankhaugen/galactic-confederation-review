@@ -10,8 +10,8 @@ tags:
   - Earth Union Institutions
   - Policy
   - History
-issue: "2496.201"
-issue_theme: "Language Desk: The Name on the Door"
+issue: "2496.045"
+issue_theme: "Earth Union"
 ---
 # Why Earth Union Is Still Called Earth Union
 
@@ -19,7 +19,7 @@ issue_theme: "Language Desk: The Name on the Door"
 
 > Originally published in: *Galactic Confederation Review*, Language Desk
 > Republished by: Galactic Confederation Review
-> Review issue: [2496.201 — *Language Desk: The Name on the Door*](../issues/2496-201-language-desk-the-name-on-the-door.md)
+> Review issue: [2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)
 > Original date: 2496.201
 > Review selection: 2496.201
 > Author: Review Language Desk

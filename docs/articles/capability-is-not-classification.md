@@ -10,8 +10,8 @@ tags:
   - Law, Cognition & Enforcement
   - Artificial Cognition
   - Law
-issue: "2496.216"
-issue_theme: "Persons, Force, and Classification"
+issue: "2494.338"
+issue_theme: "Hard Science"
 ---
 # Capability Is Not Classification
 
@@ -19,7 +19,7 @@ issue_theme: "Persons, Force, and Classification"
 
 > Originally published in: *Kharrek Journal of Comparative Cognitive Law*, Vol. 7
 > Republished by: Galactic Confederation Review
-> Review issue: [2496.216 — *Persons, Force, and Classification*](../issues/2496-216-persons-force-and-classification.md)
+> Review issue: [2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)
 > Original date: 2495.089
 > Review selection: 2496.218
 > Author: Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr

@@ -29,6 +29,14 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <div class="selection-grid" markdown>
 
 <article markdown>
+### [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md)
+**Review selection:** 2496.221  
+**Field:** History and Military Ethics
+
+Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
+</article>
+
+<article markdown>
 ### [The Confederation Does Not Deliver Messages](articles/the-confederation-does-not-deliver-messages.md)
 **Review selection:** 2496.214  
 **Field:** Communications Policy

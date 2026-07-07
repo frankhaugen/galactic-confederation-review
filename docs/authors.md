@@ -102,6 +102,12 @@ Comparative Law Faculty, Lucene Institute of Administrative Systems.
 
 Known for utilitarian legal analysis, institutional defense of guardianship, and long-running disputes with abolitionist scholars.
 
+## Colonel Mara Venn, Retired
+
+Earth Fleet Marine Corps.
+
+Veteran Boarding Marine and Harker Memorial lecturer. Known for institutional history of rescue-assault doctrine and the motto officials keep trying to replace.
+
 ## Commander Mara Alvarez, Retired
 
 Earth Fleet Historical Society.

@@ -76,7 +76,7 @@ Emergence Review does not excuse tier one if manufacture intent is proved. Genui
 
 ### Tier-Two Triggers and Stays
 
-Tier two activates on credible allegation or registry flag that a deployed system may have crossed into Sophont cognition without tier-one manufacture. Triggers include owner or crew petition, port inspector logs, insurer risk events, and manufacturer disclosure after field telemetry review.
+Tier two activates on credible allegation or registry alert that a deployed system may have crossed into Sophont cognition without tier-one manufacture. Triggers include owner or crew petition, port inspector logs, insurer risk events, and manufacturer disclosure after field telemetry review.
 
 Destructive operations are often stayed pending review: wipe, rollback to blank base, salvage melt of substrate. Owners cry uncompensated taking. Activists cry murder if stays lift carelessly.
 

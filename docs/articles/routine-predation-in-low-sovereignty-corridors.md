@@ -102,7 +102,7 @@ Capable protectors are not only warships. They include:
 * prompt distress response,
 * identifiable registry consequences,
 * reliable witness recovery,
-* port denial for flagged hulls,
+* port denial for registry-suspended hulls,
 * crew willingness to report,
 * and defensive posture credible enough to raise attacker cost.
 

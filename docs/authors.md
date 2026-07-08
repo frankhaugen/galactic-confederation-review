@@ -14,6 +14,12 @@ Department of Founding History, University of Mars.
 
 Known for comparative analysis of the Compact, IUAS, and Galactic Confederation founding logics.
 
+## Hareth Mol Vesh
+
+Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law.
+
+Known for introductory mercantile registry doctrine, ship legal personality, and the argument that founding-era barnacles are load-bearing.
+
 ## Advocate Rel Varo Kess
 
 Senior Counsel, Association for Lawful Guardianship Claimants.

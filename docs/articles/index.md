@@ -54,6 +54,7 @@ Released 2496.218 · [Issue page](../issues/2494-338-hard-science.md)
 | --------- | ----- | ----- |
 | 2494.338 | [Faster-Than-Light Transit](ftl-transit-operational-tradeoffs.md) | Policy and Engineering |
 | 2496.212 | [C-Series Containers and the Founding Standard](c-series-containers-founding-standard.md) | Engineering and Standards |
+| 2496.210 | [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md) | Commercial and Maritime Law |
 | 2496.213 | [What Fits Inside the Standard](what-fits-inside-the-standard.md) | Infrastructure Sociology |
 | 2496.211 | [The Thinking Software Taboo](the-thinking-software-taboo.md) | Cognitive Law and Policy |
 | 2496.218 | [Capability Is Not Classification](capability-is-not-classification.md) | Law and Engineering |

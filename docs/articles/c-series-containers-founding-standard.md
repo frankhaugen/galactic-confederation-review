@@ -245,5 +245,6 @@ The Review has retained the memorandum's simplified C10, C20, and C40 terminolog
 
 ## Related Review selections
 
+- [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md)
 - [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](ftl-transit-operational-tradeoffs.md)
 - [The Ansible Is Not a Radio](ansible-is-not-a-radio.md)

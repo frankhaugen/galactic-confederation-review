@@ -18,6 +18,8 @@ Read these files before making changes:
 - Source Markdown lives in `docs/`.
 - Article pages live in `docs/articles/`.
 - Site styling lives in `docs/assets/stylesheets/extra.css`.
+- Article audio editions live in `docs/assets/audio/`.
+- Audio generation scripts live in `scripts/`; the MkDocs player hook lives in `hooks/audio_player.py`.
 - GitHub Pages publishing lives in `.github/workflows/pages.yml`.
 - `site/`, `.venv/`, `.cache/`, and `__pycache__/` are generated or local-only and should not be committed.
 
@@ -43,3 +45,16 @@ When in doubt, favor:
 - institutional language over casual narration
 - concrete political, legal, technical, or historical claims over vague atmosphere
 - respectful distance over endorsement
+
+## Audio editions (accessibility)
+
+The Review publishes machine-narrated audio editions for article accessibility.
+
+- **Output:** `docs/assets/audio/<article-slug>.mp3` plus `manifest.json`.
+- **Generation:** `pip install -r requirements-audio.txt`, then `python scripts/generate_article_audio.py`.
+- **Verification:** `python scripts/verify_article_audio.py --check-site` after generation and `mkdocs build --strict`.
+- **Site hook:** `hooks/audio_player.py` injects a player on article pages when a matching MP3 exists. Do not hand-edit article Markdown for the player.
+- **When to regenerate:** after adding an article, materially changing article text, or renaming an article slug (rename the MP3 to match).
+- **Backends:** default is `edge-tts`; optional `llmvox` via `LLMVOX_URL` when a local LLMVoX `/tts` server is running.
+- **Commit audio files** with source changes when publishing new or updated narration. Audio is part of the public archive, not a local build artifact.
+- Draft articles named `tbd*.md` may have audio generated early; rename the MP3 when the article receives its final slug.

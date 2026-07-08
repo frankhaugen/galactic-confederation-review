@@ -60,6 +60,12 @@ Regenerate a single article:
 python scripts/generate_article_audio.py --article galactic-confederation-at-founding --force
 ```
 
+Verify generated audio:
+
+```bash
+python scripts/verify_article_audio.py --check-site
+```
+
 ## Publishing
 
 GitHub Pages is published by `.github/workflows/pages.yml`.

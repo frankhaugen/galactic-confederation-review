@@ -44,6 +44,12 @@ Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr.
 
 Known for two-tier AI doctrine, Emergence Review procedure, and the sentence "capability is not classification."
 
+## Dr. Osel Var-Keth
+
+Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr.
+
+Known for transit criminology, corridor hot-spot analysis, and dry explanations of why predation persists across jurisdiction seams.
+
 ## Dr. Helan Vosk
 
 Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences.

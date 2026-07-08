@@ -114,5 +114,6 @@ Advocate-Commissioner Orr served as liaison in proceedings associated with Secto
 
 ## Related Review selections
 
+- [Routine Predation in Low-Sovereignty Corridors](routine-predation-in-low-sovereignty-corridors.md)
 - [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](ftl-transit-operational-tradeoffs.md)
 - [Status Laundering at the Registry Interface](status-laundering-at-the-registry-interface.md)

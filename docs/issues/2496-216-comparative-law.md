@@ -21,7 +21,7 @@ tags:
     </div>
     <div>
       <dt>Selections</dt>
-      <dd>2</dd>
+      <dd>3</dd>
     </div>
     <div>
       <dt>Desk note</dt>
@@ -31,13 +31,14 @@ tags:
 </section>
 
 !!! editorial "Editorial introduction"
-    A short **comparative law** issue: Prize Court self-defense doctrine on one side, Threni cohort governance on the other. No shared citations. The board paired them because both ask what happens when Confederation readers import Earth-family assumptions into alien legal facts.
+    A **comparative law** issue: Prize Court self-defense doctrine, Kharrek offense ecology on why piracy persists, and Threni cohort governance. No shared bibliography. The board held Dr. Var-Keth's essay in the register as the criminological counterpart to prize procedure before closing the issue.
 
 ## Selections
 
 | Selection | Title | Field |
 | --------- | ----- | ----- |
 | 2496.216 | [Prize-Class Recovery and the Vigilantism Line](../articles/prize-class-recovery-and-the-vigilantism-line.md) | Maritime Law |
+| 2496.208 | [Routine Predation in Low-Sovereignty Corridors](../articles/routine-predation-in-low-sovereignty-corridors.md) | Comparative Criminology |
 | 2496.220 | [Institutions Without Parenthood](../articles/institutions-without-parenthood.md) | Xenology and Policy |
 
 ## Absent from this issue

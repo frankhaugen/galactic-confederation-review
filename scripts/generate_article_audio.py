@@ -61,7 +61,7 @@ def generate_article(
         return {
             "slug": article_path.stem,
             "status": "skipped",
-            "output": str(output_path.relative_to(ROOT)).replace("\\", "/"),
+            "output": str(output_path.relative_to(ROOT / "docs")).replace("\\", "/"),
         }
 
     speech_text = load_article_speech_text(article_path)
@@ -79,7 +79,7 @@ def generate_article(
         "backend": backend.name,
         "chunks": len(chunks),
         "chars": len(speech_text),
-        "output": str(output_path.relative_to(ROOT)).replace("\\", "/"),
+        "output": str(output_path.relative_to(ROOT / "docs")).replace("\\", "/"),
         "generated_at": datetime.now(UTC).isoformat(),
     }
 

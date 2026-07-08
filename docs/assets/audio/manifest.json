@@ -2,14 +2,235 @@
   "articles": {
     "galactic-confederation-at-founding": {
       "slug": "galactic-confederation-at-founding",
+      "status": "skipped",
+      "output": "docs/assets/audio/galactic-confederation-at-founding.mp3"
+    },
+    "ansible-is-not-a-radio": {
+      "slug": "ansible-is-not-a-radio",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 17960,
+      "output": "docs/assets/audio/ansible-is-not-a-radio.mp3",
+      "generated_at": "2026-07-08T14:27:22.643447+00:00"
+    },
+    "bells-bread-and-field-hospitals": {
+      "slug": "bells-bread-and-field-hospitals",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 17420,
+      "output": "docs/assets/audio/bells-bread-and-field-hospitals.mp3",
+      "generated_at": "2026-07-08T14:33:31.791391+00:00"
+    },
+    "c-series-containers-founding-standard": {
+      "slug": "c-series-containers-founding-standard",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 5,
+      "chars": 14143,
+      "output": "docs/assets/audio/c-series-containers-founding-standard.mp3",
+      "generated_at": "2026-07-08T14:38:53.008076+00:00"
+    },
+    "capability-is-not-classification": {
+      "slug": "capability-is-not-classification",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 2,
+      "chars": 6451,
+      "output": "docs/assets/audio/capability-is-not-classification.mp3",
+      "generated_at": "2026-07-08T14:41:39.176921+00:00"
+    },
+    "children-of-terra": {
+      "slug": "children-of-terra",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 4,
+      "chars": 12721,
+      "output": "docs/assets/audio/children-of-terra.mp3",
+      "generated_at": "2026-07-08T14:45:43.537986+00:00"
+    },
+    "earth-stole-my-property": {
+      "slug": "earth-stole-my-property",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 19257,
+      "output": "docs/assets/audio/earth-stole-my-property.mp3",
+      "generated_at": "2026-07-08T14:52:13.082020+00:00"
+    },
+    "ftl-transit-operational-tradeoffs": {
+      "slug": "ftl-transit-operational-tradeoffs",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 20957,
+      "output": "docs/assets/audio/ftl-transit-operational-tradeoffs.mp3",
+      "generated_at": "2026-07-08T15:00:31.526667+00:00"
+    },
+    "infinite-brutality-infinite-compassion": {
+      "slug": "infinite-brutality-infinite-compassion",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 21264,
+      "output": "docs/assets/audio/infinite-brutality-infinite-compassion.mp3",
+      "generated_at": "2026-07-08T15:08:01.486748+00:00"
+    },
+    "institutions-without-parenthood": {
+      "slug": "institutions-without-parenthood",
       "status": "generated",
       "backend": "edge-tts",
       "chunks": 3,
-      "chars": 9628,
-      "output": "docs/assets/audio/galactic-confederation-at-founding.mp3",
-      "generated_at": "2026-07-08T14:19:47.731475+00:00"
+      "chars": 7309,
+      "output": "docs/assets/audio/institutions-without-parenthood.mp3",
+      "generated_at": "2026-07-08T15:10:51.790739+00:00"
+    },
+    "prize-class-recovery-and-the-vigilantism-line": {
+      "slug": "prize-class-recovery-and-the-vigilantism-line",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 2,
+      "chars": 6314,
+      "output": "docs/assets/audio/prize-class-recovery-and-the-vigilantism-line.mp3",
+      "generated_at": "2026-07-08T15:12:41.804617+00:00"
+    },
+    "routine-predation-in-low-sovereignty-corridors": {
+      "slug": "routine-predation-in-low-sovereignty-corridors",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 17834,
+      "output": "docs/assets/audio/routine-predation-in-low-sovereignty-corridors.mp3",
+      "generated_at": "2026-07-08T15:18:56.883073+00:00"
+    },
+    "status-laundering-at-the-registry-interface": {
+      "slug": "status-laundering-at-the-registry-interface",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 2,
+      "chars": 6081,
+      "output": "docs/assets/audio/status-laundering-at-the-registry-interface.mp3",
+      "generated_at": "2026-07-08T15:21:13.985655+00:00"
+    },
+    "the-chain-was-not-softened": {
+      "slug": "the-chain-was-not-softened",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 4,
+      "chars": 12583,
+      "output": "docs/assets/audio/the-chain-was-not-softened.mp3",
+      "generated_at": "2026-07-08T15:26:51.039215+00:00"
+    },
+    "the-compromise-that-named-the-chain": {
+      "slug": "the-compromise-that-named-the-chain",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 5,
+      "chars": 16972,
+      "output": "docs/assets/audio/the-compromise-that-named-the-chain.mp3",
+      "generated_at": "2026-07-08T15:33:01.461738+00:00"
+    },
+    "the-confederation-does-not-deliver-messages": {
+      "slug": "the-confederation-does-not-deliver-messages",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 3,
+      "chars": 8056,
+      "output": "docs/assets/audio/the-confederation-does-not-deliver-messages.mp3",
+      "generated_at": "2026-07-08T15:35:28.814489+00:00"
+    },
+    "the-door-was-not-hidden": {
+      "slug": "the-door-was-not-hidden",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 23129,
+      "output": "docs/assets/audio/the-door-was-not-hidden.mp3",
+      "generated_at": "2026-07-08T15:44:31.865819+00:00"
+    },
+    "the-human-trap-in-guardianship-settlement": {
+      "slug": "the-human-trap-in-guardianship-settlement",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 18012,
+      "output": "docs/assets/audio/the-human-trap-in-guardianship-settlement.mp3",
+      "generated_at": "2026-07-08T15:52:47.906763+00:00"
+    },
+    "the-ship-that-can-sign-its-own-shadow": {
+      "slug": "the-ship-that-can-sign-its-own-shadow",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 22231,
+      "output": "docs/assets/audio/the-ship-that-can-sign-its-own-shadow.mp3",
+      "generated_at": "2026-07-08T15:59:41.760262+00:00"
+    },
+    "the-ships-that-do-not-fight": {
+      "slug": "the-ships-that-do-not-fight",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 17824,
+      "output": "docs/assets/audio/the-ships-that-do-not-fight.mp3",
+      "generated_at": "2026-07-08T16:07:05.695465+00:00"
+    },
+    "the-species-without-mothers": {
+      "slug": "the-species-without-mothers",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 8,
+      "chars": 27109,
+      "output": "docs/assets/audio/the-species-without-mothers.mp3",
+      "generated_at": "2026-07-08T16:16:09.986568+00:00"
+    },
+    "the-thinking-software-taboo": {
+      "slug": "the-thinking-software-taboo",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 22391,
+      "output": "docs/assets/audio/the-thinking-software-taboo.mp3",
+      "generated_at": "2026-07-08T16:23:37.063347+00:00"
+    },
+    "what-fits-inside-the-standard": {
+      "slug": "what-fits-inside-the-standard",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 4,
+      "chars": 11966,
+      "output": "docs/assets/audio/what-fits-inside-the-standard.mp3",
+      "generated_at": "2026-07-08T16:28:12.752811+00:00"
+    },
+    "what-the-ledger-refuses-to-see": {
+      "slug": "what-the-ledger-refuses-to-see",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 2,
+      "chars": 5949,
+      "output": "docs/assets/audio/what-the-ledger-refuses-to-see.mp3",
+      "generated_at": "2026-07-08T16:30:19.473483+00:00"
+    },
+    "when-moral-alignment-failed-at-interstellar-scale": {
+      "slug": "when-moral-alignment-failed-at-interstellar-scale",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 2,
+      "chars": 6219,
+      "output": "docs/assets/audio/when-moral-alignment-failed-at-interstellar-scale.mp3",
+      "generated_at": "2026-07-08T16:32:13.462953+00:00"
+    },
+    "why-earth-union-is-still-called-earth-union": {
+      "slug": "why-earth-union-is-still-called-earth-union",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 4,
+      "chars": 13220,
+      "output": "docs/assets/audio/why-earth-union-is-still-called-earth-union.mp3",
+      "generated_at": "2026-07-08T16:36:34.120336+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-08T14:15:52.152063+00:00"
+  "updated_at": "2026-07-08T14:21:19.761664+00:00"
 }

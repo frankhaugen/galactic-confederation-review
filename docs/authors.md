@@ -56,6 +56,12 @@ Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr.
 
 Known for transit criminology, corridor hot-spot analysis, and dry explanations of why predation persists across jurisdiction seams.
 
+## Professor Eren Vash-Tek
+
+Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr.
+
+Known for *Species In Context* essays on Kharrek reproduction, solitary imprinting, and the institutions that form at the nesting-cave mouth.
+
 ## Dr. Helan Vosk
 
 Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences.

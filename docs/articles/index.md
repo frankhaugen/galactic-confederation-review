@@ -28,6 +28,7 @@ Released 2496.220 · [Issue page](../issues/2496-216-comparative-law.md)
 | --------- | ----- | ----- |
 | 2496.216 | [Prize-Class Recovery and the Vigilantism Line](prize-class-recovery-and-the-vigilantism-line.md) | Maritime Law |
 | 2496.208 | [Routine Predation in Low-Sovereignty Corridors](routine-predation-in-low-sovereignty-corridors.md) | Comparative Criminology |
+| 2496.207 | [The Species Without Mothers](the-species-without-mothers.md) | Xenology and Civic Biology |
 | 2496.220 | [Institutions Without Parenthood](institutions-without-parenthood.md) | Xenology and Policy |
 
 ## Issue 2495.019 — *Guardianship*

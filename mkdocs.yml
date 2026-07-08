@@ -58,6 +58,9 @@ plugins:
   - minify:
       minify_html: true
 
+hooks:
+  - hooks/audio_player.py
+
 extra_css:
   - assets/stylesheets/extra.css
 
@@ -65,6 +68,8 @@ extra:
   generator: false
   review_cycle: "2496.221"
   archive_class: Public archive edition
+  audio:
+    caption: "Audio edition · narrated for accessibility"
 
 exclude_docs: |
   articles/freight-insurance-as-governance.md

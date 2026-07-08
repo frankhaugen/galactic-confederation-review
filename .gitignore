@@ -1,4 +1,4 @@
 site/
 .cache/
 .venv/
-__pycache__/
+scripts/audio-generation.log

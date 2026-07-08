@@ -31,6 +31,13 @@ The Review may publish work that criticizes:
 
 Publication indicates editorial relevance, not institutional approval.
 
+## Audio editions
+
+Selected articles publish a narrated **audio edition** for accessibility. Each
+player appears at the top of the article when narration is available. Audio is
+machine-generated from the republished text and is offered as a listening aid,
+not as an alternate editorial authority.
+
 ## Why cited works may be absent
 
 Most cited papers are not republished here.

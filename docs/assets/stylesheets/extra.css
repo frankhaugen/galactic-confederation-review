@@ -463,3 +463,33 @@
     border-top: 0;
   }
 }
+
+/* Accessibility audio edition */
+.review-audio {
+  background: color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--md-default-bg-color));
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 75%, transparent);
+  border-left: 0.22rem solid var(--md-accent-fg-color);
+  margin: 0 0 1.25rem;
+  padding: 0.7rem 0.95rem 0.75rem;
+}
+
+.review-audio__label {
+  color: var(--review-muted);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.45rem;
+  text-transform: uppercase;
+}
+
+.review-audio audio {
+  display: block;
+  width: 100%;
+}
+
+.review-audio__caption {
+  color: var(--review-muted);
+  font-size: 0.64rem;
+  line-height: 1.45;
+  margin: 0.45rem 0 0;
+}

@@ -1,0 +1,15 @@
+{
+  "articles": {
+    "galactic-confederation-at-founding": {
+      "slug": "galactic-confederation-at-founding",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 3,
+      "chars": 9628,
+      "output": "docs/assets/audio/galactic-confederation-at-founding.mp3",
+      "generated_at": "2026-07-08T14:19:47.731475+00:00"
+    }
+  },
+  "backend": "edge-tts",
+  "updated_at": "2026-07-08T14:15:52.152063+00:00"
+}

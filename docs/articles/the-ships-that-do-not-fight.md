@@ -1,7 +1,7 @@
 ---
 title: "The Ships That Do Not Fight"
 description: "Search, rescue, customs, and wreck certification — why the Nosies do not fight, and why that is the point."
-review_selection: "2496.222"
+review_selection: "2496.088"
 original_date: "2493.088"
 author: "Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired)"
 field: "Administrative Practice"
@@ -23,7 +23,7 @@ issue_theme: "Earth Union"
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
   <div><dt>Original date</dt><dd>2493.088</dd></div>
-  <div><dt>Review selection</dt><dd>2496.222</dd></div>
+  <div><dt>Review selection</dt><dd>2496.088</dd></div>
   <div><dt>Author</dt><dd>Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired); former Deputy Commissioner for Lane Safety and Wreck Certification</dd></div>
   <div><dt>Field</dt><dd>Administrative Practice</dd></div>
 </dl>
@@ -33,7 +33,7 @@ issue_theme: "Earth Union"
 !!! editorial "Editorial note"
     Readers have repeatedly asked the Review for fewer Earth Union articles. We therefore publish the following essay on the Confederation Search, Rescue, and Customs Service, an institution which is not Earth Union, not commanded by Earth Union, and not funded primarily by Earth Union. The first submitted draft mentioned Earth Fleet nine times. We have retained seven.
 
-    The Review placed this selection in the Earth Union issue only because several essays here discuss armed rescue and external security. Commissioner Ruun's account is the institutional counterweight.
+    The Review placed this selection in the Earth Union issue only because several essays here discuss armed rescue and external security. Commissioner Ruun's account entered the register early as institutional counterweight before Colonel Venn closed the issue.
 
 <div class="review-abstract" markdown="1">
 

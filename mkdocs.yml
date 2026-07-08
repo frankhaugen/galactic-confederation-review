@@ -80,11 +80,11 @@ nav:
   - Issue Archive:
       - "2496.045 · Earth Union":
           - issues/2496-045-earth-union.md
-          - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
-          - The Ships That Do Not Fight: articles/the-ships-that-do-not-fight.md
-          - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
-          - Children of Terra: articles/children-of-terra.md
           - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
+          - The Ships That Do Not Fight: articles/the-ships-that-do-not-fight.md
+          - Children of Terra: articles/children-of-terra.md
+          - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
+          - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
       - "2496.216 · Comparative Law":
           - issues/2496-216-comparative-law.md
           - Institutions Without Parenthood: articles/institutions-without-parenthood.md
@@ -92,21 +92,21 @@ nav:
       - "2495.019 · Guardianship":
           - issues/2495-019-guardianship.md
           - The Galactic Confederation at Founding: articles/galactic-confederation-at-founding.md
-          - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
-          - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
-          - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
+          - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
+          - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
           - The Human Trap in the Guardianship Settlement: articles/the-human-trap-in-guardianship-settlement.md
           - Earth Stole My Property: articles/earth-stole-my-property.md
           - The Door Was Not Hidden: articles/the-door-was-not-hidden.md
-          - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
-          - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
+          - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
+          - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
+          - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
       - "2494.338 · Hard Science":
           - issues/2494-338-hard-science.md
-          - Capability Is Not Classification: articles/capability-is-not-classification.md
-          - The Thinking Software Taboo: articles/the-thinking-software-taboo.md
-          - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
-          - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
           - Faster-Than-Light Transit: articles/ftl-transit-operational-tradeoffs.md
+          - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
+          - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
+          - The Thinking Software Taboo: articles/the-thinking-software-taboo.md
+          - Capability Is Not Classification: articles/capability-is-not-classification.md
       - "2495.301 · Communications":
           - issues/2495-301-communications.md
           - The Confederation Does Not Deliver Messages: articles/the-confederation-does-not-deliver-messages.md

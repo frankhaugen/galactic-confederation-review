@@ -23,17 +23,17 @@ Closed when Colonel Venn's Boarding Marine history entered the register.
 
 | Release | Issue | Subject | Selections |
 | ------- | ----- | ------- | ---------- |
-| 2496.221 | [*Earth Union*](2496-045-earth-union.md) | Earth-origin institutions | 4 |
+| 2496.221 | [*Earth Union*](2496-045-earth-union.md) | Earth-origin institutions | 5 |
 | 2496.220 | [*Comparative Law*](2496-216-comparative-law.md) | Prize doctrine and alien polities | 2 |
-| 2496.219 | [*Guardianship*](2495-019-guardianship.md) | The settlement and its machinery | 6 |
-| 2496.218 | [*Hard Science*](2494-338-hard-science.md) | Transit, standards, cognition law | 4 |
+| 2496.219 | [*Guardianship*](2495-019-guardianship.md) | The settlement and its machinery | 9 |
+| 2496.218 | [*Hard Science*](2494-338-hard-science.md) | Transit, standards, cognition law | 5 |
 | 2496.214 | [*Communications*](2495-301-communications.md) | Ansible and mesh propagation | 2 |
 
 ## How issues are planned
 
 The board maintains a running slate: planned subjects, held selections, and missing counterparts. An issue closes when the editorial argument is complete — not when the calendar says so.
 
-Issues are not anthologies of agreement. Incompatible arguments may share an issue when the subject requires it.
+Issues are not anthologies of agreement. Incompatible arguments may share an issue when the subject requires it. Paired essays — reply sets, companion pieces, physics-and-policy counterparts — are usually held in the register before the issue closes.
 
 ## Calendar note
 

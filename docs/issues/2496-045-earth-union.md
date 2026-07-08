@@ -34,16 +34,16 @@ tags:
 
     Naming accidents, humanitarian orders in frontier service, species terminology in translation, and Boarding Marine history belong in one place. Readers can disagree across essays without hunting four separate register cycles.
 
-    Colonel Venn's piece closed the issue.
+    Commissioner Ruun's Nosies essay entered the register early as institutional counterweight. Colonel Venn's piece closed the issue.
 
 ## Selections
 
 | Selection | Title | Field |
 | --------- | ----- | ----- |
 | 2496.045 | [Bells, Bread, and Field Hospitals](../articles/bells-bread-and-field-hospitals.md) | Xenology and Policy |
+| 2496.088 | [The Ships That Do Not Fight](../articles/the-ships-that-do-not-fight.md) | Administrative Practice |
 | 2496.187 | [Children of Terra](../articles/children-of-terra.md) | Policy and Xenology |
 | 2496.201 | [Why Earth Union Is Still Called Earth Union](../articles/why-earth-union-is-still-called-earth-union.md) | Policy and History |
-| 2496.222 | [The Ships That Do Not Fight](../articles/the-ships-that-do-not-fight.md) | Administrative Practice |
 | 2496.221 | [Infinite Brutality, Infinite Compassion](../articles/infinite-brutality-infinite-compassion.md) | History and Military Ethics |
 
 ## Absent from this issue

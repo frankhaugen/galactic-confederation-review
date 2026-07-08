@@ -32,7 +32,7 @@ tags:
 !!! editorial "Editorial introduction"
     The board planned this as a **Guardianship issue** from the first selection cycle. Not a grab bag of founding law — one subject: the settlement humans accepted, the moral language used to name it, the fiscal machinery underneath it, and the registry interfaces that turn coercion into transferable status.
 
-    We held this survey from the first planning cycle as the issue's historical anchor, then waited years for the argumentative pieces. When *Status Laundering* arrived, we closed the issue. The arguments disagree. That is the point.
+    We held this survey from the first planning cycle as the issue's historical anchor, then waited years for the argumentative pieces. The Havren pair entered the register as a planned reply set before *Status Laundering* closed the issue. The arguments disagree. That is the point.
 
 ## Selections
 
@@ -42,10 +42,10 @@ tags:
 | 2495.019 | [The Compromise That Named the Chain](../articles/the-compromise-that-named-the-chain.md) | Ethics and History |
 | 2495.022 | [The Chain Was Not Softened](../articles/the-chain-was-not-softened.md) | Law and Ethics |
 | 2496.198 | [The Human Trap in the Guardianship Settlement](../articles/the-human-trap-in-guardianship-settlement.md) | Economics and Policy |
+| 2496.203 | [Earth Stole My Property](../articles/earth-stole-my-property.md) | Property and Status Law |
+| 2496.204 | [The Door Was Not Hidden](../articles/the-door-was-not-hidden.md) | Comparative Public Law |
 | 2496.215 | [When Moral Alignment Failed at Interstellar Scale](../articles/when-moral-alignment-failed-at-interstellar-scale.md) | History and Policy |
 | 2496.217 | [What the Ledger Refuses to See](../articles/what-the-ledger-refuses-to-see.md) | Political Economy |
-| 2496.225 | [The Door Was Not Hidden](../articles/the-door-was-not-hidden.md) | Comparative Public Law |
-| 2496.224 | [Earth Stole My Property](../articles/earth-stole-my-property.md) | Property and Status Law |
 | 2496.219 | [Status Laundering at the Registry Interface](../articles/status-laundering-at-the-registry-interface.md) | Law and Enforcement |
 
 ## Absent from this issue

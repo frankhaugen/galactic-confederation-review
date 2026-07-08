@@ -1,7 +1,7 @@
 ---
 title: "The Thinking Software Taboo"
 description: "Why the Confederation forbids deliberate person-making while permitting advanced automation — and why the taboo persists."
-review_selection: "2496.223"
+review_selection: "2496.211"
 original_date: "2495.144"
 author: "Dr. Helan Vosk, Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences"
 field: "Cognitive Law and Policy"
@@ -22,7 +22,7 @@ issue_theme: "Hard Science"
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
   <div><dt>Original date</dt><dd>2495.144</dd></div>
-  <div><dt>Review selection</dt><dd>2496.223</dd></div>
+  <div><dt>Review selection</dt><dd>2496.211</dd></div>
   <div><dt>Author</dt><dd>Dr. Helan Vosk, Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences</dd></div>
   <div><dt>Field</dt><dd>Cognitive Law and Policy</dd></div>
 </dl>
@@ -32,7 +32,7 @@ issue_theme: "Hard Science"
 !!! editorial "Editorial note"
     The Review is advised by counsel to state that this essay does not encourage illegal creation of machine persons, unauthorized recursive cognition, unlicensed self-model persistence, or experiments that would cause a software system to petition for legal recognition. The author has objected to this note on the grounds that it proves his point.
 
-    Selected as companion reading to Dr. Rho's two-tier framework essay. The Review has not selected ethics-board correspondence annexes or the author's rejected grant proposal cited in the original proceedings.
+    Selected as companion reading to Dr. Rho's two-tier framework essay, held in the register before *Capability Is Not Classification* closed the Hard Science planning cycle. The Review has not selected ethics-board correspondence annexes or the author's rejected grant proposal cited in the original proceedings.
 
 <div class="review-abstract" markdown="1">
 

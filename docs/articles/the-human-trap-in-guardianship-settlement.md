@@ -2,7 +2,7 @@
 title: "The Human Trap in the Guardianship Settlement"
 description: "Twislha political economy of compliance burdens and dependency institutions."
 review_selection: "2496.198"
-original_date: "2496.156"
+original_date: "2495.890"
 author: "Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate"
 field: "Economics and Policy"
 series: "Founding & Charter Law"
@@ -21,7 +21,7 @@ issue_theme: "Guardianship"
   <div><dt>Originally published in</dt><dd markdown="1">*Protectorate Review of State Capacity and Social Order*, Vol. 417</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.156</dd></div>
+  <div><dt>Original date</dt><dd>2495.890</dd></div>
   <div><dt>Review selection</dt><dd>2496.198</dd></div>
   <div><dt>Author</dt><dd>Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate</dd></div>
   <div><dt>Field</dt><dd>Economics and Policy</dd></div>

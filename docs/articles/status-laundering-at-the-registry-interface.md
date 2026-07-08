@@ -30,7 +30,7 @@ issue_theme: "Guardianship"
 </div>
 
 !!! editorial "Editorial note"
-    Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication.
+    Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication. This selection closed the Guardianship issue after the Havren reply pair entered the register.
 
 <div class="review-abstract" markdown="1">
 

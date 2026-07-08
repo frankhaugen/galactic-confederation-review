@@ -35,24 +35,17 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <div class="selection-grid" markdown>
 
 <article markdown>
-### [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md)
-<p class="selection-meta">2496.221 · Earth Union issue · History and Military Ethics</p>
+### [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md)
+<p class="selection-meta">2496.045 · Earth Union issue · Xenology and Policy</p>
 
-Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
+Earth-origin humanitarian institutions in Confederation frontier service.
 </article>
 
 <article markdown>
 ### [The Ships That Do Not Fight](articles/the-ships-that-do-not-fight.md)
-<p class="selection-meta">2496.222 · Earth Union issue · Administrative Practice</p>
+<p class="selection-meta">2496.088 · Earth Union issue · Administrative Practice</p>
 
 Commissioner Ruun on the Nosies — rescue, customs, wreck certification, and why non-combatant neutrality is access.
-</article>
-
-<article markdown>
-### [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
-<p class="selection-meta">2496.201 · Earth Union issue · Policy and History</p>
-
-Civic naming, prestige, and why the polity kept the old sign on the door.
 </article>
 
 <article markdown>
@@ -63,10 +56,17 @@ Species terminology, translation accidents, and what Confederation law inherited
 </article>
 
 <article markdown>
-### [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md)
-<p class="selection-meta">2496.045 · Earth Union issue · Xenology and Policy</p>
+### [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
+<p class="selection-meta">2496.201 · Earth Union issue · Policy and History</p>
 
-Earth-origin humanitarian institutions in Confederation frontier service.
+Civic naming, prestige, and why the polity kept the old sign on the door.
+</article>
+
+<article markdown>
+### [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md)
+<p class="selection-meta">2496.221 · Earth Union issue · History and Military Ethics</p>
+
+Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
 </article>
 
 </div>

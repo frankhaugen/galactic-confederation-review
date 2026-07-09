@@ -2,7 +2,7 @@
 
 The Galactic Confederation Review selects works according to public-interest relevance, cross-polity usefulness, argumentative quality, and long-term archival value.
 
-The current public archive edition is indexed to **review cycle 2496.221**. The Review does not use present-day publication timestamps on republication pages; each article carries its original publication date and its Review selection date in Confederation standard ordinal notation.
+The current public archive edition is indexed to **review cycle 2496.229**. The Review does not use present-day publication timestamps on republication pages; each article carries its original publication date and its Review selection date in Confederation standard ordinal notation.
 
 ## Publication model
 

@@ -319,8 +319,17 @@
       "chars": 19651,
       "output": "assets/audio/the-price-of-someone-elses-patrol.mp3",
       "generated_at": "2026-07-09T13:31:16.292087+00:00"
+    },
+    "why-the-galactic-confederation-has-no-reforms": {
+      "slug": "why-the-galactic-confederation-has-no-reforms",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 17505,
+      "output": "assets/audio/why-the-galactic-confederation-has-no-reforms.mp3",
+      "generated_at": "2026-07-09T17:52:55.617958+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-09T13:22:41.026933+00:00"
+  "updated_at": "2026-07-09T17:47:01.753582+00:00"
 }

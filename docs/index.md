@@ -36,6 +36,13 @@ Commander-Professor Un Veyr on why Vaelor should let Earth Union keep paying for
 </article>
 
 <article markdown>
+### [Why the Galactic Confederation Has No Reforms](articles/why-the-galactic-confederation-has-no-reforms.md)
+<p class="selection-meta">2496.228 · Historical Summaries · Institutional Design</p>
+
+Dr. Maruun on why formal Confederation reform would reopen the founding compromise.
+</article>
+
+<article markdown>
 ### [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md)
 <p class="selection-meta">2496.227 · Standards and Infrastructure · Registry Law</p>
 
@@ -61,13 +68,6 @@ A Kharrek scholar on Earth Union's moral sincerity and interventionist patience.
 <p class="selection-meta">2496.222 · Standards and Infrastructure · Commercial and Maritime Law</p>
 
 Why registry law treats command titles as procedural facts, not heroic identities.
-</article>
-
-<article markdown>
-### [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md)
-<p class="selection-meta">2496.221 · Fleet and Rescue Doctrine · History and Military Ethics</p>
-
-Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
 </article>
 
 </div>

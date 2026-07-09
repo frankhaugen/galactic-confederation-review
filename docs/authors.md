@@ -468,6 +468,24 @@ author-metadata:
   avoid: Moral tutoring, empire shorthand, Vaelor victimhood.
 -->
 
+## Dr. Thel Maruun
+
+Senior Fellow in Comparative Confederation Studies, University of Ti Anan Tiga.
+
+Political institutionalist of Confederation treaty design, procedural adaptation,
+and reform pressure inside non-sovereign interstellar systems.
+
+**Republications in this archive:**
+
+- [Why the Galactic Confederation Has No Reforms](articles/why-the-galactic-confederation-has-no-reforms.md) (2496.228)
+
+<!--
+author-metadata:
+  voice: Comparative institutional design — patient, analytic, classroom-tested.
+  tendencies: Founding compromise, administrative accretion, sovereignty anxiety.
+  avoid: Reformist triumphalism, government analogies as explanation, cynicism as punchline.
+-->
+
 ## Professor Seli Oranth
 
 Chair of Comparative Public Law, Veyari Interstellar University.

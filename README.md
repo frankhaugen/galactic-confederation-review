@@ -481,6 +481,14 @@ The Review should not feel like:
 * real-world blog commentary
 * clean moral scoreboard
 
+## Authors
+
+There is an authors -page that lists all authors and their works. This should have a short belivable bio, and any relevant information that might exist on an academic's "bio page" on their institution's website.
+
+There should be a metadata-section that is not visible to the reader, that gives author information for how they write, their voicing, their preclivities for using certain words or stylistic choices for prose or speech, and any other information that might be relevant for an LLM/AI to generate content that sounds like the author. It needs to be within the boundery of making the contribution interesting, witty, and/or engaging to the reader, so no "yoda speak" or something that would kill reader engagement.
+
+There should only be published authors. If the author is the Review's editor, its not recorded on the authors page, but rather on a dedicated editorial content page, where extra disclaimers are added. In-universe, the Review shouldn't produce content, so its an indulgence every time, and needs to be handled with care as if this is a real republication institution.
+
 ## In-universe editorial stance
 
 The Review is funded by the Galactic Confederation but editorially independent.
@@ -507,6 +515,13 @@ A work may be selected because it is:
 * frequently cited
 * dangerous in an instructive way
 * funny by accident
+
+## Historical Facts
+
+- Earth Union has declined to appoint an editor to the Review's editorial board every time its their turn to do so.
+- The Galactic Confederation Asssembly Cultrual Appropriations Committee has discussed defunding on many occasions, but has never done so, as every time, Earth Union has offered to provided full funding for the Review.
+- The Review has become untouchable politically, and therefore extremely good at publishing controversial content without fear of retribution, as it is truely independent and not beholden to any polity or institution, nore politcal patronships.
+- The above has made appointements to the Review's editorial board a political hot potato, and therefore usually given to beaurocrats or academics who are not interested in the content, but rather in the prestige of being part of the Review's editorial board, and so the Reviews Editorial staff does what it wants to do, and the Review's board rubber-stamp publications in the best way: "complete indifference".
 
 ## Absent works
 

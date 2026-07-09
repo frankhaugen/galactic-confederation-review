@@ -6,7 +6,7 @@ This series is for readers who need durable context before entering law, enginee
 
 ## What this series does not cover
 
-Historical Summaries does not publish primary treaty texts, technical standards, or field memoir. Narrow legal disputes, registry practice, and communications infrastructure appear under other series. Earth Union–specific material also appears in Earth Union Studies.
+Historical Summaries does not publish primary treaty texts, technical standards, or field memoir. Narrow legal disputes, registry practice, and communications infrastructure appear under other series. Earth Union-specific material also appears in Earth Union Studies.
 
 ## Start here
 
@@ -20,3 +20,4 @@ Historical Summaries does not publish primary treaty texts, technical standards,
 | 2495.018 | [The Galactic Confederation at Founding](../articles/galactic-confederation-at-founding.md) | History and Policy |
 | 2496.199 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | History and Policy |
 | 2496.215 | [When Moral Alignment Failed at Interstellar Scale](../articles/when-moral-alignment-failed-at-interstellar-scale.md) | History and Policy |
+| 2496.228 | [Why the Galactic Confederation Has No Reforms](../articles/why-the-galactic-confederation-has-no-reforms.md) | Institutional Design and Treaty History |

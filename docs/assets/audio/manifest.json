@@ -265,8 +265,44 @@
       "chars": 23774,
       "output": "assets/audio/the-ship-is-the-flag.mp3",
       "generated_at": "2026-07-08T20:06:20.606126+00:00"
+    },
+    "earth-did-not-steal-your-property": {
+      "slug": "earth-did-not-steal-your-property",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 19764,
+      "output": "assets/audio/earth-did-not-steal-your-property.mp3",
+      "generated_at": "2026-07-09T09:36:05.642298+00:00"
+    },
+    "from-nations-to-habitats": {
+      "slug": "from-nations-to-habitats",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 11,
+      "chars": 35772,
+      "output": "assets/audio/from-nations-to-habitats.mp3",
+      "generated_at": "2026-07-09T09:49:51.606439+00:00"
+    },
+    "the-pressure-vessel-called-earth": {
+      "slug": "the-pressure-vessel-called-earth",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 20824,
+      "output": "assets/audio/the-pressure-vessel-called-earth.mp3",
+      "generated_at": "2026-07-09T09:56:45.111780+00:00"
+    },
+    "the-state-that-kept-saying-yes": {
+      "slug": "the-state-that-kept-saying-yes",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 9,
+      "chars": 28726,
+      "output": "assets/audio/the-state-that-kept-saying-yes.mp3",
+      "generated_at": "2026-07-09T10:09:57.166225+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-09T09:19:18.437628+00:00"
+  "updated_at": "2026-07-09T09:29:12.486898+00:00"
 }

@@ -3,3 +3,4 @@ site/
 .venv/
 scripts/audio-generation.log
 scripts/audio-generation-tbd.log
+scripts/audio-generation-eu.log

@@ -1,17 +1,20 @@
 ---
 title: "The Species Without Mothers"
 description: "Kharrek reproduction, exclusive imprinting, and solitary paternal rearing — biology that becomes institution at the cave mouth."
-review_selection: "2496.207"
-original_date: "2495.089"
-author: "Professor Eren Vash-Tek, Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr"
+selection_date: "2496.207"
+release_cycle: "2496.207"
 field: "Xenology and Civic Biology"
-series: "Comparative Policy & Xenology"
+type: "Republication"
+series:
+  - "Species Profiles"
+originating_publication: "*Species In Context*, Vol. 12"
+original_publication_date: "2495.089"
+author: "Professor Eren Vash-Tek, Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr"
+status: "Public archive edition"
 tags:
   - Comparative Policy & Xenology
   - Kharrek
   - Xenology
-issue: "2496.216"
-issue_theme: "Comparative Law"
 ---
 # The Species Without Mothers
 
@@ -20,16 +23,16 @@ issue_theme: "Comparative Law"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Species In Context*, Vol. 12</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.089</dd></div>
-  <div><dt>Review selection</dt><dd>2496.207</dd></div>
+  <div><dt>Series</dt><dd>Species Profiles</dd></div>
+<div><dt>Original date</dt><dd>2495.089</dd></div>
+  <div><dt>Republication date</dt><dd>2496.207</dd></div>
   <div><dt>Author</dt><dd>Professor Eren Vash-Tek, Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Xenology and Civic Biology</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     The Review has chosen this essay to open its *Species In Context* selections within the Comparative Law issue because it begins with biology and refuses to stop there. Readers are advised that "without mothers" is a social and reproductive description, not an accusation. Several angry letters have already misunderstood this distinction in useful ways.
 
     The Review has not selected Threni archival council replies or several Kharrek nesting-estate liability memoranda cited in the original proceedings.

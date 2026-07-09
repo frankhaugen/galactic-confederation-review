@@ -8,6 +8,8 @@ regardless of model provider, IDE, chat surface, or automation runner.
 
 Read these files before making changes:
 
+- `GLOSSARY.md` for in-universe terminology (mesh, selection, series, dossier) and
+  words to avoid in house copy.
 - `README.md` for the canonical publication model, terminology, metadata, site
   shape, and local setup commands.
 - `AI_INSTRUCTIONS.md` for project-wide behavior, editorial voice, agentic
@@ -25,26 +27,20 @@ The Galactic Confederation Review is a sequential republication archive.
   `docs/articles/`).
 - **Series** are continuing reader tracks under `docs/series/`.
 - **Dossiers** are curated reading packets under `docs/dossiers/`.
-- **Issues** under `docs/issues/` are legacy collections. Do not create new
-  issues unless the user explicitly asks.
 
 New work follows:
 
 ```text
-selection -> series -> optional dossier
+selection -> optional series -> optional dossier
 ```
-
-Do not change existing article content, navigation, or file organization unless
-explicitly instructed. The site may still reflect legacy issue-based structure
-while migration proceeds.
 
 ## Repository shape
 
 - Source Markdown lives in `docs/`.
 - Selection pages live in `docs/articles/`.
-- Series pages live in `docs/series/` (target structure).
-- Dossier pages live in `docs/dossiers/` (target structure).
-- Legacy issue pages live in `docs/issues/`.
+- Series pages live in `docs/series/`.
+- Dossier pages live in `docs/dossiers/`.
+- Editorial staff selections live in `docs/editorial-content.md`.
 - Site styling lives in `docs/assets/stylesheets/extra.css`.
 - Article audio editions live in `docs/assets/audio/`.
 - Audio generation scripts live in `scripts/`; the MkDocs player hook lives in
@@ -62,8 +58,7 @@ while migration proceeds.
 - Run `mkdocs build --strict` when changing content, navigation, theme
   configuration, or publishing behavior.
 - If a build cannot be run, state that clearly in the handoff.
-- Do not rewrite existing article prose, rename files, remove legacy issue
-  pages, or migrate markup unless explicitly asked.
+- Do not rewrite existing article prose unless explicitly asked.
 - When work is complete, commit the finished changes and push `main` to its
   upstream unless the user explicitly asks not to publish yet.
 

@@ -1,17 +1,22 @@
 ---
 title: "The Margin Was The Freedom"
 description: "Abridged memoir of forty-one years as an owner-master — access, solvency, and the middle space the Confederation registry left open."
-review_selection: "2496.206"
-original_date: "2496.156"
-author: "Captain Sella Varr, retired owner-master, light commercial transport"
+selection_date: "2496.206"
+release_cycle: "2496.206"
 field: "Field Memoir and Commercial Practice"
-series: "Infrastructure & Commerce"
+type: "Field Memoir"
+series:
+  - "Standards and Infrastructure"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "Port cooperative memoir edition (abridged)"
+original_publication_date: "2496.156"
+author: "Captain Sella Varr, retired owner-master, light commercial transport"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
   - Commercial Practice
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # The Margin Was The Freedom
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">Port cooperative memoir edition (abridged)</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.156</dd></div>
-  <div><dt>Review selection</dt><dd>2496.206</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2496.156</dd></div>
+  <div><dt>Republication date</dt><dd>2496.206</dd></div>
   <div><dt>Author</dt><dd>Captain Sella Varr, retired owner-master, light commercial transport</dd></div>
   <div><dt>Field</dt><dd>Field Memoir and Commercial Practice</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Captain Varr's memoir was first printed in a port cooperative edition of eight hundred copies, most of which appear to have been bought by people who already knew her, owed her money, or both. The Review has abridged the central chapters for the Hard Science issue because policy language tends to make independent transport sound cleaner than it is. Captain Varr does not dispute the value of the Confederation registry, freedom of navigation, or owner-master rules. She is grateful for them. She is also very clear about what it means to live for decades inside the narrow space between access and solvency.
 
 <div class="review-abstract" markdown="1">

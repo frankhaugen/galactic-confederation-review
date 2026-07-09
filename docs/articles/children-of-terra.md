@@ -1,17 +1,22 @@
 ---
 title: "Children of Terra"
 description: "How a translator's improvisation became a durable legal category."
-review_selection: "2496.187"
-original_date: "2496.187"
-author: "Review Language Desk"
+selection_date: "2496.187"
+release_cycle: "2496.187"
 field: "Policy and Xenology"
-series: "Earth Union Institutions"
+type: "Editorial Note"
+series:
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+originating_publication: "*Galactic Confederation Review*, Language Desk"
+original_publication_date: "2496.187"
+author: "Review Language Desk"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - Xenology
   - Policy
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # Children of Terra
 
@@ -20,16 +25,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Galactic Confederation Review*, Language Desk</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.187</dd></div>
-  <div><dt>Review selection</dt><dd>2496.187</dd></div>
+  <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2496.187</dd></div>
+  <div><dt>Republication date</dt><dd>2496.187</dd></div>
   <div><dt>Author</dt><dd>Review Language Desk</dd></div>
   <div><dt>Field</dt><dd>Policy and Xenology</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     The following essay was prepared by the Review's language desk after renewed debate over species terminology in Confederation legal translation. The editors accept full responsibility for the indulgence. Some historical accidents deserve to be remembered.
 
 <div class="review-abstract" markdown="1">

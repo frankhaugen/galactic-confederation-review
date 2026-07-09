@@ -1,17 +1,22 @@
 ---
 title: "The Confederation Does Not Deliver Messages"
 description: "Why the mesh propagates signed information instead of guaranteeing delivery."
-review_selection: "2496.214"
-original_date: "2494.067"
-author: "Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate"
+selection_date: "2496.214"
+release_cycle: "2496.214"
 field: "Communications Policy and Infrastructure Law"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Communications and Transit"
+dossiers:
+  - "Ansible and Communications"
+originating_publication: "*Journal of Confederation Communications Policy*, Vol. 88"
+original_publication_date: "2494.067"
+author: "Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Communications
   - Policy
-issue: "2495.301"
-issue_theme: "Communications"
 ---
 # The Confederation Does Not Deliver Messages
 
@@ -20,16 +25,17 @@ issue_theme: "Communications"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Confederation Communications Policy*, Vol. 88</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.301 — *Communications*](../issues/2495-301-communications.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.067</dd></div>
-  <div><dt>Review selection</dt><dd>2496.214</dd></div>
+  <div><dt>Series</dt><dd>Communications and Transit</dd></div>
+  <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
+<div><dt>Original date</dt><dd>2494.067</dd></div>
+  <div><dt>Republication date</dt><dd>2496.214</dd></div>
   <div><dt>Author</dt><dd>Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate</dd></div>
   <div><dt>Field</dt><dd>Communications Policy and Infrastructure Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected after repeated Assembly debate over whether the Postal Authority should be expanded into a delivery guarantee service. The Review notes that Earth Fleet command-communications briefings cited in the original have not been selected for republication.
 
 <div class="review-abstract" markdown="1">

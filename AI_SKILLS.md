@@ -12,31 +12,29 @@ Use when starting unfamiliar work.
 3. List source files with `rg --files docs .github`.
 4. Inspect recent changes with `git diff --stat`.
 5. Note any existing uncommitted changes before editing.
-6. Distinguish legacy issue-based navigation from the target
-   selection/series/dossier model before planning edits.
 
 ## Skill: Add or revise a selection
 
 Use when creating or materially changing a republished selection.
 
 1. Follow the publication model in `README.md` and `AI_INSTRUCTIONS.md`.
-2. Decide release date, series, dossier fit, field, and selection type before
+2. Decide release date, optional series, optional dossier fit, field, and selection type before
    drafting.
-3. For new selections, use the YAML front matter and header format in
-   `README.md`. For legacy selections, preserve existing masthead markup unless
-   migration is requested.
+3. Use the YAML front matter and masthead format in `README.md` and
+   `AI_INSTRUCTIONS.md`.
 4. Keep the article voice scholarly and in-universe. Preserve the fictional
    author's voice; do not normalize all authors to the Review's tone.
 5. Add or update the selection in `mkdocs.yml`.
 6. Add or update the archive register in `docs/articles/index.md`.
-7. Add or update all relevant `docs/series/*.md` pages.
-8. Add or update any relevant `docs/dossiers/*.md` pages.
+7. Add or update relevant `docs/series/*.md` pages when the selection belongs to a series.
+8. Add or update relevant `docs/dossiers/*.md` pages when the selection belongs to a dossier.
 9. Add or update the author profile in `docs/authors.md` when needed, including
-   LLM voice metadata for new authors.
+   HTML comment metadata for new authors. Editorial staff belong on
+   `docs/editorial-content.md`.
 10. Add related selections only when the relationship is meaningful.
 11. If the article slug changes, rename any existing
     `docs/assets/audio/<slug>.mp3` to match.
-12. Do not create a new issue, series, or dossier without the thresholds in
+12. Do not create a new series or dossier without the thresholds in
     `README.md` unless the user explicitly requests it.
 13. Run `mkdocs build --strict`.
 14. When narration should ship with the selection, follow **Skill: Publish
@@ -51,10 +49,10 @@ republication.
    fit, dossier fit, release date, and related selections.
 2. Choose the final filename slug (`kebab-case.md`). Delete or avoid leaving
    `tbd*.md` in the tree after import.
-3. Convert the draft to the standard new-selection shape from `README.md` and
-   `AI_INSTRUCTIONS.md`: YAML front matter, in-universe header, republication
-   note, and article body. Legacy masthead markup is acceptable only when
-   matching an existing migrated cluster.
+3. Convert the draft to the standard selection shape from `README.md` and
+   `AI_INSTRUCTIONS.md`: YAML front matter, masthead, republication note,
+   abstract panel, `## Article`, optional `## Notes`, and `## Related Review
+   selections`.
 4. Assign `selection_date`, `field`, `type`, `series`, `dossiers`, `tags`, and
    other metadata from `README.md`.
 5. Register the piece in `mkdocs.yml`, `docs/articles/index.md`, relevant series
@@ -68,8 +66,7 @@ republication.
 
 `scripts/import_draft_articles.py` converts `tbd*.md` drafts when batch metadata
 is already defined. Run with `--batch <name>` when available; prefer hand
-conversion when the draft shape diverges from the helper's assumptions or when
-the target model uses series/dossier metadata the script does not yet set.
+conversion when the draft shape diverges from the helper's assumptions.
 
 ## Skill: Add or update a series page
 
@@ -105,9 +102,7 @@ Use when adding, renaming, or re-dating selections in `docs/articles/index.md`.
 1. List selections by release date, not primarily by issue.
 2. If grouping is useful, group by year first, then release date.
 3. Include release date, title, series, and field in the table.
-4. Do not make the register issue-centric unless maintaining a legacy view the
-   user explicitly wants preserved.
-5. Run `mkdocs build --strict`.
+4. Run `mkdocs build --strict`.
 
 ## Skill: Publish article audio editions
 
@@ -165,14 +160,12 @@ Use when changing `index.md`, `about.md`, `editorial-policy.md`, or
 Use when adding, removing, renaming, or reordering pages.
 
 1. Edit `mkdocs.yml`.
-2. Prefer the target navigation shape from `README.md`: home, latest selections,
-   series, dossiers, archive register, authors, tags, editorial policy, about.
-3. Legacy issue navigation may remain until migrated. Do not remove it unless
-   asked.
-4. Ensure every referenced page exists under `docs/`.
-5. Ensure renamed pages have matching links in `docs/index.md`, series pages,
+2. Prefer navigation shape from `README.md`: home, latest selections, series,
+   dossiers, archive register, authors, tags, editorial policy, about.
+3. Ensure every referenced page exists under `docs/`.
+4. Ensure renamed pages have matching links in `docs/index.md`, series pages,
    dossier pages, and related selections.
-6. Run `mkdocs build --strict`.
+5. Run `mkdocs build --strict`.
 
 ## Skill: Review editorial voice
 

@@ -1,17 +1,22 @@
 ---
 title: "The Human Trap in the Guardianship Settlement"
 description: "Twislha political economy of compliance burdens and dependency institutions."
-review_selection: "2496.198"
-original_date: "2495.890"
-author: "Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate"
+selection_date: "2496.198"
+release_cycle: "2496.198"
 field: "Economics and Policy"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+originating_publication: "*Protectorate Review of State Capacity and Social Order*, Vol. 417"
+original_publication_date: "2495.890"
+author: "Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
   - Economics
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # The Human Trap in the Guardianship Settlement
 
@@ -20,16 +25,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Protectorate Review of State Capacity and Social Order*, Vol. 417</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.890</dd></div>
-  <div><dt>Review selection</dt><dd>2496.198</dd></div>
+  <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2495.890</dd></div>
+  <div><dt>Republication date</dt><dd>2496.198</dd></div>
   <div><dt>Author</dt><dd>Professor Sarel Vun Tha, Department of Political Economy, Royal Civic Institute of the Twislha Protectorate</dd></div>
   <div><dt>Field</dt><dd>Economics and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected for republication after the Twislha Abolition Decrees and the ongoing fiscal crisis in the Protectorate agricultural provinces. The Review notes that the Twislha Household League response has not been selected for republication at this time.
 
 <div class="review-abstract" markdown="1">

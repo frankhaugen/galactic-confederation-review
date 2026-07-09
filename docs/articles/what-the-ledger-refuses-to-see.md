@@ -1,17 +1,22 @@
 ---
 title: "What the Ledger Refuses to See"
 description: "Effort credits, moral blindness, and guardianship at the accounting layer."
-review_selection: "2496.217"
-original_date: "2494.201"
-author: "Auditor-General Solenn Vek (retired), Charter Ledger Bureau"
+selection_date: "2496.217"
+release_cycle: "2496.217"
 field: "Political Economy and Charter Finance"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+originating_publication: "*Charter Finance Quarterly*, Vol. 29"
+original_publication_date: "2494.201"
+author: "Auditor-General Solenn Vek (retired), Charter Ledger Bureau"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Economics
   - Guardianship
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # What the Ledger Refuses to See
 
@@ -20,16 +25,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Charter Finance Quarterly*, Vol. 29</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.201</dd></div>
-  <div><dt>Review selection</dt><dd>2496.217</dd></div>
+  <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2494.201</dd></div>
+  <div><dt>Republication date</dt><dd>2496.217</dd></div>
   <div><dt>Author</dt><dd>Auditor-General Solenn Vek (retired), Charter Ledger Bureau</dd></div>
   <div><dt>Field</dt><dd>Political Economy and Charter Finance</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Republished after renewed Twislha fiscal correspondence and Assembly debate over effort-credit normalization. The Review notes that several internal Bureau memoranda on coerced-labor certification remain restricted.
 
 <div class="review-abstract" markdown="1">

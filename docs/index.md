@@ -4,102 +4,108 @@
   <p class="review-deck">Selected scholarship, policy argument, technical explanation, and archival controversy from across member polities.</p>
   <dl class="review-register">
     <div>
-      <dt>Current issue</dt>
-      <dd>2496.045 · <em>Earth Union</em></dd>
-    </div>
-    <div>
-      <dt>Issue release</dt>
+      <dt>Archive register</dt>
       <dd>2496.221</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
       <dd>Public archive edition</dd>
     </div>
+    <div>
+      <dt>Active series</dt>
+      <dd>8</dd>
+    </div>
   </dl>
 </section>
 
-The **Galactic Confederation Review** republishes notable scholarship, policy analysis, historical essays, technical reviews, and public-interest academic writing from institutions and individuals across member polities.
+The **Galactic Confederation Review** republishes selected scholarship, policy argument, technical explanation, and archival controversy from across member polities.
+
+Selections are released as they clear review. Some stand alone. Some belong to continuing series. Some are later gathered into dossiers for readers who want a guided path through a subject.
 
 The Review is funded under Confederation mandate, but editorially independent. Selection for republication does not imply endorsement by the Review, the Galactic Confederation, or the originating polity.
 
-## Current issue
-
-<div class="issue-card issue-card--current" markdown>
-
-### [Review Issue 2496.045 — *Earth Union*](issues/2496-045-earth-union.md)
-
-**Released:** 2496.221 · **Planned as:** Earth-origin institutions — naming, humanitarian practice, institutional history, civic rescue machinery, species terminology, fleet ethics.
-
-</div>
+## Latest selections
 
 <div class="selection-grid" markdown>
 
 <article markdown>
-### [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md)
-<p class="selection-meta">2496.045 · Earth Union issue · Xenology and Policy</p>
+### [Earth Did Not Steal Your Property](articles/earth-did-not-steal-your-property.md)
+<p class="selection-meta">2496.224 · Guardianship Debates · Abolitionist Legal History</p>
 
-Earth-origin humanitarian institutions in Confederation frontier service.
+Dr. Voss replies to the property complaint that keeps circulating through Guardianship debate.
 </article>
 
 <article markdown>
-### [The Ships That Do Not Fight](articles/the-ships-that-do-not-fight.md)
-<p class="selection-meta">2496.088 · Earth Union issue · Administrative Practice</p>
+### [The Pressure Vessel Called Earth](articles/the-pressure-vessel-called-earth.md)
+<p class="selection-meta">2496.223 · Earth Union Studies · Strategic Ethics</p>
 
-Commissioner Ruun on the Nosies — rescue, customs, wreck certification, and why non-combatant neutrality is access.
+A Kharrek scholar on Earth Union's moral sincerity and interventionist patience.
 </article>
 
 <article markdown>
-### [Children of Terra](articles/children-of-terra.md)
-<p class="selection-meta">2496.187 · Earth Union issue · Policy and Xenology</p>
+### [The Captain Is Not Always A Captain](articles/the-captain-is-not-always-a-captain.md)
+<p class="selection-meta">2496.222 · Standards and Infrastructure · Commercial and Maritime Law</p>
 
-Species terminology, translation accidents, and what Confederation law inherited.
-</article>
-
-<article markdown>
-### [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md)
-<p class="selection-meta">2496.201 · Earth Union issue · Policy and History</p>
-
-Civic naming, prestige, and why the polity kept the old sign on the door.
+Why registry law treats command titles as procedural facts, not heroic identities.
 </article>
 
 <article markdown>
 ### [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md)
-<p class="selection-meta">2496.221 · Earth Union issue · History and Military Ethics</p>
+<p class="selection-meta">2496.221 · Fleet and Rescue Doctrine · History and Military Ethics</p>
 
 Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
 </article>
 
 <article markdown>
-### [From Nations To Habitats](articles/from-nations-to-habitats.md)
-<p class="selection-meta">2496.199 · Earth Union issue · History and Policy</p>
+### [Institutions Without Parenthood](articles/institutions-without-parenthood.md)
+<p class="selection-meta">2496.220 · Species Profiles · Xenology and Policy</p>
 
-Professor Sato-Klein on dependent habitats, Greth contact, Compact accession, and how Earth Union grew by arming procedure.
+Threni civic institutions when kinship does not route through biological parenthood.
 </article>
 
 <article markdown>
-### [The State That Kept Saying Yes](articles/the-state-that-kept-saying-yes.md)
-<p class="selection-meta">2496.202 · Earth Union issue · Civic Systems and External Power</p>
+### [Status Laundering at the Registry Interface](articles/status-laundering-at-the-registry-interface.md)
+<p class="selection-meta">2496.219 · Comparative Law · Law and Enforcement</p>
 
-President Emeritus Vel on welfare-state militarism, citizenship machinery, and the doors Earth Union kept opening.
+How protective paperwork can launder unfreedom at the customs boundary.
 </article>
 
 </div>
 
-<p class="selection-meta">Nine selections in this issue. Issue table and editorial introduction: <a href="issues/2496-045-earth-union.md">Issue 2496.045</a> · <a href="issues/index.md">All issues</a> · <a href="articles/index.md">Archive Register</a></p>
+<p class="selection-meta">Full release sequence: <a href="articles/index.md">Archive Register</a> · <a href="series/index.md">Series</a> · <a href="dossiers/index.md">Dossiers</a></p>
 
-## Prior issues
+## Active series
 
-| Issue | Subject |
-| ----- | ------- |
-| [2496.216 · Comparative Law](issues/2496-216-comparative-law.md) | Prize doctrine and Threni institutional xenology |
-| [2495.019 · Guardianship](issues/2495-019-guardianship.md) | The settlement, founding arguments, ledger, enforcement |
-| [2494.338 · Hard Science](issues/2494-338-hard-science.md) | FTL, container standards, commercial registry, cognition law |
-| [2495.301 · Communications](issues/2495-301-communications.md) | Ansible physics and mesh propagation policy |
+| Series | Track |
+| ------ | ----- |
+| [Species Profiles](series/species-profiles.md) | Member species, civic biology, kinship, translation errors |
+| [Historical Summaries](series/historical-summaries.md) | Institutional history, chronology, founding narratives |
+| [Earth Union Studies](series/earth-union-studies.md) | Earth Union as polity, culture, legal actor, strategic force |
+| [Comparative Law](series/comparative-law.md) | Law across systems with incompatible institutions beneath similar terms |
+| [Guardianship Debates](series/guardianship-debates.md) | Guardianship, abolition, compromise, ledger, enforcement |
+| [Standards and Infrastructure](series/standards-and-infrastructure.md) | Containers, registries, ship law, engineering standards |
+| [Communications and Transit](series/communications-and-transit.md) | Ansible, mesh policy, FTL, distance as institution |
+| [Fleet and Rescue Doctrine](series/fleet-and-rescue-doctrine.md) | Nosies, rescue, boarding ethics, public-force legitimacy |
+
+## Featured dossiers
+
+| Dossier | Entry point |
+| ------- | ----------- |
+| [Earth Union Primer](dossiers/earth-union-primer.md) | Earth Union as polity, culture, and uncomfortable neighbor |
+| [Guardianship Settlement](dossiers/guardianship-settlement.md) | The settlement, founding arguments, ledger, enforcement |
+| [Ship Law and Registry](dossiers/ship-law-and-registry.md) | Flags, shadows, captains, containers, and what fits inside |
+| [Ansible and Communications](dossiers/ansible-and-communications.md) | Physics, policy, and why the Confederation does not deliver messages |
+
+## Editorial content
+
+Rare original work by Review staff — disclosed separately from republication.
+See [Editorial Content](editorial-content.md) for Language Desk selections and
+indulgence disclaimers.
 
 ## Editorial mandate
 
 The Review exists to make important arguments portable.
 
-Most academic work remains within local institutions, subscription systems, polity archives, professional guilds, or restricted technical exchanges. The Review selects works judged to have wider relevance across member polities and assembles them into **planned issues** — Guardianship, Communications, hard science, polity profiles — when cross-reading clarifies the subject.
+Most academic work remains within local institutions, subscription systems, polity archives, professional guilds, or restricted technical exchanges. The Review selects works judged to have wider relevance across member polities and releases them in sequence. Series and dossiers help readers follow a subject without pretending the archive publishes on a fixed calendar.
 
 Referenced works may not appear in this archive unless separately selected for republication.

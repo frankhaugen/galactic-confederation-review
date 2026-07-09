@@ -1,17 +1,22 @@
 ---
 title: "Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers"
 description: "How FTL performance shapes governance, trade, and risk."
-review_selection: "2494.338"
-original_date: "2494.312"
-author: "Galactic Confederation Assembly Research Office"
+selection_date: "2494.338"
+release_cycle: "2494.338"
 field: "Policy and Engineering"
-series: "Infrastructure & Commerce"
+type: "Technical Note"
+series:
+  - "Communications and Transit"
+dossiers:
+  - "Ansible and Communications"
+originating_publication: "*Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)"
+original_publication_date: "2494.312"
+author: "Galactic Confederation Assembly Research Office"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - FTL
   - Policy
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.312</dd></div>
-  <div><dt>Review selection</dt><dd>2494.338</dd></div>
+  <div><dt>Series</dt><dd>Communications and Transit</dd></div>
+  <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
+<div><dt>Original date</dt><dd>2494.312</dd></div>
+  <div><dt>Republication date</dt><dd>2494.338</dd></div>
   <div><dt>Author</dt><dd>Galactic Confederation Assembly Research Office</dd></div>
   <div><dt>Field</dt><dd>Policy and Engineering</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Republished as part of the Review's infrastructure literacy series. The Review thanks the Assembly Research Office for producing a document that explains drive economics without requiring seven specialist degrees and a personal grudge against tensor notation. Distribution classification in the original briefing was public technical summary.
 
 <div class="review-abstract" markdown="1">

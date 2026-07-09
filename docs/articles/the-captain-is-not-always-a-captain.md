@@ -1,17 +1,23 @@
 ---
 title: "The Captain Is Not Always A Captain"
 description: "Owner-masters, spacer competence, and the founding congress' proportional qualification regime for small vessels."
-review_selection: "2496.222"
-original_date: "2494.195"
-author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+selection_date: "2496.222"
+release_cycle: "2496.222"
 field: "Commercial and Maritime Law"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Standards and Infrastructure"
+  - "Comparative Law"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "*Journal of Interstellar Mercantile Systems*, Vol. 90"
+original_publication_date: "2494.195"
+author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
   - Founding & Charter Law
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # The Captain Is Not Always A Captain
 
@@ -20,16 +26,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Interstellar Mercantile Systems*, Vol. 90</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.195</dd></div>
-  <div><dt>Review selection</dt><dd>2496.222</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure, Comparative Law</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2494.195</dd></div>
+  <div><dt>Republication date</dt><dd>2496.222</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Professor Mol Vesh has now written three consecutive essays on Confederation vessel law for this archive. At this stage, the Review considers intervention unnecessary. The man is happy, and the footnotes are contained.
 
 <div class="review-abstract" markdown="1">

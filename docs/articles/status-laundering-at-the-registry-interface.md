@@ -1,17 +1,23 @@
 ---
 title: "Status Laundering at the Registry Interface"
 description: "How paperwork converts coercion into transferable legal status."
-review_selection: "2496.219"
-original_date: "2495.256"
-author: "Commissioner Raleth Vo, Protective Policy Division, Nosies Customs"
+selection_date: "2496.219"
+release_cycle: "2496.219"
 field: "Law and Enforcement"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Comparative Law"
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+originating_publication: "*Nosies Customs Investigative Review*, Vol. 12"
+original_publication_date: "2495.256"
+author: "Commissioner Raleth Vo, Protective Policy Division, Nosies Customs"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Law
   - Enforcement
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # Status Laundering at the Registry Interface
 
@@ -20,16 +26,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Nosies Customs Investigative Review*, Vol. 12</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.256</dd></div>
-  <div><dt>Review selection</dt><dd>2496.219</dd></div>
+  <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2495.256</dd></div>
+  <div><dt>Republication date</dt><dd>2496.219</dd></div>
   <div><dt>Author</dt><dd>Commissioner Raleth Vo, Protective Policy Division, Nosies Customs</dd></div>
   <div><dt>Field</dt><dd>Law and Enforcement</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication. This selection closed the Guardianship issue after the Havren reply pair entered the register.
 
 <div class="review-abstract" markdown="1">

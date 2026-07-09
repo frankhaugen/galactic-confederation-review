@@ -1,17 +1,20 @@
 ---
 title: "The Thinking Software Taboo"
 description: "Why the Confederation forbids deliberate person-making while permitting advanced automation — and why the taboo persists."
-review_selection: "2496.211"
-original_date: "2495.144"
-author: "Dr. Helan Vosk, Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences"
+selection_date: "2496.211"
+release_cycle: "2496.211"
 field: "Cognitive Law and Policy"
-series: "Law, Cognition & Enforcement"
+type: "Republication"
+series:
+  - "Comparative Law"
+originating_publication: "*Proceedings of Applied Machine Cognition*, Vol. 66"
+original_publication_date: "2495.144"
+author: "Dr. Helan Vosk, Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences"
+status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Artificial Cognition
   - Ethics
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # The Thinking Software Taboo
 
@@ -20,16 +23,16 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Proceedings of Applied Machine Cognition*, Vol. 66</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.144</dd></div>
-  <div><dt>Review selection</dt><dd>2496.211</dd></div>
+  <div><dt>Series</dt><dd>Comparative Law</dd></div>
+<div><dt>Original date</dt><dd>2495.144</dd></div>
+  <div><dt>Republication date</dt><dd>2496.211</dd></div>
   <div><dt>Author</dt><dd>Dr. Helan Vosk, Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences</dd></div>
   <div><dt>Field</dt><dd>Cognitive Law and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     The Review is advised by counsel to state that this essay does not encourage illegal creation of machine persons, unauthorized recursive cognition, unlicensed self-model persistence, or experiments that would cause a software system to petition for legal recognition. The author has objected to this note on the grounds that it proves his point.
 
     Selected as companion reading to Dr. Rho's two-tier framework essay, held in the register before *Capability Is Not Classification* closed the Hard Science planning cycle. The Review has not selected ethics-board correspondence annexes or the author's rejected grant proposal cited in the original proceedings.

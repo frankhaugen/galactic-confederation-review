@@ -1,17 +1,20 @@
 ---
 title: "Capability Is Not Classification"
 description: "The Confederation two-tier artificial cognition framework."
-review_selection: "2496.218"
-original_date: "2495.089"
-author: "Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr"
+selection_date: "2496.218"
+release_cycle: "2496.218"
 field: "Law and Engineering"
-series: "Law, Cognition & Enforcement"
+type: "Republication"
+series:
+  - "Comparative Law"
+originating_publication: "*Kharrek Journal of Comparative Cognitive Law*, Vol. 7"
+original_publication_date: "2495.089"
+author: "Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr"
+status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Artificial Cognition
   - Law
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # Capability Is Not Classification
 
@@ -20,16 +23,16 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Kharrek Journal of Comparative Cognitive Law*, Vol. 7</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.089</dd></div>
-  <div><dt>Review selection</dt><dd>2496.218</dd></div>
+  <div><dt>Series</dt><dd>Comparative Law</dd></div>
+<div><dt>Original date</dt><dd>2495.089</dd></div>
+  <div><dt>Republication date</dt><dd>2496.218</dd></div>
   <div><dt>Author</dt><dd>Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Law and Engineering</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected after port-inspector disputes over shipboard integrated cognition and several Emergence Review stays. The Review notes that manufacturer responsible-disclosure filings cited in the original remain partially sealed.
 
 <div class="review-abstract" markdown="1">

@@ -1,18 +1,23 @@
 ---
 title: "The State That Kept Saying Yes"
 description: "Welfare-state militarism, citizenship machinery, and how Earth Union's institutions opened doors a fugitive slave was not meant to reach."
-review_selection: "2496.202"
-original_date: "2496.178"
-author: "Taran Vel, PhD, President Emeritus of Earth Union, Professor of Civic Systems, University of Luna, Senior Chief Petty Officer, Retired, Slave Emeritus"
+selection_date: "2496.202"
+release_cycle: "2496.202"
 field: "Civic Systems and External Power"
-series: "Earth Union Institutions"
+type: "Field Memoir"
+series:
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+originating_publication: "*Journal of Civic Systems and External Power*, Vol. 88"
+original_publication_date: "2496.178"
+author: "Taran Vel, PhD, President Emeritus of Earth Union, Professor of Civic Systems, University of Luna, Senior Chief Petty Officer, Retired, Slave Emeritus"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - History
   - Policy
   - Guardianship
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # The State That Kept Saying Yes
 
@@ -21,16 +26,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Civic Systems and External Power*, Vol. 88</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.178</dd></div>
-  <div><dt>Review selection</dt><dd>2496.202</dd></div>
+  <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2496.178</dd></div>
+  <div><dt>Republication date</dt><dd>2496.202</dd></div>
   <div><dt>Author</dt><dd>Taran Vel, PhD, President Emeritus of Earth Union, Professor of Civic Systems, University of Luna, Senior Chief Petty Officer, Retired, Slave Emeritus</dd></div>
   <div><dt>Field</dt><dd>Civic Systems and External Power</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     President Emeritus Vel insists on the full title line reproduced above, including the final title, which has no constitutional status, no academic standing, and no recognized military meaning. During his presidency, his office required the same styling for state visits. Several host governments objected. None objected twice.
 
 <div class="review-abstract" markdown="1">

@@ -1,18 +1,21 @@
 ---
 title: "The Ships That Do Not Fight"
 description: "Search, rescue, customs, and wreck certification — why the Nosies do not fight, and why that is the point."
-review_selection: "2496.088"
-original_date: "2493.088"
-author: "Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired)"
+selection_date: "2496.088"
+release_cycle: "2496.088"
 field: "Administrative Practice"
-series: "Confederation Institutions"
+type: "Republication"
+series:
+  - "Fleet and Rescue Doctrine"
+originating_publication: "*Journal of Confederation Administrative Practice*, Vol. 212"
+original_publication_date: "2493.088"
+author: "Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired)"
+status: "Public archive edition"
 tags:
   - Confederation Institutions
   - Search and Rescue
   - Customs
   - Earth Fleet
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # The Ships That Do Not Fight
 
@@ -21,16 +24,16 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Confederation Administrative Practice*, Vol. 212</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2493.088</dd></div>
-  <div><dt>Review selection</dt><dd>2496.088</dd></div>
+  <div><dt>Series</dt><dd>Fleet and Rescue Doctrine</dd></div>
+<div><dt>Original date</dt><dd>2493.088</dd></div>
+  <div><dt>Republication date</dt><dd>2496.088</dd></div>
   <div><dt>Author</dt><dd>Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired); former Deputy Commissioner for Lane Safety and Wreck Certification</dd></div>
   <div><dt>Field</dt><dd>Administrative Practice</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Readers have repeatedly asked the Review for fewer Earth Union articles. We therefore publish the following essay on the Confederation Search, Rescue, and Customs Service, an institution which is not Earth Union, not commanded by Earth Union, and not funded primarily by Earth Union. The first submitted draft mentioned Earth Fleet nine times. We have retained seven.
 
     The Review placed this selection in the Earth Union issue only because several essays here discuss armed rescue and external security. Commissioner Ruun's account entered the register early as institutional counterweight before Colonel Venn closed the issue.

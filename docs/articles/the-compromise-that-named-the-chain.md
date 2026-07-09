@@ -1,17 +1,23 @@
 ---
 title: "The Compromise That Named the Chain"
 description: "Moral-historical analysis of the legal language that structured Confederation accession."
-review_selection: "2495.019"
-original_date: "2493.244"
-author: "Dr. Elian Voss, Department of Post-Union Ethics, University of Mars"
+selection_date: "2495.019"
+release_cycle: "2495.019"
 field: "Ethics and History"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+  - "Compact and Confederation Origins"
+originating_publication: "*The Sol Review of Moral History*, Vol. 211"
+original_publication_date: "2493.244"
+author: "Dr. Elian Voss, Department of Post-Union Ethics, University of Mars"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
   - Ethics
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # The Compromise That Named the Chain
 
@@ -20,16 +26,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*The Sol Review of Moral History*, Vol. 211</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2493.244</dd></div>
-  <div><dt>Review selection</dt><dd>2495.019</dd></div>
+  <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement, Compact and Confederation Origins</dd></div>
+<div><dt>Original date</dt><dd>2493.244</dd></div>
+  <div><dt>Republication date</dt><dd>2495.019</dd></div>
   <div><dt>Author</dt><dd>Dr. Elian Voss, Department of Post-Union Ethics, University of Mars</dd></div>
   <div><dt>Field</dt><dd>Ethics and History</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Republished as part of the Review's series on the legal foundations of the Galactic Confederation. The Review notes incompatible arguments in this selection and related Guardianship scholarship republished separately.
 
 <div class="review-abstract" markdown="1">

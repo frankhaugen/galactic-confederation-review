@@ -10,7 +10,7 @@ The Review is funded by the Galactic Confederation but editorially independent. 
 
 The Galactic Confederation Review is not a journal issue system in the old fixed-volume sense.
 
-It is an online republication periodical. Selections are released when they clear editorial review, rights confirmation, translation review, and archive formatting. Some releases stand alone. Some belong to long-running series. Some are later gathered into dossiers when a subject has enough gravity to deserve a reader-facing collection.
+It is a **public mesh republication periodical**. Selections are released when they clear editorial review, rights confirmation, translation review, and archive formatting. Some releases stand alone. Some belong to long-running series. Some are later gathered into dossiers when a subject has enough gravity to deserve a reader-facing collection.
 
 The default unit is the **selection**.
 
@@ -121,21 +121,17 @@ Examples:
 
 A dossier may contain selections released across several dates and several series.
 
-### Issue
-
-Avoid creating new "issues" unless the user explicitly asks for a classic issue.
-
-Existing issue pages may remain as legacy collections, but new work should prefer:
+New work should follow:
 
 ```text
-selection -> series -> optional dossier
+selection -> optional series -> optional dossier
 ```
 
-Do not force every article into an issue.
+Do not force every article into a series or dossier.
 
 ## Site shape
 
-The publication should feel like a living online archive, not a quarterly magazine.
+The publication should feel like a living public mesh archive, not a quarterly magazine.
 
 Recommended reader navigation:
 
@@ -160,8 +156,11 @@ Archive Register
 Authors
 Tags
 Editorial Policy
+Editorial Content
 About the Review
 ```
+
+See `GLOSSARY.md` for preferred in-universe terminology (public mesh, selection, etc.).
 
 The home page should emphasize recent releases and active series.
 
@@ -176,6 +175,7 @@ docs/
   index.md
   about.md
   editorial-policy.md
+  editorial-content.md
 
   articles/
     index.md
@@ -205,8 +205,6 @@ docs/
     audio/
     stylesheets/
 ```
-
-Existing `docs/issues/` pages may remain as legacy redirects or legacy dossiers, but new organizational pages should go under `docs/dossiers/`.
 
 Do not delete or rename existing files unless explicitly instructed.
 
@@ -483,11 +481,18 @@ The Review should not feel like:
 
 ## Authors
 
-There is an authors -page that lists all authors and their works. This should have a short belivable bio, and any relevant information that might exist on an academic's "bio page" on their institution's website.
+There should only be published authors with selections in the archive. Each author
+entry on `docs/authors.md` should include:
 
-There should be a metadata-section that is not visible to the reader, that gives author information for how they write, their voicing, their preclivities for using certain words or stylistic choices for prose or speech, and any other information that might be relevant for an LLM/AI to generate content that sounds like the author. It needs to be within the boundery of making the contribution interesting, witty, and/or engaging to the reader, so no "yoda speak" or something that would kill reader engagement.
+- institution-style affiliation and short believable bio
+- **Republications in this archive** with links and release dates
+- an HTML comment block (`<!-- author-metadata: ... -->`) for LLM voice guidance,
+  not visible to mesh readers in the built site
 
-There should only be published authors. If the author is the Review's editor, its not recorded on the authors page, but rather on a dedicated editorial content page, where extra disclaimers are added. In-universe, the Review shouldn't produce content, so its an indulgence every time, and needs to be handled with care as if this is a real republication institution.
+If the author is Review editorial staff (Language Desk, etc.), list them on
+`docs/editorial-content.md` with extra disclaimers — not on the authors page.
+In-universe, the Review should not produce content; editorial releases are an
+indulgence handled with care.
 
 ## In-universe editorial stance
 
@@ -571,16 +576,14 @@ Before adding an article, decide:
 
 1. What is the selection?
 2. What is its release date?
-3. What series does it belong to?
-4. Does it belong to an existing dossier?
+3. What series, if any, does it belong to?
+4. Does it belong to an existing dossier, if any?
 5. Does it need a new dossier, or is that premature?
 6. Does it need a new series, or does an existing series fit?
 7. Is the article standalone enough to publish without all referenced works?
 8. Does the article header make its origin clear?
 9. Does the title sound like a republished article, not a wiki page?
 10. Does the site navigation still help a reader?
-
-Do not create a new issue for a single article.
 
 Do not create a new series for a single article unless it is clearly intended to continue.
 
@@ -591,8 +594,6 @@ Do not rewrite existing article prose unless asked.
 Do not normalize all dates.
 
 Do not move existing files unless asked.
-
-Do not remove legacy issue pages unless asked.
 
 Do not convert article pages into encyclopedic reference entries.
 

@@ -1,18 +1,25 @@
 ---
 title: "Earth Did Not Steal Your Property"
 description: "An abolitionist legal reply to the Guardianship property complaint — the child hidden in the word Guardian."
-review_selection: "2496.224"
-original_date: "2495.378"
-author: "Dr. Elian Voss, Senior Fellow in Abolitionist Legal History, University of Mars"
+selection_date: "2496.224"
+release_cycle: "2496.224"
 field: "Abolitionist Legal History"
-series: "Founding & Charter Law"
+type: "Institutional Response"
+series:
+  - "Guardianship Debates"
+  - "Earth Union Studies"
+dossiers:
+  - "Guardianship Settlement"
+  - "Earth Union Primer"
+originating_publication: "*Civic Abolition Review*, Vol. 41"
+original_publication_date: "2495.378"
+author: "Dr. Elian Voss, Senior Fellow in Abolitionist Legal History, University of Mars"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
   - Earth Union Institutions
   - Law
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # Earth Did Not Steal Your Property
 
@@ -21,16 +28,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Civic Abolition Review*, Vol. 41</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.378</dd></div>
-  <div><dt>Review selection</dt><dd>2496.224</dd></div>
+  <div><dt>Series</dt><dd>Guardianship Debates, Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement, Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2495.378</dd></div>
+  <div><dt>Republication date</dt><dd>2496.224</dd></div>
   <div><dt>Author</dt><dd>Dr. Elian Voss, Senior Fellow in Abolitionist Legal History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>Abolitionist Legal History</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Dr. Voss wrote this response after renewed circulation of the complaint usually summarized as Earth stole my property. The Review has republished it because the complaint is useful, though not in the way its author intended. It demonstrates why the word Guardianship remains one of the ugliest legal inventions to survive the founding congress: it permits slaveholders to describe ownership as care, then act surprised when others decline the performance.
 
 <div class="review-abstract" markdown="1">

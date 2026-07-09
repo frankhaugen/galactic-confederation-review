@@ -1,17 +1,22 @@
 ---
 title: "The Ansible Is Not a Radio"
 description: "Public-science correction of common misunderstandings about ansible communication."
-review_selection: "2495.301"
-original_date: "2495.267"
-author: "Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr"
+selection_date: "2495.301"
+release_cycle: "2495.301"
 field: "Engineering"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Communications and Transit"
+dossiers:
+  - "Ansible and Communications"
+originating_publication: "*Kharrek Journal of Public Science and Technical Frustration*, Vol. 19"
+original_publication_date: "2495.267"
+author: "Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Earth Fleet
   - Engineering
-issue: "2495.301"
-issue_theme: "Communications"
 ---
 # The Ansible Is Not a Radio
 
@@ -20,16 +25,17 @@ issue_theme: "Communications"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Kharrek Journal of Public Science and Technical Frustration*, Vol. 19</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.301 — *Communications*](../issues/2495-301-communications.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.267</dd></div>
-  <div><dt>Review selection</dt><dd>2495.301</dd></div>
+  <div><dt>Series</dt><dd>Communications and Transit</dd></div>
+  <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
+<div><dt>Original date</dt><dd>2495.267</dd></div>
+  <div><dt>Republication date</dt><dd>2495.301</dd></div>
   <div><dt>Author</dt><dd>Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Engineering</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected for republication due to continuing interest in Earth Fleet expeditionary communications and the persistent public misuse of the word entanglement. Earth Fleet has not responded to the Review's request for technical clarification.
 
 <div class="review-abstract" markdown="1">
@@ -311,7 +317,7 @@ It is also the one most likely to make Earth Fleet officers stare at you until y
 
 The Earth Fleet ansible is almost certainly not what the public thinks it is.
 
-It is not a radio. It is not a universal communicator. It is not a secret civil internet. It is not "entanglement" in the simple sense taught to first-year students, unless Earth has discovered a way to make first-year students wrong in a very expensive direction.
+It is not a radio. It is not a universal communicator. It is not a secret civil mesh in the sense lay readers imagine. It is not "entanglement" in the simple sense taught to first-year students, unless Earth has discovered a way to make first-year students wrong in a very expensive direction.
 
 The best available model is a paired-state, consumable, low-bandwidth strategic messaging system. It likely uses pre-shared physical resources, receiver-side infrastructure, strict authentication, and a mechanism related to entanglement or to a deeper field phenomenon for which entanglement is merely the public handle.
 

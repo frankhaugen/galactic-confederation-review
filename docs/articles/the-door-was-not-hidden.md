@@ -1,18 +1,24 @@
 ---
 title: "The Door Was Not Hidden"
 description: "Earth Union's public-law response to the Havren Claim — recognition without participation."
-review_selection: "2496.204"
-original_date: "2496.008"
-author: "Professor Seli Oranth, Chair of Comparative Public Law, Veyari Interstellar University"
+selection_date: "2496.204"
+release_cycle: "2496.204"
 field: "Comparative Public Law"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Comparative Law"
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+originating_publication: "*Quarterly Review of Status, Custody, and Jurisdiction*, Vol. 118"
+original_publication_date: "2496.008"
+author: "Professor Seli Oranth, Chair of Comparative Public Law, Veyari Interstellar University"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
   - Law
   - Earth Union Institutions
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # The Door Was Not Hidden
 
@@ -21,16 +27,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Quarterly Review of Status, Custody, and Jurisdiction*, Vol. 118</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.008</dd></div>
-  <div><dt>Review selection</dt><dd>2496.204</dd></div>
+  <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2496.008</dd></div>
+  <div><dt>Republication date</dt><dd>2496.204</dd></div>
   <div><dt>Author</dt><dd>Professor Seli Oranth, Chair of Comparative Public Law, Veyari Interstellar University</dd></div>
   <div><dt>Field</dt><dd>Comparative Public Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     This essay was written in response to Advocate Rel Varo Kess's widely circulated article "Earth Stole My Property." The Review republishes both essays because paired documents are useful, and because several Guardian associations complained that the first republication lacked "sufficient respect for lawful dependency." We trust the present essay will resolve that concern to everyone's satisfaction.
 
     The Review has not selected Earth Union child-protection manuals, Fleet accession circulars, or the tribunal opinions cited in the original proceedings.

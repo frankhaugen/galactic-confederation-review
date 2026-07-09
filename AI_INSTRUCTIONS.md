@@ -26,7 +26,7 @@ material.
 
 The Review is not a fixed-volume journal issue system.
 
-It is an online republication periodical ordered by **release sequence**, not by
+It is a public mesh republication periodical ordered by **release sequence**, not by
 topic blocks. The default archival unit is the **selection**: one republished
 article, lecture, archival extract, technical explanation, public argument,
 memoir fragment, field note, or institutional response.
@@ -34,25 +34,19 @@ memoir fragment, field note, or institutional response.
 Reader-facing organization:
 
 ```text
-selection -> series -> optional dossier
+selection -> optional series -> optional dossier
 ```
 
-- **Series** — continuing reader tracks across time (Species Profiles, Earth
-  Union Studies, Comparative Law, and similar).
-- **Dossier** — curated reading packets assembled after enough selections exist
-  on a subject. Dossiers replace the older issue concept for most new work.
-- **Issue** — legacy collection pages under `docs/issues/`. Do not create new
-  issues unless the user explicitly asks for a classic issue.
+- **Series** — optional continuing reader tracks across time (Species Profiles,
+  Earth Union Studies, Comparative Law, and similar).
+- **Dossier** — optional curated reading packets assembled after enough selections
+  exist on a subject.
 
-Do not force every selection into an issue. Do not treat dossiers as locked
-publication issues.
+Do not force every selection into a series or dossier. Standalone releases are
+normal. Do not treat dossiers as locked publication issues.
 
-### Legacy state
-
-The live site may still use issue-based navigation and older article markup
-while migration proceeds. When editing existing selections, preserve their
-current structure unless the user asks to migrate them. New work should follow
-the model in `README.md`.
+Use `GLOSSARY.md` for preferred terminology. In house copy, prefer **the mesh** or
+**public mesh** over "online" or "internet."
 
 ## Terms and dates
 
@@ -125,7 +119,7 @@ Avoid:
 - fan explanation or wink-at-the-reader phrasing
 - direct exposition that explains the setting to an outside audience
 - over-mystical, cinematic, or lore-dump prose
-- modern internet idioms
+- modern mesh-era idioms imported from pre-Compact slang
 - sweeping claims unsupported by the article's own framing
 
 Preferred voicing patterns:
@@ -207,6 +201,8 @@ tags:
 ---
 ```
 
+`series` and `dossiers` are optional. Omit them when a selection stands alone.
+
 Use `selection_date` for the in-universe release date visible to readers. Keep
 `release_cycle` the same as `selection_date` unless site tooling needs a second
 field.
@@ -214,51 +210,15 @@ field.
 Optional: `originating_institution`, `originating_polity`, `translator`,
 `editorial_note`, `series_position`, `audio`.
 
-### New selection header format
+### Selection markup
 
-Each new selection should open with a consistent in-universe header:
+Published selections use YAML front matter plus an HTML masthead block
+(`republication-masthead`), a `!!! editorial "Republication note"` admonition,
+optional `review-abstract`, `## Article`, optional `## Notes`, and optional
+`## Related Review selections`.
 
-```markdown
-# Article Title
-
-## Optional Subtitle
-
-By Author Name
-Institution or role
-
-Original publication: Journal or archive name, date if known
-Republication date: 2496.221
-Series: Historical Summaries
-Dossier: Earth Union Primer
-
-Republication note: Short note from the Review explaining why the work was
-selected, whether it is abridged, and any relevant conflict, controversy, or
-context.
-```
-
-Republication notes should sound like an editorial archive, not a fandom wiki.
-
-Good:
-
-```markdown
-Republication note: Selected for the Earth Union primer track because it gives
-non-Union students a compact account of the 2189 habitat reform and the later
-Compact accession. The Review has preserved the author's dry footnote style
-because removing it would create more harm than clarity.
-```
-
-Bad:
-
-```markdown
-This article explains all the lore you need to understand Earth Union.
-```
-
-### Legacy selection markup
-
-Existing selections may use older front matter (`review_selection`, `issue`,
-`issue_theme`) and HTML masthead blocks (`republication-masthead`,
-`!!! editorial`, `review-abstract`). Preserve that markup when editing unless
-migration is explicitly requested.
+The masthead should list series and dossier membership, republication date, and
+provenance. Do not reference issue numbers.
 
 ### Absent works
 
@@ -301,12 +261,9 @@ docs/
     stylesheets/
 ```
 
-Existing `docs/issues/` pages may remain as legacy collections. New
-organizational pages should go under `docs/dossiers/` and `docs/series/`.
-
 Do not delete, rename, or move existing files unless explicitly instructed.
 
-Recommended reader navigation (target state):
+Recommended reader navigation:
 
 ```text
 Review Home
@@ -329,17 +286,18 @@ packets that may be updated as new selections appear.
 
 ## Authors
 
-`docs/authors.md` lists published authors with short believable bios.
+`docs/authors.md` lists **published contributing authors** only — those with
+selections in the archive register.
 
-Each author entry should include a reader-visible bio and a non-visible metadata
-section for LLM authoring guidance: voice, stylistic tendencies, word
-preferences, and other cues that help generated content sound like the author
-without harming reader engagement. No gimmick dialects.
+Each entry should include:
 
-Only published authors belong on the authors page. Review editorial staff
-content belongs on a dedicated editorial page with extra disclaimers. In-universe,
-the Review should not produce original scholarship; editorial content is an
-indulgence handled with care.
+- institution-style affiliation and short believable bio
+- **Republications in this archive** with links and release dates
+- an HTML comment block (`<!-- author-metadata: ... -->`) for LLM voice guidance
+  (not visible to mesh readers in the built site)
+
+Review editorial staff work belongs on `docs/editorial-content.md` with extra
+disclaimers, not on the authors page. See `GLOSSARY.md`.
 
 ## Agentic contribution rules
 
@@ -347,8 +305,8 @@ Before adding a selection, decide:
 
 1. What is the selection?
 2. What is its release date?
-3. What series does it belong to?
-4. Does it belong to an existing dossier?
+3. What series, if any, does it belong to?
+4. Does it belong to an existing dossier, if any?
 5. Does it need a new dossier, or is that premature?
 6. Does it need a new series, or does an existing series fit?
 7. Is the selection standalone enough without all referenced works?
@@ -362,15 +320,14 @@ When adding a new selection:
 2. Avoid round-number clustering.
 3. Add the file under `docs/articles/`.
 4. Add it to `docs/articles/index.md` (archive register).
-5. Add it to all relevant `docs/series/*.md` pages.
-6. Add it to any relevant `docs/dossiers/*.md` pages.
+5. Add it to relevant `docs/series/*.md` pages when applicable.
+6. Add it to relevant `docs/dossiers/*.md` pages when applicable.
 7. Add audio only if the selection is ready for narration.
 8. Update `mkdocs.yml` navigation if the series or dossier page is new.
 9. Update `docs/authors.md` when needed.
 
 Do not:
 
-- create a new issue for a single selection
 - create a new series for a single selection unless it is clearly intended to
   continue
 - create a new dossier until at least three selections plausibly belong in it,
@@ -378,7 +335,6 @@ Do not:
 - rewrite existing article prose unless asked
 - normalize all dates
 - move existing files unless asked
-- remove legacy issue pages unless asked
 - convert selection pages into encyclopedic reference entries
 
 ## Technical conventions

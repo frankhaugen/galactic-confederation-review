@@ -71,62 +71,28 @@ extra:
   audio:
     caption: "Audio edition · narrated for accessibility"
 
-exclude_docs: |
-  articles/freight-insurance-as-governance.md
-  articles/humanitys-second-abolition.md
-  articles/infinite-brutality-civilian-response.md
-  articles/notes-on-informal-shipboard-ritual.md
-
 nav:
   - Review Home: index.md
   - About the Review: about.md
   - Editorial Policy: editorial-policy.md
-  - Review Issues: issues/index.md
-  - Issue Archive:
-      - "2496.045 · Earth Union":
-          - issues/2496-045-earth-union.md
-          - Bells, Bread, and Field Hospitals: articles/bells-bread-and-field-hospitals.md
-          - The Ships That Do Not Fight: articles/the-ships-that-do-not-fight.md
-          - From Nations To Habitats: articles/from-nations-to-habitats.md
-          - Children of Terra: articles/children-of-terra.md
-          - Why Earth Union Is Still Called Earth Union: articles/why-earth-union-is-still-called-earth-union.md
-          - The State That Kept Saying Yes: articles/the-state-that-kept-saying-yes.md
-          - The Pressure Vessel Called Earth: articles/the-pressure-vessel-called-earth.md
-          - Earth Did Not Steal Your Property: articles/earth-did-not-steal-your-property.md
-          - Infinite Brutality, Infinite Compassion: articles/infinite-brutality-infinite-compassion.md
-      - "2496.216 · Comparative Law":
-          - issues/2496-216-comparative-law.md
-          - Prize-Class Recovery and the Vigilantism Line: articles/prize-class-recovery-and-the-vigilantism-line.md
-          - Routine Predation in Low-Sovereignty Corridors: articles/routine-predation-in-low-sovereignty-corridors.md
-          - The Species Without Mothers: articles/the-species-without-mothers.md
-          - Institutions Without Parenthood: articles/institutions-without-parenthood.md
-      - "2495.019 · Guardianship":
-          - issues/2495-019-guardianship.md
-          - The Galactic Confederation at Founding: articles/galactic-confederation-at-founding.md
-          - The Compromise That Named the Chain: articles/the-compromise-that-named-the-chain.md
-          - The Chain Was Not Softened: articles/the-chain-was-not-softened.md
-          - The Human Trap in the Guardianship Settlement: articles/the-human-trap-in-guardianship-settlement.md
-          - Earth Stole My Property: articles/earth-stole-my-property.md
-          - The Door Was Not Hidden: articles/the-door-was-not-hidden.md
-          - When Moral Alignment Failed at Interstellar Scale: articles/when-moral-alignment-failed-at-interstellar-scale.md
-          - What the Ledger Refuses to See: articles/what-the-ledger-refuses-to-see.md
-          - Status Laundering at the Registry Interface: articles/status-laundering-at-the-registry-interface.md
-      - "2494.338 · Hard Science":
-          - issues/2494-338-hard-science.md
-          - Faster-Than-Light Transit: articles/ftl-transit-operational-tradeoffs.md
-          - C-Series Containers and the Founding Standard: articles/c-series-containers-founding-standard.md
-          - The Ship Is The Flag: articles/the-ship-is-the-flag.md
-          - The Ship That Can Sign Its Own Shadow: articles/the-ship-that-can-sign-its-own-shadow.md
-          - The Captain Is Not Always A Captain: articles/the-captain-is-not-always-a-captain.md
-          - What Fits Inside the Standard: articles/what-fits-inside-the-standard.md
-          - The Lie Of "Just One Passenger": articles/the-lie-of-just-one-passenger.md
-          - The Margin Was The Freedom: articles/the-margin-was-the-freedom.md
-          - The Thinking Software Taboo: articles/the-thinking-software-taboo.md
-          - Capability Is Not Classification: articles/capability-is-not-classification.md
-      - "2495.301 · Communications":
-          - issues/2495-301-communications.md
-          - The Confederation Does Not Deliver Messages: articles/the-confederation-does-not-deliver-messages.md
-          - The Ansible Is Not a Radio: articles/ansible-is-not-a-radio.md
+  - Editorial Content: editorial-content.md
+  - Series:
+      - series/index.md
+      - Species Profiles: series/species-profiles.md
+      - Historical Summaries: series/historical-summaries.md
+      - Earth Union Studies: series/earth-union-studies.md
+      - Comparative Law: series/comparative-law.md
+      - Guardianship Debates: series/guardianship-debates.md
+      - Standards and Infrastructure: series/standards-and-infrastructure.md
+      - Communications and Transit: series/communications-and-transit.md
+      - Fleet and Rescue Doctrine: series/fleet-and-rescue-doctrine.md
+  - Dossiers:
+      - dossiers/index.md
+      - Earth Union Primer: dossiers/earth-union-primer.md
+      - Guardianship Settlement: dossiers/guardianship-settlement.md
+      - Compact and Confederation Origins: dossiers/compact-and-confederation-origins.md
+      - Ansible and Communications: dossiers/ansible-and-communications.md
+      - Ship Law and Registry: dossiers/ship-law-and-registry.md
   - Archive Register: articles/index.md
   - Classification Index: tags.md
   - Contributing Authors: authors.md

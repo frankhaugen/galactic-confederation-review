@@ -1,17 +1,22 @@
 ---
 title: "Why Earth Union Is Still Called Earth Union"
 description: "Civic naming, legal continuity, and the political value of inherited institutional names."
-review_selection: "2496.201"
-original_date: "2496.201"
-author: "Review Language Desk"
+selection_date: "2496.201"
+release_cycle: "2496.201"
 field: "Policy and History"
-series: "Earth Union Institutions"
+type: "Editorial Note"
+series:
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+originating_publication: "*Galactic Confederation Review*, Language Desk"
+original_publication_date: "2496.201"
+author: "Review Language Desk"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - Policy
   - History
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # Why Earth Union Is Still Called Earth Union
 
@@ -20,16 +25,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Galactic Confederation Review*, Language Desk</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.201</dd></div>
-  <div><dt>Review selection</dt><dd>2496.201</dd></div>
+  <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2496.201</dd></div>
+  <div><dt>Republication date</dt><dd>2496.201</dd></div>
   <div><dt>Author</dt><dd>Review Language Desk</dd></div>
   <div><dt>Field</dt><dd>Policy and History</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Last issue's language desk essay on "Children of Terra" produced more reader correspondence than our last six shipping-law republications combined. This confirms either the health of Confederation civic curiosity or the collapse of serious reading habits. Encouraged against our better judgment, we continue with another Earth Union naming oddity.
 
 <div class="review-abstract" markdown="1">

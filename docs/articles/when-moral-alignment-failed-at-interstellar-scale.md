@@ -1,17 +1,24 @@
 ---
 title: "When Moral Alignment Failed at Interstellar Scale"
 description: "Why the Interstellar Union of Aligned Societies failed and the Galactic Confederation turned procedural."
-review_selection: "2496.215"
-original_date: "2493.112"
-author: "Professor Keth Maren, Department of Founding History, University of Mars"
+selection_date: "2496.215"
+release_cycle: "2496.215"
 field: "History and Policy"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Historical Summaries"
+  - "Guardianship Debates"
+dossiers:
+  - "Compact and Confederation Origins"
+  - "Guardianship Settlement"
+originating_publication: "*Annals of Post-Compact Political History*, Vol. 41"
+original_publication_date: "2493.112"
+author: "Professor Keth Maren, Department of Founding History, University of Mars"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - History
   - Confederation Institutions
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # When Moral Alignment Failed at Interstellar Scale
 
@@ -20,16 +27,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Annals of Post-Compact Political History*, Vol. 41</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2493.112</dd></div>
-  <div><dt>Review selection</dt><dd>2496.215</dd></div>
+  <div><dt>Series</dt><dd>Historical Summaries, Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Compact and Confederation Origins, Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2493.112</dd></div>
+  <div><dt>Republication date</dt><dd>2496.215</dd></div>
   <div><dt>Author</dt><dd>Professor Keth Maren, Department of Founding History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>History and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Republished during renewed argument over whether the Galactic Confederation's procedural minimalism constitutes moral abdication. The Review notes that several IUAS founding memorials and successor-union constitutional drafts remain outside this archive.
 
 <div class="review-abstract" markdown="1">

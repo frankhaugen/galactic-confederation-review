@@ -1,17 +1,24 @@
 ---
 title: "From Nations To Habitats"
 description: "Institutional history of Earth Union from dependent habitats through Greth contact, Compact accession, IUAS, and Confederation membership."
-review_selection: "2496.199"
-original_date: "2495.441"
-author: "Professor Amira Sato-Klein, Department of Earth Political Development, University of Geneva-Hellas"
+selection_date: "2496.199"
+release_cycle: "2496.199"
 field: "History and Policy"
-series: "Earth Union Institutions"
+type: "Republication"
+series:
+  - "Historical Summaries"
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+  - "Compact and Confederation Origins"
+originating_publication: "*Introductory Compendium For Students Of Earth Union*, 19th revised edition"
+original_publication_date: "2495.441"
+author: "Professor Amira Sato-Klein, Department of Earth Political Development, University of Geneva-Hellas"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - History
   - Policy
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # From Nations To Habitats
 
@@ -20,16 +27,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Introductory Compendium For Students Of Earth Union*, 19th revised edition</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.441</dd></div>
-  <div><dt>Review selection</dt><dd>2496.199</dd></div>
+  <div><dt>Series</dt><dd>Historical Summaries, Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer, Compact and Confederation Origins</dd></div>
+<div><dt>Original date</dt><dd>2495.441</dd></div>
+  <div><dt>Republication date</dt><dd>2496.199</dd></div>
   <div><dt>Author</dt><dd>Professor Amira Sato-Klein, Department of Earth Political Development, University of Geneva-Hellas</dd></div>
   <div><dt>Field</dt><dd>History and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     This chapter assumes no prior familiarity with pre-Union Earth politics. Students from non-Earth polities should remember that many of the old names were administrative, cultural, national, linguistic, military, and emotional categories at the same time. This is one reason early Earth history is so irritating to teach.
 
 <div class="review-abstract" markdown="1">

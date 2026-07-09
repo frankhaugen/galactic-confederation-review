@@ -1,18 +1,23 @@
 ---
 title: "Earth Stole My Property"
 description: "The Havren Claim — how Earth Union procedure dissolved Guardianship without abolishing it."
-review_selection: "2496.203"
-original_date: "2495.312"
-author: "Advocate Rel Varo Kess, Senior Counsel, Association for Lawful Guardianship Claimants"
+selection_date: "2496.203"
+release_cycle: "2496.203"
 field: "Property and Status Law"
-series: "Founding & Charter Law"
+type: "Public Argument"
+series:
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+originating_publication: "*Journal of Inter-Polity Property and Status Law*, Vol. 73"
+original_publication_date: "2495.312"
+author: "Advocate Rel Varo Kess, Senior Counsel, Association for Lawful Guardianship Claimants"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
   - Law
   - Earth Union Institutions
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # Earth Stole My Property
 
@@ -21,16 +26,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Inter-Polity Property and Status Law*, Vol. 73</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.312</dd></div>
-  <div><dt>Review selection</dt><dd>2496.203</dd></div>
+  <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2495.312</dd></div>
+  <div><dt>Republication date</dt><dd>2496.203</dd></div>
   <div><dt>Author</dt><dd>Advocate Rel Varo Kess, Senior Counsel, Association for Lawful Guardianship Claimants</dd></div>
   <div><dt>Field</dt><dd>Property and Status Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     The Review publishes this essay as part of its series on contested Guardianship enforcement across member jurisdictions. The author's terminology reflects the legal position of claimant Guardians and is not endorsed by the Review. Several readers will find it objectionable. That is not a defect in the republication.
 
     The Review has not selected Earth Union child-protection filings, Fleet custody transcripts, or the Confederation tribunal opinion cited in the original proceedings.

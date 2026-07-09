@@ -1,17 +1,23 @@
 ---
 title: "Infinite Brutality, Infinite Compassion"
 description: "Boarding Marine doctrine, rescue assault, and the motto that survived training."
-review_selection: "2496.221"
-original_date: "2492.156"
-author: "Colonel Mara Venn, Earth Fleet Marine Corps (retired)"
+selection_date: "2496.221"
+release_cycle: "2496.221"
 field: "History and Military Ethics"
-series: "Earth Union Institutions"
+type: "Field Memoir"
+series:
+  - "Fleet and Rescue Doctrine"
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+originating_publication: "*Proceedings of the Earth Fleet Historical Society*, Vol. 144"
+original_publication_date: "2492.156"
+author: "Colonel Mara Venn, Earth Fleet Marine Corps (retired)"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - Earth Fleet
   - Military Ethics
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # Infinite Brutality, Infinite Compassion
 
@@ -20,16 +26,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Proceedings of the Earth Fleet Historical Society*, Vol. 144</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2492.156</dd></div>
-  <div><dt>Review selection</dt><dd>2496.221</dd></div>
+  <div><dt>Series</dt><dd>Fleet and Rescue Doctrine, Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2492.156</dd></div>
+  <div><dt>Republication date</dt><dd>2496.221</dd></div>
   <div><dt>Author</dt><dd>Colonel Mara Venn, Earth Fleet Marine Corps (retired)</dd></div>
   <div><dt>Field</dt><dd>History and Military Ethics</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     This essay is adapted from Colonel Venn's Harker Memorial Lecture on the history and doctrine of Earth Fleet Boarding Marines. It is republished as part of the Review's series on Earth Union external security institutions. The views expressed are those of the author and do not constitute current Earth Fleet doctrine, though several Fleet officers have informed the Review that this disclaimer is legally necessary and practically unconvincing.
 
     The Review notes that Professor Eleanor Hayes's critique of boarding doctrine and the Historical Society's formal reply have not been selected for republication at this time.

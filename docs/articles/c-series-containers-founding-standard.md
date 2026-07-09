@@ -1,17 +1,22 @@
 ---
 title: "C-Series Containers and the Founding Standard"
 description: "The C10, C20, and C40 container family adopted during founding standards work."
-review_selection: "2496.212"
-original_date: "2418.144"
-author: "Confederation Standards Office, Containerization Working Group"
+selection_date: "2496.212"
+release_cycle: "2496.212"
 field: "Engineering and Standards"
-series: "Infrastructure & Commerce"
+type: "Technical Note"
+series:
+  - "Standards and Infrastructure"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "*Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series"
+original_publication_date: "2418.144"
+author: "Confederation Standards Office, Containerization Working Group"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Standards
   - Engineering
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # C-Series Containers and the Founding Standard
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Confederation Standards Office Technical Memoranda*, Founding Infrastructure Series</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2418.144</dd></div>
-  <div><dt>Review selection</dt><dd>2496.212</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2418.144</dd></div>
+  <div><dt>Republication date</dt><dd>2496.212</dd></div>
   <div><dt>Author</dt><dd>Confederation Standards Office, Containerization Working Group</dd></div>
   <div><dt>Field</dt><dd>Engineering and Standards</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected for republication because the C-series container standard is a useful example of founding-era Confederation work that was neither ceremonial nor dramatic, but became structurally important. The memorandum is also notable for its restraint. It treats interstellar commerce as a problem of dimensions, locks, markings, inspections, liability, and patience.
 
 <div class="review-abstract" markdown="1">

@@ -1,17 +1,22 @@
 ---
 title: "The Chain Was Not Softened"
 description: "Abolitionist legal argument against conciliatory accounts of the Guardianship compromise."
-review_selection: "2495.022"
-original_date: "2494.088"
-author: "Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars"
+selection_date: "2495.022"
+release_cycle: "2495.022"
 field: "Law and Ethics"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+originating_publication: "*The Journal of Human Moral Law*, Vol. 302"
+original_publication_date: "2494.088"
+author: "Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
   - Law
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # The Chain Was Not Softened
 
@@ -20,16 +25,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*The Journal of Human Moral Law*, Vol. 302</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.088</dd></div>
-  <div><dt>Review selection</dt><dd>2495.022</dd></div>
+  <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
+<div><dt>Original date</dt><dd>2494.088</dd></div>
+  <div><dt>Republication date</dt><dd>2495.022</dd></div>
   <div><dt>Author</dt><dd>Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>Law and Ethics</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Republished with permission as part of the Review's series on the legal foundations of the Galactic Confederation. The Review notes that several cited human diplomatic rebuttals have not been selected for republication.
 
 <div class="review-abstract" markdown="1">

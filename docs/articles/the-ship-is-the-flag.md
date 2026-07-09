@@ -1,17 +1,22 @@
 ---
 title: "The Ship Is The Flag"
 description: "Registry, route freedom, and how the Confederation replaced flag jurisdictions with hull standing as commercial legal identity."
-review_selection: "2496.209"
-original_date: "2494.181"
-author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+selection_date: "2496.209"
+release_cycle: "2496.209"
 field: "Commercial and Maritime Law"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Standards and Infrastructure"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "*Journal of Interstellar Mercantile Systems*, Vol. 89"
+original_publication_date: "2494.181"
+author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
   - Founding & Charter Law
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # The Ship Is The Flag
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Interstellar Mercantile Systems*, Vol. 89</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.181</dd></div>
-  <div><dt>Review selection</dt><dd>2496.209</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2494.181</dd></div>
+  <div><dt>Republication date</dt><dd>2496.209</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Professor Mol Vesh wrote this essay after the Review selected *The Ship That Can Sign Its Own Shadow*. We are told, by sources close to the author, that the second essay began as three footnotes, became an appendix, then escaped containment. The Review sympathizes.
 
 <div class="review-abstract" markdown="1">

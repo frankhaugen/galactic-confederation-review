@@ -108,8 +108,10 @@ def parse_blockquote_fields(block: str) -> dict[str, str]:
             fields["original"] = line.split(":", 1)[1].strip()
         elif line.lower().startswith("original date:"):
             fields["original_date"] = line.split(":", 1)[1].strip()
-        elif line.lower().startswith("review selection:"):
-            fields["review_selection"] = line.split(":", 1)[1].strip()
+        elif line.lower().startswith("republication date:") or line.lower().startswith(
+            "review selection:"
+        ):
+            fields["selection_date"] = line.split(":", 1)[1].strip()
         elif line.lower().startswith("author:"):
             fields["author"] = line.split(":", 1)[1].strip()
         elif line.lower().startswith("field:"):
@@ -159,8 +161,9 @@ def transform(path: Path, info: dict) -> None:
         "---",
         f'title: "{title}"',
         f'description: "{info["description"]}"',
-        f'review_selection: "{parsed.get("review_selection", "")}"',
-        f'original_date: "{parsed.get("original_date", "")}"',
+        f'selection_date: "{parsed.get("selection_date", "")}"',
+        f'release_cycle: "{parsed.get("selection_date", "")}"',
+        f'original_publication_date: "{parsed.get("original_date", "")}"',
         f'author: "{parsed.get("author", "")}"',
         f'field: "{parsed.get("field", "")}"',
         f'series: "{info["series"]}"',

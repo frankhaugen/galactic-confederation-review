@@ -1,17 +1,22 @@
 ---
 title: "The Ship That Can Sign Its Own Shadow"
 description: "Legal personality, separated ownership, and how registered hulls make freedom of commerce and navigation operable at Confederation scale."
-review_selection: "2496.210"
-original_date: "2494.167"
-author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+selection_date: "2496.210"
+release_cycle: "2496.210"
 field: "Commercial and Maritime Law"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Standards and Infrastructure"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "*Journal of Interstellar Mercantile Systems*, Vol. 88"
+original_publication_date: "2494.167"
+author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
   - Founding & Charter Law
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # The Ship That Can Sign Its Own Shadow
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Interstellar Mercantile Systems*, Vol. 88</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.167</dd></div>
-  <div><dt>Review selection</dt><dd>2496.210</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2494.167</dd></div>
+  <div><dt>Republication date</dt><dd>2496.210</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     This essay is frequently assigned in introductory courses on Confederation commercial law, usually after students have complained that ship registry rules are "administrative barnacle-growth." Professor Mol Vesh argues that the barnacles are load-bearing. Selected as the legal counterpart to the C-series container standard in the Hard Science planning cycle.
 
 <div class="review-abstract" markdown="1">

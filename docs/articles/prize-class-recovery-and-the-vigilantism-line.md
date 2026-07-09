@@ -1,17 +1,20 @@
 ---
 title: "Prize-Class Recovery and the Vigilantism Line"
 description: "Prize Court doctrine on self-defense exclusivity and registry enforcement."
-review_selection: "2496.216"
-original_date: "2495.334"
-author: "Advocate-Commissioner Senna Orr, Prize Court liaison practice"
+selection_date: "2496.216"
+release_cycle: "2496.216"
 field: "Maritime Law and Confederation Procedure"
-series: "Law, Cognition & Enforcement"
+type: "Republication"
+series:
+  - "Comparative Law"
+originating_publication: "*Lucene Institute Procedural Review*, Vol. 156"
+original_publication_date: "2495.334"
+author: "Advocate-Commissioner Senna Orr, Prize Court liaison practice"
+status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Maritime Law
   - Enforcement
-issue: "2496.216"
-issue_theme: "Comparative Law"
 ---
 # Prize-Class Recovery and the Vigilantism Line
 
@@ -20,16 +23,16 @@ issue_theme: "Comparative Law"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Lucene Institute Procedural Review*, Vol. 156</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.334</dd></div>
-  <div><dt>Review selection</dt><dd>2496.216</dd></div>
+  <div><dt>Series</dt><dd>Comparative Law</dd></div>
+<div><dt>Original date</dt><dd>2495.334</dd></div>
+  <div><dt>Republication date</dt><dd>2496.216</dd></div>
   <div><dt>Author</dt><dd>Advocate-Commissioner Senna Orr, Prize Court liaison practice</dd></div>
   <div><dt>Field</dt><dd>Maritime Law and Confederation Procedure</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected after authenticated sector recordings of Prize Court determinations circulated beyond legal professional channels. The Review notes that several Earth Fleet boarding memoranda cited in the original remain restricted.
 
 <div class="review-abstract" markdown="1">

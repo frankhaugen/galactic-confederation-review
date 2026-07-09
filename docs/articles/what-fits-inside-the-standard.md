@@ -1,17 +1,22 @@
 ---
 title: "What Fits Inside the Standard"
 description: "Secondary uses of C-series containers beyond freight."
-review_selection: "2496.213"
-original_date: "2495.091"
-author: "Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College"
+selection_date: "2496.213"
+release_cycle: "2496.213"
 field: "Infrastructure Sociology"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Standards and Infrastructure"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "*Undergraduate Papers in Port Society*, Tesh-Vorr Interchange College, No. 44"
+original_publication_date: "2495.091"
+author: "Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Standards
   - Sociology
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # What Fits Inside the Standard
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Undergraduate Papers in Port Society*, Tesh-Vorr Interchange College, No. 44</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.091</dd></div>
-  <div><dt>Review selection</dt><dd>2496.213</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2495.091</dd></div>
+  <div><dt>Republication date</dt><dd>2496.213</dd></div>
   <div><dt>Author</dt><dd>Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College</dd></div>
   <div><dt>Field</dt><dd>Infrastructure Sociology</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected as a student essay of unusual clarity on a subject often treated as too ordinary for notice. The Review has republished an excerpt rather than the full bachelor thesis. The omitted sections concern local permitting disputes, survey design, and a useful but lengthy appendix on container salvage law.
 
 <div class="review-abstract" markdown="1">

@@ -1,17 +1,20 @@
 ---
 title: "Institutions Without Parenthood"
 description: "Threni cohort bonds, technocracy, and the human misreading of cold institutions."
-review_selection: "2496.220"
-original_date: "2495.144"
-author: "Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology"
+selection_date: "2496.220"
+release_cycle: "2496.220"
 field: "Xenology and Policy"
-series: "Comparative Policy & Xenology"
+type: "Republication"
+series:
+  - "Species Profiles"
+originating_publication: "*Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64"
+original_publication_date: "2495.144"
+author: "Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology"
+status: "Public archive edition"
 tags:
   - Comparative Policy & Xenology
   - Threni
   - Xenology
-issue: "2496.216"
-issue_theme: "Comparative Law"
 ---
 # Institutions Without Parenthood
 
@@ -20,16 +23,16 @@ issue_theme: "Comparative Law"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.144</dd></div>
-  <div><dt>Review selection</dt><dd>2496.220</dd></div>
+  <div><dt>Series</dt><dd>Species Profiles</dd></div>
+<div><dt>Original date</dt><dd>2495.144</dd></div>
+  <div><dt>Republication date</dt><dd>2496.220</dd></div>
   <div><dt>Author</dt><dd>Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology</dd></div>
   <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected as an accessible counterexample for policymakers who mistake emotional warmth for institutional reliability. The Review notes that several Threni wandering-mortality tables and hatchling-pond sanctity proceedings remain outside this archive.
 
 <div class="review-abstract" markdown="1">

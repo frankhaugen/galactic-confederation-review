@@ -1,18 +1,25 @@
 ---
 title: "The Galactic Confederation at Founding"
 description: "Chronological history of how the GC was founded — from Compact dissolution through IUAS collapse to the 2295 proclamation."
-review_selection: "2495.018"
-original_date: "2494.044"
-author: "Professor Keth Maren, Department of Founding History, University of Mars"
+selection_date: "2495.018"
+release_cycle: "2495.018"
 field: "History and Policy"
-series: "Founding & Charter Law"
+type: "Republication"
+series:
+  - "Historical Summaries"
+  - "Guardianship Debates"
+dossiers:
+  - "Guardianship Settlement"
+  - "Compact and Confederation Origins"
+originating_publication: "*Annals of Post-Compact Political History*, Vol. 38 (Founding Surveys)"
+original_publication_date: "2494.044"
+author: "Professor Keth Maren, Department of Founding History, University of Mars"
+status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - History
   - Confederation Institutions
   - Guardianship
-issue: "2495.019"
-issue_theme: "Guardianship"
 ---
 # The Galactic Confederation at Founding
 
@@ -21,16 +28,17 @@ issue_theme: "Guardianship"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Annals of Post-Compact Political History*, Vol. 38 (Founding Surveys)</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2495.019 — *Guardianship*](../issues/2495-019-guardianship.md)</dd></div>
-  <div><dt>Original date</dt><dd>2494.044</dd></div>
-  <div><dt>Review selection</dt><dd>2495.018</dd></div>
+  <div><dt>Series</dt><dd>Historical Summaries, Guardianship Debates</dd></div>
+  <div><dt>Dossier</dt><dd>Guardianship Settlement, Compact and Confederation Origins</dd></div>
+<div><dt>Original date</dt><dd>2494.044</dd></div>
+  <div><dt>Republication date</dt><dd>2495.018</dd></div>
   <div><dt>Author</dt><dd>Professor Keth Maren, Department of Founding History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>History and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     The board held this chronology from the first Guardianship planning cycle as the issue's historical anchor. Argumentative essays on the chain, the ledger, and registry enforcement were selected later. The Review notes that Charter drafting memoranda, IUAS successor constitutional drafts, and several Nosies founding circulars remain outside this archive.
 
 <div class="review-abstract" markdown="1">

@@ -1,17 +1,22 @@
 ---
 title: "Bells, Bread, and Field Hospitals"
 description: "Earth-origin religious humanitarian institutions in external service."
-review_selection: "2496.045"
-original_date: "2495.178"
-author: "Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology"
+selection_date: "2496.045"
+release_cycle: "2496.045"
 field: "Xenology and Policy"
-series: "Earth Union Institutions"
+type: "Republication"
+series:
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+originating_publication: "*Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)"
+original_publication_date: "2495.178"
+author: "Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - Xenology
   - Humanitarian Practice
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # Bells, Bread, and Field Hospitals
 
@@ -20,16 +25,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.178</dd></div>
-  <div><dt>Review selection</dt><dd>2496.045</dd></div>
+  <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2495.178</dd></div>
+  <div><dt>Republication date</dt><dd>2496.045</dd></div>
   <div><dt>Author</dt><dd>Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology</dd></div>
   <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected for republication after renewed debate over Earth-origin humanitarian practice in Confederation frontier operations. This essay is adapted from an internal Cultural Exchange Office briefing. The Review notes that several cited Catholic institutional responses and secular counter-briefings have not been selected for republication.
 
 <div class="review-abstract" markdown="1">

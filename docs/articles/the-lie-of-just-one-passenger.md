@@ -1,17 +1,22 @@
 ---
-title: "The Lie Of "Just One Passenger""
+title: "The Lie Of "Just One Passenger"
 description: "Why carrying even one passenger alters vessel class, insurance, crew duty, and port clearance — transport law for small operators."
-review_selection: "2496.205"
-original_date: "2495.112"
-author: "Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems"
+selection_date: "2496.205"
+release_cycle: "2496.205"
 field: "Transport Liability and Civil Movement Law"
-series: "Infrastructure & Commerce"
+type: "Republication"
+series:
+  - "Standards and Infrastructure"
+dossiers:
+  - "Ship Law and Registry"
+originating_publication: "*Port Authority Quarterly*, Issue 214"
+original_publication_date: "2495.112"
+author: "Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems"
+status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
   - Transport Law
-issue: "2494.338"
-issue_theme: "Hard Science"
 ---
 # The Lie Of "Just One Passenger"
 
@@ -20,16 +25,17 @@ issue_theme: "Hard Science"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Port Authority Quarterly*, Issue 214</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.112</dd></div>
-  <div><dt>Review selection</dt><dd>2496.205</dd></div>
+  <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
+  <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
+<div><dt>Original date</dt><dd>2495.112</dd></div>
+  <div><dt>Republication date</dt><dd>2496.205</dd></div>
   <div><dt>Author</dt><dd>Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems</dd></div>
   <div><dt>Field</dt><dd>Transport Liability and Civil Movement Law</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     This article is often assigned in certification courses for small operators, usually on the day after students discover that cargo does not scream, sue, require atmosphere compatibility, or have relatives. The Review has restored several passages omitted from later training editions, including Professor Osh's footnote on passenger pets, which remains unfair to pets and accurate about their owners.
 
 <div class="review-abstract" markdown="1">

@@ -1,17 +1,20 @@
 ---
 title: "Routine Predation in Low-Sovereignty Corridors"
 description: "A comparative offense-ecology model of why interstellar piracy persists — strain, opportunity, enforcement geometry, and armament asymmetry."
-review_selection: "2496.208"
-original_date: "2495.278"
-author: "Dr. Osel Var-Keth, Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr"
+selection_date: "2496.208"
+release_cycle: "2496.208"
 field: "Comparative Criminology"
-series: "Law, Cognition & Enforcement"
+type: "Republication"
+series:
+  - "Comparative Law"
+originating_publication: "*Kharrek Annals of Transit Offense Ecology*, Vol. 31"
+original_publication_date: "2495.278"
+author: "Dr. Osel Var-Keth, Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr"
+status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Maritime Law
   - Enforcement
-issue: "2496.216"
-issue_theme: "Comparative Law"
 ---
 # Routine Predation in Low-Sovereignty Corridors
 
@@ -20,16 +23,16 @@ issue_theme: "Comparative Law"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Kharrek Annals of Transit Offense Ecology*, Vol. 31</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.216 — *Comparative Law*](../issues/2496-216-comparative-law.md)</dd></div>
-  <div><dt>Original date</dt><dd>2495.278</dd></div>
-  <div><dt>Review selection</dt><dd>2496.208</dd></div>
+  <div><dt>Series</dt><dd>Comparative Law</dd></div>
+<div><dt>Original date</dt><dd>2495.278</dd></div>
+  <div><dt>Republication date</dt><dd>2496.208</dd></div>
   <div><dt>Author</dt><dd>Dr. Osel Var-Keth, Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Comparative Criminology</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Selected as the offense-ecology counterpart to Advocate-Commissioner Orr's prize-procedure essay, held in the register before the Comparative Law issue closed. The Review notes that several Cartel-linked victimology annexes and Earth Fleet patrol-density tables cited in the original remain outside this archive.
 
 <div class="review-abstract" markdown="1">

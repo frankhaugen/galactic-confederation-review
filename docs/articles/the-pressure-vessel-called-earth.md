@@ -1,17 +1,22 @@
 ---
 title: "The Pressure Vessel Called Earth"
 description: "A Kharrek scholar on Earth Union's moral sincerity, civic safety, and the interventionist patience of a polity that arms its good intentions."
-review_selection: "2496.223"
-original_date: "2496.144"
-author: "Professor Sarekh Venn-Tor, Department of Comparative Statecraft, Tesh-Vorr Civic War College"
+selection_date: "2496.223"
+release_cycle: "2496.223"
 field: "Strategic Ethics and Comparative Statecraft"
-series: "Earth Union Institutions"
+type: "Republication"
+series:
+  - "Earth Union Studies"
+dossiers:
+  - "Earth Union Primer"
+originating_publication: "*Strategic Ethics Review*, Vol. 66"
+original_publication_date: "2496.144"
+author: "Professor Sarekh Venn-Tor, Department of Comparative Statecraft, Tesh-Vorr Civic War College"
+status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - Comparative Policy & Xenology
   - Policy
-issue: "2496.045"
-issue_theme: "Earth Union"
 ---
 # The Pressure Vessel Called Earth
 
@@ -20,16 +25,17 @@ issue_theme: "Earth Union"
 <dl class="masthead-register">
   <div><dt>Originally published in</dt><dd markdown="1">*Strategic Ethics Review*, Vol. 66</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
-  <div><dt>Review issue</dt><dd markdown="1">[2496.045 — *Earth Union*](../issues/2496-045-earth-union.md)</dd></div>
-  <div><dt>Original date</dt><dd>2496.144</dd></div>
-  <div><dt>Review selection</dt><dd>2496.223</dd></div>
+  <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
+  <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
+<div><dt>Original date</dt><dd>2496.144</dd></div>
+  <div><dt>Republication date</dt><dd>2496.223</dd></div>
   <div><dt>Author</dt><dd>Professor Sarekh Venn-Tor, Department of Comparative Statecraft, Tesh-Vorr Civic War College</dd></div>
   <div><dt>Field</dt><dd>Strategic Ethics and Comparative Statecraft</dd></div>
 </dl>
 
 </div>
 
-!!! editorial "Editorial note"
+!!! editorial "Republication note"
     Professor Sarekh Venn-Tor is a Kharrek scholar of statecraft and military ethics whose work often concerns the political consequences of moral certainty. This essay drew immediate criticism from Earth Union readers, many of whom insisted that the author had misunderstood Earth policy while proving several of his points in the same correspondence. It also drew criticism from Kharrek traditionalists, who disliked his description of Luptaxi patronage as morally exposed. The Review considers this a productive distribution of anger.
 
 <div class="review-abstract" markdown="1">

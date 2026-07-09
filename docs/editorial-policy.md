@@ -4,17 +4,19 @@ The Galactic Confederation Review selects works according to public-interest rel
 
 The current public archive edition is indexed to **review cycle 2496.221**. The Review does not use present-day publication timestamps on republication pages; each article carries its original publication date and its Review selection date in Confederation standard ordinal notation.
 
-## Issues
+## Publication model
 
-The Review publishes in **planned issues** — each built around a subject the editorial board can state plainly: *this issue is Guardianship*, *that one is Communications*, *the spring slot is hard science*.
+The Review is a **public mesh republication periodical** ordered by **release sequence**. The default archival unit is the **selection**: one republished work released when it clears editorial review, rights confirmation, translation review, and archive formatting.
 
-Each issue has:
+Selections may belong to **series** — continuing reader tracks across time — and may later be gathered into **dossiers**, curated reading packets assembled after enough related selections exist. Neither series nor dossiers are fixed-period releases.
 
-- an **issue number** (identifying the collection)
-- a **subject title** (*Guardianship*, *Communications*, *Hard Science*, and so on)
-- an **issue release** date (when the board closed the collection)
+Each selection carries:
 
-The board may hold individual selections across many cycles while waiting for a planned issue to complete. A Guardianship issue, for example, may open with founding essays and close years later when enforcement and ledger scholarship arrives. Individual articles retain their own **selection dates**.
+- a **selection date** (when the Review released it into the public archive)
+- its original publication context and date
+- optional series and dossier membership
+
+The board may hold individual selections across many cycles while waiting for a counterpart, reply, or technical companion. A Guardianship debate, for example, may open with founding essays and receive enforcement and ledger scholarship years later. Release dates therefore need not cluster neatly by subject.
 
 ## Selection criteria
 

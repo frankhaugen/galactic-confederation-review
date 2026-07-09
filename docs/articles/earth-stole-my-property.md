@@ -404,6 +404,7 @@ Advocate Kess filed the Confederation appeal on behalf of the Association for La
 
 ## Related Review selections
 
+- [Earth Did Not Steal Your Property](earth-did-not-steal-your-property.md)
 - [The Door Was Not Hidden](the-door-was-not-hidden.md)
 - [The Human Trap in the Guardianship Settlement](the-human-trap-in-guardianship-settlement.md)
 - [Status Laundering at the Registry Interface](status-laundering-at-the-registry-interface.md)

@@ -130,7 +130,25 @@ Known for uncompromising abolitionist legal history and disputes with scholars w
 
 Department of Post-Union Ethics, University of Mars.
 
-Known for moral-historical analysis of Earth Union's founding compromises and the language by which unfreedom entered Confederation law.
+Known for moral-historical analysis of Earth Union's founding compromises, abolitionist replies to Guardianship property claims, and polemical clarity about the language by which unfreedom entered Confederation law.
+
+## Professor Amira Sato-Klein
+
+Department of Earth Political Development, University of Geneva-Hellas.
+
+Known for introductory Earth Union institutional history from dependent habitats through Compact accession and Confederation membership.
+
+## Taran Vel
+
+President Emeritus of Earth Union; Professor of Civic Systems, University of Luna.
+
+Known for memoir and policy essays on welfare-state militarism, citizenship machinery, and the institutional doors Earth Union kept opening.
+
+## Professor Sarekh Venn-Tor
+
+Department of Comparative Statecraft, Tesh-Vorr Civic War College.
+
+Known for Kharrek strategic ethics, comparative readings of Earth Union moral sincerity, and essays that distribute anger productively across polities.
 
 ## Professor Sarel Vun Tha
 

@@ -23,7 +23,7 @@ Closed when Colonel Venn's Boarding Marine history entered the register.
 
 | Release | Issue | Subject | Selections |
 | ------- | ----- | ------- | ---------- |
-| 2496.221 | [*Earth Union*](2496-045-earth-union.md) | Earth-origin institutions | 5 |
+| 2496.221 | [*Earth Union*](2496-045-earth-union.md) | Earth-origin institutions | 9 |
 | 2496.220 | [*Comparative Law*](2496-216-comparative-law.md) | Prize doctrine, offense ecology, alien kinship | 4 |
 | 2496.219 | [*Guardianship*](2495-019-guardianship.md) | The settlement and its machinery | 9 |
 | 2496.218 | [*Hard Science*](2494-338-hard-science.md) | Transit, standards, commerce law, cognition | 10 |

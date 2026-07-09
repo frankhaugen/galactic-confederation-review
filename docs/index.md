@@ -28,7 +28,7 @@ The Review is funded under Confederation mandate, but editorially independent. S
 
 ### [Review Issue 2496.045 — *Earth Union*](issues/2496-045-earth-union.md)
 
-**Released:** 2496.221 · **Planned as:** Earth-origin institutions — naming, humanitarian practice, species terminology, fleet ethics.
+**Released:** 2496.221 · **Planned as:** Earth-origin institutions — naming, humanitarian practice, institutional history, civic rescue machinery, species terminology, fleet ethics.
 
 </div>
 
@@ -69,9 +69,23 @@ Civic naming, prestige, and why the polity kept the old sign on the door.
 Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
 </article>
 
+<article markdown>
+### [From Nations To Habitats](articles/from-nations-to-habitats.md)
+<p class="selection-meta">2496.199 · Earth Union issue · History and Policy</p>
+
+Professor Sato-Klein on dependent habitats, Greth contact, Compact accession, and how Earth Union grew by arming procedure.
+</article>
+
+<article markdown>
+### [The State That Kept Saying Yes](articles/the-state-that-kept-saying-yes.md)
+<p class="selection-meta">2496.202 · Earth Union issue · Civic Systems and External Power</p>
+
+President Emeritus Vel on welfare-state militarism, citizenship machinery, and the doors Earth Union kept opening.
+</article>
+
 </div>
 
-<p class="selection-meta">Issue table and editorial introduction: <a href="issues/2496-045-earth-union.md">Issue 2496.045</a> · <a href="issues/index.md">All issues</a> · <a href="articles/index.md">Archive Register</a></p>
+<p class="selection-meta">Nine selections in this issue. Issue table and editorial introduction: <a href="issues/2496-045-earth-union.md">Issue 2496.045</a> · <a href="issues/index.md">All issues</a> · <a href="articles/index.md">Archive Register</a></p>
 
 ## Prior issues
 

@@ -16,8 +16,12 @@ Released 2496.221 · [Issue page](../issues/2496-045-earth-union.md)
 | --------- | ----- | ----- |
 | 2496.045 | [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md) | Xenology and Policy |
 | 2496.088 | [The Ships That Do Not Fight](the-ships-that-do-not-fight.md) | Administrative Practice |
+| 2496.199 | [From Nations To Habitats](from-nations-to-habitats.md) | History and Policy |
 | 2496.187 | [Children of Terra](children-of-terra.md) | Policy and Xenology |
 | 2496.201 | [Why Earth Union Is Still Called Earth Union](why-earth-union-is-still-called-earth-union.md) | Policy and History |
+| 2496.202 | [The State That Kept Saying Yes](the-state-that-kept-saying-yes.md) | Civic Systems and External Power |
+| 2496.223 | [The Pressure Vessel Called Earth](the-pressure-vessel-called-earth.md) | Strategic Ethics and Comparative Statecraft |
+| 2496.224 | [Earth Did Not Steal Your Property](earth-did-not-steal-your-property.md) | Abolitionist Legal History |
 | 2496.221 | [Infinite Brutality, Infinite Compassion](infinite-brutality-infinite-compassion.md) | History and Military Ethics |
 
 ## Issue 2496.216 — *Comparative Law*

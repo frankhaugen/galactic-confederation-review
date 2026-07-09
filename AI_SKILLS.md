@@ -42,7 +42,7 @@ Use when a user-authored draft in `docs/articles/tbd*.md` is ready for republica
 8. Run `python scripts/verify_article_audio.py --scope published --check-site` when audio is part of the release.
 9. Run `mkdocs build --strict`.
 
-`scripts/import_draft_articles.py` is a one-time conversion helper for bulk draft imports. Prefer hand conversion when the draft shape diverges from the helper's assumptions.
+`scripts/import_draft_articles.py` converts `tbd*.md` drafts when batch metadata is already defined. Run with `--batch <name>` when available; prefer hand conversion when the draft shape diverges from the helper's assumptions.
 
 ## Skill: Publish article audio editions
 

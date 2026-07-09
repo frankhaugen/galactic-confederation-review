@@ -7,6 +7,26 @@ of a faculty or institute page, and selections held in the archive register.
 Editorial staff work — including Language Desk essays — is listed on
 [Editorial Content](editorial-content.md), not here.
 
+## Caldis Orven
+
+Senior Registrar, Secondary Display Names Bureau, Confederacy Stellar Registry.
+
+Maintains linkage tables between stellar registry keys, charter display names, and
+the staging tags that route files treat as operational state. Known for bulletins
+that read like lectures delivered to people who have already lost an insurance
+dispute.
+
+**Republications in this archive:**
+
+- [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md) (2496.227)
+
+<!--
+author-metadata:
+  voice: Registrar procedural — dry, patient, faintly amused by bridge crews.
+  tendencies: Three-layer distinctions, worked confusion cases, anti-poetry jokes that are not jokes.
+  avoid: Dramatic worldbuilding, species exoticism, moral sermons about bureaucracy.
+-->
+
 ## Galactic Confederation Assembly Research Office
 
 Inter-institutional research body supporting Assembly policy committees.

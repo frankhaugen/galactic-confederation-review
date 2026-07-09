@@ -197,3 +197,30 @@ Use before committing and pushing.
 5. Commit with a short descriptive message.
 6. Push `main` to its upstream remote when work is complete, unless the user
    explicitly asks not to publish yet.
+
+## Skill: Review Editor (full release)
+
+Use when the user wants one autonomous editorial action: find an angle from
+reference material or archive gaps, write a selection, register it, generate
+audio, commit, and push.
+
+**Cursor:** read and follow `.cursor/skills/review-editor/SKILL.md`.
+
+**Any assistant:** follow the same phases in that skill file.
+
+Pipeline after the Markdown exists:
+
+```bash
+python scripts/publish_selection.py --slug <slug> --commit --push --message "Release selection: <Title>."
+```
+
+Phases (do not skip unless the user asks):
+
+1. Mine reference inputs and/or archive gaps for one strong angle.
+2. Commission author, field, type, optional series/dossier, release date, slug.
+3. Write `docs/articles/<slug>.md` in author voice with republication note.
+4. Update register, home page, and optional series/dossier/author pages.
+5. Run `publish_selection.py` (build, audio, verify, commit, push).
+
+See `.cursor/skills/review-editor/reference.md` for article skeleton and register
+checklist.

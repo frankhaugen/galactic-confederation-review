@@ -56,6 +56,7 @@ Browse by [series](../series/index.md) or [dossier](../dossiers/index.md).
 | 2496.222 | [The Captain Is Not Always A Captain](the-captain-is-not-always-a-captain.md) | Standards and Infrastructure | Commercial and Maritime Law |
 | 2496.223 | [The Pressure Vessel Called Earth](the-pressure-vessel-called-earth.md) | Earth Union Studies | Strategic Ethics and Comparative Statecraft |
 | 2496.224 | [Earth Did Not Steal Your Property](earth-did-not-steal-your-property.md) | Guardianship Debates | Abolitionist Legal History |
+| 2496.227 | [The Registry Name Is Not The Place](the-registry-name-is-not-the-place.md) | Standards and Infrastructure | Administrative Practice and Registry Law |
 
 ## Absent selections
 

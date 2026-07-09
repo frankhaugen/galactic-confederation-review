@@ -29,6 +29,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <div class="selection-grid" markdown>
 
 <article markdown>
+### [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md)
+<p class="selection-meta">2496.227 · Standards and Infrastructure · Registry Law</p>
+
+Why stellar registry keys, display names, and staging tags are three different legal objects.
+</article>
+
+<article markdown>
 ### [Earth Did Not Steal Your Property](articles/earth-did-not-steal-your-property.md)
 <p class="selection-meta">2496.224 · Guardianship Debates · Abolitionist Legal History</p>
 
@@ -61,13 +68,6 @@ Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that sur
 <p class="selection-meta">2496.220 · Species Profiles · Xenology and Policy</p>
 
 Threni civic institutions when kinship does not route through biological parenthood.
-</article>
-
-<article markdown>
-### [Status Laundering at the Registry Interface](articles/status-laundering-at-the-registry-interface.md)
-<p class="selection-meta">2496.219 · Comparative Law · Law and Enforcement</p>
-
-How protective paperwork can launder unfreedom at the customs boundary.
 </article>
 
 </div>

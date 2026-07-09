@@ -24,3 +24,4 @@ Standards and Infrastructure does not publish full ansible doctrine or FTL physi
 | 2496.212 | [C-Series Containers and the Founding Standard](../articles/c-series-containers-founding-standard.md) | Engineering and Standards |
 | 2496.213 | [What Fits Inside the Standard](../articles/what-fits-inside-the-standard.md) | Infrastructure Sociology |
 | 2496.222 | [The Captain Is Not Always A Captain](../articles/the-captain-is-not-always-a-captain.md) | Commercial and Maritime Law |
+| 2496.227 | [The Registry Name Is Not The Place](../articles/the-registry-name-is-not-the-place.md) | Administrative Practice and Registry Law |

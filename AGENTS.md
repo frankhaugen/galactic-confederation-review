@@ -16,6 +16,8 @@ Read these files before making changes:
   contribution rules, and workflow.
 - `AI_SKILLS.md` for reusable task patterns such as adding selections, series
   and dossier pages, navigation updates, and site verification.
+- `.cursor/skills/review-editor/SKILL.md` when running a **full editorial
+  release** (angle → selection → audio → commit → push) in one action.
 - `mkdocs.yml` before changing navigation, theme behavior, plugins, or site
   metadata.
 
@@ -83,6 +85,13 @@ When in doubt, favor:
 The Review publishes machine-narrated audio editions for article accessibility.
 For generation, verification, renaming rules, and commit expectations, follow
 `AI_SKILLS.md` **Skill: Publish article audio editions**.
+
+## Review Editor (autonomous release)
+
+To publish a new selection end-to-end, use **Skill: Review Editor** in
+`AI_SKILLS.md` or `.cursor/skills/review-editor/SKILL.md`. The helper script
+`scripts/publish_selection.py` runs build, audio, verify, and optional
+commit/push after the article is written.
 
 ## Core rule
 

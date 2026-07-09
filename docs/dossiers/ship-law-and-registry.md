@@ -15,6 +15,7 @@ It is not a registry handbook. It is a reading packet for readers who need to se
 | 5 | 2496.205 | [The Lie Of "Just One Passenger"](../articles/the-lie-of-just-one-passenger.md) | Transport liability when vessel class changes |
 | 6 | 2496.206 | [The Margin Was The Freedom](../articles/the-margin-was-the-freedom.md) | Field memoir and commercial practice at the margin |
 | 7 | 2496.222 | [The Captain Is Not Always A Captain](../articles/the-captain-is-not-always-a-captain.md) | Title, authority, and registry mismatch |
+| 8 | 2496.227 | [The Registry Name Is Not The Place](../articles/the-registry-name-is-not-the-place.md) | Stellar registry keys versus display names and staging tags |
 
 Several selections in this dossier also appear in Comparative Law and Standards and Infrastructure. The Review indexes them here because registry and ship law remain the subject that binds them.
 

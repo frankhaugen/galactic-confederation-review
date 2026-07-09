@@ -301,8 +301,17 @@
       "chars": 28726,
       "output": "assets/audio/the-state-that-kept-saying-yes.mp3",
       "generated_at": "2026-07-09T10:09:57.166225+00:00"
+    },
+    "the-registry-name-is-not-the-place": {
+      "slug": "the-registry-name-is-not-the-place",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 4,
+      "chars": 11007,
+      "output": "assets/audio/the-registry-name-is-not-the-place.mp3",
+      "generated_at": "2026-07-09T11:02:10.952657+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-09T09:29:12.486898+00:00"
+  "updated_at": "2026-07-09T10:57:53.356297+00:00"
 }

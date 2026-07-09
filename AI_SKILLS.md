@@ -20,10 +20,40 @@ Use when creating or materially changing a republished selection.
 1. Match the article structure described in `AI_INSTRUCTIONS.md`.
 2. Keep the article voice scholarly and in-universe.
 3. Add or update the article entry in `mkdocs.yml`.
-4. Add or update the selection link in `docs/index.md`.
+4. Add or update the selection in the issue page under `docs/issues/`, `docs/articles/index.md`, and `docs/issues/index.md` when the piece belongs to a Review issue.
 5. Add or update the author profile in `docs/authors.md` when needed.
 6. Add related Review selections only when the relationship is meaningful.
-7. Run `mkdocs build --strict`.
+7. If the article slug changes, rename any existing `docs/assets/audio/<slug>.mp3` to match.
+8. Run `mkdocs build --strict`.
+9. When narration should ship with the selection, follow **Skill: Publish article audio editions**.
+
+## Skill: Import a draft article (`tbd*.md`)
+
+Use when a user-authored draft in `docs/articles/tbd*.md` is ready for republication.
+
+1. Read the draft and identify final title, author, originating venue, issue fit, and related selections.
+2. Choose the final filename slug (`kebab-case.md`). Delete or avoid leaving `tbd*.md` in the tree after import.
+3. Convert the draft to the standard article shape from `AI_INSTRUCTIONS.md`:
+   YAML frontmatter, republication masthead, editorial note, abstract panel, `## Article`, optional `## Notes`, and `## Related Review selections`.
+4. Assign `review_selection`, `original_date`, `issue`, `issue_theme`, `field`, `series`, and `tags`.
+5. Register the piece in `mkdocs.yml`, the issue page, `docs/articles/index.md`, and `docs/issues/index.md` when applicable.
+6. Update `docs/authors.md` and meaningful cross-links from related articles.
+7. Rename any pre-generated audio from the draft slug to the final slug, or regenerate narration.
+8. Run `python scripts/verify_article_audio.py --scope published --check-site` when audio is part of the release.
+9. Run `mkdocs build --strict`.
+
+`scripts/import_draft_articles.py` is a one-time conversion helper for bulk draft imports. Prefer hand conversion when the draft shape diverges from the helper's assumptions.
+
+## Skill: Publish article audio editions
+
+Use when adding or refreshing narrated accessibility editions.
+
+1. Install audio dependencies: `pip install -r requirements-audio.txt`.
+2. Generate narration: `python scripts/generate_article_audio.py` for all articles, or `--article <slug>` for one.
+3. Optional backends: `edge-tts` (default, no GPU) or `llmvox` with `LLMVOX_URL` pointing at a running LLMVoX `/tts` server.
+4. Verify: `python scripts/verify_article_audio.py --scope published --check-site`.
+5. Commit MP3s and `docs/assets/audio/manifest.json` with the article source when publishing.
+6. Do not hand-edit article Markdown for the player; `hooks/audio_player.py` injects it when a matching MP3 exists.
 
 ## Skill: Add a companion or excerpt article
 
@@ -47,7 +77,7 @@ historical event, or technical concept already present in the archive.
    mundane cases alongside unusual ones. The Review voice works best when
    strange material is treated with administrative seriousness.
 7. Link back to the primary related selection in `## Related Review selections`
-   and update `docs/index.md`, `docs/authors.md`, and `mkdocs.yml`.
+   and update `docs/articles/index.md`, `docs/issues/` pages, `docs/authors.md`, and `mkdocs.yml`.
 8. Run `mkdocs build --strict` after article, navigation, or index changes.
 
 ## Skill: Edit house pages

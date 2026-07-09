@@ -1,12 +1,38 @@
+---
+title: "The Lie Of "Just One Passenger""
+description: "Why carrying even one passenger alters vessel class, insurance, crew duty, and port clearance — transport law for small operators."
+review_selection: "2496.205"
+original_date: "2495.112"
+author: "Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems"
+field: "Transport Liability and Civil Movement Law"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Maritime Law
+  - Transport Law
+issue: "2494.338"
+issue_theme: "Hard Science"
+---
 # The Lie Of "Just One Passenger"
 
-## Why Carrying People Changes Everything
+<div class="republication-masthead" markdown="1">
 
-By Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Port Authority Quarterly*, Issue 214</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
+  <div><dt>Original date</dt><dd>2495.112</dd></div>
+  <div><dt>Review selection</dt><dd>2496.205</dd></div>
+  <div><dt>Author</dt><dd>Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems</dd></div>
+  <div><dt>Field</dt><dd>Transport Liability and Civil Movement Law</dd></div>
+</dl>
 
-Original publication: Port Authority Quarterly, Issue 214
+</div>
 
-Republication note: This article is often assigned in certification courses for small operators, usually on the day after students discover that cargo does not scream, sue, require atmosphere compatibility, or have relatives. We have restored several passages omitted from later training editions, including Professor Osh's footnote on passenger pets, which remains unfair to pets and accurate about their owners.
+!!! editorial "Editorial note"
+    This article is often assigned in certification courses for small operators, usually on the day after students discover that cargo does not scream, sue, require atmosphere compatibility, or have relatives. The Review has restored several passages omitted from later training editions, including Professor Osh's footnote on passenger pets, which remains unfair to pets and accurate about their owners.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -16,7 +42,11 @@ The common phrase "just one passenger" is therefore one of the most expensive li
 
 The Confederation did not prohibit small ships from carrying people. It made the act conditional, priced, certified, and recorded. This was not bureaucratic cruelty. It was civilization declining to treat living bodies as oddly shaped freight.
 
-## 1. Cargo Does Not Panic
+</div>
+
+## Article
+
+### 1. Cargo Does Not Panic
 
 Cargo can burn, leak, rot, explode, contaminate a hold, violate customs, attract pirates, ruin a schedule, and bankrupt a captain.
 
@@ -44,7 +74,7 @@ This is why passenger carriage sits apart from freight carriage in Confederation
 
 Persons are unstable cargo with rights.
 
-## 2. The Basic Legal Divide
+### 2. The Basic Legal Divide
 
 Confederation commercial law separates carriage into several broad categories, but the first useful distinction is simple.
 
@@ -88,7 +118,7 @@ A passenger claim may begin with value and end with a memorial hearing.
 
 That is a different world.
 
-## 3. "But It Is Only One"
+### 3. "But It Is Only One"
 
 The most common argument heard by port clerks, insurers, and certification instructors is that one passenger should not matter.
 
@@ -110,7 +140,7 @@ The first passenger is the cliff.
 
 The hundredth passenger is only the hill after it.
 
-## 4. The Small Vessel Problem
+### 4. The Small Vessel Problem
 
 Small commercial vessels are not excluded from passenger carriage. The Confederation would have damaged half the frontier if it had tried.
 
@@ -140,7 +170,7 @@ A small vessel can often carry one or two incidental passengers under a light en
 
 That does not mean it can sell tickets.
 
-## 5. Crew Is Not A Magic Word
+### 5. Crew Is Not A Magic Word
 
 Some operators attempt to solve passenger obligations by calling everyone crew.
 
@@ -156,7 +186,7 @@ The test is not what the manifest says before departure.
 
 The test is what the manifest looks like in court.
 
-## 6. The Incidental Passenger Endorsement
+### 6. The Incidental Passenger Endorsement
 
 The incidental passenger endorsement exists because the Confederation is not run entirely by people who hate small operators, whatever small operators say during renewal season.
 
@@ -192,7 +222,7 @@ With it, small ships can carry people when the risk is bounded and the paperwork
 
 The key word is honest.
 
-## 7. Passenger Certification Is Not Snobbery
+### 7. Passenger Certification Is Not Snobbery
 
 Operators often complain that passenger certification is excessive. Sometimes they are right. Rules accrete. Inspectors develop hobbies. Forms multiply when left unattended.
 
@@ -216,7 +246,7 @@ Anyone who finds this insulting should carry cargo.
 
 Cargo rarely objects to the service level.
 
-## 8. Mixed-Species Passenger Risk
+### 8. Mixed-Species Passenger Risk
 
 Mixed-species travel is where casual passenger carriage becomes especially dangerous.
 
@@ -234,7 +264,7 @@ This sounds intrusive until the first time a fire system chooses between saving 
 
 A good passenger rule is one written before the alarm.
 
-## 9. Insurance Again, Because It Is Always Insurance
+### 9. Insurance Again, Because It Is Always Insurance
 
 Passenger carriage changes insurance more sharply than almost any small operator expects.
 
@@ -258,7 +288,7 @@ The registry opens the category.
 
 The insurer prices the scream.
 
-## 10. Passengers And Command
+### 10. Passengers And Command
 
 A passenger vessel changes command culture.
 
@@ -278,7 +308,7 @@ They know their ship. They know their crew. They know the limits of a small hull
 
 There is wisdom in saying no before the hatch closes.
 
-## 11. Emergency Carriage
+### 11. Emergency Carriage
 
 Emergency carriage is the necessary exception that proves the rule.
 
@@ -308,7 +338,7 @@ Confederation law can tell the difference.
 
 When it cannot, everyone suffers through hearings until it learns.
 
-## 12. Children, Dependents, And Protected Persons
+### 12. Children, Dependents, And Protected Persons
 
 Carrying a child is not merely carrying a smaller passenger.
 
@@ -340,7 +370,7 @@ Does the captain understand the duty assumed by closing the hatch?
 
 This is why ports become difficult when children appear on small manifests. The clerk is not being cruel. The clerk has read files the captain has not.
 
-## 13. The Temptation Of Kindness
+### 13. The Temptation Of Kindness
 
 Many unlawful passenger incidents begin with kindness.
 
@@ -366,7 +396,7 @@ This is not an argument against kindness. It is an argument for doing it properl
 
 A lawful incidental passenger endorsement is not the enemy of mercy. It is the structure that lets mercy survive contact with consequences.
 
-## 14. Why The Rules Help Small Systems
+### 14. Why The Rules Help Small Systems
 
 Passenger restrictions can look like another burden on small systems. In some cases, they are.
 
@@ -384,7 +414,7 @@ Hard floor under safety.
 
 The floor matters most at the edge.
 
-## 15. Why The Rules Help Small Operators
+### 15. Why The Rules Help Small Operators
 
 Small operators often view passenger rules as hostile. This is understandable. Passenger requirements cost money, time, and flexibility.
 
@@ -406,7 +436,7 @@ Passenger limits give the captain a lawful reason to refuse pressure from custom
 
 A small operator without rules is not free. They are exposed.
 
-## 16. The Passenger As A Threshold
+### 16. The Passenger As A Threshold
 
 The first passenger changes the ship because the first passenger changes the moral and legal problem.
 
@@ -434,7 +464,7 @@ It begins asking, "Who was responsible for this person while the hatch was close
 
 That is why carrying people changes everything.
 
-## 17. Conclusion: Not Freight
+### 17. Conclusion: Not Freight
 
 The Confederation's passenger rules are not always elegant. No mature transport system remains elegant after enough accidents, amendments, species accommodations, insurance disputes, and committee compromises. Passenger law in particular has the charm of a storage locker after turbulence.
 
@@ -451,3 +481,10 @@ The phrase "just one passenger" should be treated with the same suspicion as "mi
 A passenger is a threshold.
 
 Cross it honestly, or do not cross it at all.
+
+## Related Review selections
+
+- [The Margin Was The Freedom](the-margin-was-the-freedom.md)
+- [The Captain Is Not Always A Captain](the-captain-is-not-always-a-captain.md)
+- [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md)
+- [C-Series Containers and the Founding Standard](c-series-containers-founding-standard.md)

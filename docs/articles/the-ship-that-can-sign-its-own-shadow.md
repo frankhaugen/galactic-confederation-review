@@ -330,6 +330,7 @@ Professor Mol Vesh teaches introductory mercantile registry at the Third Kethari
 
 ## Related Review selections
 
+- [The Ship Is The Flag](the-ship-is-the-flag.md)
+- [The Captain Is Not Always A Captain](the-captain-is-not-always-a-captain.md)
 - [C-Series Containers and the Founding Standard](c-series-containers-founding-standard.md)
 - [The Galactic Confederation at Founding](galactic-confederation-at-founding.md)
-- [Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers](ftl-transit-operational-tradeoffs.md)

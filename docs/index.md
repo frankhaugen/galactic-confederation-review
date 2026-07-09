@@ -79,7 +79,7 @@ Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that sur
 | ----- | ------- |
 | [2496.216 · Comparative Law](issues/2496-216-comparative-law.md) | Prize doctrine and Threni institutional xenology |
 | [2495.019 · Guardianship](issues/2495-019-guardianship.md) | The settlement, founding arguments, ledger, enforcement |
-| [2494.338 · Hard Science](issues/2494-338-hard-science.md) | FTL, container standards, artificial cognition law |
+| [2494.338 · Hard Science](issues/2494-338-hard-science.md) | FTL, container standards, commercial registry, cognition law |
 | [2495.301 · Communications](issues/2495-301-communications.md) | Ansible physics and mesh propagation policy |
 
 ## Editorial mandate

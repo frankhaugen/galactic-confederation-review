@@ -18,7 +18,19 @@ Known for comparative analysis of the Compact, IUAS, and Galactic Confederation 
 
 Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law.
 
-Known for introductory mercantile registry doctrine, ship legal personality, and the argument that founding-era barnacles are load-bearing.
+Known for introductory mercantile registry doctrine, ship legal personality, owner-master qualification, and the argument that founding-era barnacles are load-bearing.
+
+## Professor Iren Tal Osh
+
+Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems.
+
+Known for passenger-carriage liability, small-operator certification pedagogy, and the phrase "just one passenger" treated as transport law's most expensive lie.
+
+## Captain Sella Varr
+
+Retired owner-master, light commercial transport.
+
+Known for abridged field memoir on registry standing, thin margins, and forty-one years inside the space between access and solvency.
 
 ## Advocate Rel Varo Kess
 

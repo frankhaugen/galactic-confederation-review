@@ -1,12 +1,38 @@
+---
+title: "The Captain Is Not Always A Captain"
+description: "Owner-masters, spacer competence, and the founding congress' proportional qualification regime for small vessels."
+review_selection: "2496.222"
+original_date: "2494.195"
+author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+field: "Commercial and Maritime Law"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Maritime Law
+  - Founding & Charter Law
+issue: "2494.338"
+issue_theme: "Hard Science"
+---
 # The Captain Is Not Always A Captain
 
-## Owner-Masters, Spacer Competence, and the Founding Congress' Small-Ship Settlement
+<div class="republication-masthead" markdown="1">
 
-By Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Journal of Interstellar Mercantile Systems*, Vol. 90</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
+  <div><dt>Original date</dt><dd>2494.195</dd></div>
+  <div><dt>Review selection</dt><dd>2496.222</dd></div>
+  <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
+  <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
+</dl>
 
-Original publication: Journal of Interstellar Mercantile Systems, Vol. 90
+</div>
 
-Republication note: Professor Mol Vesh has now written three consecutive essays on Confederation vessel law. At this stage, we consider intervention unnecessary. The man is happy, and the footnotes are contained.
+!!! editorial "Editorial note"
+    Professor Mol Vesh has now written three consecutive essays on Confederation vessel law for this archive. At this stage, the Review considers intervention unnecessary. The man is happy, and the footnotes are contained.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -16,7 +42,11 @@ The congress did not impose the command structure of corporate fleets on every h
 
 This was not a loophole. It was one of the founding congress' most important anti-exclusion measures. Small systems demanded it because they understood the alternative. A full member polity cut off from ordinary commerce is not a member. It is a withering vine.
 
-## 1. The Problem Of The Small Ship
+</div>
+
+## Article
+
+### 1. The Problem Of The Small Ship
 
 Large commercial systems prefer large commercial rules.
 
@@ -36,7 +66,7 @@ They had no desire to enter the new Confederation as ornamental members whose ci
 
 Political membership without commercial access is a dry well with a flag beside it.
 
-## 2. The Withering Vine Argument
+### 2. The Withering Vine Argument
 
 The phrase "withering vine" appears repeatedly in early congress records, usually in translation variants. The image is simple enough to survive poor rendering: a branch connected to the root in theory, but receiving too little flow to live.
 
@@ -56,7 +86,7 @@ They also needed not to be killed by low barriers to entry.
 
 That was the problem.
 
-## 3. The Founding Compromise
+### 3. The Founding Compromise
 
 The small-ship settlement rested on a distinction that still deserves admiration:
 
@@ -108,7 +138,7 @@ That simplifies command law.
 
 It does not simplify physics.
 
-## 4. Technical Movement Authority
+### 4. Technical Movement Authority
 
 No serious legal order allows unqualified people to move dangerous machines through shared space merely because they own them.
 
@@ -132,7 +162,7 @@ Not your right to endanger other traffic.
 
 That is the heart of the settlement.
 
-## 5. The Owner-Master Category
+### 5. The Owner-Master Category
 
 The owner-master category is sometimes misunderstood as an indulgence toward amateurs. This is unfair, and usually said by people whose salaries are paid by compliance departments.
 
@@ -152,7 +182,7 @@ But the law does not require them to imitate a corporate hierarchy alone in a ro
 
 This was regulatory humility, a rare and valuable substance.
 
-## 6. Spacer Baseline
+### 6. Spacer Baseline
 
 The qualification regime also recognized a social fact: not all adults begin at the same distance from space competence.
 
@@ -196,7 +226,7 @@ These are not enough to command a commercial vessel.
 
 They are enough to prove that the candidate is not starting from zero.
 
-## 7. Competence, Certificate, License, Command
+### 7. Competence, Certificate, License, Command
 
 One of the settlement's quiet strengths is its layered credential model.
 
@@ -226,7 +256,7 @@ The registry can recognize both facts.
 
 This is not softness. It is accuracy.
 
-## 8. Automation As The Bargain
+### 8. Automation As The Bargain
 
 Reduced crew operation did not become possible because the congress trusted small operators to be lucky.
 
@@ -246,7 +276,7 @@ The rule scaled with risk.
 
 Again, this was the genius. Not leniency. Proportion.
 
-## 9. Why This Was Good Economics
+### 9. Why This Was Good Economics
 
 The small-ship settlement lowered barriers to entry without lowering the floor beneath everyone else.
 
@@ -280,7 +310,7 @@ They made the common market feel common.
 
 A right to commerce that only large firms can afford to exercise is not a right. It is a viewing window.
 
-## 10. The Small Systems' Victory
+### 10. The Small Systems' Victory
 
 The smaller systems did not win every argument at the founding congress. No one did. That is how congresses avoid becoming coronations.
 
@@ -300,7 +330,7 @@ Not charity.
 
 Access.
 
-## 11. Safety As Common Property
+### 11. Safety As Common Property
 
 The strongest objection to low-entry systems is safety. It deserves respect.
 
@@ -322,7 +352,7 @@ Too loose, and the system becomes wreckage.
 
 The congress built a middle path wide enough for small commerce and narrow enough to keep fools from calling negligence freedom.
 
-## 12. The Planet-Born Climb
+### 12. The Planet-Born Climb
 
 The regime also had a labor-market consequence that is rarely discussed politely: planet-born workers faced an uphill climb.
 
@@ -340,7 +370,7 @@ That is realistic. Mobility is not magic. It requires ramps.
 
 The Confederation's achievement was to build the ramps.
 
-## 13. What The System Prevented
+### 13. What The System Prevented
 
 The small-ship settlement prevented several bad futures.
 
@@ -362,7 +392,7 @@ Each prevention mattered.
 
 Institutions are often judged by what they cause. They should also be judged by what they quietly make harder.
 
-## 14. The Useful Ambiguity Of Captain
+### 14. The Useful Ambiguity Of Captain
 
 This brings us to the title no one can leave alone.
 
@@ -392,7 +422,7 @@ They are also not nothing.
 
 The law should be able to say both.
 
-## 15. The Elegant Rule
+### 15. The Elegant Rule
 
 If one wishes to summarize the settlement, the rule is this:
 
@@ -412,7 +442,7 @@ Different problems. Different rules.
 
 The founding congress did not confuse equality with sameness.
 
-## 16. Conclusion: The Open Hatch
+### 16. Conclusion: The Open Hatch
 
 The Confederation's commercial order is often described through its grand principles.
 
@@ -441,3 +471,10 @@ The founding congress avoided that failure. It built a market in which the great
 That is not a loophole.
 
 That is the hatch left open on purpose.
+
+## Related Review selections
+
+- [The Ship Is The Flag](the-ship-is-the-flag.md)
+- [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md)
+- [The Margin Was The Freedom](the-margin-was-the-freedom.md)
+- [The Galactic Confederation at Founding](galactic-confederation-at-founding.md)

@@ -230,43 +230,43 @@
       "output": "docs/assets/audio/why-earth-union-is-still-called-earth-union.mp3",
       "generated_at": "2026-07-08T16:36:34.120336+00:00"
     },
-    "tbd": {
-      "slug": "tbd",
+    "the-lie-of-just-one-passenger": {
+      "slug": "the-lie-of-just-one-passenger",
       "status": "generated",
       "backend": "edge-tts",
       "chunks": 7,
       "chars": 20750,
-      "output": "assets/audio/tbd.mp3",
+      "output": "assets/audio/the-lie-of-just-one-passenger.mp3",
       "generated_at": "2026-07-08T19:44:44.180627+00:00"
     },
-    "tbd2": {
-      "slug": "tbd2",
+    "the-margin-was-the-freedom": {
+      "slug": "the-margin-was-the-freedom",
       "status": "generated",
       "backend": "edge-tts",
       "chunks": 7,
       "chars": 21823,
-      "output": "assets/audio/tbd2.mp3",
+      "output": "assets/audio/the-margin-was-the-freedom.mp3",
       "generated_at": "2026-07-08T19:51:58.855264+00:00"
     },
-    "tbd3": {
-      "slug": "tbd3",
+    "the-captain-is-not-always-a-captain": {
+      "slug": "the-captain-is-not-always-a-captain",
       "status": "generated",
       "backend": "edge-tts",
       "chunks": 7,
       "chars": 22393,
-      "output": "assets/audio/tbd3.mp3",
+      "output": "assets/audio/the-captain-is-not-always-a-captain.mp3",
       "generated_at": "2026-07-08T19:58:31.412188+00:00"
     },
-    "tbd4": {
-      "slug": "tbd4",
+    "the-ship-is-the-flag": {
+      "slug": "the-ship-is-the-flag",
       "status": "generated",
       "backend": "edge-tts",
       "chunks": 7,
       "chars": 23774,
-      "output": "assets/audio/tbd4.mp3",
+      "output": "assets/audio/the-ship-is-the-flag.mp3",
       "generated_at": "2026-07-08T20:06:20.606126+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-08T19:40:42.151777+00:00"
+  "updated_at": "2026-07-09T09:19:18.437628+00:00"
 }

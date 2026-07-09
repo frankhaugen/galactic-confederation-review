@@ -101,8 +101,11 @@ originating institution and author:
 - This is a MkDocs Material site.
 - Use Markdown source files under `docs/`.
 - Keep navigation in `mkdocs.yml` aligned with article additions, removals, and title changes.
-- Keep `docs/index.md` aligned with the current selection list.
+- Keep `docs/articles/index.md`, issue pages under `docs/issues/`, and `docs/issues/index.md` aligned with new selections.
+- Keep `docs/index.md` aligned with the current issue spotlight when appropriate.
 - Keep `docs/authors.md` aligned with new or renamed authors.
+- When importing draft articles from `tbd*.md`, follow `AI_SKILLS.md` **Skill: Import a draft article**.
+- When publishing narrated editions, follow `AI_SKILLS.md` **Skill: Publish article audio editions**.
 - Do not edit generated files under `site/`.
 
 ## Verification

@@ -1,12 +1,38 @@
+---
+title: "The Ship Is The Flag"
+description: "Registry, route freedom, and how the Confederation replaced flag jurisdictions with hull standing as commercial legal identity."
+review_selection: "2496.209"
+original_date: "2494.181"
+author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
+field: "Commercial and Maritime Law"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Maritime Law
+  - Founding & Charter Law
+issue: "2494.338"
+issue_theme: "Hard Science"
+---
 # The Ship Is The Flag
 
-## Registry, Route Freedom, and the Confederation's Most Elegant Commercial Fiction
+<div class="republication-masthead" markdown="1">
 
-By Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">*Journal of Interstellar Mercantile Systems*, Vol. 89</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
+  <div><dt>Original date</dt><dd>2494.181</dd></div>
+  <div><dt>Review selection</dt><dd>2496.209</dd></div>
+  <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
+  <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
+</dl>
 
-Original publication: Journal of Interstellar Mercantile Systems, Vol. 89
+</div>
 
-Republication note: Professor Mol Vesh wrote this essay after publishing "The Ship That Can Sign Its Own Shadow." We are told, by sources close to the author, that the second essay began as three footnotes, became an appendix, then escaped containment. The Review sympathizes.
+!!! editorial "Editorial note"
+    Professor Mol Vesh wrote this essay after the Review selected *The Ship That Can Sign Its Own Shadow*. We are told, by sources close to the author, that the second essay began as three footnotes, became an appendix, then escaped containment. The Review sympathizes.
+
+<div class="review-abstract" markdown="1">
 
 ## Abstract
 
@@ -18,7 +44,11 @@ Combined with freedom of navigation, freedom of commerce, and the abolition of c
 
 The elegance of the system is easy to miss because it now appears ordinary. Most elegant institutions do.
 
-## 1. The Earlier Order: Flag Jurisdictions
+</div>
+
+## Article
+
+### 1. The Earlier Order: Flag Jurisdictions
 
 Before the Confederation registry, a ship was not merely a machine. It was an ambassador of paperwork.
 
@@ -36,7 +66,7 @@ Commerce pretended this was neutral because commerce enjoys pretending its old a
 
 They were not weather. They were law.
 
-## 2. The Concession Route Problem
+### 2. The Concession Route Problem
 
 Flag jurisdictions became most damaging when combined with concession routes.
 
@@ -54,7 +84,7 @@ The result was a trade space full of gates.
 
 Some gates had uniforms. Some had tariffs. Some had fuel contracts. Some had inherited charters written in ceremonial language and defended by very modern lawyers.
 
-## 3. The Founding Congress' Choice
+### 3. The Founding Congress' Choice
 
 The Confederation founding congress could have chosen mutual recognition.
 
@@ -76,7 +106,7 @@ For commercial purposes, the registered vessel carried its own Confederation-rec
 
 The ship did not need a flag because the ship was the flag.
 
-## 4. What The Phrase Means
+### 4. What The Phrase Means
 
 "The ship is the flag" is not poetry. It is a commercial legal fiction, which is better. Poetry comforts the wounded. Legal fiction moves grain.
 
@@ -100,7 +130,7 @@ The ship is the flag, but not the country. It carries Confederation commercial j
 
 That was the founding congress' quiet trick. It made the ship the unit of trust.
 
-## 5. Freedom of Navigation Needed A Body
+### 5. Freedom of Navigation Needed A Body
 
 Freedom of navigation is a magnificent phrase. It also risks becoming ceremonial vapor unless someone designs the forms through which navigation occurs.
 
@@ -118,7 +148,7 @@ Freedom of navigation opened the routes.
 
 The registry kept the doors from being relabeled as walls.
 
-## 6. Freedom of Commerce Needed More Than Permission
+### 6. Freedom of Commerce Needed More Than Permission
 
 Freedom of commerce is often misunderstood as permission to buy and sell. That is the shallow version.
 
@@ -142,7 +172,7 @@ Freedom of commerce opened the markets.
 
 The registry made the market legible enough to use.
 
-## 7. The Death Of The Route Gatekeeper
+### 7. The Death Of The Route Gatekeeper
 
 The abolition of concession route monopolies is sometimes described as a separate reform. In legal terms, it was. In economic terms, it was inseparable from the registry revolution.
 
@@ -162,7 +192,7 @@ The congress did not abolish standards. It abolished privileged access.
 
 There is a difference, and civilizations that forget it usually end up with either cartels or wreckage.
 
-## 8. The Market That Followed
+### 8. The Market That Followed
 
 The result was a commercial market with unusual health.
 
@@ -186,7 +216,7 @@ The freelancer worked the marshes.
 
 The common registry allowed both to drink from the same legal water.
 
-## 9. Contestability
+### 9. Contestability
 
 The technical term is contestability.
 
@@ -218,7 +248,7 @@ A settlement could invite service from any qualified carrier.
 
 The market breathed.
 
-## 10. Labor Movement
+### 10. Labor Movement
 
 The labor effects are often underappreciated.
 
@@ -238,7 +268,7 @@ Labor mobility disciplines employers in the same way carrier mobility discipline
 
 The founding congress created not only a market for ships and cargo, but a market for competence.
 
-## 11. Why Megacorporations Did Not Ruin It
+### 11. Why Megacorporations Did Not Ruin It
 
 It is tempting to assume that once route monopolies fell and commerce opened, megacorporations would simply eat the market.
 
@@ -258,7 +288,7 @@ The Confederation system did not make megacorporations benevolent. It made their
 
 That is good institutional design.
 
-## 12. Why Freelancers Did Not Become Chaos
+### 12. Why Freelancers Did Not Become Chaos
 
 The opposite fear was that abolishing concessions and flag jurisdictions would flood the routes with unsafe small operators.
 
@@ -280,7 +310,7 @@ This was the difference between a common market and a free-for-all.
 
 The founding congress understood the difference.
 
-## 13. The Registry As Public Infrastructure
+### 13. The Registry As Public Infrastructure
 
 The registry is sometimes mistaken for a database.
 
@@ -296,7 +326,7 @@ This is another elegant feature. The congress placed the dull office where the p
 
 There are many ways to honor liberty. One of them is to maintain records that prevent the powerful from inventing confusion.
 
-## 14. The End Of Commercial Nationality
+### 14. The End Of Commercial Nationality
 
 The old system made ships carry commercial nationality. Even when trade was peaceful, the hull remained a messenger of origin.
 
@@ -332,7 +362,7 @@ Not simple. Beautiful.
 
 There is a difference.
 
-## 15. The Founding Congress' Foresight
+### 15. The Founding Congress' Foresight
 
 The founding congress is often praised for preventing war, regularizing diplomacy, and building the mechanisms through which very different polities could remain in lawful disagreement. Those achievements deserve their statues, though several statues would be improved by rotating them away from major traffic flows.
 
@@ -348,7 +378,7 @@ The registered ship became the form through which commerce could move without as
 
 That was not inevitable. It was design.
 
-## 16. Conclusion: A Hull With Standing
+### 16. Conclusion: A Hull With Standing
 
 The Confederation's commercial order rests on a fiction so useful that it now feels natural.
 
@@ -373,3 +403,10 @@ The flag was no longer a polity's shadow over the hull.
 The hull carried its own standing.
 
 The ship was the flag.
+
+## Related Review selections
+
+- [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md)
+- [The Captain Is Not Always A Captain](the-captain-is-not-always-a-captain.md)
+- [The Margin Was The Freedom](the-margin-was-the-freedom.md)
+- [The Galactic Confederation at Founding](galactic-confederation-at-founding.md)

@@ -48,13 +48,4 @@ When in doubt, favor:
 
 ## Audio editions (accessibility)
 
-The Review publishes machine-narrated audio editions for article accessibility.
-
-- **Output:** `docs/assets/audio/<article-slug>.mp3` plus `manifest.json`.
-- **Generation:** `pip install -r requirements-audio.txt`, then `python scripts/generate_article_audio.py`.
-- **Verification:** `python scripts/verify_article_audio.py --check-site` after generation and `mkdocs build --strict`.
-- **Site hook:** `hooks/audio_player.py` injects a player on article pages when a matching MP3 exists. Do not hand-edit article Markdown for the player.
-- **When to regenerate:** after adding an article, materially changing article text, or renaming an article slug (rename the MP3 to match).
-- **Backends:** default is `edge-tts`; optional `llmvox` via `LLMVOX_URL` when a local LLMVoX `/tts` server is running.
-- **Commit audio files** with source changes when publishing new or updated narration. Audio is part of the public archive, not a local build artifact.
-- Draft articles named `tbd*.md` may have audio generated early; rename the MP3 when the article receives its final slug.
+The Review publishes machine-narrated audio editions for article accessibility. For generation, verification, renaming rules, and commit expectations, follow `AI_SKILLS.md` **Skill: Publish article audio editions**.

@@ -1,16 +1,48 @@
+---
+title: "The Margin Was The Freedom"
+description: "Abridged memoir of forty-one years as an owner-master — access, solvency, and the middle space the Confederation registry left open."
+review_selection: "2496.206"
+original_date: "2496.156"
+author: "Captain Sella Varr, retired owner-master, light commercial transport"
+field: "Field Memoir and Commercial Practice"
+series: "Infrastructure & Commerce"
+tags:
+  - Infrastructure & Commerce
+  - Maritime Law
+  - Commercial Practice
+issue: "2494.338"
+issue_theme: "Hard Science"
+---
 # The Margin Was The Freedom
 
-## Abridged From Forty-One Years Under My Own Registry
+<div class="republication-masthead" markdown="1">
 
-By Captain Sella Varr, retired owner-master, light commercial transport
+<dl class="masthead-register">
+  <div><dt>Originally published in</dt><dd markdown="1">Port cooperative memoir edition (abridged)</dd></div>
+  <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
+  <div><dt>Review issue</dt><dd markdown="1">[2494.338 — *Hard Science*](../issues/2494-338-hard-science.md)</dd></div>
+  <div><dt>Original date</dt><dd>2496.156</dd></div>
+  <div><dt>Review selection</dt><dd>2496.206</dd></div>
+  <div><dt>Author</dt><dd>Captain Sella Varr, retired owner-master, light commercial transport</dd></div>
+  <div><dt>Field</dt><dd>Field Memoir and Commercial Practice</dd></div>
+</dl>
 
-GCR Archive Selection
+</div>
 
-Edited and abridged by the Review staff
+!!! editorial "Editorial note"
+    Captain Varr's memoir was first printed in a port cooperative edition of eight hundred copies, most of which appear to have been bought by people who already knew her, owed her money, or both. The Review has abridged the central chapters for the Hard Science issue because policy language tends to make independent transport sound cleaner than it is. Captain Varr does not dispute the value of the Confederation registry, freedom of navigation, or owner-master rules. She is grateful for them. She is also very clear about what it means to live for decades inside the narrow space between access and solvency.
 
-Republication note: Captain Sella Varr's memoir was first printed in a port cooperative edition of eight hundred copies, most of which appear to have been bought by people who already knew her, owed her money, or both. We have abridged the central chapters for this issue because policy language tends to make independent transport sound cleaner than it is. Captain Varr does not dispute the value of the Confederation registry, freedom of navigation, or owner-master rules. She is grateful for them. She is also very clear about what it means to live for decades inside the narrow space between access and solvency.
+<div class="review-abstract" markdown="1">
 
-## 1. The Ship
+## Abstract
+
+This abridged memoir records forty-one years of owner-master commercial transport: thin margins, open routes, recognized competence, and the difference between a registered ship with standing and a life spent begging concession holders for permission to move. Captain Varr does not treat independence as romance. She treats it as work that kept tributary commerce alive while larger carriers optimized the main rivers.
+
+</div>
+
+## Article
+
+### 1. The Ship
 
 I owned my ship for thirty-six years and worked her for forty-one.
 
@@ -36,7 +68,7 @@ He did not say, "You can get ahead."
 
 He had never lied to me.
 
-## 2. The Registry Door
+### 2. The Registry Door
 
 People who have never been small in commerce do not understand what a registry record is worth.
 
@@ -62,7 +94,7 @@ Not comfort. Freedom.
 
 There is a difference, and most speeches blur it.
 
-## 3. Owner-Master
+### 3. Owner-Master
 
 Owner-master sounds grand until the first invoice arrives addressed to all three parts of you.
 
@@ -86,7 +118,7 @@ Owner-master meant the inside chain was simple.
 
 It did not mean the outside world had agreed to be killed by my confidence.
 
-## 4. The First Year
+### 4. The First Year
 
 My first year, I made money on paper and lost money in places paper does not like to show.
 
@@ -114,7 +146,7 @@ Those ifs were my market.
 
 I worked in the gap between efficient and necessary.
 
-## 5. Insurance
+### 5. Insurance
 
 Every independent captain has opinions about insurance, and most of them are unfair in detail and accurate in spirit.
 
@@ -142,7 +174,7 @@ Some captains call that tyranny. Usually the ones who run hot and discover moral
 
 I do not love insurers. I also do not want to share traffic with uninsured bravery.
 
-## 6. Bomb-Edging
+### 6. Bomb-Edging
 
 There are captains who will nurse a drive past margin because the cargo pays well and the repair estimate looks like a burial notice.
 
@@ -164,7 +196,7 @@ The worst captains I knew were not fools. Fools are easy to spot. The worst ones
 
 The registry caught some. Insurance caught more. Vacuum caught the rest.
 
-## 7. The Big Carriers
+### 7. The Big Carriers
 
 I never hated the big carriers.
 
@@ -186,7 +218,7 @@ That left room for us.
 
 Room is not prosperity. But it is room.
 
-## 8. Customers
+### 8. Customers
 
 Customers believe small ships are flexible. They are correct.
 
@@ -210,7 +242,7 @@ They paid eight months late.
 
 I kept the figure on the console until I sold her.
 
-## 9. Crew
+### 9. Crew
 
 Small ships do not hire crew. They adopt problems with certificates.
 
@@ -228,7 +260,7 @@ Both could kill you.
 
 Certification helped. Drills helped more. Shame helped most, if applied early and without cruelty.
 
-## 10. The Small Ports
+### 10. The Small Ports
 
 Small ports know the sound of an independent ship arriving.
 
@@ -246,7 +278,7 @@ A small port is where the Confederation becomes real. Not in assembly chambers. 
 
 Freedom of commerce is large language for that room.
 
-## 11. Getting Ahead
+### 11. Getting Ahead
 
 People ask why I did not expand.
 
@@ -270,7 +302,7 @@ That is the owner-master trap. Independence scales poorly. If you are good becau
 
 The big carriers can build systems. Small captains are systems until their knees fail.
 
-## 12. Gratitude
+### 12. Gratitude
 
 I have complained enough that young readers may think I regret the life.
 
@@ -290,7 +322,7 @@ Both sentences are true.
 
 Do not trust anyone who quotes only one of them.
 
-## 13. The Last Run
+### 13. The Last Run
 
 My last paid run was not dramatic. I had hoped for dramatic. A rescue, perhaps, or a noble cargo, or one final ugly docking in weather that would let people say I still had it.
 
@@ -306,7 +338,7 @@ On the return leg, Practical threw a yellow warning on the secondary thermal loo
 
 That was when I knew.
 
-## 14. Selling Practical
+### 14. Selling Practical
 
 I did not sell Practical to a romantic.
 
@@ -332,7 +364,7 @@ Good.
 
 Ships should make noise after you leave.
 
-## 15. What The Rules Gave Me
+### 15. What The Rules Gave Me
 
 The rules gave me a way in.
 
@@ -362,8 +394,7 @@ And because we moved, other people could stay.
 
 That was the work.
 
-## Editorial Afterword
-
+## Notes
 Captain Varr's memoir is not a complaint against the Confederation commercial order. It is one of the better arguments for it. The system she describes did not make independent transport comfortable, and did not pretend that access was the same as prosperity. It did something narrower and more difficult: it made a small commercial life possible without patronage, route concession, or polity-backed privilege.
 
 That distinction matters.
@@ -373,3 +404,10 @@ A market that admits only large carriers may be efficient, but it is brittle at 
 Captain Varr lived in that middle space for forty-one years.
 
 Her account is valuable because she does not mistake the open hatch for a comfortable room.
+
+## Related Review selections
+
+- [The Captain Is Not Always A Captain](the-captain-is-not-always-a-captain.md)
+- [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md)
+- [The Ship Is The Flag](the-ship-is-the-flag.md)
+- [The Lie Of "Just One Passenger"](the-lie-of-just-one-passenger.md)

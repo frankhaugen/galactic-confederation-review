@@ -54,9 +54,13 @@ Released 2496.218 · [Issue page](../issues/2494-338-hard-science.md)
 | Selection | Title | Field |
 | --------- | ----- | ----- |
 | 2494.338 | [Faster-Than-Light Transit](ftl-transit-operational-tradeoffs.md) | Policy and Engineering |
-| 2496.212 | [C-Series Containers and the Founding Standard](c-series-containers-founding-standard.md) | Engineering and Standards |
+| 2496.205 | [The Lie Of "Just One Passenger"](the-lie-of-just-one-passenger.md) | Transport Liability and Civil Movement Law |
+| 2496.206 | [The Margin Was The Freedom](the-margin-was-the-freedom.md) | Field Memoir and Commercial Practice |
+| 2496.209 | [The Ship Is The Flag](the-ship-is-the-flag.md) | Commercial and Maritime Law |
 | 2496.210 | [The Ship That Can Sign Its Own Shadow](the-ship-that-can-sign-its-own-shadow.md) | Commercial and Maritime Law |
+| 2496.212 | [C-Series Containers and the Founding Standard](c-series-containers-founding-standard.md) | Engineering and Standards |
 | 2496.213 | [What Fits Inside the Standard](what-fits-inside-the-standard.md) | Infrastructure Sociology |
+| 2496.222 | [The Captain Is Not Always A Captain](the-captain-is-not-always-a-captain.md) | Commercial and Maritime Law |
 | 2496.211 | [The Thinking Software Taboo](the-thinking-software-taboo.md) | Cognitive Law and Policy |
 | 2496.218 | [Capability Is Not Classification](capability-is-not-classification.md) | Law and Engineering |
 

@@ -16,5 +16,6 @@ It is not a complete history. It is a guided entry point across institutional ch
 | 6 | 2496.223 | [The Pressure Vessel Called Earth](../articles/the-pressure-vessel-called-earth.md) | Strategic ethics and comparative statecraft at interstellar scale |
 | 7 | 2496.221 | [Infinite Brutality, Infinite Compassion](../articles/infinite-brutality-infinite-compassion.md) | Fleet rescue doctrine and the motto that survived training |
 | 8 | 2496.224 | [Earth Did Not Steal Your Property](../articles/earth-did-not-steal-your-property.md) | Abolitionist legal history and Earth Union as legal actor in Guardianship dispute |
+| 9 | 2496.229 | [The Price of Someone Else's Patrol](../articles/the-price-of-someone-elses-patrol.md) | Vaelor strategic reading of Earth Fleet as external payer for trade stability |
 
 Dossiers may be updated as new selections appear. Do not treat this packet as a locked publication issue.

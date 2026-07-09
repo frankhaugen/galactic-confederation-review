@@ -760,6 +760,7 @@ That is why, when I was President, I made them say Slave Emeritus.
 ## Related Review selections
 
 - [From Nations To Habitats](from-nations-to-habitats.md)
+- [The Price of Someone Else's Patrol](the-price-of-someone-elses-patrol.md)
 - [Infinite Brutality, Infinite Compassion](infinite-brutality-infinite-compassion.md)
 - [Earth Did Not Steal Your Property](earth-did-not-steal-your-property.md)
 - [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md)

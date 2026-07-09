@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2496.221</dd>
+      <dd>2496.229</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -27,6 +27,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Latest selections
 
 <div class="selection-grid" markdown>
+
+<article markdown>
+### [The Price of Someone Else's Patrol](articles/the-price-of-someone-elses-patrol.md)
+<p class="selection-meta">2496.229 · Earth Union Studies · Strategic Studies</p>
+
+Commander-Professor Un Veyr on why Vaelor should let Earth Union keep paying for patrol it resents.
+</article>
 
 <article markdown>
 ### [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md)
@@ -61,13 +68,6 @@ Why registry law treats command titles as procedural facts, not heroic identitie
 <p class="selection-meta">2496.221 · Fleet and Rescue Doctrine · History and Military Ethics</p>
 
 Colonel Venn on Boarding Marine doctrine, rescue assault, and the motto that survived training.
-</article>
-
-<article markdown>
-### [Institutions Without Parenthood](articles/institutions-without-parenthood.md)
-<p class="selection-meta">2496.220 · Species Profiles · Xenology and Policy</p>
-
-Threni civic institutions when kinship does not route through biological parenthood.
 </article>
 
 </div>

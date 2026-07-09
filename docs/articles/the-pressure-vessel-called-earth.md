@@ -521,6 +521,7 @@ They are the best road builders in the Confederation.
 ## Related Review selections
 
 - [The State That Kept Saying Yes](the-state-that-kept-saying-yes.md)
+- [The Price of Someone Else's Patrol](the-price-of-someone-elses-patrol.md)
 - [From Nations To Habitats](from-nations-to-habitats.md)
 - [Infinite Brutality, Infinite Compassion](infinite-brutality-infinite-compassion.md)
 - [Children of Terra](children-of-terra.md)

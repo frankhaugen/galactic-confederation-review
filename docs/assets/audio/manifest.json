@@ -310,8 +310,17 @@
       "chars": 11007,
       "output": "assets/audio/the-registry-name-is-not-the-place.mp3",
       "generated_at": "2026-07-09T11:02:10.952657+00:00"
+    },
+    "the-price-of-someone-elses-patrol": {
+      "slug": "the-price-of-someone-elses-patrol",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 19651,
+      "output": "assets/audio/the-price-of-someone-elses-patrol.mp3",
+      "generated_at": "2026-07-09T13:31:16.292087+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-09T10:57:53.356297+00:00"
+  "updated_at": "2026-07-09T13:22:41.026933+00:00"
 }

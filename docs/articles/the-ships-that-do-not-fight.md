@@ -476,5 +476,6 @@ Commissioner Ruun retired as Deputy Commissioner for Lane Safety and Wreck Certi
 ## Related Review selections
 
 - [Infinite Brutality, Infinite Compassion](infinite-brutality-infinite-compassion.md)
+- [The Price of Someone Else's Patrol](the-price-of-someone-elses-patrol.md)
 - [Status Laundering at the Registry Interface](status-laundering-at-the-registry-interface.md)
 - [Prize-Class Recovery and the Vigilantism Line](prize-class-recovery-and-the-vigilantism-line.md)

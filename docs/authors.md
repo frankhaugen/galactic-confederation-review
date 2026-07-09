@@ -450,6 +450,24 @@ author-metadata:
   avoid: Earth bashing as sport, human universalism, pacifist fantasy.
 -->
 
+## Commander-Professor Sareth Un Veyr
+
+Chair of External Naval Systems, Vaelor War College.
+
+Vaelor strategic analyst of Earth Fleet as external payer for trade stability. Writes
+for policymakers who resent patrol architecture while benefiting from it.
+
+**Republications in this archive:**
+
+- [The Price of Someone Else's Patrol](articles/the-price-of-someone-elses-patrol.md) (2496.229)
+
+<!--
+author-metadata:
+  voice: External naval strategy — fiscal, unsentimental, Vaelor assembly-facing.
+  tendencies: Earth Union misclassification, citizenship as budget device, let Earth pay.
+  avoid: Moral tutoring, empire shorthand, Vaelor victimhood.
+-->
+
 ## Professor Seli Oranth
 
 Chair of Comparative Public Law, Veyari Interstellar University.

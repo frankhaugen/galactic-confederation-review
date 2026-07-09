@@ -26,3 +26,5 @@ Earth Union Studies does not provide a complete constitutional history of the Co
 | 2496.221 | [Infinite Brutality, Infinite Compassion](../articles/infinite-brutality-infinite-compassion.md) | History and Military Ethics |
 | 2496.223 | [The Pressure Vessel Called Earth](../articles/the-pressure-vessel-called-earth.md) | Strategic Ethics and Comparative Statecraft |
 | 2496.224 | [Earth Did Not Steal Your Property](../articles/earth-did-not-steal-your-property.md) | Abolitionist Legal History |
+| 2496.227 | [The Registry Name Is Not The Place](../articles/the-registry-name-is-not-the-place.md) | Administrative Practice and Registry Law |
+| 2496.229 | [The Price of Someone Else's Patrol](../articles/the-price-of-someone-elses-patrol.md) | Strategic Studies and Naval Policy |

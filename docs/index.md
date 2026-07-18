@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2496.229</dd>
+      <dd>2496.233</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -27,6 +27,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Latest selections
 
 <div class="selection-grid" markdown>
+
+<article markdown>
+### [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md)
+<p class="selection-meta">2496.233 · Fleet and Rescue Doctrine · Military Education</p>
+
+Commander-Retired Varos on why Earth Fleet academies teach pilots with wooden swords.
+</article>
 
 <article markdown>
 ### [The Price of Someone Else's Patrol](articles/the-price-of-someone-elses-patrol.md)
@@ -61,13 +68,6 @@ Dr. Voss replies to the property complaint that keeps circulating through Guardi
 <p class="selection-meta">2496.223 · Earth Union Studies · Strategic Ethics</p>
 
 A Kharrek scholar on Earth Union's moral sincerity and interventionist patience.
-</article>
-
-<article markdown>
-### [The Captain Is Not Always A Captain](articles/the-captain-is-not-always-a-captain.md)
-<p class="selection-meta">2496.222 · Standards and Infrastructure · Commercial and Maritime Law</p>
-
-Why registry law treats command titles as procedural facts, not heroic identities.
 </article>
 
 </div>

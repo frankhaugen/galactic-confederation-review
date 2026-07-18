@@ -19,3 +19,4 @@ Fleet and Rescue Doctrine does not publish comparative criminal law in low-sover
 | ------- | --------- | ----- |
 | 2496.088 | [The Ships That Do Not Fight](../articles/the-ships-that-do-not-fight.md) | Administrative Practice |
 | 2496.221 | [Infinite Brutality, Infinite Compassion](../articles/infinite-brutality-infinite-compassion.md) | History and Military Ethics |
+| 2496.233 | [Why Does a Pilot Need an Ancient Sword?](../articles/why-does-a-pilot-need-an-ancient-sword.md) | Military Education and Officer Formation |

@@ -446,5 +446,6 @@ Colonel Venn delivered the Harker Memorial Lecture in 2492. The Review has omitt
 ## Related Review selections
 
 - [Prize-Class Recovery and the Vigilantism Line](prize-class-recovery-and-the-vigilantism-line.md)
+- [Why Does a Pilot Need an Ancient Sword?](why-does-a-pilot-need-an-ancient-sword.md)
 - [Status Laundering at the Registry Interface](status-laundering-at-the-registry-interface.md)
 - [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md)

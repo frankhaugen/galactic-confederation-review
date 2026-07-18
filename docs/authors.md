@@ -288,6 +288,24 @@ author-metadata:
   avoid: Space opera captain worship, single-planet law assumptions.
 -->
 
+## Commander-Retired Heth Varos
+
+Lecturer in Comparative Officer Formation, Central Rethic War College.
+
+Interpolity military educator on Earth Fleet academy practice: applied combat,
+traditional martial discipline, and judgment under force.
+
+**Republications in this archive:**
+
+- [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md) (2496.233)
+
+<!--
+author-metadata:
+  voice: Comparative officer-formation lecturer — dry, concrete, faintly amused by human ritual.
+  tendencies: Applied vs traditional martial pair, folklore as behavioral storage, pilot judgment.
+  avoid: Martial mysticism endorsement, pacifist caricature, Fleet order-of-battle.
+-->
+
 ## Narev Thol
 
 Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College.

@@ -1,7 +1,7 @@
 # Archive Register
 
 > Maintained by: Galactic Confederation Review  
-> Register cycle: 2496.233  
+> Register cycle: 2496.237  
 > Distribution class: Public archive edition
 
 All selections in release order. Confederation standard ordinal notation: `YEAR.CYCLE_DAY`.
@@ -60,6 +60,7 @@ Browse by [series](../series/index.md) or [dossier](../dossiers/index.md).
 | 2496.228 | [Why the Galactic Confederation Has No Reforms](why-the-galactic-confederation-has-no-reforms.md) | Historical Summaries | Institutional Design and Treaty History |
 | 2496.229 | [The Price of Someone Else's Patrol](the-price-of-someone-elses-patrol.md) | Earth Union Studies | Strategic Studies and Naval Policy |
 | 2496.233 | [Why Does a Pilot Need an Ancient Sword?](why-does-a-pilot-need-an-ancient-sword.md) | Fleet and Rescue Doctrine | Military Education and Officer Formation |
+| 2496.237 | [An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating](station-767-commerce-compliance.md) | Comparative Law | Comparative Criminology and Commercial Law |
 
 ## Absent selections
 

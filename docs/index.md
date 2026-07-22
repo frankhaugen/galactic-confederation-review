@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2496.233</dd>
+      <dd>2496.237</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -27,6 +27,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Latest selections
 
 <div class="selection-grid" markdown>
+
+<article markdown>
+### [An Analysis of Station 767](articles/station-767-commerce-compliance.md)
+<p class="selection-meta">2496.237 · Comparative Law · Commercial Criminology</p>
+
+Xhuthii on how a lawless habitat keeps the Confederation's cleanest cargo interface.
+</article>
 
 <article markdown>
 ### [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md)
@@ -61,13 +68,6 @@ Why stellar registry keys, display names, and staging tags are three different l
 <p class="selection-meta">2496.224 · Guardianship Debates · Abolitionist Legal History</p>
 
 Dr. Voss replies to the property complaint that keeps circulating through Guardianship debate.
-</article>
-
-<article markdown>
-### [The Pressure Vessel Called Earth](articles/the-pressure-vessel-called-earth.md)
-<p class="selection-meta">2496.223 · Earth Union Studies · Strategic Ethics</p>
-
-A Kharrek scholar on Earth Union's moral sincerity and interventionist patience.
 </article>
 
 </div>

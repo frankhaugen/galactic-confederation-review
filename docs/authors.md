@@ -557,6 +557,24 @@ author-metadata:
   avoid: Ansible as magic, radio analogies uncriticized.
 -->
 
+## Teswinn Xhuthii
+
+Professor Emeritus, Department of Criminology and Law, Luna University.
+
+Case analyst of commercial legality versus social order at independent transfer
+stations. Best known for the Station 767 compliance paradox.
+
+**Republications in this archive:**
+
+- [An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating](articles/station-767-commerce-compliance.md) (2496.237)
+
+<!--
+author-metadata:
+  voice: Emeritus criminologist — dry, structural, Luna-trained institutional clarity.
+  tendencies: Transfer-zone membranes, faction incentives, commerce without civilization.
+  avoid: Hellhole tourism, reformist sermonizing, hull-sovereignty myths.
+-->
+
 ## Taran Vel
 
 President Emeritus of Earth Union; Professor of Civic Systems, University of Luna.

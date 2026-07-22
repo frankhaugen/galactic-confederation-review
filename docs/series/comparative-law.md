@@ -24,3 +24,4 @@ Comparative Law does not publish engineering standards, ansible protocols, or fu
 | 2496.218 | [Capability Is Not Classification](../articles/capability-is-not-classification.md) | Law and Engineering |
 | 2496.219 | [Status Laundering at the Registry Interface](../articles/status-laundering-at-the-registry-interface.md) | Law and Enforcement |
 | 2496.222 | [The Captain Is Not Always A Captain](../articles/the-captain-is-not-always-a-captain.md) | Commercial and Maritime Law |
+| 2496.237 | [An Analysis of Station 767](../articles/station-767-commerce-compliance.md) | Comparative Criminology and Commercial Law |

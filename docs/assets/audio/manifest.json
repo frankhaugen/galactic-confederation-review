@@ -337,8 +337,17 @@
       "chars": 23390,
       "output": "assets/audio/why-does-a-pilot-need-an-ancient-sword.mp3",
       "generated_at": "2026-07-18T13:46:07.946231+00:00"
+    },
+    "station-767-commerce-compliance": {
+      "slug": "station-767-commerce-compliance",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 20827,
+      "output": "assets/audio/station-767-commerce-compliance.mp3",
+      "generated_at": "2026-07-22T01:29:26.892343+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-18T13:36:52.736703+00:00"
+  "updated_at": "2026-07-22T01:22:25.402652+00:00"
 }

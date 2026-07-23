@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2496.237</dd>
+      <dd>2496.259</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -29,45 +29,45 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <div class="selection-grid" markdown>
 
 <article markdown>
-### [An Analysis of Station 767](articles/station-767-commerce-compliance.md)
-<p class="selection-meta">2496.237 · Comparative Law · Commercial Criminology</p>
+### [Certification and Licensing Framework](articles/certification-and-licensing-framework.md)
+<p class="selection-meta">2496.259 · Standards and Infrastructure · Personnel Standards</p>
 
-Xhuthii on how a lawless habitat keeps the Confederation's cleanest cargo interface.
+Standards Office reference for spacer competence, licenses, and emergency authority.
 </article>
 
 <article markdown>
-### [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md)
-<p class="selection-meta">2496.233 · Fleet and Rescue Doctrine · Military Education</p>
+### [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md)
+<p class="selection-meta">2496.256 · Comparative Law · Species Biology</p>
 
-Commander-Retired Varos on why Earth Fleet academies teach pilots with wooden swords.
+Mendel and Thiren on Aralai pair-bond plasticity and GCS-100 limits.
 </article>
 
 <article markdown>
-### [The Price of Someone Else's Patrol](articles/the-price-of-someone-elses-patrol.md)
-<p class="selection-meta">2496.229 · Earth Union Studies · Strategic Studies</p>
+### [The Great Navigators](articles/the-great-navigators.md)
+<p class="selection-meta">2496.253 · Species Profiles · Xenology</p>
 
-Commander-Professor Un Veyr on why Vaelor should let Earth Union keep paying for patrol it resents.
+Dr. Okafor on sentient gravitic migrators under conservation law.
 </article>
 
 <article markdown>
-### [Why the Galactic Confederation Has No Reforms](articles/why-the-galactic-confederation-has-no-reforms.md)
-<p class="selection-meta">2496.228 · Historical Summaries · Institutional Design</p>
+### [The Patient Is Not the Procedure](articles/the-patient-is-not-the-procedure.md)
+<p class="selection-meta">2496.251 · Standards and Infrastructure · Medical Infrastructure</p>
 
-Dr. Maruun on why formal Confederation reform would reopen the founding compromise.
+Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
 </article>
 
 <article markdown>
-### [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md)
-<p class="selection-meta">2496.227 · Standards and Infrastructure · Registry Law</p>
+### [The Captain Was Informed](articles/the-captain-was-informed.md)
+<p class="selection-meta">2496.247 · Standards and Infrastructure · Transport Liability</p>
 
-Why stellar registry keys, display names, and staging tags are three different legal objects.
+Advocate Vos on why crude disease briefings exist to prove captains were informed.
 </article>
 
 <article markdown>
-### [Earth Did Not Steal Your Property](articles/earth-did-not-steal-your-property.md)
-<p class="selection-meta">2496.224 · Guardianship Debates · Abolitionist Legal History</p>
+### [The Shuttle That Could Leave But Not Return](articles/the-shuttle-that-could-leave-but-not-return.md)
+<p class="selection-meta">2496.244 · Standards and Infrastructure · Commercial Practice</p>
 
-Dr. Voss replies to the property complaint that keeps circulating through Guardianship debate.
+Sera Venn on an owner-built shuttle that can fly but cannot re-enter its birth bay.
 </article>
 
 </div>

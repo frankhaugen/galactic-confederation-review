@@ -65,6 +65,40 @@ author-metadata:
   avoid: Narrative drama, individual opinion, metaphor unless defining a standard term.
 -->
 
+## Confederation Standards Office, Personnel Competence Working Group
+
+Standards body for spacer competence documentation, certificate graphs, professional
+licensing, and emergency safety authority.
+
+**Republications in this archive:**
+
+- [Galactic Confederation Certification and Licensing Framework](articles/certification-and-licensing-framework.md) (2496.259)
+
+<!--
+author-metadata:
+  voice: Collective institutional author. Passive constructions acceptable.
+  tendencies: Competence definitions, certificate portability, duty-to-act rules.
+  avoid: Narrative drama, individual opinion, motivational training copy.
+-->
+
+## Advocate Meren Vos
+
+Maritime Health Liability Practice, Core Transit Bar.
+
+Command-liability analyst of communicable-disease briefings, logged consent, and
+insurance architecture aboard mobile crews.
+
+**Republications in this archive:**
+
+- [The Captain Was Informed](articles/the-captain-was-informed.md) (2496.247)
+
+<!--
+author-metadata:
+  voice: Maritime health-liability advocate — procedural, unsentimental, insurance-aware.
+  tendencies: Informed-command logs, crude briefings, captain discretion with blame.
+  avoid: Medical technocracy, captain-as-physician fantasy.
+-->
+
 ## Advocate Rel Varo Kess
 
 Senior Counsel, Association for Lawful Guardianship Claimants.
@@ -175,6 +209,40 @@ author-metadata:
   avoid: Vigilante solutions, abstract ethics without casework.
 -->
 
+## Dr. Arel Vost
+
+Senior Lecturer in Comparative Macroeconomic Systems, Tirresh Institute of
+Reconstruction Economics.
+
+Reconstruction economist on insurance as continuity manufacture rather than wager.
+
+**Republications in this archive:**
+
+- [A Market for Continuity](articles/a-market-for-continuity.md) (2496.241)
+
+<!--
+author-metadata:
+  voice: Reconstruction economist — comparative, first-principles, outsider to insurance culture.
+  tendencies: Continuity markets, certification as trust manufacture, Tirresh vantage.
+  avoid: Actuarial minutiae, anti-market sermon.
+-->
+## Dr. Elias Mendel
+
+Professor of Evolutionary Neurobiology, Luna University, Earth Union.
+
+Co-author with Independent Aralai Studies on pair-bond plasticity and GCS-100
+contract capacity.
+
+**Republications in this archive:**
+
+- [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md) (2496.256)
+
+<!--
+author-metadata:
+  voice: Evolutionary neurobiologist — clinical, species-specific, capacity-focused.
+  tendencies: Pair-bond plasticity windows, majority vs preference capture.
+  avoid: Human romantic templates, species essentialism as moral destiny.
+-->
 ## Dr. Elian Voss
 
 Senior Fellow in Abolitionist Legal History, University of Mars; also published
@@ -232,6 +300,23 @@ author-metadata:
   avoid: Ansible as magic radio, instant universal communication fantasies.
 -->
 
+## Dr. Lena Okafor
+
+Natural-history writer for the Earth edition of *National Geographic*.
+
+Profile author of the Great Navigators as conservation subjects and technological
+ancestors.
+
+**Republications in this archive:**
+
+- [The Great Navigators](articles/the-great-navigators.md) (2496.253)
+
+<!--
+author-metadata:
+  voice: Popular natural history — vivid, observational, Earth NatGeo cadence.
+  tendencies: Migration spectacle, conservation law, biological inspiration for tech.
+  avoid: Personhood lobbying, cryptid mystique.
+-->
 ## Dr. Osel Var-Keth
 
 Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr.
@@ -306,6 +391,23 @@ author-metadata:
   avoid: Martial mysticism endorsement, pacifist caricature, Fleet order-of-battle.
 -->
 
+## Lessa Morin
+
+Department of Comparative Infrastructure Studies, University of Lucene.
+
+Undergraduate thesis author on MedBeds, AutoDocs, and the separation of medical
+knowledge from medical judgment.
+
+**Republications in this archive:**
+
+- [The Patient Is Not the Procedure](articles/the-patient-is-not-the-procedure.md) (2496.251)
+
+<!--
+author-metadata:
+  voice: Undergraduate infrastructure — careful, definitional, a bit over-annotated.
+  tendencies: MedBed/AutoDoc role separation, automation without judgment claims.
+  avoid: Machine-doctor mythology, vendor brochure tone.
+-->
 ## Narev Thol
 
 Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College.
@@ -539,6 +641,22 @@ author-metadata:
   avoid: Human family as implicit template, novelty xenology.
 -->
 
+## Dr. Savael Thiren
+
+Senior Fellow in Law and Social Autonomy, Institute for Independent Aralai Studies.
+
+Legal co-author on Aralai contractual capacity and the limits of GCS-100 majority.
+
+**Republications in this archive:**
+
+- [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md) (2496.256)
+
+<!--
+author-metadata:
+  voice: Aralai legal autonomy fellow — precise, rights-protective, anti-paternalist.
+  tendencies: Contract remedies, independent Aralai institutions, capacity without erasure.
+  avoid: Earth family-law transplants, medicalizing Aralai adulthood.
+-->
 ## Siven Marr Khet
 
 Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr.
@@ -593,6 +711,23 @@ author-metadata:
   avoid: Victim memoir tone, anti-Union nihilism, military glory.
 -->
 
+## Sera Venn
+
+Industrial Practice Correspondent, *Port and Yard Review*.
+
+Port-yard case writer on owner-built craft, bay access, and the gap between
+flightworthiness and insurance recognition.
+
+**Republications in this archive:**
+
+- [The Shuttle That Could Leave But Not Return](articles/the-shuttle-that-could-leave-but-not-return.md) (2496.244)
+
+<!--
+author-metadata:
+  voice: Port correspondent — concrete, interview-led, faintly exasperated by insurers.
+  tendencies: Fabrication bays, certification gaps, one-off liability.
+  avoid: Maker-myth cheerleading, anti-regulation rant.
+-->
 ## Auditor-General Solenn Vek (retired)
 
 Charter Ledger Bureau.

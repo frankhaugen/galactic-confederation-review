@@ -17,3 +17,4 @@ It is not a chronological atlas. It is a compact entry path for readers who need
 Readers pursuing Guardianship in full should continue to the [Guardianship Settlement Dossier](guardianship-settlement.md). Readers pursuing Earth Union as contemporary polity should continue to the [Earth Union Primer Dossier](earth-union-primer.md).
 
 Dossiers may be updated as new selections appear. Do not treat this packet as a locked publication issue.
+| 6 | 2496.241 | [A Market for Continuity](../articles/a-market-for-continuity.md) | Insurance and certification as Confederation continuity manufacture |

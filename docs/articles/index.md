@@ -1,7 +1,7 @@
 # Archive Register
 
 > Maintained by: Galactic Confederation Review  
-> Register cycle: 2496.237  
+> Register cycle: 2496.259  
 > Distribution class: Public archive edition
 
 All selections in release order. Confederation standard ordinal notation: `YEAR.CYCLE_DAY`.
@@ -61,6 +61,13 @@ Browse by [series](../series/index.md) or [dossier](../dossiers/index.md).
 | 2496.229 | [The Price of Someone Else's Patrol](the-price-of-someone-elses-patrol.md) | Earth Union Studies | Strategic Studies and Naval Policy |
 | 2496.233 | [Why Does a Pilot Need an Ancient Sword?](why-does-a-pilot-need-an-ancient-sword.md) | Fleet and Rescue Doctrine | Military Education and Officer Formation |
 | 2496.237 | [An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating](station-767-commerce-compliance.md) | Comparative Law | Comparative Criminology and Commercial Law |
+| 2496.241 | [A Market for Continuity](a-market-for-continuity.md) | Standards and Infrastructure | Comparative Macroeconomics and Institutional Design |
+| 2496.244 | [The Shuttle That Could Leave But Not Return](the-shuttle-that-could-leave-but-not-return.md) | Standards and Infrastructure | Field Memoir and Commercial Practice |
+| 2496.247 | [The Captain Was Informed](the-captain-was-informed.md) | Standards and Infrastructure | Transport Liability and Civil Movement Law |
+| 2496.251 | [The Patient Is Not the Procedure](the-patient-is-not-the-procedure.md) | Standards and Infrastructure | Medical Infrastructure and Shipboard Practice |
+| 2496.253 | [The Great Navigators](the-great-navigators.md) | Species Profiles | Xenology and Natural History |
+| 2496.256 | [She Meant It When She Signed](she-meant-it-when-she-signed.md) | Comparative Law | Comparative Law and Species Biology |
+| 2496.259 | [Galactic Confederation Certification and Licensing Framework](certification-and-licensing-framework.md) | Standards and Infrastructure | Personnel Standards and Licensing |
 
 ## Absent selections
 

@@ -346,8 +346,71 @@
       "chars": 20827,
       "output": "assets/audio/station-767-commerce-compliance.mp3",
       "generated_at": "2026-07-22T01:29:26.892343+00:00"
+    },
+    "the-captain-was-informed": {
+      "slug": "the-captain-was-informed",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 5,
+      "chars": 14606,
+      "output": "assets/audio/the-captain-was-informed.mp3",
+      "generated_at": "2026-07-23T15:38:03.570291+00:00"
+    },
+    "a-market-for-continuity": {
+      "slug": "a-market-for-continuity",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 21751,
+      "output": "assets/audio/a-market-for-continuity.mp3",
+      "generated_at": "2026-07-23T15:42:58.494629+00:00"
+    },
+    "certification-and-licensing-framework": {
+      "slug": "certification-and-licensing-framework",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 8,
+      "chars": 25200,
+      "output": "assets/audio/certification-and-licensing-framework.mp3",
+      "generated_at": "2026-07-23T15:54:25.110267+00:00"
+    },
+    "she-meant-it-when-she-signed": {
+      "slug": "she-meant-it-when-she-signed",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 13,
+      "chars": 44056,
+      "output": "assets/audio/she-meant-it-when-she-signed.mp3",
+      "generated_at": "2026-07-23T16:12:28.495463+00:00"
+    },
+    "the-great-navigators": {
+      "slug": "the-great-navigators",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 6,
+      "chars": 18243,
+      "output": "assets/audio/the-great-navigators.mp3",
+      "generated_at": "2026-07-23T16:19:54.503098+00:00"
+    },
+    "the-patient-is-not-the-procedure": {
+      "slug": "the-patient-is-not-the-procedure",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 8,
+      "chars": 24727,
+      "output": "assets/audio/the-patient-is-not-the-procedure.mp3",
+      "generated_at": "2026-07-23T16:29:42.378993+00:00"
+    },
+    "the-shuttle-that-could-leave-but-not-return": {
+      "slug": "the-shuttle-that-could-leave-but-not-return",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 7,
+      "chars": 22819,
+      "output": "assets/audio/the-shuttle-that-could-leave-but-not-return.mp3",
+      "generated_at": "2026-07-23T16:37:49.621798+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-22T01:22:25.402652+00:00"
+  "updated_at": "2026-07-23T15:38:12.437895+00:00"
 }

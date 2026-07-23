@@ -21,3 +21,7 @@ It is not a registry handbook. It is a reading packet for readers who need to se
 Several selections in this dossier also appear in Comparative Law and Standards and Infrastructure. The Review indexes them here because registry and ship law remain the subject that binds them.
 
 Dossiers may be updated as new selections appear. Do not treat this packet as a locked publication issue.
+| 10 | 2496.244 | [The Shuttle That Could Leave But Not Return](../articles/the-shuttle-that-could-leave-but-not-return.md) | Owner-built craft versus bay access, certification, and insurance |
+| 11 | 2496.247 | [The Captain Was Informed](../articles/the-captain-was-informed.md) | Communicable-disease briefings as logged command liability |
+| 12 | 2496.251 | [The Patient Is Not the Procedure](../articles/the-patient-is-not-the-procedure.md) | MedBed/AutoDoc role separation aboard ships and stations |
+| 13 | 2496.259 | [Certification and Licensing Framework](../articles/certification-and-licensing-framework.md) | Personnel competence, licenses, and emergency safety authority |

@@ -1,8 +1,8 @@
 ---
 title: "What the Ledger Refuses to See"
 description: "Effort credits, moral blindness, and guardianship at the accounting layer."
-selection_date: "2496.217"
-release_cycle: "2496.217"
+selection_date: "2496.127"
+release_cycle: "2496.127"
 field: "Political Economy and Charter Finance"
 type: "Republication"
 series:
@@ -10,13 +10,15 @@ series:
 dossiers:
   - "Guardianship Settlement"
 originating_publication: "*Charter Finance Quarterly*, Vol. 29"
-original_publication_date: "2494.201"
+original_publication_date: "2485.201"
 author: "Auditor-General Solenn Vek (retired), Charter Ledger Bureau"
 status: "Public archive edition"
 tags:
   - Founding & Charter Law
-  - Economics
   - Guardianship
+  - Abolitionism
+  - Economics
+  - Poison Pill Settlement
 ---
 # What the Ledger Refuses to See
 
@@ -27,8 +29,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
-<div><dt>Original date</dt><dd>2494.201</dd></div>
-  <div><dt>Republication date</dt><dd>2496.217</dd></div>
+<div><dt>Original date</dt><dd>2485.201</dd></div>
+  <div><dt>Republication date</dt><dd>2496.127</dd></div>
   <div><dt>Author</dt><dd>Auditor-General Solenn Vek (retired), Charter Ledger Bureau</dd></div>
   <div><dt>Field</dt><dd>Political Economy and Charter Finance</dd></div>
 </dl>

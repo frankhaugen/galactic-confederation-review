@@ -1,8 +1,8 @@
 ---
 title: "The Margin Was The Freedom"
 description: "Abridged memoir of forty-one years as an owner-master — access, solvency, and the middle space the Confederation registry left open."
-selection_date: "2496.206"
-release_cycle: "2496.206"
+selection_date: "2495.211"
+release_cycle: "2495.211"
 field: "Field Memoir and Commercial Practice"
 type: "Field Memoir"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Ship Law and Registry"
 originating_publication: "Port cooperative memoir edition (abridged)"
-original_publication_date: "2496.156"
+original_publication_date: "2493.178"
 author: "Captain Sella Varr, retired owner-master, light commercial transport"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
   - Commercial Practice
+  - Field Memoir
 ---
 # The Margin Was The Freedom
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
-<div><dt>Original date</dt><dd>2496.156</dd></div>
-  <div><dt>Republication date</dt><dd>2496.206</dd></div>
+<div><dt>Original date</dt><dd>2493.178</dd></div>
+  <div><dt>Republication date</dt><dd>2495.211</dd></div>
   <div><dt>Author</dt><dd>Captain Sella Varr, retired owner-master, light commercial transport</dd></div>
   <div><dt>Field</dt><dd>Field Memoir and Commercial Practice</dd></div>
 </dl>

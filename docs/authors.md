@@ -18,7 +18,7 @@ dispute.
 
 **Republications in this archive:**
 
-- [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md) (2496.227)
+- [The Registry Name Is Not The Place](articles/the-registry-name-is-not-the-place.md) (2496.320)
 
 <!--
 author-metadata:
@@ -37,7 +37,7 @@ are widely assigned and equally widely argued with.
 
 **Republications in this archive:**
 
-- [Faster-Than-Light Transit](articles/ftl-transit-operational-tradeoffs.md) (2494.338)
+- [Faster-Than-Light Transit](articles/ftl-transit-operational-tradeoffs.md) (2494.188)
 
 <!--
 author-metadata:
@@ -56,7 +56,7 @@ duress. Its prose is dry on purpose.
 
 **Republications in this archive:**
 
-- [C-Series Containers and the Founding Standard](articles/c-series-containers-founding-standard.md) (2496.212)
+- [C-Series Containers and the Founding Standard](articles/c-series-containers-founding-standard.md) (2496.003)
 
 <!--
 author-metadata:
@@ -72,7 +72,7 @@ licensing, and emergency safety authority.
 
 **Republications in this archive:**
 
-- [Galactic Confederation Certification and Licensing Framework](articles/certification-and-licensing-framework.md) (2496.259)
+- [Galactic Confederation Certification and Licensing Framework](articles/certification-and-licensing-framework.md) (2497.224)
 
 <!--
 author-metadata:
@@ -90,7 +90,7 @@ insurance architecture aboard mobile crews.
 
 **Republications in this archive:**
 
-- [The Captain Was Informed](articles/the-captain-was-informed.md) (2496.247)
+- [The Captain Was Informed](articles/the-captain-was-informed.md) (2497.128)
 
 <!--
 author-metadata:
@@ -108,7 +108,7 @@ dissolution hearing as a property case wearing humanitarian clothing.
 
 **Republications in this archive:**
 
-- [Earth Stole My Property](articles/earth-stole-my-property.md) (2496.203)
+- [Earth Stole My Property](articles/earth-stole-my-property.md) (2495.128)
 
 <!--
 author-metadata:
@@ -126,7 +126,7 @@ and vigilantism. Fond of examples that make navies uncomfortable.
 
 **Republications in this archive:**
 
-- [Prize-Class Recovery and the Vigilantism Line](articles/prize-class-recovery-and-the-vigilantism-line.md) (2496.216)
+- [Prize-Class Recovery and the Vigilantism Line](articles/prize-class-recovery-and-the-vigilantism-line.md) (2496.108)
 
 <!--
 author-metadata:
@@ -145,7 +145,7 @@ remembers every stamp.
 
 **Republications in this archive:**
 
-- [The Margin Was The Freedom](articles/the-margin-was-the-freedom.md) (2496.206)
+- [The Margin Was The Freedom](articles/the-margin-was-the-freedom.md) (2495.211)
 
 <!--
 author-metadata:
@@ -163,7 +163,7 @@ trying to replace as a training problem, not a branding problem.
 
 **Republications in this archive:**
 
-- [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md) (2496.221)
+- [Infinite Brutality, Infinite Compassion](articles/infinite-brutality-infinite-compassion.md) (2496.219)
 
 <!--
 author-metadata:
@@ -182,7 +182,7 @@ Nosies cutters are allowed where warships are not.
 
 **Republications in this archive:**
 
-- [The Ships That Do Not Fight](articles/the-ships-that-do-not-fight.md) (2496.088)
+- [The Ships That Do Not Fight](articles/the-ships-that-do-not-fight.md) (2494.331)
 
 <!--
 author-metadata:
@@ -200,7 +200,7 @@ Writes as if every falsified form is a person hidden inside paperwork.
 
 **Republications in this archive:**
 
-- [Status Laundering at the Registry Interface](articles/status-laundering-at-the-registry-interface.md) (2496.219)
+- [Status Laundering at the Registry Interface](articles/status-laundering-at-the-registry-interface.md) (2496.172)
 
 <!--
 author-metadata:
@@ -218,7 +218,7 @@ Reconstruction economist on insurance as continuity manufacture rather than wage
 
 **Republications in this archive:**
 
-- [A Market for Continuity](articles/a-market-for-continuity.md) (2496.241)
+- [A Market for Continuity](articles/a-market-for-continuity.md) (2497.084)
 
 <!--
 author-metadata:
@@ -235,7 +235,7 @@ contract capacity.
 
 **Republications in this archive:**
 
-- [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md) (2496.256)
+- [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md) (2497.208)
 
 <!--
 author-metadata:
@@ -253,8 +253,8 @@ Confederation law through elegant compromise language.
 
 **Republications in this archive:**
 
-- [The Compromise That Named the Chain](articles/the-compromise-that-named-the-chain.md) (2495.019)
-- [Earth Did Not Steal Your Property](articles/earth-did-not-steal-your-property.md) (2496.224)
+- [The Compromise That Named the Chain](articles/the-compromise-that-named-the-chain.md) (2494.216)
+- [Earth Did Not Steal Your Property](articles/earth-did-not-steal-your-property.md) (2496.299)
 
 <!--
 author-metadata:
@@ -273,7 +273,7 @@ person-discovery research.
 
 **Republications in this archive:**
 
-- [The Thinking Software Taboo](articles/the-thinking-software-taboo.md) (2496.211)
+- [The Thinking Software Taboo](articles/the-thinking-software-taboo.md) (2495.339)
 
 <!--
 author-metadata:
@@ -291,7 +291,7 @@ category error of "failed delivery."
 
 **Republications in this archive:**
 
-- [The Confederation Does Not Deliver Messages](articles/the-confederation-does-not-deliver-messages.md) (2496.214)
+- [The Confederation Does Not Deliver Messages](articles/the-confederation-does-not-deliver-messages.md) (2496.053)
 
 <!--
 author-metadata:
@@ -309,7 +309,7 @@ ancestors.
 
 **Republications in this archive:**
 
-- [The Great Navigators](articles/the-great-navigators.md) (2496.253)
+- [The Great Navigators](articles/the-great-navigators.md) (2497.181)
 
 <!--
 author-metadata:
@@ -326,7 +326,7 @@ predation as ecology, not morality play.
 
 **Republications in this archive:**
 
-- [Routine Predation in Low-Sovereignty Corridors](articles/routine-predation-in-low-sovereignty-corridors.md) (2496.208)
+- [Routine Predation in Low-Sovereignty Corridors](articles/routine-predation-in-low-sovereignty-corridors.md) (2495.261)
 
 <!--
 author-metadata:
@@ -344,7 +344,7 @@ classification."
 
 **Republications in this archive:**
 
-- [Capability Is Not Classification](articles/capability-is-not-classification.md) (2496.218)
+- [Capability Is Not Classification](articles/capability-is-not-classification.md) (2496.155)
 
 <!--
 author-metadata:
@@ -362,9 +362,9 @@ qualification, and founding-era barnacles described as load-bearing.
 
 **Republications in this archive:**
 
-- [The Ship Is The Flag](articles/the-ship-is-the-flag.md) (2496.209)
-- [The Ship That Can Sign Its Own Shadow](articles/the-ship-that-can-sign-its-own-shadow.md) (2496.210)
-- [The Captain Is Not Always A Captain](articles/the-captain-is-not-always-a-captain.md) (2496.222)
+- [The Ship Is The Flag](articles/the-ship-is-the-flag.md) (2495.298)
+- [The Ship That Can Sign Its Own Shadow](articles/the-ship-that-can-sign-its-own-shadow.md) (2495.313)
+- [The Captain Is Not Always A Captain](articles/the-captain-is-not-always-a-captain.md) (2496.249)
 
 <!--
 author-metadata:
@@ -382,7 +382,7 @@ traditional martial discipline, and judgment under force.
 
 **Republications in this archive:**
 
-- [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md) (2496.233)
+- [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md) (2497.042)
 
 <!--
 author-metadata:
@@ -400,7 +400,7 @@ knowledge from medical judgment.
 
 **Republications in this archive:**
 
-- [The Patient Is Not the Procedure](articles/the-patient-is-not-the-procedure.md) (2496.251)
+- [The Patient Is Not the Procedure](articles/the-patient-is-not-the-procedure.md) (2497.161)
 
 <!--
 author-metadata:
@@ -417,7 +417,7 @@ civic space inside logistics standards.
 
 **Republications in this archive:**
 
-- [What Fits Inside the Standard](articles/what-fits-inside-the-standard.md) (2496.213)
+- [What Fits Inside the Standard](articles/what-fits-inside-the-standard.md) (2496.021)
 
 <!--
 author-metadata:
@@ -435,7 +435,7 @@ describe Guardianship as tragic necessity.
 
 **Republications in this archive:**
 
-- [The Chain Was Not Softened](articles/the-chain-was-not-softened.md) (2495.022)
+- [The Chain Was Not Softened](articles/the-chain-was-not-softened.md) (2494.243)
 
 <!--
 author-metadata:
@@ -453,7 +453,7 @@ and easily irritated, which she considers healthy.
 
 **Republications in this archive:**
 
-- [From Nations To Habitats](articles/from-nations-to-habitats.md) (2496.199)
+- [From Nations To Habitats](articles/from-nations-to-habitats.md) (2495.065)
 
 <!--
 author-metadata:
@@ -471,7 +471,7 @@ imprinting, and institutions at the nesting-cave mouth.
 
 **Republications in this archive:**
 
-- [The Species Without Mothers](articles/the-species-without-mothers.md) (2496.207)
+- [The Species Without Mothers](articles/the-species-without-mothers.md) (2495.240)
 
 <!--
 author-metadata:
@@ -490,7 +490,7 @@ as transport law's most expensive lie.
 
 **Republications in this archive:**
 
-- [The Lie Of "Just One Passenger"](articles/the-lie-of-just-one-passenger.md) (2496.205)
+- [The Lie Of "Just One Passenger"](articles/the-lie-of-just-one-passenger.md) (2495.195)
 
 <!--
 author-metadata:
@@ -507,8 +507,8 @@ Comparative analyst of Compact, IUAS, and Galactic Confederation founding logics
 
 **Republications in this archive:**
 
-- [The Galactic Confederation at Founding](articles/galactic-confederation-at-founding.md) (2495.018)
-- [When Moral Alignment Failed at Interstellar Scale](articles/when-moral-alignment-failed-at-interstellar-scale.md) (2496.215)
+- [The Galactic Confederation at Founding](articles/galactic-confederation-at-founding.md) (2494.205)
+- [When Moral Alignment Failed at Interstellar Scale](articles/when-moral-alignment-failed-at-interstellar-scale.md) (2496.073)
 
 <!--
 author-metadata:
@@ -526,7 +526,7 @@ the sociology of translocal continuity machines.
 
 **Republications in this archive:**
 
-- [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md) (2496.045)
+- [Bells, Bread, and Field Hospitals](articles/bells-bread-and-field-hospitals.md) (2494.303)
 
 <!--
 author-metadata:
@@ -543,7 +543,7 @@ Fiscal analyst of dependency institutions and human-drafted compliance regimes.
 
 **Republications in this archive:**
 
-- [The Human Trap in the Guardianship Settlement](articles/the-human-trap-in-guardianship-settlement.md) (2496.198)
+- [The Human Trap in the Guardianship Settlement](articles/the-human-trap-in-guardianship-settlement.md) (2495.026)
 
 <!--
 author-metadata:
@@ -561,7 +561,7 @@ vessel. Enjoys distributing anger productively.
 
 **Republications in this archive:**
 
-- [The Pressure Vessel Called Earth](articles/the-pressure-vessel-called-earth.md) (2496.223)
+- [The Pressure Vessel Called Earth](articles/the-pressure-vessel-called-earth.md) (2496.265)
 
 <!--
 author-metadata:
@@ -579,7 +579,7 @@ for policymakers who resent patrol architecture while benefiting from it.
 
 **Republications in this archive:**
 
-- [The Price of Someone Else's Patrol](articles/the-price-of-someone-elses-patrol.md) (2496.229)
+- [The Price of Someone Else's Patrol](articles/the-price-of-someone-elses-patrol.md) (2497.006)
 
 <!--
 author-metadata:
@@ -597,7 +597,7 @@ and reform pressure inside non-sovereign interstellar systems.
 
 **Republications in this archive:**
 
-- [Why the Galactic Confederation Has No Reforms](articles/why-the-galactic-confederation-has-no-reforms.md) (2496.228)
+- [Why the Galactic Confederation Has No Reforms](articles/why-the-galactic-confederation-has-no-reforms.md) (2496.347)
 
 <!--
 author-metadata:
@@ -615,7 +615,7 @@ superlaw in Guardianship disputes.
 
 **Republications in this archive:**
 
-- [The Door Was Not Hidden](articles/the-door-was-not-hidden.md) (2496.204)
+- [The Door Was Not Hidden](articles/the-door-was-not-hidden.md) (2495.172)
 
 <!--
 author-metadata:
@@ -632,7 +632,7 @@ Threni institutional xenologist; critic of kinship-default policymaking.
 
 **Republications in this archive:**
 
-- [Institutions Without Parenthood](articles/institutions-without-parenthood.md) (2496.220)
+- [Institutions Without Parenthood](articles/institutions-without-parenthood.md) (2496.197)
 
 <!--
 author-metadata:
@@ -649,7 +649,7 @@ Legal co-author on Aralai contractual capacity and the limits of GCS-100 majorit
 
 **Republications in this archive:**
 
-- [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md) (2496.256)
+- [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md) (2497.208)
 
 <!--
 author-metadata:
@@ -666,7 +666,7 @@ entanglement metaphors.
 
 **Republications in this archive:**
 
-- [The Ansible Is Not a Radio](articles/ansible-is-not-a-radio.md) (2495.301)
+- [The Ansible Is Not a Radio](articles/ansible-is-not-a-radio.md) (2494.262)
 
 <!--
 author-metadata:
@@ -684,7 +684,7 @@ stations. Best known for the Station 767 compliance paradox.
 
 **Republications in this archive:**
 
-- [An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating](articles/station-767-commerce-compliance.md) (2496.237)
+- [An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating](articles/station-767-commerce-compliance.md) (2497.066)
 
 <!--
 author-metadata:
@@ -702,7 +702,7 @@ lines that annoy protocol offices.
 
 **Republications in this archive:**
 
-- [The State That Kept Saying Yes](articles/the-state-that-kept-saying-yes.md) (2496.202)
+- [The State That Kept Saying Yes](articles/the-state-that-kept-saying-yes.md) (2495.114)
 
 <!--
 author-metadata:
@@ -720,7 +720,7 @@ flightworthiness and insurance recognition.
 
 **Republications in this archive:**
 
-- [The Shuttle That Could Leave But Not Return](articles/the-shuttle-that-could-leave-but-not-return.md) (2496.244)
+- [The Shuttle That Could Leave But Not Return](articles/the-shuttle-that-could-leave-but-not-return.md) (2497.113)
 
 <!--
 author-metadata:
@@ -737,7 +737,7 @@ it refuses to see.
 
 **Republications in this archive:**
 
-- [What the Ledger Refuses to See](articles/what-the-ledger-refuses-to-see.md) (2496.217)
+- [What the Ledger Refuses to See](articles/what-the-ledger-refuses-to-see.md) (2496.127)
 
 <!--
 author-metadata:

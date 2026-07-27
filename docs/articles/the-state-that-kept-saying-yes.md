@@ -1,8 +1,8 @@
 ---
 title: "The State That Kept Saying Yes"
 description: "Welfare-state militarism, citizenship machinery, and how Earth Union's institutions opened doors a fugitive slave was not meant to reach."
-selection_date: "2496.202"
-release_cycle: "2496.202"
+selection_date: "2495.114"
+release_cycle: "2495.114"
 field: "Civic Systems and External Power"
 type: "Field Memoir"
 series:
@@ -10,14 +10,15 @@ series:
 dossiers:
   - "Earth Union Primer"
 originating_publication: "*Journal of Civic Systems and External Power*, Vol. 88"
-original_publication_date: "2496.178"
+original_publication_date: "2494.112"
 author: "Taran Vel, PhD, President Emeritus of Earth Union, Professor of Civic Systems, University of Luna, Senior Chief Petty Officer, Retired, Slave Emeritus"
 status: "Public archive edition"
 tags:
   - Earth Union Institutions
+  - Guardianship
+  - Abolitionism
   - History
   - Policy
-  - Guardianship
 ---
 # The State That Kept Saying Yes
 
@@ -28,8 +29,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
-<div><dt>Original date</dt><dd>2496.178</dd></div>
-  <div><dt>Republication date</dt><dd>2496.202</dd></div>
+<div><dt>Original date</dt><dd>2494.112</dd></div>
+  <div><dt>Republication date</dt><dd>2495.114</dd></div>
   <div><dt>Author</dt><dd>Taran Vel, PhD, President Emeritus of Earth Union, Professor of Civic Systems, University of Luna, Senior Chief Petty Officer, Retired, Slave Emeritus</dd></div>
   <div><dt>Field</dt><dd>Civic Systems and External Power</dd></div>
 </dl>

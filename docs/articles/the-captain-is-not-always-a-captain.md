@@ -1,8 +1,8 @@
 ---
 title: "The Captain Is Not Always A Captain"
 description: "Owner-masters, spacer competence, and the founding congress' proportional qualification regime for small vessels."
-selection_date: "2496.222"
-release_cycle: "2496.222"
+selection_date: "2496.249"
+release_cycle: "2496.249"
 field: "Commercial and Maritime Law"
 type: "Republication"
 series:
@@ -11,13 +11,14 @@ series:
 dossiers:
   - "Ship Law and Registry"
 originating_publication: "*Journal of Interstellar Mercantile Systems*, Vol. 90"
-original_publication_date: "2494.195"
+original_publication_date: "2489.195"
 author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
-  - Founding & Charter Law
+  - Registry Law
+  - Commercial Practice
 ---
 # The Captain Is Not Always A Captain
 
@@ -28,8 +29,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure, Comparative Law</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
-<div><dt>Original date</dt><dd>2494.195</dd></div>
-  <div><dt>Republication date</dt><dd>2496.222</dd></div>
+<div><dt>Original date</dt><dd>2489.195</dd></div>
+  <div><dt>Republication date</dt><dd>2496.249</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>

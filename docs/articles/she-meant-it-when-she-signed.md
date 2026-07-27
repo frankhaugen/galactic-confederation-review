@@ -1,21 +1,23 @@
 ---
 title: "She Meant It When She Signed"
 description: "A joint Luna and Independent Aralai Studies essay on majority age, pair-bond plasticity, and when GCS-100 cannot alone protect contractual capacity."
-selection_date: "2496.256"
-release_cycle: "2496.256"
+selection_date: "2497.208"
+release_cycle: "2497.208"
 field: "Comparative Law and Species Biology"
 type: "Republication"
 series:
   - "Comparative Law"
   - "Species Profiles"
 originating_publication: "*Luna–Independent Aralai Studies Joint Colloquium Papers*"
-original_publication_date: "2496.141"
+original_publication_date: "2493.141"
 author: "Dr. Elias Mendel, Professor of Evolutionary Neurobiology, Luna University; Dr. Savael Thiren, Senior Fellow in Law and Social Autonomy, Institute for Independent Aralai Studies"
 status: "Public archive edition"
 tags:
-  - Comparative Law
-  - Species Profiles
+  - Comparative Policy & Xenology
+  - Law
+  - Aralai
   - Contract Capacity
+  - Xenology
 ---
 # She Meant It When She Signed
 
@@ -25,8 +27,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*Luna–Independent Aralai Studies Joint Colloquium Papers*</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law, Species Profiles</dd></div>
-  <div><dt>Original date</dt><dd>2496.141</dd></div>
-  <div><dt>Republication date</dt><dd>2496.256</dd></div>
+  <div><dt>Original date</dt><dd>2493.141</dd></div>
+  <div><dt>Republication date</dt><dd>2497.208</dd></div>
   <div><dt>Author</dt><dd>Dr. Elias Mendel, Professor of Evolutionary Neurobiology, Luna University; Dr. Savael Thiren, Senior Fellow in Law and Social Autonomy, Institute for Independent Aralai Studies</dd></div>
   <div><dt>Field</dt><dd>Comparative Law and Species Biology</dd></div>
 </dl>

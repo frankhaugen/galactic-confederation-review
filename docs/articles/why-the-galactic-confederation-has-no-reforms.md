@@ -1,8 +1,8 @@
 ---
 title: "Why the Galactic Confederation Has No Reforms"
 description: "A political institutionalist argues that the Confederation's legislative stagnation is not paralysis, but the operating logic of a treaty system built to protect flow without becoming government."
-selection_date: "2496.228"
-release_cycle: "2496.228"
+selection_date: "2496.347"
+release_cycle: "2496.347"
 field: "Institutional Design and Treaty History"
 type: "Republication"
 series:
@@ -10,14 +10,15 @@ series:
 dossiers:
   - "Compact and Confederation Origins"
 originating_publication: "*Journal of Interstellar Institutional Design*, Vol. 41"
-original_publication_date: "2496.102"
+original_publication_date: "2494.202"
 author: "Dr. Thel Maruun, Senior Fellow in Comparative Confederation Studies, University of Ti Anan Tiga"
 status: "Public archive edition"
 tags:
-  - Galactic Confederation Institutions
+  - Confederation Institutions
   - Institutional Design
   - Treaty History
   - Policy
+  - Founding & Charter Law
 ---
 # Why the Galactic Confederation Has No Reforms
 
@@ -28,8 +29,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Historical Summaries</dd></div>
   <div><dt>Dossier</dt><dd>Compact and Confederation Origins</dd></div>
-  <div><dt>Original date</dt><dd>2496.102</dd></div>
-  <div><dt>Republication date</dt><dd>2496.228</dd></div>
+  <div><dt>Original date</dt><dd>2494.202</dd></div>
+  <div><dt>Republication date</dt><dd>2496.347</dd></div>
   <div><dt>Author</dt><dd>Dr. Thel Maruun, Senior Fellow in Comparative Confederation Studies, University of Ti Anan Tiga</dd></div>
   <div><dt>Field</dt><dd>Institutional Design and Treaty History</dd></div>
 </dl>

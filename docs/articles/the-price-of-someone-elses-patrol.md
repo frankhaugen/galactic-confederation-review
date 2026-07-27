@@ -1,8 +1,8 @@
 ---
 title: "The Price of Someone Else's Patrol"
 description: "A Vaelor strategic study of Earth Union fiscal limits, the twenty-year citizenship path, and why other members benefit when Earth Fleet pays for patrol."
-selection_date: "2496.229"
-release_cycle: "2496.229"
+selection_date: "2497.006"
+release_cycle: "2497.006"
 field: "Strategic Studies and Naval Policy"
 type: "Republication"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Earth Union Primer"
 originating_publication: "*Vaelor Strategic Studies Quarterly*"
-original_publication_date: "2496.151"
+original_publication_date: "2494.251"
 author: "Commander-Professor Sareth Un Veyr, Chair of External Naval Systems, Vaelor War College"
 status: "Public archive edition"
 tags:
   - Earth Union Institutions
-  - Fleet and Rescue Doctrine
+  - Earth Fleet
   - Policy
+  - Strategic Ethics
 ---
 # The Price of Someone Else's Patrol
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
-  <div><dt>Original date</dt><dd>2496.151</dd></div>
-  <div><dt>Republication date</dt><dd>2496.229</dd></div>
+  <div><dt>Original date</dt><dd>2494.251</dd></div>
+  <div><dt>Republication date</dt><dd>2497.006</dd></div>
   <div><dt>Author</dt><dd>Commander-Professor Sareth Un Veyr, Chair of External Naval Systems, Vaelor War College</dd></div>
   <div><dt>Field</dt><dd>Strategic Studies and Naval Policy</dd></div>
 </dl>

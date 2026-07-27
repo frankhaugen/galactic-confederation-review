@@ -1,8 +1,8 @@
 ---
 title: "Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers"
 description: "How FTL performance shapes governance, trade, and risk."
-selection_date: "2494.338"
-release_cycle: "2494.338"
+selection_date: "2494.188"
+release_cycle: "2494.188"
 field: "Policy and Engineering"
 type: "Technical Note"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Ansible and Communications"
 originating_publication: "*Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)"
-original_publication_date: "2494.312"
+original_publication_date: "2491.156"
 author: "Galactic Confederation Assembly Research Office"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - FTL
   - Policy
+  - Engineering
 ---
 # Faster-Than-Light Transit: Operational Tradeoffs for Policy Makers
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Communications and Transit</dd></div>
   <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
-<div><dt>Original date</dt><dd>2494.312</dd></div>
-  <div><dt>Republication date</dt><dd>2494.338</dd></div>
+<div><dt>Original date</dt><dd>2491.156</dd></div>
+  <div><dt>Republication date</dt><dd>2494.188</dd></div>
   <div><dt>Author</dt><dd>Galactic Confederation Assembly Research Office</dd></div>
   <div><dt>Field</dt><dd>Policy and Engineering</dd></div>
 </dl>

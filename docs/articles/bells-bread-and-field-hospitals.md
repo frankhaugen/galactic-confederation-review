@@ -1,8 +1,8 @@
 ---
 title: "Bells, Bread, and Field Hospitals"
 description: "Earth-origin religious humanitarian institutions in external service."
-selection_date: "2496.045"
-release_cycle: "2496.045"
+selection_date: "2494.303"
+release_cycle: "2494.303"
 field: "Xenology and Policy"
 type: "Republication"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Earth Union Primer"
 originating_publication: "*Religious Humanitarian Institutions in Earth Union External Service* (Cultural Exchange Office internal briefing)"
-original_publication_date: "2495.178"
+original_publication_date: "2492.118"
 author: "Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology"
 status: "Public archive edition"
 tags:
   - Earth Union Institutions
-  - Xenology
   - Humanitarian Practice
+  - Xenology
+  - Comparative Policy & Xenology
 ---
 # Bells, Bread, and Field Hospitals
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
-<div><dt>Original date</dt><dd>2495.178</dd></div>
-  <div><dt>Republication date</dt><dd>2496.045</dd></div>
+<div><dt>Original date</dt><dd>2492.118</dd></div>
+  <div><dt>Republication date</dt><dd>2494.303</dd></div>
   <div><dt>Author</dt><dd>Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology</dd></div>
   <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
 </dl>

@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2496.259</dd>
+      <dd>2497.224</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -30,42 +30,42 @@ The Review is funded under Confederation mandate, but editorially independent. S
 
 <article markdown>
 ### [Certification and Licensing Framework](articles/certification-and-licensing-framework.md)
-<p class="selection-meta">2496.259 · Standards and Infrastructure · Personnel Standards</p>
+<p class="selection-meta">2497.224 · Standards and Infrastructure · Personnel Standards</p>
 
 Standards Office reference for spacer competence, licenses, and emergency authority.
 </article>
 
 <article markdown>
 ### [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md)
-<p class="selection-meta">2496.256 · Comparative Law · Species Biology</p>
+<p class="selection-meta">2497.208 · Comparative Law · Species Biology</p>
 
 Mendel and Thiren on Aralai pair-bond plasticity and GCS-100 limits.
 </article>
 
 <article markdown>
 ### [The Great Navigators](articles/the-great-navigators.md)
-<p class="selection-meta">2496.253 · Species Profiles · Xenology</p>
+<p class="selection-meta">2497.181 · Species Profiles · Xenology</p>
 
 Dr. Okafor on sentient gravitic migrators under conservation law.
 </article>
 
 <article markdown>
 ### [The Patient Is Not the Procedure](articles/the-patient-is-not-the-procedure.md)
-<p class="selection-meta">2496.251 · Standards and Infrastructure · Medical Infrastructure</p>
+<p class="selection-meta">2497.161 · Standards and Infrastructure · Medical Infrastructure</p>
 
 Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
 </article>
 
 <article markdown>
 ### [The Captain Was Informed](articles/the-captain-was-informed.md)
-<p class="selection-meta">2496.247 · Standards and Infrastructure · Transport Liability</p>
+<p class="selection-meta">2497.128 · Standards and Infrastructure · Transport Liability</p>
 
 Advocate Vos on why crude disease briefings exist to prove captains were informed.
 </article>
 
 <article markdown>
 ### [The Shuttle That Could Leave But Not Return](articles/the-shuttle-that-could-leave-but-not-return.md)
-<p class="selection-meta">2496.244 · Standards and Infrastructure · Commercial Practice</p>
+<p class="selection-meta">2497.113 · Standards and Infrastructure · Commercial Practice</p>
 
 Sera Venn on an owner-built shuttle that can fly but cannot re-enter its birth bay.
 </article>

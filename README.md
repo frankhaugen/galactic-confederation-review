@@ -58,19 +58,19 @@ Examples:
 2496.221
 ```
 
-Dates should not look artificially neat. The Review publishes as works become ready. Avoid tidy spacing unless the sequence is deliberately ceremonial or bureaucratic.
+Dates should not look artificially neat. The Review publishes as works become ready. Avoid tidy spacing unless the sequence is deliberately ceremonial or bureaucratic. Do **not** release selections on consecutive cycle-days; irregular gaps of days to weeks are normal.
 
 Good:
 
 ```text
-2496.045
-2496.088
-2496.187
-2496.201
-2496.203
-2496.204
-2496.217
-2496.221
+2494.188
+2494.262
+2495.026
+2495.114
+2496.073
+2496.219
+2497.006
+2497.113
 ```
 
 Bad:
@@ -79,8 +79,19 @@ Bad:
 2496.100
 2496.110
 2496.120
-2496.130
+2496.201
+2496.202
+2496.203
+2496.204
 ```
+
+### Original publication date
+
+The in-universe date of first publication, not the Review's republication date.
+
+Many selections should feel archival: founding controversy, poison-pill abolitionist writing, and early standards notes may predate republication by years or decades. Same-year originals are rare and should be justified (field memoir, recent reply, technical bulletin).
+
+`original_publication_date` must precede `selection_date`.
 
 ### Series
 

@@ -1,8 +1,8 @@
 ---
 title: "C-Series Containers and the Founding Standard"
 description: "The C10, C20, and C40 container family adopted during founding standards work."
-selection_date: "2496.212"
-release_cycle: "2496.212"
+selection_date: "2496.003"
+release_cycle: "2496.003"
 field: "Engineering and Standards"
 type: "Technical Note"
 series:
@@ -17,6 +17,7 @@ tags:
   - Infrastructure & Commerce
   - Standards
   - Engineering
+  - Containers
 ---
 # C-Series Containers and the Founding Standard
 
@@ -28,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
 <div><dt>Original date</dt><dd>2418.144</dd></div>
-  <div><dt>Republication date</dt><dd>2496.212</dd></div>
+  <div><dt>Republication date</dt><dd>2496.003</dd></div>
   <div><dt>Author</dt><dd>Confederation Standards Office, Containerization Working Group</dd></div>
   <div><dt>Field</dt><dd>Engineering and Standards</dd></div>
 </dl>

@@ -8,13 +8,13 @@ It is not a chronological atlas. It is a compact entry path for readers who need
 
 | Order | Release | Selection | Why here |
 | ----- | ------- | --------- | -------- |
-| 1 | 2495.018 | [The Galactic Confederation at Founding](../articles/galactic-confederation-at-founding.md) | Confederation formation and institutional claims at origin |
-| 2 | 2495.019 | [The Compromise That Named the Chain](../articles/the-compromise-that-named-the-chain.md) | Founding ethics and the bargain that named regulated unfreedom |
-| 3 | 2496.199 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | Earth Union accession path from habitats through membership |
-| 4 | 2496.215 | [When Moral Alignment Failed at Interstellar Scale](../articles/when-moral-alignment-failed-at-interstellar-scale.md) | Later institutional failure across interstellar moral projects |
-| 5 | 2496.228 | [Why the Galactic Confederation Has No Reforms](../articles/why-the-galactic-confederation-has-no-reforms.md) | Constitutional stagnation as the operating logic of the treaty stack |
+| 1 | 2494.205 | [The Galactic Confederation at Founding](../articles/galactic-confederation-at-founding.md) | Confederation formation and institutional claims at origin |
+| 2 | 2494.216 | [The Compromise That Named the Chain](../articles/the-compromise-that-named-the-chain.md) | Founding ethics and the bargain that named regulated unfreedom |
+| 3 | 2495.065 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | Earth Union accession path from habitats through membership |
+| 4 | 2496.073 | [When Moral Alignment Failed at Interstellar Scale](../articles/when-moral-alignment-failed-at-interstellar-scale.md) | Later institutional failure across interstellar moral projects |
+| 5 | 2496.347 | [Why the Galactic Confederation Has No Reforms](../articles/why-the-galactic-confederation-has-no-reforms.md) | Constitutional stagnation as the operating logic of the treaty stack |
+| 6 | 2497.084 | [A Market for Continuity](../articles/a-market-for-continuity.md) | Insurance and certification as Confederation continuity manufacture |
 
 Readers pursuing Guardianship in full should continue to the [Guardianship Settlement Dossier](guardianship-settlement.md). Readers pursuing Earth Union as contemporary polity should continue to the [Earth Union Primer Dossier](earth-union-primer.md).
 
 Dossiers may be updated as new selections appear. Do not treat this packet as a locked publication issue.
-| 6 | 2496.241 | [A Market for Continuity](../articles/a-market-for-continuity.md) | Insurance and certification as Confederation continuity manufacture |

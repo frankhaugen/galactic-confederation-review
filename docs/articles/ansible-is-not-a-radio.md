@@ -1,8 +1,8 @@
 ---
 title: "The Ansible Is Not a Radio"
 description: "Public-science correction of common misunderstandings about ansible communication."
-selection_date: "2495.301"
-release_cycle: "2495.301"
+selection_date: "2494.262"
+release_cycle: "2494.262"
 field: "Engineering"
 type: "Republication"
 series:
@@ -10,11 +10,13 @@ series:
 dossiers:
   - "Ansible and Communications"
 originating_publication: "*Kharrek Journal of Public Science and Technical Frustration*, Vol. 19"
-original_publication_date: "2495.267"
+original_publication_date: "2493.267"
 author: "Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
+  - Communications
+  - Ansible
   - Earth Fleet
   - Engineering
 ---
@@ -27,8 +29,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Communications and Transit</dd></div>
   <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
-<div><dt>Original date</dt><dd>2495.267</dd></div>
-  <div><dt>Republication date</dt><dd>2495.301</dd></div>
+<div><dt>Original date</dt><dd>2493.267</dd></div>
+  <div><dt>Republication date</dt><dd>2494.262</dd></div>
   <div><dt>Author</dt><dd>Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Engineering</dd></div>
 </dl>

@@ -1,8 +1,8 @@
 ---
 title: "The Door Was Not Hidden"
 description: "Earth Union's public-law response to the Havren Claim — recognition without participation."
-selection_date: "2496.204"
-release_cycle: "2496.204"
+selection_date: "2495.172"
+release_cycle: "2495.172"
 field: "Comparative Public Law"
 type: "Republication"
 series:
@@ -11,12 +11,13 @@ series:
 dossiers:
   - "Guardianship Settlement"
 originating_publication: "*Quarterly Review of Status, Custody, and Jurisdiction*, Vol. 118"
-original_publication_date: "2496.008"
+original_publication_date: "2491.056"
 author: "Professor Seli Oranth, Chair of Comparative Public Law, Veyari Interstellar University"
 status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
+  - Abolitionism
   - Law
   - Earth Union Institutions
 ---
@@ -29,8 +30,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
-<div><dt>Original date</dt><dd>2496.008</dd></div>
-  <div><dt>Republication date</dt><dd>2496.204</dd></div>
+<div><dt>Original date</dt><dd>2491.056</dd></div>
+  <div><dt>Republication date</dt><dd>2495.172</dd></div>
   <div><dt>Author</dt><dd>Professor Seli Oranth, Chair of Comparative Public Law, Veyari Interstellar University</dd></div>
   <div><dt>Field</dt><dd>Comparative Public Law</dd></div>
 </dl>

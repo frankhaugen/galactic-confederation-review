@@ -1,19 +1,20 @@
 ---
 title: "The Registry Name Is Not The Place"
 description: "Why stellar registry keys, display names, and staging tags are three different legal objects—and why crews confuse them anyway."
-selection_date: "2496.227"
-release_cycle: "2496.227"
+selection_date: "2496.320"
+release_cycle: "2496.320"
 field: "Administrative Practice and Registry Law"
 type: "Republication"
 series:
   - "Standards and Infrastructure"
 originating_publication: "*Confederacy Stellar Registry Bulletin*, Vol. 61"
-original_publication_date: "2495.412"
+original_publication_date: "2493.112"
 author: "Caldis Orven, Senior Registrar, Secondary Display Names Bureau, Confederacy Stellar Registry"
 status: "Public archive edition"
 tags:
+  - Infrastructure & Commerce
   - Registry Law
-  - Standards and Infrastructure
+  - Standards
   - Commercial Practice
 ---
 # The Registry Name Is Not The Place
@@ -24,8 +25,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*Confederacy Stellar Registry Bulletin*, Vol. 61</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
-  <div><dt>Original date</dt><dd>2495.412</dd></div>
-  <div><dt>Republication date</dt><dd>2496.227</dd></div>
+  <div><dt>Original date</dt><dd>2493.112</dd></div>
+  <div><dt>Republication date</dt><dd>2496.320</dd></div>
   <div><dt>Author</dt><dd>Caldis Orven, Senior Registrar, Secondary Display Names Bureau, Confederacy Stellar Registry</dd></div>
   <div><dt>Field</dt><dd>Administrative Practice and Registry Law</dd></div>
 </dl>

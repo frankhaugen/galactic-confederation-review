@@ -1,8 +1,8 @@
 ---
 title: "Status Laundering at the Registry Interface"
 description: "How paperwork converts coercion into transferable legal status."
-selection_date: "2496.219"
-release_cycle: "2496.219"
+selection_date: "2496.172"
+release_cycle: "2496.172"
 field: "Law and Enforcement"
 type: "Republication"
 series:
@@ -11,13 +11,15 @@ series:
 dossiers:
   - "Guardianship Settlement"
 originating_publication: "*Nosies Customs Investigative Review*, Vol. 12"
-original_publication_date: "2495.256"
+original_publication_date: "2492.256"
 author: "Commissioner Raleth Vo, Protective Policy Division, Nosies Customs"
 status: "Public archive edition"
 tags:
   - Founding & Charter Law
-  - Law
+  - Guardianship
   - Enforcement
+  - Registry Law
+  - Law
 ---
 # Status Laundering at the Registry Interface
 
@@ -28,8 +30,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
-<div><dt>Original date</dt><dd>2495.256</dd></div>
-  <div><dt>Republication date</dt><dd>2496.219</dd></div>
+<div><dt>Original date</dt><dd>2492.256</dd></div>
+  <div><dt>Republication date</dt><dd>2496.172</dd></div>
   <div><dt>Author</dt><dd>Commissioner Raleth Vo, Protective Policy Division, Nosies Customs</dd></div>
   <div><dt>Field</dt><dd>Law and Enforcement</dd></div>
 </dl>

@@ -1,20 +1,22 @@
 ---
 title: "The Great Navigators"
 description: "A National Geographic Earth-edition profile of vacuum-adapted gravitic migrators whose biology inspired drive research and now sits under conservation law."
-selection_date: "2496.253"
-release_cycle: "2496.253"
+selection_date: "2497.181"
+release_cycle: "2497.181"
 field: "Xenology and Natural History"
 type: "Republication"
 series:
   - "Species Profiles"
 originating_publication: "*National Geographic*, Earth edition (translated under license)"
-original_publication_date: "2495.312"
+original_publication_date: "2492.312"
 author: "Dr. Lena Okafor"
 status: "Public archive edition"
 tags:
+  - Comparative Policy & Xenology
   - Xenology
   - Natural History
   - Conservation
+  - FTL
 ---
 # The Great Navigators
 
@@ -24,8 +26,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*National Geographic*, Earth edition (translated under license)</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Species Profiles</dd></div>
-  <div><dt>Original date</dt><dd>2495.312</dd></div>
-  <div><dt>Republication date</dt><dd>2496.253</dd></div>
+  <div><dt>Original date</dt><dd>2492.312</dd></div>
+  <div><dt>Republication date</dt><dd>2497.181</dd></div>
   <div><dt>Author</dt><dd>Dr. Lena Okafor</dd></div>
   <div><dt>Field</dt><dd>Xenology and Natural History</dd></div>
 </dl>

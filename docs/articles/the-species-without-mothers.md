@@ -1,20 +1,21 @@
 ---
 title: "The Species Without Mothers"
 description: "Kharrek reproduction, exclusive imprinting, and solitary paternal rearing — biology that becomes institution at the cave mouth."
-selection_date: "2496.207"
-release_cycle: "2496.207"
+selection_date: "2495.240"
+release_cycle: "2495.240"
 field: "Xenology and Civic Biology"
 type: "Republication"
 series:
   - "Species Profiles"
 originating_publication: "*Species In Context*, Vol. 12"
-original_publication_date: "2495.089"
+original_publication_date: "2491.089"
 author: "Professor Eren Vash-Tek, Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr"
 status: "Public archive edition"
 tags:
   - Comparative Policy & Xenology
-  - Kharrek
   - Xenology
+  - Kharrek
+  - Kinship Institutions
 ---
 # The Species Without Mothers
 
@@ -24,8 +25,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*Species In Context*, Vol. 12</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Species Profiles</dd></div>
-<div><dt>Original date</dt><dd>2495.089</dd></div>
-  <div><dt>Republication date</dt><dd>2496.207</dd></div>
+<div><dt>Original date</dt><dd>2491.089</dd></div>
+  <div><dt>Republication date</dt><dd>2495.240</dd></div>
   <div><dt>Author</dt><dd>Professor Eren Vash-Tek, Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Xenology and Civic Biology</dd></div>
 </dl>

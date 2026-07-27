@@ -1,29 +1,39 @@
 # Classification Index
 
-The Review maintains this index for cross-polity browsing. Tags denote editorial classification, not Confederation legal categories.
+The Review classifies selections for cross-polity browsing. Tags are editorial
+labels, not Confederation legal categories. Click any tag on a selection page
+to return here.
 
-## Series
+Umbrella tags mark broad archival neighborhoods. Narrow tags mark institutions,
+methods, species, or dispute lines.
+
+## Full tag listings
+
+<!-- material/tags -->
+
+## How to read the umbrella tags
 
 ### Founding & Charter Law
 
-Works on Confederation founding, Charter compromise, guardianship, registry crime, and ledger economics.
+Confederation founding, Charter compromise, Guardianship settlement language,
+registry crime, and ledger economics.
 
 ### Earth Union Institutions
 
-Works on Earth Union civic language, humanitarian practice, Fleet doctrine, and accession-era institutions.
+Earth Union civic language, humanitarian practice, Fleet doctrine, and
+accession-era institutions.
 
 ### Infrastructure & Commerce
 
-Works on transport, containers, FTL policy, information mesh, and strategic communications technology.
+Transport, containers, certification, insurance, FTL policy, and communications
+technology.
 
 ### Law, Cognition & Enforcement
 
-Works on Prize Court procedure, artificial cognition law, and interface enforcement.
+Prize procedure, artificial cognition law, corridor enforcement, and interface
+compliance.
 
 ### Comparative Policy & Xenology
 
-Works on species institutions, comparative governance, and cross-polity social systems.
-
-## Fields
-
-Browse by field tag to locate scholarship by disciplinary register. Field labels follow original publication metadata where available.
+Species institutions, comparative governance, kinship systems, and cross-polity
+social design.

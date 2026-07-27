@@ -1,8 +1,8 @@
 ---
 title: "Why Does a Pilot Need an Ancient Sword?"
 description: "A Rethic lecturer on Earth Fleet academies pairing applied combat with traditional sword practice as officer formation, not ceremonial waste."
-selection_date: "2496.233"
-release_cycle: "2496.233"
+selection_date: "2497.042"
+release_cycle: "2497.042"
 field: "Military Education and Officer Formation"
 type: "Republication"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Earth Union Primer"
 originating_publication: "*Journal of Interpolity Military Education*, Vol. 118"
-original_publication_date: "2496.094"
+original_publication_date: "2493.094"
 author: "Commander-Retired Heth Varos, Lecturer in Comparative Officer Formation, Central Rethic War College"
 status: "Public archive edition"
 tags:
-  - Fleet and Rescue Doctrine
   - Earth Union Institutions
+  - Earth Fleet
   - Military Education
+  - Military Ethics
 ---
 # Why Does a Pilot Need an Ancient Sword?
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Fleet and Rescue Doctrine</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
-  <div><dt>Original date</dt><dd>2496.094</dd></div>
-  <div><dt>Republication date</dt><dd>2496.233</dd></div>
+  <div><dt>Original date</dt><dd>2493.094</dd></div>
+  <div><dt>Republication date</dt><dd>2497.042</dd></div>
   <div><dt>Author</dt><dd>Commander-Retired Heth Varos, Lecturer in Comparative Officer Formation, Central Rethic War College</dd></div>
   <div><dt>Field</dt><dd>Military Education and Officer Formation</dd></div>
 </dl>

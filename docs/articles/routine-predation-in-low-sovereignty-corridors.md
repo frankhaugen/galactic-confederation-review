@@ -1,20 +1,21 @@
 ---
 title: "Routine Predation in Low-Sovereignty Corridors"
 description: "A comparative offense-ecology model of why interstellar piracy persists — strain, opportunity, enforcement geometry, and armament asymmetry."
-selection_date: "2496.208"
-release_cycle: "2496.208"
+selection_date: "2495.261"
+release_cycle: "2495.261"
 field: "Comparative Criminology"
 type: "Republication"
 series:
   - "Comparative Law"
 originating_publication: "*Kharrek Annals of Transit Offense Ecology*, Vol. 31"
-original_publication_date: "2495.278"
+original_publication_date: "2492.278"
 author: "Dr. Osel Var-Keth, Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr"
 status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Maritime Law
   - Enforcement
+  - Piracy
 ---
 # Routine Predation in Low-Sovereignty Corridors
 
@@ -24,8 +25,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*Kharrek Annals of Transit Offense Ecology*, Vol. 31</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
-<div><dt>Original date</dt><dd>2495.278</dd></div>
-  <div><dt>Republication date</dt><dd>2496.208</dd></div>
+<div><dt>Original date</dt><dd>2492.278</dd></div>
+  <div><dt>Republication date</dt><dd>2495.261</dd></div>
   <div><dt>Author</dt><dd>Dr. Osel Var-Keth, Comparative Offense Ecology Faculty, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Comparative Criminology</dd></div>
 </dl>

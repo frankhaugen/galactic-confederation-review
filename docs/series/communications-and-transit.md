@@ -17,6 +17,6 @@ Communications and Transit does not publish ship-registry standards, prize law, 
 
 | Release | Selection | Field |
 | ------- | --------- | ----- |
-| 2494.338 | [Faster-Than-Light Transit](../articles/ftl-transit-operational-tradeoffs.md) | Policy and Engineering |
-| 2495.301 | [The Ansible Is Not a Radio](../articles/ansible-is-not-a-radio.md) | Engineering |
-| 2496.214 | [The Confederation Does Not Deliver Messages](../articles/the-confederation-does-not-deliver-messages.md) | Communications Policy |
+| 2494.188 | [Faster-Than-Light Transit](../articles/ftl-transit-operational-tradeoffs.md) | Policy and Engineering |
+| 2494.262 | [The Ansible Is Not a Radio](../articles/ansible-is-not-a-radio.md) | Engineering |
+| 2496.053 | [The Confederation Does Not Deliver Messages](../articles/the-confederation-does-not-deliver-messages.md) | Communications Policy |

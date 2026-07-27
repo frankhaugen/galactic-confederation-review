@@ -1,8 +1,8 @@
 ---
 title: "From Nations To Habitats"
 description: "Institutional history of Earth Union from dependent habitats through Greth contact, Compact accession, IUAS, and Confederation membership."
-selection_date: "2496.199"
-release_cycle: "2496.199"
+selection_date: "2495.065"
+release_cycle: "2495.065"
 field: "History and Policy"
 type: "Republication"
 series:
@@ -12,13 +12,14 @@ dossiers:
   - "Earth Union Primer"
   - "Compact and Confederation Origins"
 originating_publication: "*Introductory Compendium For Students Of Earth Union*, 19th revised edition"
-original_publication_date: "2495.441"
+original_publication_date: "2490.241"
 author: "Professor Amira Sato-Klein, Department of Earth Political Development, University of Geneva-Hellas"
 status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - History
   - Policy
+  - Confederation Institutions
 ---
 # From Nations To Habitats
 
@@ -29,8 +30,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Historical Summaries, Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer, Compact and Confederation Origins</dd></div>
-<div><dt>Original date</dt><dd>2495.441</dd></div>
-  <div><dt>Republication date</dt><dd>2496.199</dd></div>
+<div><dt>Original date</dt><dd>2490.241</dd></div>
+  <div><dt>Republication date</dt><dd>2495.065</dd></div>
   <div><dt>Author</dt><dd>Professor Amira Sato-Klein, Department of Earth Political Development, University of Geneva-Hellas</dd></div>
   <div><dt>Field</dt><dd>History and Policy</dd></div>
 </dl>

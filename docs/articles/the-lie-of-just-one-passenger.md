@@ -1,8 +1,8 @@
 ---
 title: "The Lie Of "Just One Passenger"
 description: "Why carrying even one passenger alters vessel class, insurance, crew duty, and port clearance — transport law for small operators."
-selection_date: "2496.205"
-release_cycle: "2496.205"
+selection_date: "2495.195"
+release_cycle: "2495.195"
 field: "Transport Liability and Civil Movement Law"
 type: "Republication"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Ship Law and Registry"
 originating_publication: "*Port Authority Quarterly*, Issue 214"
-original_publication_date: "2495.112"
+original_publication_date: "2492.312"
 author: "Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
-  - Transport Law
+  - Transport Liability
+  - Commercial Practice
 ---
 # The Lie Of "Just One Passenger"
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
-<div><dt>Original date</dt><dd>2495.112</dd></div>
-  <div><dt>Republication date</dt><dd>2496.205</dd></div>
+<div><dt>Original date</dt><dd>2492.312</dd></div>
+  <div><dt>Republication date</dt><dd>2495.195</dd></div>
   <div><dt>Author</dt><dd>Professor Iren Tal Osh, Chair of Transport Liability and Civil Movement Law, Veyran Institute of Commercial Systems</dd></div>
   <div><dt>Field</dt><dd>Transport Liability and Civil Movement Law</dd></div>
 </dl>

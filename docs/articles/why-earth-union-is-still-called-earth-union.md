@@ -1,8 +1,8 @@
 ---
 title: "Why Earth Union Is Still Called Earth Union"
 description: "Civic naming, legal continuity, and the political value of inherited institutional names."
-selection_date: "2496.201"
-release_cycle: "2496.201"
+selection_date: "2495.083"
+release_cycle: "2495.083"
 field: "Policy and History"
 type: "Editorial Note"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Earth Union Primer"
 originating_publication: "*Galactic Confederation Review*, Language Desk"
-original_publication_date: "2496.201"
+original_publication_date: "2492.078"
 author: "Review Language Desk"
 status: "Public archive edition"
 tags:
   - Earth Union Institutions
-  - Policy
   - History
+  - Policy
+  - Naming and Legitimacy
 ---
 # Why Earth Union Is Still Called Earth Union
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
-<div><dt>Original date</dt><dd>2496.201</dd></div>
-  <div><dt>Republication date</dt><dd>2496.201</dd></div>
+<div><dt>Original date</dt><dd>2492.078</dd></div>
+  <div><dt>Republication date</dt><dd>2495.083</dd></div>
   <div><dt>Author</dt><dd>Review Language Desk</dd></div>
   <div><dt>Field</dt><dd>Policy and History</dd></div>
 </dl>

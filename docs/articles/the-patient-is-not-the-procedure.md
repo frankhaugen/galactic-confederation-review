@@ -1,8 +1,8 @@
 ---
 title: "The Patient Is Not the Procedure"
 description: "An abridged Lucene undergraduate thesis arguing that MedBeds and AutoDocs succeed by separating support, procedure, hands, and judgment—not by becoming machine doctors."
-selection_date: "2496.251"
-release_cycle: "2496.251"
+selection_date: "2497.161"
+release_cycle: "2497.161"
 field: "Medical Infrastructure and Shipboard Practice"
 type: "Abridged Republication"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Ship Law and Registry"
 originating_publication: "Undergraduate thesis, *Medical Logistics and Interstellar Transport*, University of Lucene (abridged)"
-original_publication_date: "2496.088"
+original_publication_date: "2495.028"
 author: "Lessa Morin, Department of Comparative Infrastructure Studies, University of Lucene"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Shipboard Medicine
   - Standards
+  - Medical Infrastructure
 ---
 # The Patient Is Not the Procedure
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
-  <div><dt>Original date</dt><dd>2496.088</dd></div>
-  <div><dt>Republication date</dt><dd>2496.251</dd></div>
+  <div><dt>Original date</dt><dd>2495.028</dd></div>
+  <div><dt>Republication date</dt><dd>2497.161</dd></div>
   <div><dt>Author</dt><dd>Lessa Morin, Department of Comparative Infrastructure Studies, University of Lucene</dd></div>
   <div><dt>Field</dt><dd>Medical Infrastructure and Shipboard Practice</dd></div>
 </dl>

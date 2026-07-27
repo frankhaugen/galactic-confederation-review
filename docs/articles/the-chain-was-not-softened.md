@@ -1,8 +1,8 @@
 ---
 title: "The Chain Was Not Softened"
 description: "Abolitionist legal argument against conciliatory accounts of the Guardianship compromise."
-selection_date: "2495.022"
-release_cycle: "2495.022"
+selection_date: "2494.243"
+release_cycle: "2494.243"
 field: "Law and Ethics"
 type: "Republication"
 series:
@@ -10,12 +10,13 @@ series:
 dossiers:
   - "Guardianship Settlement"
 originating_publication: "*The Journal of Human Moral Law*, Vol. 302"
-original_publication_date: "2494.088"
+original_publication_date: "2481.203"
 author: "Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars"
 status: "Public archive edition"
 tags:
   - Founding & Charter Law
   - Guardianship
+  - Abolitionism
   - Law
 ---
 # The Chain Was Not Softened
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
-<div><dt>Original date</dt><dd>2494.088</dd></div>
-  <div><dt>Republication date</dt><dd>2495.022</dd></div>
+<div><dt>Original date</dt><dd>2481.203</dd></div>
+  <div><dt>Republication date</dt><dd>2494.243</dd></div>
   <div><dt>Author</dt><dd>Professor Amara Telle, Chair of Abolitionist Legal History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>Law and Ethics</dd></div>
 </dl>

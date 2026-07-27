@@ -1,8 +1,8 @@
 ---
 title: "An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating"
 description: "A Luna criminologist on why Station 767 can fail as a society while maintaining the Confederation's most reliable commercial transfer membrane."
-selection_date: "2496.237"
-release_cycle: "2496.237"
+selection_date: "2497.066"
+release_cycle: "2497.066"
 field: "Comparative Criminology and Commercial Law"
 type: "Republication"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Ship Law and Registry"
 originating_publication: "*Luna Journal of Interpolity Criminology*, Vol. 74"
-original_publication_date: "2496.118"
+original_publication_date: "2494.118"
 author: "Teswinn Xhuthii, Professor Emeritus, Department of Criminology and Law, Luna University"
 status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Maritime Law
   - Commercial Practice
+  - Insurance
 ---
 # An Analysis of Station 767: How a Lawless Hellhole Has the Highest GC Commerce Compliance Rating
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
-  <div><dt>Original date</dt><dd>2496.118</dd></div>
-  <div><dt>Republication date</dt><dd>2496.237</dd></div>
+  <div><dt>Original date</dt><dd>2494.118</dd></div>
+  <div><dt>Republication date</dt><dd>2497.066</dd></div>
   <div><dt>Author</dt><dd>Teswinn Xhuthii, Professor Emeritus, Department of Criminology and Law, Luna University</dd></div>
   <div><dt>Field</dt><dd>Comparative Criminology and Commercial Law</dd></div>
 </dl>

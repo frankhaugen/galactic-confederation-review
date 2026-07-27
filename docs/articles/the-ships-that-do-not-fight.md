@@ -1,21 +1,22 @@
 ---
 title: "The Ships That Do Not Fight"
 description: "Search, rescue, customs, and wreck certification — why the Nosies do not fight, and why that is the point."
-selection_date: "2496.088"
-release_cycle: "2496.088"
+selection_date: "2494.331"
+release_cycle: "2494.331"
 field: "Administrative Practice"
 type: "Republication"
 series:
   - "Fleet and Rescue Doctrine"
 originating_publication: "*Journal of Confederation Administrative Practice*, Vol. 212"
-original_publication_date: "2493.088"
+original_publication_date: "2489.044"
 author: "Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired)"
 status: "Public archive edition"
 tags:
-  - Confederation Institutions
-  - Search and Rescue
-  - Customs
   - Earth Fleet
+  - Nosies
+  - Search and Rescue
+  - Confederation Institutions
+  - Customs
 ---
 # The Ships That Do Not Fight
 
@@ -25,8 +26,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*Journal of Confederation Administrative Practice*, Vol. 212</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Fleet and Rescue Doctrine</dd></div>
-<div><dt>Original date</dt><dd>2493.088</dd></div>
-  <div><dt>Republication date</dt><dd>2496.088</dd></div>
+<div><dt>Original date</dt><dd>2489.044</dd></div>
+  <div><dt>Republication date</dt><dd>2494.331</dd></div>
   <div><dt>Author</dt><dd>Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired); former Deputy Commissioner for Lane Safety and Wreck Certification</dd></div>
   <div><dt>Field</dt><dd>Administrative Practice</dd></div>
 </dl>

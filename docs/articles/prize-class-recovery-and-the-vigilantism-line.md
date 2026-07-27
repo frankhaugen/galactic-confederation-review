@@ -1,20 +1,21 @@
 ---
 title: "Prize-Class Recovery and the Vigilantism Line"
 description: "Prize Court doctrine on self-defense exclusivity and registry enforcement."
-selection_date: "2496.216"
-release_cycle: "2496.216"
+selection_date: "2496.108"
+release_cycle: "2496.108"
 field: "Maritime Law and Confederation Procedure"
 type: "Republication"
 series:
   - "Comparative Law"
 originating_publication: "*Lucene Institute Procedural Review*, Vol. 156"
-original_publication_date: "2495.334"
+original_publication_date: "2493.334"
 author: "Advocate-Commissioner Senna Orr, Prize Court liaison practice"
 status: "Public archive edition"
 tags:
   - Law, Cognition & Enforcement
   - Maritime Law
   - Enforcement
+  - Piracy
 ---
 # Prize-Class Recovery and the Vigilantism Line
 
@@ -24,8 +25,8 @@ tags:
   <div><dt>Originally published in</dt><dd markdown="1">*Lucene Institute Procedural Review*, Vol. 156</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
-<div><dt>Original date</dt><dd>2495.334</dd></div>
-  <div><dt>Republication date</dt><dd>2496.216</dd></div>
+<div><dt>Original date</dt><dd>2493.334</dd></div>
+  <div><dt>Republication date</dt><dd>2496.108</dd></div>
   <div><dt>Author</dt><dd>Advocate-Commissioner Senna Orr, Prize Court liaison practice</dd></div>
   <div><dt>Field</dt><dd>Maritime Law and Confederation Procedure</dd></div>
 </dl>

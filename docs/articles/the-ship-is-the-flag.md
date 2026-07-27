@@ -1,8 +1,8 @@
 ---
 title: "The Ship Is The Flag"
 description: "Registry, route freedom, and how the Confederation replaced flag jurisdictions with hull standing as commercial legal identity."
-selection_date: "2496.209"
-release_cycle: "2496.209"
+selection_date: "2495.298"
+release_cycle: "2495.298"
 field: "Commercial and Maritime Law"
 type: "Republication"
 series:
@@ -10,12 +10,13 @@ series:
 dossiers:
   - "Ship Law and Registry"
 originating_publication: "*Journal of Interstellar Mercantile Systems*, Vol. 89"
-original_publication_date: "2494.181"
+original_publication_date: "2487.181"
 author: "Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law"
 status: "Public archive edition"
 tags:
   - Infrastructure & Commerce
   - Maritime Law
+  - Registry Law
   - Founding & Charter Law
 ---
 # The Ship Is The Flag
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
-<div><dt>Original date</dt><dd>2494.181</dd></div>
-  <div><dt>Republication date</dt><dd>2496.209</dd></div>
+<div><dt>Original date</dt><dd>2487.181</dd></div>
+  <div><dt>Republication date</dt><dd>2495.298</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>

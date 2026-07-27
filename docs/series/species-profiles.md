@@ -17,7 +17,7 @@ Species Profiles does not attempt comprehensive xenological taxonomy, clinical m
 
 | Release | Selection | Field |
 | ------- | --------- | ----- |
-| 2496.207 | [The Species Without Mothers](../articles/the-species-without-mothers.md) | Xenology and Civic Biology |
-| 2496.220 | [Institutions Without Parenthood](../articles/institutions-without-parenthood.md) | Xenology and Policy |
-| 2496.253 | [The Great Navigators](../articles/the-great-navigators.md) | Xenology and Natural History |
-| 2496.256 | [She Meant It When She Signed](../articles/she-meant-it-when-she-signed.md) | Comparative Law and Species Biology |
+| 2495.240 | [The Species Without Mothers](../articles/the-species-without-mothers.md) | Xenology and Civic Biology |
+| 2496.197 | [Institutions Without Parenthood](../articles/institutions-without-parenthood.md) | Xenology and Policy |
+| 2497.181 | [The Great Navigators](../articles/the-great-navigators.md) | Xenology and Natural History |
+| 2497.208 | [She Meant It When She Signed](../articles/she-meant-it-when-she-signed.md) | Comparative Law and Species Biology |

@@ -1,8 +1,8 @@
 ---
 title: "Children of Terra"
 description: "How a translator's improvisation became a durable legal category."
-selection_date: "2496.187"
-release_cycle: "2496.187"
+selection_date: "2495.004"
+release_cycle: "2495.004"
 field: "Policy and Xenology"
 type: "Editorial Note"
 series:
@@ -10,13 +10,14 @@ series:
 dossiers:
   - "Earth Union Primer"
 originating_publication: "*Galactic Confederation Review*, Language Desk"
-original_publication_date: "2496.187"
+original_publication_date: "2493.187"
 author: "Review Language Desk"
 status: "Public archive edition"
 tags:
   - Earth Union Institutions
   - Xenology
   - Policy
+  - Comparative Policy & Xenology
 ---
 # Children of Terra
 
@@ -27,8 +28,8 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
-<div><dt>Original date</dt><dd>2496.187</dd></div>
-  <div><dt>Republication date</dt><dd>2496.187</dd></div>
+<div><dt>Original date</dt><dd>2493.187</dd></div>
+  <div><dt>Republication date</dt><dd>2495.004</dd></div>
   <div><dt>Author</dt><dd>Review Language Desk</dd></div>
   <div><dt>Field</dt><dd>Policy and Xenology</dd></div>
 </dl>

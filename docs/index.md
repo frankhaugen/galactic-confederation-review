@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2497.224</dd>
+      <dd>2497.241</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -27,6 +27,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Latest selections
 
 <div class="selection-grid" markdown>
+
+<article markdown>
+### [The Glorious Inboard Rescue Pod](articles/the-glorious-inboard-rescue-pod.md)
+<p class="selection-meta">2497.241 · Standards and Infrastructure · Habitability Engineering</p>
+
+Solven on Type C0n cabins as self-contained, chainable inboard survival cells.
+</article>
 
 <article markdown>
 ### [Certification and Licensing Framework](articles/certification-and-licensing-framework.md)
@@ -61,13 +68,6 @@ Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
 <p class="selection-meta">2497.128 · Standards and Infrastructure · Transport Liability</p>
 
 Advocate Vos on why crude disease briefings exist to prove captains were informed.
-</article>
-
-<article markdown>
-### [The Shuttle That Could Leave But Not Return](articles/the-shuttle-that-could-leave-but-not-return.md)
-<p class="selection-meta">2497.113 · Standards and Infrastructure · Commercial Practice</p>
-
-Sera Venn on an owner-built shuttle that can fly but cannot re-enter its birth bay.
 </article>
 
 </div>

@@ -409,8 +409,17 @@
       "chars": 22819,
       "output": "assets/audio/the-shuttle-that-could-leave-but-not-return.mp3",
       "generated_at": "2026-07-23T16:37:49.621798+00:00"
+    },
+    "the-glorious-inboard-rescue-pod": {
+      "slug": "the-glorious-inboard-rescue-pod",
+      "status": "generated",
+      "backend": "edge-tts",
+      "chunks": 4,
+      "chars": 13580,
+      "output": "assets/audio/the-glorious-inboard-rescue-pod.mp3",
+      "generated_at": "2026-07-29T18:08:21.645393+00:00"
     }
   },
   "backend": "edge-tts",
-  "updated_at": "2026-07-23T15:38:12.437895+00:00"
+  "updated_at": "2026-07-29T18:02:20.414649+00:00"
 }

@@ -408,6 +408,24 @@ author-metadata:
   tendencies: MedBed/AutoDoc role separation, automation without judgment claims.
   avoid: Machine-doctor mythology, vendor brochure tone.
 -->
+## Nera Solven
+
+Habitability Features Correspondent, *Working Systems*.
+
+Pop-engineering writer on crew berths, seal doctrine, and the mass budgets that
+turn ordinary cabins into certified survival cells on short-crew merchant hulls.
+
+**Republications in this archive:**
+
+- [The Glorious Inboard Rescue Pod](articles/the-glorious-inboard-rescue-pod.md) (2497.241)
+
+<!--
+author-metadata:
+  voice: Pop-engineering features — enthusiastic, concrete, yard-brochure literate.
+  tendencies: Dimensions, seal sequences, tramp honesty, product-band logic.
+  avoid: Liner romance, wiki lore dump, anti-inspector rant.
+-->
+
 ## Narev Thol
 
 Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College.

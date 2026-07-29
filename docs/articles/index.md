@@ -1,7 +1,7 @@
 # Archive Register
 
 > Maintained by: Galactic Confederation Review  
-> Register cycle: 2497.224  
+> Register cycle: 2497.241  
 > Distribution class: Public archive edition
 
 All selections in release order. Confederation standard ordinal notation: `YEAR.CYCLE_DAY`.
@@ -73,6 +73,7 @@ Browse by [series](../series/index.md), [dossier](../dossiers/index.md), or [cla
 | 2497.181 | [The Great Navigators](the-great-navigators.md) | Species Profiles | Xenology and Natural History |
 | 2497.208 | [She Meant It When She Signed](she-meant-it-when-she-signed.md) | Comparative Law | Comparative Law and Species Biology |
 | 2497.224 | [Galactic Confederation Certification and Licensing Framework](certification-and-licensing-framework.md) | Standards and Infrastructure | Personnel Standards and Licensing |
+| 2497.241 | [The Glorious Inboard Rescue Pod](the-glorious-inboard-rescue-pod.md) | Standards and Infrastructure | Habitability Engineering |
 
 ## Absent selections
 

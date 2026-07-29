@@ -21,6 +21,7 @@ It is not a registry handbook. It is a reading packet for readers who need to se
 | 11 | 2497.128 | [The Captain Was Informed](../articles/the-captain-was-informed.md) | Communicable-disease briefings as logged command liability |
 | 12 | 2497.161 | [The Patient Is Not the Procedure](../articles/the-patient-is-not-the-procedure.md) | MedBed/AutoDoc role separation aboard ships and stations |
 | 13 | 2497.224 | [Certification and Licensing Framework](../articles/certification-and-licensing-framework.md) | Personnel competence, licenses, and emergency safety authority |
+| 14 | 2497.241 | [The Glorious Inboard Rescue Pod](../articles/the-glorious-inboard-rescue-pod.md) | Type C0n inboard survival cabins as certified escape-pod substitute |
 
 Several selections in this dossier also appear in Comparative Law and Standards and Infrastructure. The Review indexes them here because registry and ship law remain the subject that binds them.
 

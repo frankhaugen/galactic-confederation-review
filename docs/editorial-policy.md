@@ -1,8 +1,8 @@
 # Editorial Policy
 
-The Galactic Confederation Review selects works according to public-interest relevance, cross-polity usefulness, argumentative quality, and long-term archival value.
+The Galactic Confederation Review selects works according to public-interest relevance, cross-polity usefulness, clarity or argumentative quality, and long-term archival value.
 
-The current public archive edition is indexed to **review cycle 2497.259**. The Review does not use present-day publication timestamps on republication pages; each article carries its original publication date and its Review selection date in Confederation standard ordinal notation.
+The current public archive edition is indexed to **review cycle 2497.304**. The Review does not use present-day publication timestamps on republication pages; each article carries its original publication date and its Review selection date in Confederation standard ordinal notation.
 
 ## Publication model
 
@@ -27,6 +27,7 @@ A work may be republished when it:
 - has influenced policy or public debate
 - represents a major controversy
 - provides unusually clear summary of a complex subject
+- documents an ordinary practice, cultural habit, or technical solution with cross-polity value
 - has become widely cited outside its original discipline
 
 ## Non-endorsement

@@ -402,6 +402,24 @@ Dates are archive release dates, not necessarily original publication dates.
 
 Use irregular but plausible release dates.
 
+The archive register is a live in-universe ledger. In ordinary publication work,
+new selections should be released **after the current latest `selection_date`**
+and should advance the Review's current register cycle. Do not insert a new
+selection into an earlier archive year merely because its subject belongs beside
+older material. Use `original_publication_date`, series membership, dossier
+placement, and related-selection links to create historical depth.
+
+Backdating a `selection_date` is allowed only when the task is explicitly a
+retrospective migration, correction of an erroneous prior date, or back-catalog
+reconstruction. In that case, say so in the handoff and update every affected
+index, series, dossier, house page, and cycle marker.
+
+Advance dates like an institution with workload, holidays, rights delays,
+translation queues, board inattention, and occasional batch clearance. Gaps of
+days to weeks are normal. Avoid regular intervals, tidy round numbers, long
+bursts of consecutive days, or several unrelated selections all clearing on the
+same convenient cycle day.
+
 A release date can be earlier than another article in the same series.
 
 A dossier can contain articles from different years.
@@ -410,7 +428,8 @@ A response article may be released before the Review republishes the original if
 
 When adding a new article:
 
-1. Choose a release date that fits existing nearby releases.
+1. Choose a release date after the current latest register entry, unless doing
+   an explicit retrospective correction or back-catalog migration.
 2. Avoid round-number clustering.
 3. Add the article to `docs/articles/`.
 4. Add the article to `docs/articles/index.md`.

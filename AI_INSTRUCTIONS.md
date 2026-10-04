@@ -66,6 +66,22 @@ Dates are archive release dates, not necessarily original publication dates.
 Use irregular but plausible release dates. Avoid round-number clustering unless
 the sequence is deliberately ceremonial or bureaucratic.
 
+Treat the archive register as a live in-universe ledger. In ordinary publication
+work, a new selection's `selection_date` should be later than the current latest
+selection and should advance the Review's current register cycle. Do not backfill
+a new selection into an earlier archive year just because the subject belongs
+near older material; use `original_publication_date`, series, dossiers, and
+related-selection links for that. Backdate `selection_date` only for explicit
+retrospective migrations, corrections, or back-catalog reconstruction, and then
+update every affected register, index, series, dossier, house page, and cycle
+marker.
+
+Release cadence should feel operational rather than patterned: rights clearance,
+translation, board delay, staff availability, and occasional batch clearance may
+create irregular gaps of days to weeks. Avoid consecutive-day bursts, round
+numbers, perfectly even spacing, or several unrelated selections clearing on the
+same convenient cycle day.
+
 Bad spacing example: `2496.100`, `2496.110`, `2496.120`.
 
 ### Fields
@@ -332,7 +348,8 @@ Before adding a selection, decide:
 
 When adding a new selection:
 
-1. Choose a release date that fits existing nearby releases.
+1. Choose a release date after the current latest register entry, unless doing
+   an explicit retrospective correction or back-catalog migration.
 2. Avoid round-number clustering.
 3. Add the file under `docs/articles/`.
 4. Add it to `docs/articles/index.md` (archive register).

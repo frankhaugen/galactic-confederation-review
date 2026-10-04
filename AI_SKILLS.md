@@ -19,8 +19,10 @@ Use when starting unfamiliar work.
 Use when creating or materially changing a republished selection.
 
 1. Follow the publication model in `README.md` and `AI_INSTRUCTIONS.md`.
-2. Decide release date, optional series, optional dossier fit, field, and selection type before
-   drafting.
+2. Determine the current latest `selection_date` in `docs/articles/index.md`;
+   choose a later, irregular release date unless the task is explicitly a
+   retrospective correction or back-catalog migration. Then decide optional
+   series, optional dossier fit, field, and selection type before drafting.
 3. Identify the author, publication-source, and culture/polity voice profiles
    in `VOICE_PROFILES.md`; read the author's `author-metadata` block in
    `docs/authors.md` when reusing an existing author.
@@ -54,25 +56,28 @@ republication.
 
 1. Read the draft and identify final title, author, originating venue, series
    fit, dossier fit, release date, and related selections.
-2. Identify author, publication-source, and culture/polity voice profiles from
+2. For normal publication, assign a release date after the current latest
+   register entry. Preserve or introduce an earlier `selection_date` only when
+   importing an explicit back-catalog batch or correcting prior metadata.
+3. Identify author, publication-source, and culture/polity voice profiles from
    `VOICE_PROFILES.md`, and preserve any existing draft form that helps the
    selection feel like a real source artifact.
-3. Choose the final filename slug (`kebab-case.md`). Delete or avoid leaving
+4. Choose the final filename slug (`kebab-case.md`). Delete or avoid leaving
    `tbd*.md` in the tree after import.
-4. Convert the draft to the standard selection shape from `README.md` and
+5. Convert the draft to the standard selection shape from `README.md` and
    `AI_INSTRUCTIONS.md`: YAML front matter, masthead, republication note,
    abstract panel, `## Article`, optional `## Notes`, and `## Related Review
    selections`.
-5. Assign `selection_date`, `field`, `type`, `series`, `dossiers`, `tags`, and
+6. Assign `selection_date`, `field`, `type`, `series`, `dossiers`, `tags`, and
    other metadata from `README.md`.
-6. Register the piece in `mkdocs.yml`, `docs/articles/index.md`, relevant series
+7. Register the piece in `mkdocs.yml`, `docs/articles/index.md`, relevant series
    pages, and relevant dossier pages.
-7. Update `docs/authors.md` and meaningful cross-links from related selections.
-8. Rename any pre-generated audio from the draft slug to the final slug, or
+8. Update `docs/authors.md` and meaningful cross-links from related selections.
+9. Rename any pre-generated audio from the draft slug to the final slug, or
    regenerate narration.
-9. Run `python scripts/verify_article_audio.py --scope published --check-site`
+10. Run `python scripts/verify_article_audio.py --scope published --check-site`
    when audio is part of the release.
-10. Run `mkdocs build --strict`.
+11. Run `mkdocs build --strict`.
 
 `scripts/import_draft_articles.py` converts `tbd*.md` drafts when batch metadata
 is already defined. Run with `--batch <name>` when available; prefer hand
@@ -112,7 +117,10 @@ Use when adding, renaming, or re-dating selections in `docs/articles/index.md`.
 1. List selections by release date, not primarily by issue.
 2. If grouping is useful, group by year first, then release date.
 3. Include release date, title, series, and field in the table.
-4. Run `mkdocs build --strict`.
+4. For ordinary new publication, verify the new release is later than the prior
+   latest register entry. Treat earlier insertion as a retrospective correction
+   or back-catalog migration and state that explicitly.
+5. Run `mkdocs build --strict`.
 
 ## Skill: Publish article audio editions
 
@@ -234,7 +242,8 @@ python scripts/publish_selection.py --slug <slug> --commit --push --message "Rel
 Phases (do not skip unless the user asks):
 
 1. Mine reference inputs and/or archive gaps for one strong angle.
-2. Commission author, field, type, optional series/dossier, release date, slug.
+2. Commission author, field, type, optional series/dossier, a release date after
+   the current latest register entry, and slug.
 3. Select author, publication-source, and culture/polity profiles from
    `VOICE_PROFILES.md`, and choose a source artifact form before drafting.
 4. Write `docs/articles/<slug>.md` in author voice with republication note.

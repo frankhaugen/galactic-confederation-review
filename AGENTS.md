@@ -38,6 +38,11 @@ New work follows:
 selection -> optional series -> optional dossier
 ```
 
+The archive register is a live in-universe ledger. Ordinary new selections should
+receive a `selection_date` later than the current latest register entry; do not
+backfill a new release into an earlier year unless the user explicitly asks for a
+retrospective correction, migration, or back-catalog reconstruction.
+
 ## Repository shape
 
 - Source Markdown lives in `docs/`.

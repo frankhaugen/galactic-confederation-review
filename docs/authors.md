@@ -409,6 +409,24 @@ author-metadata:
   avoid: Machine-doctor mythology, vendor brochure tone.
 -->
 
+## Dr. Mara Ellison
+
+Department of Comparative Xenology, Luna University.
+
+Comparative xenologist studying convergent behavior, animal cognition, and the
+limits of inference across unrelated biospheres.
+
+**Republications in this archive:**
+
+- [The Animal We Knew What To Do With](articles/the-animal-we-knew-what-to-do-with.md) (2497.304)
+
+<!--
+author-metadata:
+  voice: Comparative xenologist - warm, observational, empirically cautious, dryly amused by familiar behavior in alien animals.
+  tendencies: Starts from concrete behavior, distinguishes inference from evidence, returns to ordinary household examples.
+  avoid: Mystical convergence, panspermia certainty, cute-animal sentimentality without method.
+-->
+
 ## Marel Quist
 
 Staff Writer, *Transit Window*.

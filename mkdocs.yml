@@ -73,9 +73,6 @@ extra:
 
 nav:
   - Review Home: index.md
-  - About the Review: about.md
-  - Editorial Policy: editorial-policy.md
-  - Editorial Content: editorial-content.md
   - Series:
       - series/index.md
       - Species Profiles: series/species-profiles.md
@@ -96,3 +93,9 @@ nav:
   - Archive Register: articles/index.md
   - Classification Index: tags.md
   - Contributing Authors: authors.md
+  - Galactic Confederation:
+      - reference/index.md
+      - Galactic Confederation circa 2500: reference/galactic-confederation-circa-2500.md
+  - About the Review: about.md
+  - Editorial Policy: editorial-policy.md
+  - Editorial Content: editorial-content.md

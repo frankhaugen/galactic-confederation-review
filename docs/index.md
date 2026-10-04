@@ -24,16 +24,18 @@ Selections are released as they clear review. Some stand alone. Some belong to c
 
 The Review is funded under Confederation mandate, but editorially independent. Selection for republication does not imply endorsement by the Review, the Galactic Confederation, or the originating polity.
 
-## Latest selections
+## Featured selection
 
-<div class="selection-grid" markdown>
-
-<article markdown>
+<article class="selection-feature" markdown>
 ### [Fun Fact: The Nine Pulses Everyone Knows](articles/the-nine-pulses-everyone-knows.md)
 <p class="selection-meta">2497.259 · Standards and Infrastructure · Safety Standards and Cultural History</p>
 
-Marel Quist on the pre-Union Earth distress convention that carried SOS and MAYDAY into interstellar common use.
+Marel Quist traces how a pre-Union Earth distress convention carried three letters, nine pulses, and MAYDAY into interstellar common use. The selection is useful precisely because it is small: a rescue custom that became portable because almost anyone can remember it.
 </article>
+
+## Latest selections
+
+<div class="selection-grid" markdown>
 
 <article markdown>
 ### [The Glorious Inboard Rescue Pod](articles/the-glorious-inboard-rescue-pod.md)
@@ -74,6 +76,24 @@ Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
 
 <p class="selection-meta">Full release sequence: <a href="articles/index.md">Archive Register</a> · <a href="series/index.md">Series</a> · <a href="dossiers/index.md">Dossiers</a></p>
 
+## From the archive
+
+<article class="selection-feature" markdown>
+### [The Galactic Confederation at Founding](articles/galactic-confederation-at-founding.md)
+<p class="selection-meta">2494.205 · Historical Summaries · History and Policy</p>
+
+Founding-era institutional history remains the best way to understand why the Confederation behaves like an interface system rather than a conventional state. This selection also anchors several later disputes over Guardianship, communications, registry, and reform.
+</article>
+
+## Current dossier
+
+<article class="selection-feature" markdown>
+### [Ship Law and Registry](dossiers/ship-law-and-registry.md)
+<p class="selection-meta">Dossier · Curated reading packet</p>
+
+Flags, shadows, containers, captains, rescue hardware, and the legal fiction that lets a ship act as more than property. This dossier is a practical entry point into the machinery that makes interstellar commerce legible.
+</article>
+
 ## Active series
 
 | Series | Track |
@@ -87,20 +107,17 @@ Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
 | [Communications and Transit](series/communications-and-transit.md) | Ansible, mesh policy, FTL, distance as institution |
 | [Fleet and Rescue Doctrine](series/fleet-and-rescue-doctrine.md) | Nosies, rescue, boarding ethics, public-force legitimacy |
 
-## Featured dossiers
-
-| Dossier | Entry point |
-| ------- | ----------- |
-| [Earth Union Primer](dossiers/earth-union-primer.md) | Earth Union as polity, culture, and uncomfortable neighbor |
-| [Guardianship Settlement](dossiers/guardianship-settlement.md) | The settlement, founding arguments, ledger, enforcement |
-| [Ship Law and Registry](dossiers/ship-law-and-registry.md) | Flags, shadows, captains, containers, and what fits inside |
-| [Ansible and Communications](dossiers/ansible-and-communications.md) | Physics, policy, and why the Confederation does not deliver messages |
-
 ## Editorial content
 
 Rare original work by Review staff — disclosed separately from republication.
 See [Editorial Content](editorial-content.md) for Language Desk selections and
 indulgence disclaimers.
+
+## About the Galactic Confederation
+
+Readers who need direct orientation before returning to the archive may begin with [The Galactic Confederation circa 2500](reference/galactic-confederation-circa-2500.md).
+
+The reference section is deliberately small. It explains the structural environment around the selections without turning the Review into an encyclopedia of the setting.
 
 ## Editorial mandate
 

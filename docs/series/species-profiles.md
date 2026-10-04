@@ -21,3 +21,4 @@ Species Profiles does not attempt comprehensive xenological taxonomy, clinical m
 | 2497.018 | [Institutions Without Parenthood](../articles/institutions-without-parenthood.md) | Xenology and Policy |
 | 2497.181 | [The Great Navigators](../articles/the-great-navigators.md) | Xenology and Natural History |
 | 2497.208 | [She Meant It When She Signed](../articles/she-meant-it-when-she-signed.md) | Comparative Law and Species Biology |
+| 2497.304 | [The Animal We Knew What To Do With](../articles/the-animal-we-knew-what-to-do-with.md) | Comparative Xenology |

@@ -1,7 +1,7 @@
 site_name: Galactic Confederation Review
-site_description: Independent republication review of selected Confederation scholarship
+site_description: Independent republication service for selected Confederation writing and public-interest knowledge
 site_url: https://frankhaugen.github.io/galactic-confederation-review/
-copyright: Galactic Confederation Review Registry · Public archive edition · Review cycle 2497.259
+copyright: Galactic Confederation Review Registry · Public archive edition · Review cycle 2497.304
 
 theme:
   name: material
@@ -66,7 +66,7 @@ extra_css:
 
 extra:
   generator: false
-  review_cycle: "2497.259"
+  review_cycle: "2497.304"
   archive_class: Public archive edition
   audio:
     caption: "Audio edition · narrated for accessibility"

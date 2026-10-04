@@ -40,23 +40,35 @@ tags:
 
 ## Article
 
-If you grew up anywhere near human shipping, you probably knew SOS before you knew what a pressure hatch was.
+On a human station, there is a good chance a six-year-old can summon a rescue fleet with a flashlight.
 
-It is painted on escape gear in letters large enough to read through smoke. It blinks from pods. It appears on emergency placards, children's drills, suit menus, and old spacer cartoons. Three short pulses, three long, three short. A child can tap it on a pipe. A mechanic can key it through a damaged transmitter. A passenger with a hand light can flash it through a viewport.
+Not efficiently. Not with coordinates, casualty numbers, atmosphere readings, medical telemetry, or any of the other things rescue coordinators would prefer. But give the child a window, a light, and enough presence of mind to make three short flashes, three long ones, and three short ones, and the adults on the receiving end are no longer allowed to assume they are merely looking at a bored six-year-old.
 
-And somewhere, usually very quickly, a human becomes serious.
+This is one of the stranger bits of cultural luggage humanity brought into interstellar space.
 
-That is the strange part.
+The pattern is, of course:
 
-The signal is ancient. Not "old spacer" ancient. Earth ancient.
+**... --- ...**
 
-The treaty behind it, the **International Convention on Distress and Rescue in Outer Space**, was written in the twenty-first century by governments that still divided one planet into nation-states and argued over orbital jurisdiction. It predates first contact. It predates the Earth Union. It predates practical FTL. Several of the states that signed the original text no longer exist in any useful political sense.
+SOS.
 
-Most of the treaty aged exactly as badly as you would expect.
+I once watched a group of human children on a station school tour answer a safety instructor before she had finished the question. She held up a card with the three letters and asked what they meant. "Help," came back from half the room, followed immediately by one child volunteering that you were "not allowed to do it for fun because ships will come."
 
-Its technical annexes were replaced. Its rescue zones stopped making sense. Its assumptions about national launch authorities, orbital recovery, and who could realistically reach whom became historical material.
+The child was approximately correct on both counts.
 
-But three pieces refused to die:
+The adults then spent rather longer explaining that ships do not necessarily come crashing out of FTL every time someone blinks a lamp. Search and rescue has coordinators. Traffic gets sorted. Nearby vessels may be asked to hold position or alter course. Dedicated assets may be stood up and never launched. A Mayday can be downgraded. A false alarm can end with everyone mildly irritated and filling out forms.
+
+But yes.
+
+People come.
+
+That promise is much older than the Galactic Confederation.
+
+The **International Convention on Distress and Rescue in Outer Space**, generally called the **Space Rescue Convention** by everyone except lawyers and archivists, was written in the middle of the twenty-first century. Humanity had not met another intelligent species. Earth was still divided among nation-states. Faster-than-light travel belonged to fiction, and "international space rescue" meant arguments about launch states, orbital vehicles, re-entry zones, and which government was supposed to pay for a helicopter.
+
+The original text is consequently a wonderful archaeological object. Large parts of it now require historical notes for a modern reader. Several categories of spacecraft disappeared. The original rescue coordination geography became meaningless. Whole annexes were replaced, amended, superseded, or quietly preserved because deleting old treaty text is apparently harder than building a jump drive.
+
+Three bits survived with almost embarrassing ease.
 
 **SOS**
 
@@ -64,73 +76,131 @@ But three pieces refused to die:
 
 **MAYDAY MAYDAY MAYDAY**
 
-The first is a glyph. The second is a pulse pattern. The third is the spoken call.
+Humans will occasionally tell you that SOS originally meant "Save Our Ship" or "Save Our Souls." It did not. Those explanations came later. The attraction was the signal itself: short-short-short, long-long-long, short-short-short. Difficult to mistake, easy to remember, and possible to produce with nearly anything.
 
-That distinction matters because the modern convention does not care how you make the signal. The pulse pattern may be radio, visible light, infrared, laser, sound, hull knocks, or any other medium that can manage "short" and "long." It began as Morse code. Most people using it now do not know Morse code. Some probably do not know Morse existed.
+Modern spacers have taken that last property to extremes.
 
-They know SOS.
+Escape pods blink it with exterior lamps. Survival beacons key it under their digital traffic. Suit software can produce it optically. Damaged ships have transmitted it by pulsing emitters that were never designed to carry language at all. Rescue manuals include examples involving hull knocks, pressure-pipe impacts, improvised shutters, and hand lights.
 
-Humans made the public part of the system brutally simple on purpose. Human ships carry families. Human stations raise children. A person can be old enough to recognize danger and still be years away from understanding the machine around them, so the emergency convention was built around the assumption that the person asking for help might know almost nothing.
+There is a persistent spacer story about a mechanic trapped behind a jammed pressure door who got the attention of the next compartment by striking a wrench against a pipe in the SOS pattern. I have heard the same story attributed to four ships in three systems, so it is probably either folklore or an unusually popular way to get trapped behind a pressure door.
 
-Who are you?
+Nobody seems bothered by this.
 
-Where are you?
+The story survives because everyone hearing it understands the useful part.
 
-What happened?
+If all you have is something that makes noise, make the nine pulses.
 
-Who is in danger?
+The convention does not call this Morse code anymore. Historical appendices do. Communications historians do. Enthusiasts certainly do, usually immediately before trying to teach you the rest of Morse.
 
-What do you need?
+Most spacers do not care.
 
-If you can answer those questions, good. If you cannot, send SOS anyway.
+Full Morse died a respectable death centuries ago and then, rather unfairly, had one tiny piece of itself made immortal. A few other fragments hang around human spacer culture as well. Station children sometimes recognize the old single-letter patterns for yes, no, or received without realizing there was once an entire alphabet attached to them. It is much the same way old maritime signal flags survived in specialist corners long after nobody expected an ordinary passenger to read a ship-to-ship conversation in bunting.
 
-Human children are also warned very firmly not to "practice" the signal at random, for a reason that becomes obvious the first time a seven-year-old flashes it from a cabin window.
+SOS escaped the museum.
 
-Rescue authorities cannot assume the ship is fine because the ship looks fine.
+MAYDAY did too.
 
-A child using a window instead of the ship's normal communications may be unable to reach the bridge. Or unable to trust it. Human SAR procedure therefore treats an unexplained SOS from an occupied vessel as potentially covert distress: confinement, abuse, kidnapping, or any other situation where announcing the call to the apparent authority aboard could make things worse.
+The spoken call is always given three times. There are sophisticated reasons involving recognition under interference and old radio procedure, but if you ask a human bridge officer why, you are likely to get a look suggesting that "because you say it three times" is already a complete explanation.
 
-That is an impressive amount of trouble to fit into nine pulses.
+MAYDAY. MAYDAY. MAYDAY.
 
-The other half of the convention is even more characteristically human. Hearing the signal creates a duty.
+Then, if possible: who you are, where you are, what happened, who is in danger, and what you need.
 
-Not an invitation. Not a polite request for assistance when convenient. A duty.
+Human children get roughly the same list.
 
-A cargo run can wait. A schedule can move. Traffic control can sort itself out. A vessel does not have to kill its own crew trying to help, and professional SAR is perfectly capable of telling ships to stand down when enough help is already moving, but a human captain who simply ignores a credible Mayday is going to have a very long conversation afterward.
+The wording varies by school system, but the doctrine barely does. You do not need to understand the casualty before asking for rescue. You do not need permission from the captain. You do not need an authenticated terminal. You do not need to know the correct technical name for the thing that is leaking, burning, failing to move, or making the adults frightened.
 
-False distress calls are hated for the same reason. Pirates have learned that a fake SOS will still pull rescuers toward them. Humans have learned to arrive more carefully, not to stop arriving.
+You need to know that something is wrong.
 
-Then came first contact.
+Human family life is the reason this part of the convention became almost aggressively simple. Human merchant ships did not remain professional environments occupied exclusively by trained adults. Families lived aboard. Children grew up aboard. Grandparents travelled. Passengers wandered into places they had no business being. The emergency system had to work for the least technically useful conscious person on the ship.
 
-Today Confederation Search and Rescue recognizes seven major distress conventions. Some are much cleverer than the old human one. They carry medical telemetry, vector data, casualty classifications, cryptographic identity, hull state, and automated rescue priorities.
+That leaves some peculiar edge cases.
 
-The human contribution remains three letters, nine pulses, and a word borrowed from old French maritime radio.
+The window-and-flashlight problem is one of them.
 
-It should have become obsolete.
+If a child sends SOS from a cabin window on a ship that appears perfectly healthy, human SAR does not assume the child has misunderstood the rules. More awkwardly, rescuers are taught not to immediately call the bridge and say, "One of your children appears to be asking us for rescue."
 
-Instead, everybody copied it.
+The child may be unable to reach normal communications.
 
-Not because the galaxy developed a sentimental attachment to human maritime history. Because support costs almost nothing, human equipment already recognizes it, human ships already respond to it, and every additional signatory makes the thing more useful.
+The child may also be unable to use them safely.
 
-So one of the most widely ratified rescue agreements in Confederation space is a literal relic of pre-unified Earth.
+There are procedures for covert distress because "functional ship" and "safe person aboard that ship" are not the same statement. Confinement, kidnapping, domestic abuse, coercion, or a hostile takeover can all produce the wonderfully uncomfortable situation in which the correct response to a clean, powered, navigable vessel is to approach it as though someone aboard needs rescuing from the people in charge.
 
-A Vaelor freighter can sign it.
+Spacer parents therefore tend to teach SOS with the same solemnity ancient Earth parents apparently used for emergency telephone numbers.
 
-A Kharrek station can teach it.
+Never use it as a joke.
 
-A polity with no particular interest in human law can put SOS recognition into its beacons and know that a human ship will understand.
+If you use it, tell the truth.
 
-Nobody had to make it a GC standard.
+If somebody else uses it, get an adult.
 
-They just kept adding it.
+And, most importantly, do not assume somebody else has already dealt with it.
 
-That may be the best part of the whole story.
+That last part matters because the human convention places an obligation on the receiver as much as on the sender.
 
-Some standards conquer the galaxy through committees, enforcement, insurance requirements, or sheer economic weight.
+A Mayday does not mean every ship in half a system points its bow at the casualty. It means the emergency has entered the machinery. Rescue coordination wakes up. Assets are checked. Nearby traffic is identified. Ships that can usefully assist may be diverted. Ships that cannot are told to keep clear. If the casualty stabilizes, everyone can stand down and complain about the paperwork over dinner.
 
-This one got there because three dots, three dashes, three dots are very hard to improve on.
+The system is intentionally biased toward embarrassment rather than funerals.
 
-And because, for several centuries now, if you send them where humans can hear you, somebody starts coming.
+Among human spacers, this has hardened from procedure into something closer to taboo. Cargo does not outrank Mayday. Charter penalties do not outrank Mayday. Being late does not outrank Mayday. A captain may decide that approaching would only create another casualty, but "we had a delivery window" is not a sentence anyone wants preserved in the investigation record.
+
+There is a wonderfully bleak mirror image to this: the false Mayday.
+
+Pirates have used distress traffic as bait for about as long as there have been pirates and radios, and the interstellar era did not improve human nature. The result was not abandonment of the convention. It was guns, standoff sensors, cautious approaches, drones, escort doctrine, and a great deal of professional suspicion wrapped around the same old response.
+
+Humans became more careful about answering.
+
+They did not become comfortable with not answering.
+
+Calling a false Mayday is consequently a remarkably efficient way to acquire the word "pirate" in human conversation, even before a court decides what you technically are. There are crimes against property, crimes against people, and then there are acts that make every spacer at the bar think you tampered with the one rule keeping their children alive.
+
+First contact could easily have killed the whole custom.
+
+It did the opposite.
+
+Confederation Search and Rescue currently recognizes seven major distress conventions. Several are objectively better communication systems. They can carry hull state, trajectory, atmosphere, crew biometrics, medical urgency, authentication, local hazards, and enough machine-readable information to let a rescue coordinator begin planning before anyone speaks.
+
+The ancient human convention contributes three letters, nine pulses, and a word derived from old French maritime radio.
+
+It is still one of the most widely ratified rescue agreements in known space.
+
+There was no great diplomatic campaign.
+
+Nobody forced it into the Confederation charter.
+
+Nobody had to.
+
+A non-human shipbuilder adds an SOS detector because human ships use SOS. A port authority adds the glyph to emergency signage because some visiting crews recognize it immediately. A neighboring polity signs the convention because its rescue services already support the signal and the legal obligation is useful. Another polity signs because the first one did.
+
+Standards sometimes spread by conquest.
+
+This one spread by being cheap.
+
+A Kharrek spacer does not need to care about Morse telegraphy on ancient Earth to recognize the nine pulses. A Vaelor master does not need an opinion about pre-Union maritime law to know that saying MAYDAY three times on a human-monitored channel will clear the conversational floor very quickly.
+
+One station safety officer told me the easiest way to explain the convention to non-human trainees was not to translate any of the history.
+
+He simply told them:
+
+"If you send that pattern near humans, they will think you are asking them to come get you."
+
+Apparently nobody in the class required further clarification.
+
+There are prettier examples of humanity's legacy in space. Cathedrals on Luna. Old languages still spoken under alien suns. Flags whose countries disappeared before their colonies did. Music carried farther than its composers could have imagined.
+
+I am fond of this one.
+
+A piece of emergency procedure from a frightened, divided, pre-contact Earth survived every political structure that followed it. It survived because it could be painted on a hatch. Because a damaged beacon could still send it. Because a child could remember it. Because strangers agreed, centuries ago, to treat it seriously.
+
+Three short.
+
+Three long.
+
+Three short.
+
+Somewhere in all that machinery, somebody notices.
+
+And somebody starts coming.
 
 ## Related Review selections
 

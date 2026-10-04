@@ -1,7 +1,7 @@
 # Archive Register
 
 > Maintained by: Galactic Confederation Review  
-> Register cycle: 2497.259  
+> Register cycle: 2497.304  
 > Distribution class: Public archive edition
 
 All selections in release order. Confederation standard ordinal notation: `YEAR.CYCLE_DAY`.
@@ -85,6 +85,8 @@ Browse by [series](../series/index.md), [dossier](../dossiers/index.md), or [cla
 | 2497.224 | [Why Does a Pilot Need an Ancient Sword?](why-does-a-pilot-need-an-ancient-sword.md) | Fleet and Rescue Doctrine | Military Education and Officer Formation |
 | 2497.241 | [The Glorious Inboard Rescue Pod](the-glorious-inboard-rescue-pod.md) | Standards and Infrastructure | Habitability Engineering |
 | 2497.259 | [Fun Fact: The Nine Pulses Everyone Knows](the-nine-pulses-everyone-knows.md) | Standards and Infrastructure | Safety Standards and Cultural History |
+| 2497.278 | [The Door That Slams Before You Die](the-door-that-slams-before-you-die.md) | Standards and Infrastructure | Pressure Safety and Shipboard Engineering |
+| 2497.304 | [The Animal We Knew What To Do With](the-animal-we-knew-what-to-do-with.md) | Species Profiles | Comparative Xenology |
 
 ## Absent selections
 

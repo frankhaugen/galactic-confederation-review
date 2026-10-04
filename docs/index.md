@@ -1,14 +1,14 @@
 <section class="review-front" markdown="1">
-<p class="review-kicker">Confederation independent republication periodical</p>
+<p class="review-kicker">Confederation-funded independent republication service</p>
 
 # Galactic Confederation Review
 
-<p class="review-deck">Selected scholarship, policy argument, technical explanation, and archival controversy from across member polities.</p>
+<p class="review-deck">Selected scholarship, public-interest writing, technical explanation, and archival controversy from across member polities.</p>
 
 <dl class="review-register">
   <div>
     <dt>Register cycle</dt>
-    <dd>2497.259</dd>
+    <dd>2497.304</dd>
   </div>
   <div>
     <dt>Distribution class</dt>
@@ -16,7 +16,7 @@
   </div>
   <div>
     <dt>Selections</dt>
-    <dd>48</dd>
+    <dd>50</dd>
   </div>
 </dl>
 </section>
@@ -33,18 +33,18 @@ The Review is funded under Confederation mandate, but editorially independent. S
 <a class="path-link" href="articles/index.md"><strong>Archive Register</strong><span>Full release sequence by date.</span></a>
 <a class="path-link" href="dossiers/index.md"><strong>Dossiers</strong><span>Curated reading packets.</span></a>
 <a class="path-link" href="series/index.md"><strong>Series</strong><span>Continuing reader tracks.</span></a>
-<a class="path-link" href="reference/index.md"><strong>Reference</strong><span>Plain institutional orientation.</span></a>
+<a class="path-link" href="reference/index.md"><strong>Galactic Confederation</strong><span>Plain institutional orientation to the setting.</span></a>
 </nav>
 </section>
 
 ## Featured Selection
 
 <article class="selection-feature" markdown="1">
-<p class="selection-meta">2497.259 · Standards and Infrastructure · Safety Standards and Cultural History</p>
+<p class="selection-meta">2497.304 · Species Profiles · Comparative Xenology</p>
 
-### [Fun Fact: The Nine Pulses Everyone Knows](articles/the-nine-pulses-everyone-knows.md)
+### [The Animal We Knew What To Do With](articles/the-animal-we-knew-what-to-do-with.md)
 
-Marel Quist traces how a pre-Union Earth distress convention carried three letters, nine pulses, and MAYDAY into interstellar common use. The selection is useful precisely because it is small: a rescue custom that became portable because almost anyone can remember it.
+Dr. Mara Ellison on why humans and Aralai both ended up living with an alien granary predator, and what that resemblance does not prove about common ancestry.
 </article>
 
 <p class="archive-jump" markdown="1">
@@ -54,6 +54,22 @@ Latest route: [Archive Register](articles/index.md) [Series](series/index.md) [D
 ## Latest Selections
 
 <div class="selection-grid" markdown="1">
+
+<article class="selection-card" markdown="1">
+<p class="selection-meta">2497.278 · Standards and Infrastructure</p>
+
+### [The Door That Slams Before You Die](articles/the-door-that-slams-before-you-die.md)
+
+A popular engineering history of the passive hatch that behaves like an ordinary doorway until atmosphere loss makes politeness irrelevant.
+</article>
+
+<article class="selection-card" markdown="1">
+<p class="selection-meta">2497.259 · Standards and Infrastructure</p>
+
+### [Fun Fact: The Nine Pulses Everyone Knows](articles/the-nine-pulses-everyone-knows.md)
+
+Marel Quist on the old Earth distress convention that carried SOS and MAYDAY into interstellar common use.
+</article>
 
 <article class="selection-card" markdown="1">
 <p class="selection-meta">2497.241 · Standards and Infrastructure</p>
@@ -69,22 +85,6 @@ Solven on Type C0n cabins as self-contained, chainable inboard survival cells.
 ### [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md)
 
 Varos on Earth Fleet officer formation, old martial practice, and judgment before force.
-</article>
-
-<article class="selection-card" markdown="1">
-<p class="selection-meta">2497.208 · Comparative Law · Species Profiles</p>
-
-### [She Meant It When She Signed](articles/she-meant-it-when-she-signed.md)
-
-Mendel and Thiren on Aralai pair-bond plasticity and GCS-100 limits.
-</article>
-
-<article class="selection-card" markdown="1">
-<p class="selection-meta">2497.181 · Species Profiles</p>
-
-### [The Great Navigators](articles/the-great-navigators.md)
-
-Dr. Okafor on sentient gravitic migrators under conservation law.
 </article>
 
 </div>
@@ -110,7 +110,7 @@ Founding-era institutional history for readers following Guardianship, communica
 </article>
 
 <article class="catalog-card" markdown="1">
-<p class="section-kicker">Reference</p>
+<p class="section-kicker">Setting orientation</p>
 
 ### [The Galactic Confederation in the Late 2490s](reference/galactic-confederation-circa-2500.md)
 

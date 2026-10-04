@@ -5,7 +5,7 @@
   <dl class="review-register">
     <div>
       <dt>Archive register</dt>
-      <dd>2497.241</dd>
+      <dd>2497.259</dd>
     </div>
     <div>
       <dt>Distribution class</dt>
@@ -27,6 +27,13 @@ The Review is funded under Confederation mandate, but editorially independent. S
 ## Latest selections
 
 <div class="selection-grid" markdown>
+
+<article markdown>
+### [Fun Fact: The Nine Pulses Everyone Knows](articles/the-nine-pulses-everyone-knows.md)
+<p class="selection-meta">2497.259 · Standards and Infrastructure · Safety Standards and Cultural History</p>
+
+Marel Quist on the pre-Union Earth distress convention that carried SOS and MAYDAY into interstellar common use.
+</article>
 
 <article markdown>
 ### [The Glorious Inboard Rescue Pod](articles/the-glorious-inboard-rescue-pod.md)
@@ -61,13 +68,6 @@ Dr. Okafor on sentient gravitic migrators under conservation law.
 <p class="selection-meta">2497.161 · Standards and Infrastructure · Medical Infrastructure</p>
 
 Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
-</article>
-
-<article markdown>
-### [The Captain Was Informed](articles/the-captain-was-informed.md)
-<p class="selection-meta">2497.128 · Standards and Infrastructure · Transport Liability</p>
-
-Advocate Vos on why crude disease briefings exist to prove captains were informed.
 </article>
 
 </div>

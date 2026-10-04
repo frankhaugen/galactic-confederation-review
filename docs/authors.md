@@ -408,6 +408,25 @@ author-metadata:
   tendencies: MedBed/AutoDoc role separation, automation without judgment claims.
   avoid: Machine-doctor mythology, vendor brochure tone.
 -->
+
+## Marel Quist
+
+Staff Writer, *Transit Window*.
+
+General-interest features writer on old standards, public safety customs, and
+technical habits that outlived the institutions that created them.
+
+**Republications in this archive:**
+
+- [Fun Fact: The Nine Pulses Everyone Knows](articles/the-nine-pulses-everyone-knows.md) (2497.259)
+
+<!--
+author-metadata:
+  voice: Popular general-interest feature writing - concise, curious, lightly dry.
+  tendencies: Starts from familiar behavior, traces institutional survival, explains without technical overkill.
+  avoid: Encyclopedia tone, human exceptionalism, mystical treatment of custom.
+-->
+
 ## Nera Solven
 
 Habitability Features Correspondent, *Working Systems*.

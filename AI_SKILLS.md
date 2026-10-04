@@ -7,7 +7,8 @@ in this repository. `README.md` is the canonical publication model.
 
 Use when starting unfamiliar work.
 
-1. Read `README.md`, `AI_INSTRUCTIONS.md`, `mkdocs.yml`, and `AGENTS.md`.
+1. Read `README.md`, `AI_INSTRUCTIONS.md`, `VOICE_PROFILES.md`, `mkdocs.yml`,
+   and `AGENTS.md`.
 2. Check `git status --short --branch`.
 3. List source files with `rg --files docs .github`.
 4. Inspect recent changes with `git diff --stat`.
@@ -20,24 +21,30 @@ Use when creating or materially changing a republished selection.
 1. Follow the publication model in `README.md` and `AI_INSTRUCTIONS.md`.
 2. Decide release date, optional series, optional dossier fit, field, and selection type before
    drafting.
-3. Use the YAML front matter and masthead format in `README.md` and
+3. Identify the author, publication-source, and culture/polity voice profiles
+   in `VOICE_PROFILES.md`; read the author's `author-metadata` block in
+   `docs/authors.md` when reusing an existing author.
+4. Choose an artifact form that fits the source: article, lecture, judgment,
+   dissent, circular, incident report, service bulletin, correspondence,
+   archival extract, or correction.
+5. Use the YAML front matter and masthead format in `README.md` and
    `AI_INSTRUCTIONS.md`.
-4. Keep the article voice scholarly and in-universe. Preserve the fictional
+6. Keep the article voice scholarly and in-universe. Preserve the fictional
    author's voice; do not normalize all authors to the Review's tone.
-5. Add or update the selection in `mkdocs.yml`.
-6. Add or update the archive register in `docs/articles/index.md`.
-7. Add or update relevant `docs/series/*.md` pages when the selection belongs to a series.
-8. Add or update relevant `docs/dossiers/*.md` pages when the selection belongs to a dossier.
-9. Add or update the author profile in `docs/authors.md` when needed, including
+7. Add or update the selection in `mkdocs.yml`.
+8. Add or update the archive register in `docs/articles/index.md`.
+9. Add or update relevant `docs/series/*.md` pages when the selection belongs to a series.
+10. Add or update relevant `docs/dossiers/*.md` pages when the selection belongs to a dossier.
+11. Add or update the author profile in `docs/authors.md` when needed, including
    HTML comment metadata for new authors. Editorial staff belong on
    `docs/editorial-content.md`.
-10. Add related selections only when the relationship is meaningful.
-11. If the article slug changes, rename any existing
+12. Add related selections only when the relationship is meaningful.
+13. If the article slug changes, rename any existing
     `docs/assets/audio/<slug>.mp3` to match.
-12. Do not create a new series or dossier without the thresholds in
+14. Do not create a new series or dossier without the thresholds in
     `README.md` unless the user explicitly requests it.
-13. Run `mkdocs build --strict`.
-14. When narration should ship with the selection, follow **Skill: Publish
+15. Run `mkdocs build --strict`.
+16. When narration should ship with the selection, follow **Skill: Publish
     article audio editions**.
 
 ## Skill: Import a draft selection (`tbd*.md`)
@@ -47,22 +54,25 @@ republication.
 
 1. Read the draft and identify final title, author, originating venue, series
    fit, dossier fit, release date, and related selections.
-2. Choose the final filename slug (`kebab-case.md`). Delete or avoid leaving
+2. Identify author, publication-source, and culture/polity voice profiles from
+   `VOICE_PROFILES.md`, and preserve any existing draft form that helps the
+   selection feel like a real source artifact.
+3. Choose the final filename slug (`kebab-case.md`). Delete or avoid leaving
    `tbd*.md` in the tree after import.
-3. Convert the draft to the standard selection shape from `README.md` and
+4. Convert the draft to the standard selection shape from `README.md` and
    `AI_INSTRUCTIONS.md`: YAML front matter, masthead, republication note,
    abstract panel, `## Article`, optional `## Notes`, and `## Related Review
    selections`.
-4. Assign `selection_date`, `field`, `type`, `series`, `dossiers`, `tags`, and
+5. Assign `selection_date`, `field`, `type`, `series`, `dossiers`, `tags`, and
    other metadata from `README.md`.
-5. Register the piece in `mkdocs.yml`, `docs/articles/index.md`, relevant series
+6. Register the piece in `mkdocs.yml`, `docs/articles/index.md`, relevant series
    pages, and relevant dossier pages.
-6. Update `docs/authors.md` and meaningful cross-links from related selections.
-7. Rename any pre-generated audio from the draft slug to the final slug, or
+7. Update `docs/authors.md` and meaningful cross-links from related selections.
+8. Rename any pre-generated audio from the draft slug to the final slug, or
    regenerate narration.
-8. Run `python scripts/verify_article_audio.py --scope published --check-site`
+9. Run `python scripts/verify_article_audio.py --scope published --check-site`
    when audio is part of the release.
-9. Run `mkdocs build --strict`.
+10. Run `mkdocs build --strict`.
 
 `scripts/import_draft_articles.py` converts `tbd*.md` drafts when batch metadata
 is already defined. Run with `--batch <name>` when available; prefer hand
@@ -130,16 +140,18 @@ historical event, or technical concept already present in the archive.
    missing: technical rule, legal consequence, social practice, field report,
    dissent, or later historical reassessment.
 2. Choose an originating venue and author status that fit the requested voice.
-3. Make the new selection additive. Avoid repeating the same explanation except
+3. Consult `VOICE_PROFILES.md` and choose a source form that differs from the
+   related selection when possible.
+4. Make the new selection additive. Avoid repeating the same explanation except
    where a short recap is needed for context.
-4. If the piece is a thesis excerpt, student essay, or partial republication,
+5. If the piece is a thesis excerpt, student essay, or partial republication,
    state that clearly in the republication note or notes.
-5. For alien or non-Earth authors, ground the voice in institution, discipline,
+6. For alien or non-Earth authors, ground the voice in institution, discipline,
    method, and social position rather than exotic phrasing.
-6. Include concrete examples, especially mundane cases alongside unusual ones.
-7. Link back to the primary related selection and update the archive register,
+7. Include concrete examples, especially mundane cases alongside unusual ones.
+8. Link back to the primary related selection and update the archive register,
    series pages, dossier pages, `docs/authors.md`, and `mkdocs.yml`.
-8. Run `mkdocs build --strict` after article, navigation, or index changes.
+9. Run `mkdocs build --strict` after article, navigation, or index changes.
 
 ## Skill: Edit house pages
 
@@ -181,6 +193,11 @@ Look for:
 - republication notes that explain the setting to outsiders
 - inconsistent terms for member polities, journals, institutions, or dates
 - all authors sounding like the Review instead of their institutions
+- missing or ignored author, publication-source, or culture profiles from
+  `VOICE_PROFILES.md`
+- repeated title or argument shapes such as "X is not Y," "Why X," or
+  misconception-correction-conclusion when the source form calls for something
+  less polished
 - editorial notes that summarize too much instead of framing selection relevance
 - absent-work references left unexplained
 
@@ -218,9 +235,11 @@ Phases (do not skip unless the user asks):
 
 1. Mine reference inputs and/or archive gaps for one strong angle.
 2. Commission author, field, type, optional series/dossier, release date, slug.
-3. Write `docs/articles/<slug>.md` in author voice with republication note.
-4. Update register, home page, and optional series/dossier/author pages.
-5. Run `publish_selection.py` (build, audio, verify, commit, push).
+3. Select author, publication-source, and culture/polity profiles from
+   `VOICE_PROFILES.md`, and choose a source artifact form before drafting.
+4. Write `docs/articles/<slug>.md` in author voice with republication note.
+5. Update register, home page, and optional series/dossier/author pages.
+6. Run `publish_selection.py` (build, audio, verify, commit, push).
 
 See `.cursor/skills/review-editor/reference.md` for article skeleton and register
 checklist.

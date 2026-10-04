@@ -5,6 +5,8 @@ Confederation Review repository. They are intentionally vendor independent.
 
 `README.md` is the canonical publication model. When this file and `README.md`
 diverge, follow `README.md` unless the user gives explicit contrary direction.
+`VOICE_PROFILES.md` is the canonical voice-profile layer for author,
+publication-source, and culture/polity differentiation.
 
 ## Project purpose
 
@@ -145,6 +147,14 @@ authors sound like the Review. A Kharrek military academic should not sound like
 an Earth Union abolitionist. An Earth Fleet veteran should not sound like a
 technical standards committee.
 
+Before drafting or materially revising a selection, consult `VOICE_PROFILES.md`
+and identify the author profile, publication-source profile, and culture or
+polity profile that govern the piece. Existing per-author guidance lives in the
+hidden `author-metadata` blocks in `docs/authors.md`; new authors should receive
+the same metadata. This is a guardrail against the archive's common failure
+mode: many selections sharing the same clean misconception-correction-conclusion
+shape.
+
 Selection forms should match originating institution and author:
 
 - Technical memoranda: procedural, bounded, clear about standards and limits.
@@ -154,6 +164,9 @@ Selection forms should match originating institution and author:
 - Excerpts: say so in the republication note or notes.
 - Alien authors: translated academic prose grounded in discipline and method,
   not novelty decoration.
+- Artifact forms may include judgments, dissents, circulars, incident reports,
+  committee transcripts, letters, service bulletins, corrections, and annotated
+  extracts. Prefer a distinct form when it better preserves source identity.
 
 Use editorial notes to frame why a piece matters, not to resolve every argument.
 
@@ -241,6 +254,7 @@ republished selection.
 Preferred structure:
 
 ```text
+VOICE_PROFILES.md
 docs/
   index.md
   about.md
@@ -313,6 +327,8 @@ Before adding a selection, decide:
 8. Does the header make its origin clear?
 9. Does the title sound like a republished article, not a wiki page?
 10. Does site navigation still help a reader?
+11. Which author, publication-source, and culture/polity voice profiles govern
+    the selection?
 
 When adding a new selection:
 

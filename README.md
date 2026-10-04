@@ -172,6 +172,8 @@ About the Review
 ```
 
 See `GLOSSARY.md` for preferred in-universe terminology (public mesh, selection, etc.).
+See `VOICE_PROFILES.md` for author, publication-source, and culture/polity
+voice profiles used when drafting or revising selections.
 
 The home page should emphasize recent releases and active series.
 
@@ -182,6 +184,7 @@ It should not present one "current issue" as the organizing center unless there 
 Preferred structure:
 
 ```text
+VOICE_PROFILES.md
 docs/
   index.md
   about.md
@@ -364,9 +367,9 @@ It is not a complete history. It is a guided entry point.
 
 | Order | Release | Selection | Why here |
 | ----- | ------- | --------- | -------- |
-| 1 | 2496.199 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | Basic institutional history |
-| 2 | 2496.201 | [Why Earth Union Is Still Called Earth Union](../articles/why-earth-union-is-still-called-earth-union.md) | Naming and legitimacy |
-| 3 | 2496.202 | [The State That Kept Saying Yes](../articles/the-state-that-kept-saying-yes.md) | Welfare-state militarism from inside |
+| 1 | 2495.065 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | Basic institutional history |
+| 2 | 2495.083 | [Why Earth Union Is Still Called Earth Union](../articles/why-earth-union-is-still-called-earth-union.md) | Naming and legitimacy |
+| 3 | 2495.114 | [The State That Kept Saying Yes](../articles/the-state-that-kept-saying-yes.md) | Welfare-state militarism from inside |
 ```
 
 Dossiers may be updated as new selections appear.
@@ -384,9 +387,9 @@ Recommended table:
 
 | Release | Title | Series | Field |
 | ------- | ----- | ------ | ----- |
-| 2496.045 | [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md) | Earth Union Studies | Xenology and Policy |
-| 2496.088 | [The Ships That Do Not Fight](the-ships-that-do-not-fight.md) | Fleet and Rescue Doctrine | Administrative Practice |
-| 2496.187 | [Children of Terra](children-of-terra.md) | Earth Union Studies | Policy and Xenology |
+| 2494.303 | [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md) | Earth Union Studies | Xenology and Policy |
+| 2494.331 | [The Ships That Do Not Fight](the-ships-that-do-not-fight.md) | Fleet and Rescue Doctrine | Administrative Practice |
+| 2495.004 | [Children of Terra](children-of-terra.md) | Earth Union Studies | Policy and Xenology |
 ```
 
 The register should not group primarily by issue.
@@ -565,6 +568,13 @@ Articles should preserve the voice of the fictional author.
 
 Do not make all authors sound like the Review.
 
+Before drafting or materially revising a selection, consult `VOICE_PROFILES.md`
+and identify the author, publication-source, and culture/polity profiles that
+shape the piece. Per-author profiles live in hidden `author-metadata` comments
+in `docs/authors.md`. Publication-source and culture profiles help keep a
+standards notice, court dissent, trade feature, academic article, and memoir
+from sharing the same clean explanatory cadence.
+
 A Kharrek military academic should not sound like an Earth Union abolitionist.
 
 An Earth Fleet veteran should not sound like a technical standards committee.
@@ -595,6 +605,8 @@ Before adding an article, decide:
 8. Does the article header make its origin clear?
 9. Does the title sound like a republished article, not a wiki page?
 10. Does the site navigation still help a reader?
+11. Which voice profiles govern the author, source publication, and culture or
+    polity assumptions?
 
 Do not create a new series for a single article unless it is clearly intended to continue.
 

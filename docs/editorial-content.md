@@ -31,8 +31,8 @@ for public mesh release.
 
 | Release | Selection | Field |
 | ------- | --------- | ----- |
-| 2496.187 | [Children of Terra](articles/children-of-terra.md) | Policy and Xenology |
-| 2496.201 | [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md) | Policy and History |
+| 2495.004 | [Children of Terra](articles/children-of-terra.md) | Policy and Xenology |
+| 2495.083 | [Why Earth Union Is Still Called Earth Union](articles/why-earth-union-is-still-called-earth-union.md) | Policy and History |
 
 ### Suggested reading order
 

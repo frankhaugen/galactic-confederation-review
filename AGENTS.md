@@ -16,6 +16,8 @@ Read these files before making changes:
   contribution rules, and workflow.
 - `AI_SKILLS.md` for reusable task patterns such as adding selections, series
   and dossier pages, navigation updates, and site verification.
+- `VOICE_PROFILES.md` for per-author, publication-source, and culture/polity
+  voice profiles before drafting or materially revising selections.
 - `.cursor/skills/review-editor/SKILL.md` when running a **full editorial
   release** (angle → selection → audio → commit → push) in one action.
 - `mkdocs.yml` before changing navigation, theme behavior, plugins, or site

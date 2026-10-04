@@ -1,5 +1,5 @@
 ---
-title: "The Lie Of "Just One Passenger"
+title: 'The Lie Of "Just One Passenger"'
 description: "Why carrying even one passenger alters vessel class, insurance, crew duty, and port clearance — transport law for small operators."
 selection_date: "2495.195"
 release_cycle: "2495.195"

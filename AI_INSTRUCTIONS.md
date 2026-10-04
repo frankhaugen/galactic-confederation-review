@@ -10,10 +10,10 @@ publication-source, and culture/polity differentiation.
 
 ## Project purpose
 
-The Galactic Confederation Review is an in-universe academic republication
-archive connected to *The Calypso Cycle*. It republishes selected scholarship,
-policy argument, technical explanation, and archival controversy from across
-member polities.
+The Galactic Confederation Review is an in-universe public republication and
+cultural-exchange service connected to *The Calypso Cycle*. It republishes
+selected scholarship, public-interest writing, technical explanation, archival
+controversy, and other works judged useful across member-polity boundaries.
 
 The Review is funded by the Galactic Confederation but editorially independent.
 Selection for republication does not imply endorsement by the Review, the
@@ -303,6 +303,7 @@ Dossiers
 Archive Register
 Authors
 Tags
+Galactic Confederation
 Editorial Policy
 About the Review
 ```

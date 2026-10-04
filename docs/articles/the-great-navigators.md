@@ -401,3 +401,4 @@ The whales keep moving.
 - [Faster-Than-Light Transit](ftl-transit-operational-tradeoffs.md)
 - [The Species Without Mothers](the-species-without-mothers.md)
 - [Institutions Without Parenthood](institutions-without-parenthood.md)
+- [The Animal We Knew What To Do With](the-animal-we-knew-what-to-do-with.md)

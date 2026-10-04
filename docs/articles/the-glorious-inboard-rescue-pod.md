@@ -223,3 +223,4 @@ Then open the survival panels and show your work.
 - [What Fits Inside the Standard](what-fits-inside-the-standard.md)
 - [The Shuttle That Could Leave But Not Return](the-shuttle-that-could-leave-but-not-return.md)
 - [Galactic Confederation Certification and Licensing Framework](certification-and-licensing-framework.md)
+- [The Door That Slams Before You Die](the-door-that-slams-before-you-die.md)

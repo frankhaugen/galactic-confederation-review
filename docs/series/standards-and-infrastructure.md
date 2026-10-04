@@ -32,3 +32,4 @@ Standards and Infrastructure does not publish full ansible doctrine or FTL physi
 | 2497.161 | [The Patient Is Not the Procedure](../articles/the-patient-is-not-the-procedure.md) | Medical Infrastructure and Shipboard Practice |
 | 2497.241 | [The Glorious Inboard Rescue Pod](../articles/the-glorious-inboard-rescue-pod.md) | Habitability Engineering |
 | 2497.259 | [Fun Fact: The Nine Pulses Everyone Knows](../articles/the-nine-pulses-everyone-knows.md) | Safety Standards and Cultural History |
+| 2497.278 | [The Door That Slams Before You Die](../articles/the-door-that-slams-before-you-die.md) | Pressure Safety and Shipboard Engineering |

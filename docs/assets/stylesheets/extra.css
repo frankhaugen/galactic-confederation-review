@@ -1,341 +1,357 @@
 :root {
-  --review-ink: #1d2528;
-  --review-muted: #5c676d;
-  --review-paper: #fbfaf6;
-  --review-rule: #9aa7ad;
-  --review-accent: #244c63;
-  --review-panel: #f3f1eb;
-  --review-panel-border: #c5cdd2;
+  --review-ink: #182123;
+  --review-muted: #59656a;
+  --review-paper: #f7f8f4;
+  --review-surface: #ffffff;
+  --review-panel: #eef2ef;
+  --review-rule: #c3cbc8;
+  --review-rule-strong: #7f8b8a;
+  --review-accent: #176b6b;
+  --review-accent-2: #8f3138;
+  --review-accent-3: #806313;
+  --review-shadow: 0 0.35rem 1.1rem rgba(24, 33, 35, 0.08);
 }
 
 [data-md-color-scheme="default"] {
   --md-default-bg-color: var(--review-paper);
-  --md-primary-fg-color: #263f4d;
-  --md-accent-fg-color: #4a6473;
+  --md-default-fg-color: var(--review-ink);
+  --md-primary-fg-color: #20383b;
+  --md-accent-fg-color: var(--review-accent);
+  --md-typeset-a-color: #145f63;
 }
 
 [data-md-color-scheme="slate"] {
-  --review-ink: #e3e8eb;
-  --review-muted: #a3afb8;
-  --review-paper: #161b1f;
-  --review-rule: #4f5c66;
-  --review-accent: #9bb4c2;
-  --review-panel: #1e262c;
-  --review-panel-border: #3d4a54;
-  --md-primary-fg-color: #8fa4b0;
-  --md-accent-fg-color: #b8c9d4;
+  --review-ink: #e7ece9;
+  --review-muted: #aeb8b6;
+  --review-paper: #101517;
+  --review-surface: #171f21;
+  --review-panel: #1d2728;
+  --review-rule: #3d4a4a;
+  --review-rule-strong: #70807d;
+  --review-accent: #7fc7c0;
+  --review-accent-2: #e19298;
+  --review-accent-3: #d8bd70;
+  --review-shadow: none;
+  --md-default-bg-color: var(--review-paper);
+  --md-default-fg-color: var(--review-ink);
+  --md-primary-fg-color: #23393d;
+  --md-accent-fg-color: var(--review-accent);
+  --md-typeset-a-color: #8ed3cd;
+}
+
+.md-grid {
+  max-width: 76rem;
 }
 
 .md-header {
-  border-bottom: 0.15rem double color-mix(in srgb, var(--md-primary-fg-color) 55%, transparent);
+  border-bottom: 0.08rem solid color-mix(in srgb, var(--review-rule-strong) 55%, transparent);
   box-shadow: none;
 }
 
 .md-header__title {
   font-family: Georgia, "Times New Roman", serif;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.035em;
   text-transform: uppercase;
 }
 
+.md-tabs {
+  border-bottom: 0.05rem solid color-mix(in srgb, var(--review-rule) 75%, transparent);
+  box-shadow: none;
+}
+
+.md-main__inner {
+  margin-top: 1.1rem;
+}
+
+.md-content__inner {
+  padding-bottom: 3rem;
+}
+
 .md-typeset {
-  font-size: 0.78rem;
+  color: var(--review-ink);
+  font-size: 0.82rem;
+  line-height: 1.68;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: 0;
 }
 
 .md-typeset h1 {
-  border-bottom: 0.1rem double color-mix(in srgb, var(--review-rule) 80%, transparent);
-  font-family: Georgia, "Times New Roman", serif;
+  border-bottom: 0;
+  font-size: clamp(1.75rem, 3.5vw, 2.7rem);
   font-weight: 600;
-  letter-spacing: 0.01em;
-  margin-bottom: 1rem;
-  padding-bottom: 0.45rem;
+  line-height: 1.05;
+  margin: 0 0 0.9rem;
 }
 
 .md-typeset h2 {
-  border-bottom: 0.05rem solid color-mix(in srgb, var(--md-primary-fg-color) 35%, transparent);
-  font-family: Georgia, "Times New Roman", serif;
-  padding-bottom: 0.25rem;
+  border-bottom: 0.05rem solid color-mix(in srgb, var(--review-rule) 85%, transparent);
+  color: var(--review-ink);
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+}
+
+.md-typeset h3 {
+  font-size: 1rem;
+  line-height: 1.25;
+  margin: 0 0 0.35rem;
+}
+
+.md-typeset a {
+  text-underline-offset: 0.16em;
+}
+
+.md-typeset blockquote {
+  border-left: 0.16rem solid var(--review-accent);
+  color: var(--review-muted);
 }
 
 .md-typeset table:not([class]) {
-  font-size: 0.9rem;
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 75%, transparent);
+  box-shadow: none;
+  display: table;
+  font-size: 0.72rem;
+  width: 100%;
 }
 
-/* Classification tags */
+.md-typeset table:not([class]) th {
+  background: color-mix(in srgb, var(--review-accent) 9%, var(--review-surface));
+  color: var(--review-muted);
+  font-size: 0.58rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.md-typeset table:not([class]) td {
+  vertical-align: top;
+}
+
+.md-typeset table:not([class]) tr:nth-child(2n) {
+  background: color-mix(in srgb, var(--review-panel) 55%, transparent);
+}
+
+.md-typeset hr {
+  border-bottom-color: var(--review-rule);
+}
+
 .md-typeset .md-tags {
   gap: 0.35rem;
   margin: 0 0 0.65rem;
 }
 
 .md-typeset .md-tag {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 10%, var(--md-default-bg-color));
-  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 85%, transparent);
+  background: color-mix(in srgb, var(--review-accent) 10%, var(--review-surface));
+  border: 0.05rem solid color-mix(in srgb, var(--review-accent) 30%, var(--review-rule));
   border-radius: 0;
   color: var(--review-muted);
-  font-size: 0.58rem;
-  font-weight: 600;
+  font-size: 0.56rem;
+  font-weight: 700;
   letter-spacing: 0.07em;
   padding: 0.12rem 0.45rem;
   text-transform: uppercase;
 }
 
 .md-typeset .md-tag:hover {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 18%, var(--md-default-bg-color));
+  background: color-mix(in srgb, var(--review-accent) 18%, var(--review-surface));
   color: var(--review-ink);
-}
-
-/* Republication colophon */
-.republication-masthead {
-  background: var(--review-panel);
-  border: 0.05rem solid var(--review-panel-border);
-  border-left: 0.22rem solid var(--md-primary-fg-color);
-  margin: 0 0 1.25rem;
-  padding: 0.7rem 0.95rem 0.75rem;
-}
-
-.masthead-register {
-  display: grid;
-  gap: 0.35rem 1rem;
-  grid-template-columns: minmax(7.5rem, 9.5rem) 1fr;
-  margin: 0;
-}
-
-.masthead-register div {
-  display: contents;
-}
-
-.masthead-register dt {
-  color: var(--review-muted);
-  font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  line-height: 1.45;
-  margin: 0;
-  text-transform: uppercase;
-}
-
-.masthead-register dd {
-  color: var(--review-ink);
-  font-size: 0.72rem;
-  line-height: 1.45;
-  margin: 0;
-}
-
-.masthead-register dd p {
-  margin: 0;
-}
-
-.masthead-register a {
-  color: var(--review-ink);
-  font-family: Georgia, "Times New Roman", serif;
-  text-decoration: underline;
-  text-decoration-color: color-mix(in srgb, var(--md-primary-fg-color) 55%, transparent);
-  text-underline-offset: 0.14em;
-}
-
-.masthead-register a:hover {
-  color: var(--md-accent-fg-color);
-}
-
-.republication-masthead blockquote {
-  border-left: 0;
-  color: var(--review-muted);
-  font-size: 0.72rem;
-  margin: 0;
-  padding: 0;
-}
-
-.republication-masthead blockquote p {
-  margin: 0.15rem 0;
-}
-
-/* Abstract panel */
-.review-abstract {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 7%, var(--md-default-bg-color));
-  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
-  margin: 0 0 1.5rem;
-  padding: 0.75rem 0.95rem 0.85rem;
-}
-
-.review-abstract h2 {
-  border-bottom: 0;
-  color: var(--review-muted);
-  font-size: 0.62rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0;
-  text-transform: uppercase;
-}
-
-.review-abstract p {
-  color: var(--review-ink);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.9rem;
-  line-height: 1.58;
-  margin-bottom: 0;
-}
-
-.md-typeset blockquote {
-  border-left: 0.2rem solid var(--md-primary-fg-color);
-  color: var(--review-muted);
-}
-
-/* Editorial margin note */
-.md-typeset .admonition.editorial,
-.md-typeset details.editorial {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 9%, var(--md-default-bg-color));
-  border: 0.05rem solid color-mix(in srgb, var(--md-primary-fg-color) 35%, transparent);
-  border-left: 0.22rem solid var(--md-primary-fg-color);
-  box-shadow: none;
-  margin: 0 0 1.25rem;
-}
-
-.md-typeset .editorial > .admonition-title,
-.md-typeset .editorial > summary {
-  background: transparent;
-  border-bottom: 0.05rem solid color-mix(in srgb, var(--md-primary-fg-color) 22%, transparent);
-  color: var(--review-muted);
-  font-size: 0.62rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  margin: 0;
-  min-height: auto;
-  padding: 0.45rem 0.85rem 0.4rem;
-  text-transform: uppercase;
-}
-
-.md-typeset .editorial > .admonition-title::before,
-.md-typeset .editorial > summary::before {
-  display: none;
-}
-
-.md-typeset .editorial > .admonition-title::after,
-.md-typeset .editorial > summary::after {
-  display: none;
-}
-
-.md-typeset .editorial > .admonition-title + * {
-  margin-top: 0;
-}
-
-.md-typeset .editorial > p,
-.md-typeset .editorial > .admonition-content {
-  color: var(--review-ink);
-  font-size: 0.74rem;
-  line-height: 1.55;
-  margin: 0;
-  padding: 0.65rem 0.85rem 0.75rem;
 }
 
 .review-front {
-  border-bottom: 0.15rem double var(--review-rule);
-  border-top: 0.15rem double var(--review-rule);
-  margin: 0 0 1.6rem;
-  padding: 1.2rem 0 1rem;
-  text-align: center;
+  background:
+    linear-gradient(90deg, var(--review-accent) 0 0.28rem, transparent 0.28rem),
+    linear-gradient(180deg, color-mix(in srgb, var(--review-panel) 78%, transparent), transparent);
+  border-bottom: 0.05rem solid var(--review-rule);
+  border-top: 0.18rem solid var(--review-ink);
+  margin: 0 0 1.15rem;
+  padding: 1.15rem 1.2rem 1rem 1.55rem;
 }
 
 .review-front h1 {
   border-bottom: 0;
-  font-size: 2.4rem;
-  line-height: 1;
-  margin: 0.1rem 0 0.4rem;
+  font-size: clamp(2rem, 5vw, 3.25rem);
+  line-height: 0.98;
+  margin: 0.1rem 0 0.55rem;
+  max-width: 12ch;
   padding-bottom: 0;
   text-transform: uppercase;
 }
 
-.review-kicker {
+.review-kicker,
+.section-kicker,
+.selection-meta,
+.reference-label,
+.review-audio__label {
   color: var(--review-muted);
-  font-size: 0.68rem;
-  letter-spacing: 0.12em;
-  margin: 0;
+  font-size: 0.58rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
+}
+
+.review-kicker {
+  margin: 0;
 }
 
 .review-deck {
   color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1rem;
-  margin: 0 auto 1rem;
-  max-width: 34rem;
+  font-size: 1.08rem;
+  line-height: 1.5;
+  margin: 0 0 1rem;
+  max-width: 42rem;
 }
 
 .review-register {
   border-top: 0.05rem solid var(--review-rule);
   display: grid;
   gap: 0;
-  grid-template-columns: repeat(3, 1fr);
-  margin: 1rem 0 0;
-  padding-top: 0.65rem;
-  text-align: left;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0.9rem 0 0;
+  padding-top: 0.7rem;
 }
 
 .review-register div {
-  border-left: 0.05rem solid color-mix(in srgb, var(--review-rule) 60%, transparent);
+  border-left: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
   padding: 0 0.75rem;
 }
 
 .review-register div:first-child {
   border-left: 0;
+  padding-left: 0;
 }
 
-.review-register dt {
+.review-register dt,
+.masthead-register dt {
   color: var(--review-muted);
-  font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.09em;
+  font-size: 0.55rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  line-height: 1.35;
+  margin: 0;
   text-transform: uppercase;
 }
 
 .review-register dd {
   color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
-  margin: 0.15rem 0 0;
+  font-size: 0.86rem;
+  margin: 0.12rem 0 0;
 }
 
-.selection-grid {
+.archive-entryway {
+  border-bottom: 0.05rem solid var(--review-rule);
   display: grid;
-  gap: 0.9rem;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 1.2fr) minmax(14rem, 0.8fr);
+  margin: 0 0 1.4rem;
+  padding-bottom: 1.2rem;
+}
+
+.archive-entryway p {
+  margin-bottom: 0.65rem;
+}
+
+.path-grid,
+.selection-grid,
+.catalog-grid {
+  display: grid;
+  gap: 0.8rem;
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.selection-grid article {
-  border-top: 0.08rem solid var(--review-rule);
-  padding-top: 0.55rem;
+.path-link,
+.selection-card,
+.catalog-card,
+.selection-feature {
+  background: color-mix(in srgb, var(--review-surface) 88%, var(--review-panel));
+  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 85%, transparent);
+  box-shadow: var(--review-shadow);
 }
 
-.selection-grid h3 {
+.path-link {
+  border-left: 0.18rem solid var(--review-accent);
+  display: block;
+  padding: 0.7rem 0.8rem;
+  text-decoration: none;
+}
+
+.path-link strong {
+  color: var(--review-ink);
+  display: block;
   font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.2;
-  margin: 0 0 0.35rem;
+  font-size: 0.9rem;
+  line-height: 1.25;
+}
+
+.path-link span {
+  color: var(--review-muted);
+  display: block;
+  font-size: 0.68rem;
+  line-height: 1.4;
+  margin-top: 0.2rem;
 }
 
 .selection-feature {
-  border-top: 0.08rem solid var(--review-rule);
-  margin: 0 0 1.25rem;
-  padding-top: 0.55rem;
+  border-left: 0.22rem solid var(--review-accent-2);
+  margin: 0 0 1.15rem;
+  padding: 0.95rem 1rem 1rem;
 }
 
-.selection-feature h3 {
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.2;
-  margin: 0 0 0.35rem;
+.selection-feature h3,
+.selection-card h3,
+.catalog-card h3 {
+  margin-top: 0;
 }
 
-.selection-grid p {
-  margin-bottom: 0.4rem;
+.selection-feature h3 a,
+.selection-card h3 a,
+.catalog-card h3 a {
+  color: var(--review-ink);
+}
+
+.selection-card,
+.catalog-card {
+  border-top: 0.14rem solid var(--review-rule-strong);
+  padding: 0.75rem 0.85rem 0.85rem;
+}
+
+.selection-card p,
+.catalog-card p,
+.selection-feature p {
+  margin-bottom: 0.45rem;
 }
 
 .selection-meta {
-  color: var(--review-muted);
-  font-size: 0.64rem;
-  letter-spacing: 0.05em;
   margin: 0 0 0.35rem;
+}
+
+.archive-jump {
+  align-items: center;
+  border-bottom: 0.05rem solid var(--review-rule);
+  border-top: 0.05rem solid var(--review-rule);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.7rem;
+  margin: 1rem 0 1.4rem;
+  padding: 0.55rem 0;
+}
+
+.archive-jump a {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
 .md-footer-meta {
-  border-top: 0.15rem double color-mix(in srgb, var(--md-primary-fg-color) 50%, transparent);
+  border-top: 0.12rem solid color-mix(in srgb, var(--review-rule-strong) 65%, transparent);
 }
 
 .review-copyright__highlight {
@@ -350,161 +366,133 @@
   margin: 0.2rem 0 0;
 }
 
-.issue-front {
-  border-bottom: 0.15rem double var(--review-rule);
-  margin: 0 0 1.4rem;
-  padding: 0 0 1rem;
-  text-align: center;
+.republication-masthead {
+  background: color-mix(in srgb, var(--review-panel) 70%, var(--review-surface));
+  border: 0.05rem solid var(--review-rule);
+  border-top: 0.16rem solid var(--review-accent);
+  margin: 0.25rem 0 0.9rem;
+  padding: 0.75rem 0.85rem 0.8rem;
 }
 
-.issue-front h1 {
-  border-bottom: 0;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 2rem;
-  font-style: normal;
-  line-height: 1.15;
-  margin: 0.2rem 0 0.6rem;
-  padding-bottom: 0;
-}
-
-.issue-front h1 em {
-  font-style: italic;
-  text-transform: none;
-}
-
-.issue-kicker {
-  color: var(--review-muted);
-  font-size: 0.68rem;
-  letter-spacing: 0.12em;
-  margin: 0;
-  text-transform: uppercase;
-}
-
-.issue-register {
-  border-top: 0.05rem solid var(--review-rule);
+.masthead-register {
   display: grid;
-  gap: 0;
-  grid-template-columns: repeat(3, 1fr);
-  margin: 0.75rem auto 0;
-  max-width: 36rem;
-  padding-top: 0.65rem;
-  text-align: left;
+  gap: 0.55rem 0.9rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0;
 }
 
-.issue-register div {
-  border-left: 0.05rem solid color-mix(in srgb, var(--review-rule) 60%, transparent);
-  padding: 0 0.75rem;
+.masthead-register div {
+  border-top: 0.05rem solid color-mix(in srgb, var(--review-rule) 72%, transparent);
+  padding-top: 0.35rem;
 }
 
-.issue-register div:first-child {
-  border-left: 0;
+.masthead-register div:nth-child(-n + 2) {
+  border-top: 0;
+  padding-top: 0;
 }
 
-.issue-register dt {
+.masthead-register dd {
+  color: var(--review-ink);
+  font-size: 0.7rem;
+  line-height: 1.4;
+  margin: 0.1rem 0 0;
+}
+
+.masthead-register dd p {
+  margin: 0;
+}
+
+.masthead-register a {
+  color: var(--review-ink);
+}
+
+.md-typeset .admonition.editorial,
+.md-typeset details.editorial,
+.review-abstract,
+.review-audio {
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.md-typeset .admonition.editorial,
+.md-typeset details.editorial {
+  background: color-mix(in srgb, var(--review-accent-3) 8%, var(--review-surface));
+  border: 0.05rem solid color-mix(in srgb, var(--review-accent-3) 35%, var(--review-rule));
+  border-left: 0.2rem solid var(--review-accent-3);
+  margin: 0 0 0.9rem;
+}
+
+.md-typeset .editorial > .admonition-title,
+.md-typeset .editorial > summary {
+  background: transparent;
+  border-bottom: 0.05rem solid color-mix(in srgb, var(--review-accent-3) 24%, transparent);
   color: var(--review-muted);
   font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.09em;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  margin: 0;
+  min-height: auto;
+  padding: 0.42rem 0.75rem 0.36rem;
   text-transform: uppercase;
 }
 
-.issue-register dd {
+.md-typeset .editorial > .admonition-title::before,
+.md-typeset .editorial > .admonition-title::after,
+.md-typeset .editorial > summary::before,
+.md-typeset .editorial > summary::after {
+  display: none;
+}
+
+.md-typeset .editorial > .admonition-title + * {
+  margin-top: 0;
+}
+
+.md-typeset .editorial > p,
+.md-typeset .editorial > .admonition-content {
+  color: var(--review-ink);
+  font-size: 0.74rem;
+  line-height: 1.55;
+  margin: 0;
+  padding: 0.62rem 0.75rem 0.7rem;
+}
+
+.review-abstract {
+  background: color-mix(in srgb, var(--review-accent) 7%, var(--review-surface));
+  border: 0.05rem solid color-mix(in srgb, var(--review-accent) 28%, var(--review-rule));
+  margin: 0 0 0.9rem;
+  padding: 0.72rem 0.85rem 0.8rem;
+}
+
+.review-abstract h2 {
+  border-bottom: 0;
+  color: var(--review-muted);
+  font-family: inherit;
+  font-size: 0.58rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.45rem;
+  padding-bottom: 0;
+  text-transform: uppercase;
+}
+
+.review-abstract p {
   color: var(--review-ink);
   font-family: Georgia, "Times New Roman", serif;
-  margin: 0.15rem 0 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  margin-bottom: 0.4rem;
 }
 
-.issue-card {
-  background: var(--review-panel);
-  border: 0.05rem solid var(--review-panel-border);
-  border-left: 0.22rem solid var(--md-primary-fg-color);
-  margin: 0 0 1.5rem;
-  padding: 0.85rem 1rem;
-}
-
-.issue-card--current {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 10%, var(--review-panel));
-}
-
-.issue-card h3 {
-  font-family: Georgia, "Times New Roman", serif;
-  margin: 0 0 0.45rem;
-}
-
-/* Setting reference pages */
-.reference-label {
-  border-bottom: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
-  border-top: 0.05rem solid color-mix(in srgb, var(--review-rule) 70%, transparent);
-  color: var(--review-muted);
-  font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.11em;
-  margin: 0 0 1rem;
-  padding: 0.35rem 0;
-  text-transform: uppercase;
-}
-
-@media screen and (max-width: 44.9375em) {
-  .review-front h1 {
-    font-size: 1.8rem;
-  }
-
-  .masthead-register {
-    grid-template-columns: 1fr;
-    gap: 0.15rem;
-  }
-
-  .masthead-register dt {
-    margin-top: 0.35rem;
-  }
-
-  .masthead-register div:first-child dt {
-    margin-top: 0;
-  }
-
-  .review-register,
-  .issue-register,
-  .selection-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .issue-register div {
-    border-left: 0;
-    border-top: 0.05rem solid color-mix(in srgb, var(--review-rule) 50%, transparent);
-    padding: 0.55rem 0 0;
-  }
-
-  .issue-register div:first-child {
-    border-top: 0;
-  }
-
-  .review-register div {
-    border-left: 0;
-    border-top: 0.05rem solid color-mix(in srgb, var(--review-rule) 50%, transparent);
-    padding: 0.55rem 0 0;
-  }
-
-  .review-register div:first-child {
-    border-top: 0;
-  }
-}
-
-/* Accessibility audio edition */
 .review-audio {
-  background: color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--md-default-bg-color));
-  border: 0.05rem solid color-mix(in srgb, var(--review-rule) 75%, transparent);
-  border-left: 0.22rem solid var(--md-accent-fg-color);
-  margin: 0 0 1.25rem;
-  padding: 0.7rem 0.95rem 0.75rem;
+  background: color-mix(in srgb, var(--review-accent-2) 7%, var(--review-surface));
+  border: 0.05rem solid color-mix(in srgb, var(--review-accent-2) 28%, var(--review-rule));
+  border-left: 0.2rem solid var(--review-accent-2);
+  margin: 0 0 1.2rem;
+  padding: 0.65rem 0.8rem 0.75rem;
 }
 
 .review-audio__label {
-  color: var(--review-muted);
-  font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
   margin: 0 0 0.45rem;
-  text-transform: uppercase;
 }
 
 .review-audio audio {
@@ -517,4 +505,87 @@
   font-size: 0.64rem;
   line-height: 1.45;
   margin: 0.45rem 0 0;
+}
+
+.md-typeset h2#article {
+  border-bottom-color: var(--review-ink);
+  border-top: 0.18rem solid var(--review-ink);
+  color: var(--review-ink);
+  margin-top: 1.5rem;
+  padding-top: 0.7rem;
+}
+
+.reference-label {
+  border-bottom: 0.05rem solid color-mix(in srgb, var(--review-accent-2) 42%, var(--review-rule));
+  border-top: 0.05rem solid color-mix(in srgb, var(--review-accent-2) 42%, var(--review-rule));
+  color: var(--review-accent-2);
+  margin: 0 0 1rem;
+  padding: 0.35rem 0;
+}
+
+@media screen and (max-width: 59.9375em) {
+  .archive-entryway,
+  .path-grid,
+  .selection-grid,
+  .catalog-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .review-front h1 {
+    max-width: none;
+  }
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-main__inner {
+    margin-top: 0.55rem;
+  }
+
+  .review-front {
+    margin-left: -0.2rem;
+    margin-right: -0.2rem;
+    padding: 0.85rem 0.8rem 0.75rem 1rem;
+  }
+
+  .review-front h1 {
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  .review-deck {
+    font-size: 0.95rem;
+    line-height: 1.42;
+  }
+
+  .review-register,
+  .masthead-register {
+    grid-template-columns: 1fr;
+  }
+
+  .review-register div,
+  .masthead-register div,
+  .masthead-register div:nth-child(-n + 2) {
+    border-left: 0;
+    border-top: 0.05rem solid color-mix(in srgb, var(--review-rule) 72%, transparent);
+    padding: 0.45rem 0 0;
+  }
+
+  .review-register div:first-child,
+  .masthead-register div:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .path-link,
+  .selection-card,
+  .catalog-card,
+  .selection-feature {
+    box-shadow: none;
+  }
+
+  .md-typeset table:not([class]) {
+    display: block;
+    font-size: 0.68rem;
+    overflow-x: auto;
+  }
 }

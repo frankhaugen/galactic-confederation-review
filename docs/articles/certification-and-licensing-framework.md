@@ -25,7 +25,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Confederation Standards Office Technical Memoranda*, Personnel Competence Series</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Confederation Standards Office Technical Memoranda</em>, Personnel Competence Series</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>

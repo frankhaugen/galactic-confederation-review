@@ -25,7 +25,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Proceedings of the Earth Fleet Historical Society*, Vol. 144</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Proceedings of the Earth Fleet Historical Society</em>, Vol. 144</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Fleet and Rescue Doctrine, Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>

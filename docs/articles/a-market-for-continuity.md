@@ -25,7 +25,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Tirresh Journal of Reconstruction Economics*, Vol. 22</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Tirresh Journal of Reconstruction Economics</em>, Vol. 22</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Compact and Confederation Origins</dd></div>

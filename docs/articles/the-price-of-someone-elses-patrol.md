@@ -24,7 +24,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Vaelor Strategic Studies Quarterly*</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Vaelor Strategic Studies Quarterly</em></dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>

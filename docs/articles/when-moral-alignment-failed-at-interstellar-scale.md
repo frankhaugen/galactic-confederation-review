@@ -26,7 +26,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Annals of Post-Compact Political History*, Vol. 41</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Annals of Post-Compact Political History</em>, Vol. 41</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Historical Summaries, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Compact and Confederation Origins, Guardianship Settlement</dd></div>

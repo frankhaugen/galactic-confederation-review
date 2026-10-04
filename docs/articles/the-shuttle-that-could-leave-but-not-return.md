@@ -25,7 +25,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Port and Yard Review*</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Port and Yard Review</em></dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>

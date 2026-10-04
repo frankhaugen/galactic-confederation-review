@@ -24,7 +24,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Galactic Confederation Assembly Research Office Briefing Series* (Infrastructure, Navigation, and Interstellar Commerce)</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Galactic Confederation Assembly Research Office Briefing Series</em> (Infrastructure, Navigation, and Interstellar Commerce)</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Communications and Transit</dd></div>
   <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>

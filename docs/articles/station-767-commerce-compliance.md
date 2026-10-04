@@ -24,7 +24,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Luna Journal of Interpolity Criminology*, Vol. 74</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Luna Journal of Interpolity Criminology</em>, Vol. 74</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>

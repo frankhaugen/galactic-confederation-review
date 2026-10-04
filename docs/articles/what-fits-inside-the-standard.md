@@ -24,7 +24,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Undergraduate Papers in Port Society*, Tesh-Vorr Interchange College, No. 44</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Undergraduate Papers in Port Society</em>, Tesh-Vorr Interchange College, No. 44</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>

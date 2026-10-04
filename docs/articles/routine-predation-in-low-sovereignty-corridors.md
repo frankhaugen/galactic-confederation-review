@@ -22,7 +22,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Kharrek Annals of Transit Offense Ecology*, Vol. 31</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Kharrek Annals of Transit Offense Ecology</em>, Vol. 31</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
 <div><dt>Original date</dt><dd>2492.278</dd></div>

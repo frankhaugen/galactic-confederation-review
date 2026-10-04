@@ -22,7 +22,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Inari Institute Proceedings in Comparative Civic Ecology*, Vol. 64</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Inari Institute Proceedings in Comparative Civic Ecology</em>, Vol. 64</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Species Profiles</dd></div>
 <div><dt>Original date</dt><dd>2492.144</dd></div>

@@ -22,7 +22,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Species In Context*, Vol. 12</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Species In Context</em>, Vol. 12</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Species Profiles</dd></div>
 <div><dt>Original date</dt><dd>2491.089</dd></div>

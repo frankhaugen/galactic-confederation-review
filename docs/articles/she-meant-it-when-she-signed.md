@@ -24,7 +24,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Luna–Independent Aralai Studies Joint Colloquium Papers*</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Luna–Independent Aralai Studies Joint Colloquium Papers</em></dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law, Species Profiles</dd></div>
   <div><dt>Original date</dt><dd>2493.141</dd></div>

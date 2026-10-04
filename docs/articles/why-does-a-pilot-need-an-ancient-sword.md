@@ -24,7 +24,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Journal of Interpolity Military Education*, Vol. 118</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Journal of Interpolity Military Education</em>, Vol. 118</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Fleet and Rescue Doctrine</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>

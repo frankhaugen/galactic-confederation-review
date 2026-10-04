@@ -26,7 +26,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Introductory Compendium For Students Of Earth Union*, 19th revised edition</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Introductory Compendium For Students Of Earth Union</em>, 19th revised edition</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Historical Summaries, Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer, Compact and Confederation Origins</dd></div>

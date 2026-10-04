@@ -22,7 +22,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Lucene Institute Procedural Review*, Vol. 156</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Lucene Institute Procedural Review</em>, Vol. 156</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
 <div><dt>Original date</dt><dd>2493.334</dd></div>

@@ -53,6 +53,10 @@ def on_page_markdown(markdown: str, page, config, files) -> str:
         "</div>\n"
     )
 
+    marker = "\n## Article"
+    if marker in markdown:
+        return markdown.replace(marker, player + marker, 1)
+
     lines = markdown.splitlines()
     for index, line in enumerate(lines):
         if line.startswith("# "):

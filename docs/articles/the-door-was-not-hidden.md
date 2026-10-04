@@ -26,7 +26,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Quarterly Review of Status, Custody, and Jurisdiction*, Vol. 118</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Quarterly Review of Status, Custody, and Jurisdiction</em>, Vol. 118</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>

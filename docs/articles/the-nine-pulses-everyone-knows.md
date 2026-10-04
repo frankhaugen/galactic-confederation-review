@@ -23,7 +23,7 @@ tags:
 <div class="republication-masthead" markdown="1">
 
 <dl class="masthead-register">
-  <div><dt>Originally published in</dt><dd markdown="1">*Transit Window*, Cycle 2497</dd></div>
+  <div><dt>Originally published in</dt><dd><em>Transit Window</em>, Cycle 2497</dd></div>
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Original date</dt><dd>2497.171</dd></div>

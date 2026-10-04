@@ -1,8 +1,8 @@
 ---
 title: "The Ship Is The Flag"
 description: "Registry, route freedom, and how the Confederation replaced flag jurisdictions with hull standing as commercial legal identity."
-selection_date: "2495.298"
-release_cycle: "2495.298"
+selection_date: "2493.141"
+release_cycle: "2493.141"
 field: "Commercial and Maritime Law"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
 <div><dt>Original date</dt><dd>2487.181</dd></div>
-  <div><dt>Republication date</dt><dd>2495.298</dd></div>
+  <div><dt>Republication date</dt><dd>2493.141</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>

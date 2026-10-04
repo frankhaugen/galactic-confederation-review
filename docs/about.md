@@ -42,4 +42,4 @@ not as an alternate editorial authority.
 
 Most cited papers are not republished here.
 
-A citation to a paper, report, speech, archive, or proceeding indicates that the work exists in the scholarly record of the setting. It does not mean the Review has selected that work for republication.
+A citation to a paper, report, speech, archive, or proceeding indicates that the work exists in the scholarly record. It does not mean the Review has selected that work for republication.

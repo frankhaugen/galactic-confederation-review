@@ -1,8 +1,8 @@
 ---
 title: "The Pressure Vessel Called Earth"
 description: "A Kharrek scholar on Earth Union's moral sincerity, civic safety, and the interventionist patience of a polity that arms its good intentions."
-selection_date: "2496.265"
-release_cycle: "2496.265"
+selection_date: "2495.111"
+release_cycle: "2495.111"
 field: "Strategic Ethics and Comparative Statecraft"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2494.144</dd></div>
-  <div><dt>Republication date</dt><dd>2496.265</dd></div>
+  <div><dt>Republication date</dt><dd>2495.111</dd></div>
   <div><dt>Author</dt><dd>Professor Sarekh Venn-Tor, Department of Comparative Statecraft, Tesh-Vorr Civic War College</dd></div>
   <div><dt>Field</dt><dd>Strategic Ethics and Comparative Statecraft</dd></div>
 </dl>

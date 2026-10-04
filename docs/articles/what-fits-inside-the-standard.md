@@ -1,8 +1,8 @@
 ---
 title: "What Fits Inside the Standard"
 description: "Secondary uses of C-series containers beyond freight."
-selection_date: "2496.021"
-release_cycle: "2496.021"
+selection_date: "2496.014"
+release_cycle: "2496.014"
 field: "Infrastructure Sociology"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
 <div><dt>Original date</dt><dd>2493.091</dd></div>
-  <div><dt>Republication date</dt><dd>2496.021</dd></div>
+  <div><dt>Republication date</dt><dd>2496.014</dd></div>
   <div><dt>Author</dt><dd>Narev Thol, Bachelor of Civic Infrastructure candidate, Tesh-Vorr Interchange College</dd></div>
   <div><dt>Field</dt><dd>Infrastructure Sociology</dd></div>
 </dl>

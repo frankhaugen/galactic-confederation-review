@@ -18,7 +18,6 @@ tags:
   - Human History
   - Interoperability
 ---
-
 # Fun Fact: The Nine Pulses Everyone Knows
 
 <div class="republication-masthead" markdown="1">
@@ -37,6 +36,14 @@ tags:
 
 !!! editorial "Republication note"
     A popular feature on a pre-Union Earth rescue treaty that somehow survived first contact, faster-than-light travel, and the Confederation itself.
+
+<div class="review-abstract" markdown="1">
+
+## Abstract
+
+The nine-pulse distress pattern, the SOS glyph, and the spoken MAYDAY call began as Earth-side rescue conventions long before first contact. This feature traces why those old signals remained useful in interstellar service: they are memorable, low-tech, hard to mistake, and socially backed by a rescue obligation that outlived the institutions that first wrote it down.
+
+</div>
 
 ## Article
 

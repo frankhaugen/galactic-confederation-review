@@ -17,18 +17,18 @@ Standards and Infrastructure does not publish full ansible doctrine or FTL physi
 
 | Release | Selection | Field |
 | ------- | --------- | ----- |
-| 2495.195 | [The Lie Of "Just One Passenger"](../articles/the-lie-of-just-one-passenger.md) | Transport Liability and Civil Movement Law |
-| 2495.211 | [The Margin Was The Freedom](../articles/the-margin-was-the-freedom.md) | Field Memoir and Commercial Practice |
-| 2495.298 | [The Ship Is The Flag](../articles/the-ship-is-the-flag.md) | Commercial and Maritime Law |
-| 2495.313 | [The Ship That Can Sign Its Own Shadow](../articles/the-ship-that-can-sign-its-own-shadow.md) | Commercial and Maritime Law |
-| 2496.003 | [C-Series Containers and the Founding Standard](../articles/c-series-containers-founding-standard.md) | Engineering and Standards |
-| 2496.021 | [What Fits Inside the Standard](../articles/what-fits-inside-the-standard.md) | Infrastructure Sociology |
-| 2496.249 | [The Captain Is Not Always A Captain](../articles/the-captain-is-not-always-a-captain.md) | Commercial and Maritime Law |
-| 2496.320 | [The Registry Name Is Not The Place](../articles/the-registry-name-is-not-the-place.md) | Administrative Practice and Registry Law |
-| 2497.084 | [A Market for Continuity](../articles/a-market-for-continuity.md) | Comparative Macroeconomics and Institutional Design |
-| 2497.113 | [The Shuttle That Could Leave But Not Return](../articles/the-shuttle-that-could-leave-but-not-return.md) | Field Memoir and Commercial Practice |
-| 2497.128 | [The Captain Was Informed](../articles/the-captain-was-informed.md) | Transport Liability and Civil Movement Law |
+| 2492.041 | [Certification and Licensing Framework](../articles/certification-and-licensing-framework.md) | Personnel Standards and Licensing |
+| 2492.118 | [C-Series Containers and the Founding Standard](../articles/c-series-containers-founding-standard.md) | Engineering and Standards |
+| 2493.141 | [The Ship Is The Flag](../articles/the-ship-is-the-flag.md) | Commercial and Maritime Law |
+| 2493.196 | [The Ship That Can Sign Its Own Shadow](../articles/the-ship-that-can-sign-its-own-shadow.md) | Commercial and Maritime Law |
+| 2495.279 | [The Lie Of "Just One Passenger"](../articles/the-lie-of-just-one-passenger.md) | Transport Liability and Civil Movement Law |
+| 2495.294 | [The Margin Was The Freedom](../articles/the-margin-was-the-freedom.md) | Field Memoir and Commercial Practice |
+| 2496.014 | [What Fits Inside the Standard](../articles/what-fits-inside-the-standard.md) | Infrastructure Sociology |
+| 2496.207 | [The Captain Is Not Always A Captain](../articles/the-captain-is-not-always-a-captain.md) | Commercial and Maritime Law |
+| 2496.263 | [The Registry Name Is Not The Place](../articles/the-registry-name-is-not-the-place.md) | Administrative Practice and Registry Law |
+| 2497.079 | [A Market for Continuity](../articles/a-market-for-continuity.md) | Comparative Macroeconomics and Institutional Design |
+| 2497.121 | [The Shuttle That Could Leave But Not Return](../articles/the-shuttle-that-could-leave-but-not-return.md) | Field Memoir and Commercial Practice |
+| 2497.139 | [The Captain Was Informed](../articles/the-captain-was-informed.md) | Transport Liability and Civil Movement Law |
 | 2497.161 | [The Patient Is Not the Procedure](../articles/the-patient-is-not-the-procedure.md) | Medical Infrastructure and Shipboard Practice |
-| 2497.224 | [Certification and Licensing Framework](../articles/certification-and-licensing-framework.md) | Personnel Standards and Licensing |
 | 2497.241 | [The Glorious Inboard Rescue Pod](../articles/the-glorious-inboard-rescue-pod.md) | Habitability Engineering |
 | 2497.259 | [Fun Fact: The Nine Pulses Everyone Knows](../articles/the-nine-pulses-everyone-knows.md) | Safety Standards and Cultural History |

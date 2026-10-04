@@ -1,8 +1,8 @@
 ---
 title: "The Thinking Software Taboo"
 description: "Why the Confederation forbids deliberate person-making while permitting advanced automation — and why the taboo persists."
-selection_date: "2495.339"
-release_cycle: "2495.339"
+selection_date: "2495.331"
+release_cycle: "2495.331"
 field: "Cognitive Law and Policy"
 type: "Republication"
 series:
@@ -26,7 +26,7 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
 <div><dt>Original date</dt><dd>2490.144</dd></div>
-  <div><dt>Republication date</dt><dd>2495.339</dd></div>
+  <div><dt>Republication date</dt><dd>2495.331</dd></div>
   <div><dt>Author</dt><dd>Dr. Helan Vosk, Postdoctoral Researcher in Adaptive Cognition Systems, Rethic Institute of Distributed Sciences</dd></div>
   <div><dt>Field</dt><dd>Cognitive Law and Policy</dd></div>
 </dl>

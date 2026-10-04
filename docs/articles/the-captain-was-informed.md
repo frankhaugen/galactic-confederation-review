@@ -1,8 +1,8 @@
 ---
 title: "The Captain Was Informed"
 description: "Why shipboard medical systems force captains through crude communicable-disease briefings: not to make them physicians, but to prove they were informed."
-selection_date: "2497.128"
-release_cycle: "2497.128"
+selection_date: "2497.139"
+release_cycle: "2497.139"
 field: "Transport Liability and Civil Movement Law"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
   <div><dt>Original date</dt><dd>2494.233</dd></div>
-  <div><dt>Republication date</dt><dd>2497.128</dd></div>
+  <div><dt>Republication date</dt><dd>2497.139</dd></div>
   <div><dt>Author</dt><dd>Advocate Meren Vos, Maritime Health Liability Practice, Core Transit Bar</dd></div>
   <div><dt>Field</dt><dd>Transport Liability and Civil Movement Law</dd></div>
 </dl>

@@ -1,8 +1,8 @@
 ---
 title: "Why Earth Union Is Still Called Earth Union"
 description: "Civic naming, legal continuity, and the political value of inherited institutional names."
-selection_date: "2495.083"
-release_cycle: "2495.083"
+selection_date: "2495.057"
+release_cycle: "2495.057"
 field: "Policy and History"
 type: "Editorial Note"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2492.078</dd></div>
-  <div><dt>Republication date</dt><dd>2495.083</dd></div>
+  <div><dt>Republication date</dt><dd>2495.057</dd></div>
   <div><dt>Author</dt><dd>Review Language Desk</dd></div>
   <div><dt>Field</dt><dd>Policy and History</dd></div>
 </dl>
@@ -37,7 +37,7 @@ tags:
 </div>
 
 !!! editorial "Republication note"
-    Last issue's language desk essay on "Children of Terra" produced more reader correspondence than our last six shipping-law republications combined. This confirms either the health of Confederation civic curiosity or the collapse of serious reading habits. Encouraged against our better judgment, we continue with another Earth Union naming oddity.
+    The previous Language Desk selection on "Children of Terra" produced more reader correspondence than our last six shipping-law republications combined. This confirms either the health of Confederation civic curiosity or the collapse of serious reading habits. Encouraged against our better judgment, we continue with another Earth Union naming oddity.
 
 <div class="review-abstract" markdown="1">
 

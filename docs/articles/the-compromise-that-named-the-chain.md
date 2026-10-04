@@ -1,8 +1,8 @@
 ---
 title: "The Compromise That Named the Chain"
 description: "Moral-historical analysis of the legal language that structured Confederation accession."
-selection_date: "2494.216"
-release_cycle: "2494.216"
+selection_date: "2493.026"
+release_cycle: "2493.026"
 field: "Ethics and History"
 type: "Republication"
 series:
@@ -31,7 +31,7 @@ tags:
   <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement, Compact and Confederation Origins</dd></div>
 <div><dt>Original date</dt><dd>2479.088</dd></div>
-  <div><dt>Republication date</dt><dd>2494.216</dd></div>
+  <div><dt>Republication date</dt><dd>2493.026</dd></div>
   <div><dt>Author</dt><dd>Dr. Elian Voss, Department of Post-Union Ethics, University of Mars</dd></div>
   <div><dt>Field</dt><dd>Ethics and History</dd></div>
 </dl>

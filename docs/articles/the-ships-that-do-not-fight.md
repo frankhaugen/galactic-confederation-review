@@ -1,8 +1,8 @@
 ---
 title: "The Ships That Do Not Fight"
 description: "Search, rescue, customs, and wreck certification — why the Nosies do not fight, and why that is the point."
-selection_date: "2494.331"
-release_cycle: "2494.331"
+selection_date: "2495.166"
+release_cycle: "2495.166"
 field: "Administrative Practice"
 type: "Republication"
 series:
@@ -27,7 +27,7 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Fleet and Rescue Doctrine</dd></div>
 <div><dt>Original date</dt><dd>2489.044</dd></div>
-  <div><dt>Republication date</dt><dd>2494.331</dd></div>
+  <div><dt>Republication date</dt><dd>2495.166</dd></div>
   <div><dt>Author</dt><dd>Commissioner Halveth Ruun, Confederation Search, Rescue, and Customs Service (retired); former Deputy Commissioner for Lane Safety and Wreck Certification</dd></div>
   <div><dt>Field</dt><dd>Administrative Practice</dd></div>
 </dl>
@@ -37,7 +37,7 @@ tags:
 !!! editorial "Republication note"
     Readers have repeatedly asked the Review for fewer Earth Union articles. We therefore publish the following essay on the Confederation Search, Rescue, and Customs Service, an institution which is not Earth Union, not commanded by Earth Union, and not funded primarily by Earth Union. The first submitted draft mentioned Earth Fleet nine times. We have retained seven.
 
-    The Review placed this selection in the Earth Union issue only because several essays here discuss armed rescue and external security. Commissioner Ruun's account entered the register early as institutional counterweight before Colonel Venn closed the issue.
+    The Review placed this selection near Earth Union studies only because several selections in that track discuss armed rescue and external security. Commissioner Ruun's account entered the register as institutional counterweight to later Fleet and Rescue Doctrine selections.
 
 <div class="review-abstract" markdown="1">
 

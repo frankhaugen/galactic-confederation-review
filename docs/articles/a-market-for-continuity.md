@@ -1,8 +1,8 @@
 ---
 title: "A Market for Continuity"
 description: "A Tirresh economist on Confederation insurance as a continuity market that manufactures trust through certification and standardized facts."
-selection_date: "2497.084"
-release_cycle: "2497.084"
+selection_date: "2497.079"
+release_cycle: "2497.079"
 field: "Comparative Macroeconomics and Institutional Design"
 type: "Republication"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Compact and Confederation Origins</dd></div>
   <div><dt>Original date</dt><dd>2491.102</dd></div>
-  <div><dt>Republication date</dt><dd>2497.084</dd></div>
+  <div><dt>Republication date</dt><dd>2497.079</dd></div>
   <div><dt>Author</dt><dd>Dr. Arel Vost, Senior Lecturer in Comparative Macroeconomic Systems, Tirresh Institute of Reconstruction Economics</dd></div>
   <div><dt>Field</dt><dd>Comparative Macroeconomics and Institutional Design</dd></div>
 </dl>

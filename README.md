@@ -335,8 +335,8 @@ This series is for readers who want species context without reading the law and 
 
 | Release | Selection | Field |
 | ------- | --------- | ----- |
-| 2496.207 | [The Species Without Mothers](../articles/the-species-without-mothers.md) | Xenology and Civic Biology |
-| 2496.220 | [Institutions Without Parenthood](../articles/institutions-without-parenthood.md) | Xenology and Policy |
+| 2494.076 | [The Species Without Mothers](../articles/the-species-without-mothers.md) | Xenology and Civic Biology |
+| 2497.018 | [Institutions Without Parenthood](../articles/institutions-without-parenthood.md) | Xenology and Policy |
 ```
 
 Series pages should not become essays unless explicitly requested. They are navigation pages.
@@ -367,9 +367,9 @@ It is not a complete history. It is a guided entry point.
 
 | Order | Release | Selection | Why here |
 | ----- | ------- | --------- | -------- |
-| 1 | 2495.065 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | Basic institutional history |
-| 2 | 2495.083 | [Why Earth Union Is Still Called Earth Union](../articles/why-earth-union-is-still-called-earth-union.md) | Naming and legitimacy |
-| 3 | 2495.114 | [The State That Kept Saying Yes](../articles/the-state-that-kept-saying-yes.md) | Welfare-state militarism from inside |
+| 1 | 2495.019 | [From Nations To Habitats](../articles/from-nations-to-habitats.md) | Basic institutional history |
+| 2 | 2495.057 | [Why Earth Union Is Still Called Earth Union](../articles/why-earth-union-is-still-called-earth-union.md) | Naming and legitimacy |
+| 3 | 2494.203 | [The State That Kept Saying Yes](../articles/the-state-that-kept-saying-yes.md) | Welfare-state militarism from inside |
 ```
 
 Dossiers may be updated as new selections appear.
@@ -387,9 +387,9 @@ Recommended table:
 
 | Release | Title | Series | Field |
 | ------- | ----- | ------ | ----- |
-| 2494.303 | [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md) | Earth Union Studies | Xenology and Policy |
-| 2494.331 | [The Ships That Do Not Fight](the-ships-that-do-not-fight.md) | Fleet and Rescue Doctrine | Administrative Practice |
-| 2495.004 | [Children of Terra](children-of-terra.md) | Earth Union Studies | Policy and Xenology |
+| 2494.322 | [Bells, Bread, and Field Hospitals](bells-bread-and-field-hospitals.md) | Earth Union Studies | Xenology and Policy |
+| 2495.166 | [The Ships That Do Not Fight](the-ships-that-do-not-fight.md) | Fleet and Rescue Doctrine | Administrative Practice |
+| 2494.017 | [Children of Terra](children-of-terra.md) | Earth Union Studies | Policy and Xenology |
 ```
 
 The register should not group primarily by issue.

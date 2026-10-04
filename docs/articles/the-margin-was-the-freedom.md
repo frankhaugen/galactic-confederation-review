@@ -1,8 +1,8 @@
 ---
 title: "The Margin Was The Freedom"
 description: "Abridged memoir of forty-one years as an owner-master — access, solvency, and the middle space the Confederation registry left open."
-selection_date: "2495.211"
-release_cycle: "2495.211"
+selection_date: "2495.294"
+release_cycle: "2495.294"
 field: "Field Memoir and Commercial Practice"
 type: "Field Memoir"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
 <div><dt>Original date</dt><dd>2493.178</dd></div>
-  <div><dt>Republication date</dt><dd>2495.211</dd></div>
+  <div><dt>Republication date</dt><dd>2495.294</dd></div>
   <div><dt>Author</dt><dd>Captain Sella Varr, retired owner-master, light commercial transport</dd></div>
   <div><dt>Field</dt><dd>Field Memoir and Commercial Practice</dd></div>
 </dl>
@@ -37,7 +37,7 @@ tags:
 </div>
 
 !!! editorial "Republication note"
-    Captain Varr's memoir was first printed in a port cooperative edition of eight hundred copies, most of which appear to have been bought by people who already knew her, owed her money, or both. The Review has abridged the central chapters for the Hard Science issue because policy language tends to make independent transport sound cleaner than it is. Captain Varr does not dispute the value of the Confederation registry, freedom of navigation, or owner-master rules. She is grateful for them. She is also very clear about what it means to live for decades inside the narrow space between access and solvency.
+    Captain Varr's memoir was first printed in a port cooperative edition of eight hundred copies, most of which appear to have been bought by people who already knew her, owed her money, or both. The Review has abridged the central chapters for readers following standards, transport, and small-operator selections because policy language tends to make independent transport sound cleaner than it is. Captain Varr does not dispute the value of the Confederation registry, freedom of navigation, or owner-master rules. She is grateful for them. She is also very clear about what it means to live for decades inside the narrow space between access and solvency.
 
 <div class="review-abstract" markdown="1">
 

@@ -1,8 +1,8 @@
 ---
 title: "What the Ledger Refuses to See"
 description: "Effort credits, moral blindness, and guardianship at the accounting layer."
-selection_date: "2496.127"
-release_cycle: "2496.127"
+selection_date: "2493.239"
+release_cycle: "2493.239"
 field: "Political Economy and Charter Finance"
 type: "Republication"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
 <div><dt>Original date</dt><dd>2485.201</dd></div>
-  <div><dt>Republication date</dt><dd>2496.127</dd></div>
+  <div><dt>Republication date</dt><dd>2493.239</dd></div>
   <div><dt>Author</dt><dd>Auditor-General Solenn Vek (retired), Charter Ledger Bureau</dd></div>
   <div><dt>Field</dt><dd>Political Economy and Charter Finance</dd></div>
 </dl>

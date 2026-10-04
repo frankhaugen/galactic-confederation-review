@@ -31,7 +31,7 @@ tags:
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
   <div><dt>Original date</dt><dd>2496.218</dd></div>
   <div><dt>Republication date</dt><dd>2497.241</dd></div>
-  <div><dt>Author</dt><dd>Nera Solven, Habitability Features Correspondent, *Working Systems*</dd></div>
+  <div><dt>Author</dt><dd>Nera Solven, Habitability Features Correspondent, <em>Working Systems</em></dd></div>
   <div><dt>Field</dt><dd>Habitability Engineering</dd></div>
 </dl>
 

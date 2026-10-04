@@ -1,8 +1,8 @@
 ---
 title: "The State That Kept Saying Yes"
 description: "Welfare-state militarism, citizenship machinery, and how Earth Union's institutions opened doors a fugitive slave was not meant to reach."
-selection_date: "2495.114"
-release_cycle: "2495.114"
+selection_date: "2494.203"
+release_cycle: "2494.203"
 field: "Civic Systems and External Power"
 type: "Field Memoir"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2494.112</dd></div>
-  <div><dt>Republication date</dt><dd>2495.114</dd></div>
+  <div><dt>Republication date</dt><dd>2494.203</dd></div>
   <div><dt>Author</dt><dd>Taran Vel, PhD, President Emeritus of Earth Union, Professor of Civic Systems, University of Luna, Senior Chief Petty Officer, Retired, Slave Emeritus</dd></div>
   <div><dt>Field</dt><dd>Civic Systems and External Power</dd></div>
 </dl>

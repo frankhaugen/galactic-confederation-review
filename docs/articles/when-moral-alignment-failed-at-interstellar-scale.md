@@ -1,8 +1,8 @@
 ---
 title: "When Moral Alignment Failed at Interstellar Scale"
 description: "Why the Interstellar Union of Aligned Societies failed and the Galactic Confederation turned procedural."
-selection_date: "2496.073"
-release_cycle: "2496.073"
+selection_date: "2492.318"
+release_cycle: "2492.318"
 field: "History and Policy"
 type: "Republication"
 series:
@@ -31,7 +31,7 @@ tags:
   <div><dt>Series</dt><dd>Historical Summaries, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Compact and Confederation Origins, Guardianship Settlement</dd></div>
 <div><dt>Original date</dt><dd>2482.112</dd></div>
-  <div><dt>Republication date</dt><dd>2496.073</dd></div>
+  <div><dt>Republication date</dt><dd>2492.318</dd></div>
   <div><dt>Author</dt><dd>Professor Keth Maren, Department of Founding History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>History and Policy</dd></div>
 </dl>

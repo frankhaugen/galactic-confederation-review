@@ -1,8 +1,8 @@
 ---
 title: "The Confederation Does Not Deliver Messages"
 description: "Why the mesh propagates signed information instead of guaranteeing delivery."
-selection_date: "2496.053"
-release_cycle: "2496.053"
+selection_date: "2496.061"
+release_cycle: "2496.061"
 field: "Communications Policy and Infrastructure Law"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Communications and Transit</dd></div>
   <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
 <div><dt>Original date</dt><dd>2488.067</dd></div>
-  <div><dt>Republication date</dt><dd>2496.053</dd></div>
+  <div><dt>Republication date</dt><dd>2496.061</dd></div>
   <div><dt>Author</dt><dd>Dr. Ilena Cors, former liaison, Confederation Postal Authority Standards Directorate</dd></div>
   <div><dt>Field</dt><dd>Communications Policy and Infrastructure Law</dd></div>
 </dl>

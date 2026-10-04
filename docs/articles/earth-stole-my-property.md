@@ -1,8 +1,8 @@
 ---
 title: "Earth Stole My Property"
 description: "The Havren Claim — how Earth Union procedure dissolved Guardianship without abolishing it."
-selection_date: "2495.128"
-release_cycle: "2495.128"
+selection_date: "2494.033"
+release_cycle: "2494.033"
 field: "Property and Status Law"
 type: "Public Argument"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
 <div><dt>Original date</dt><dd>2486.301</dd></div>
-  <div><dt>Republication date</dt><dd>2495.128</dd></div>
+  <div><dt>Republication date</dt><dd>2494.033</dd></div>
   <div><dt>Author</dt><dd>Advocate Rel Varo Kess, Senior Counsel, Association for Lawful Guardianship Claimants</dd></div>
   <div><dt>Field</dt><dd>Property and Status Law</dd></div>
 </dl>

@@ -1,8 +1,8 @@
 ---
 title: "The Ansible Is Not a Radio"
 description: "Public-science correction of common misunderstandings about ansible communication."
-selection_date: "2494.262"
-release_cycle: "2494.262"
+selection_date: "2493.315"
+release_cycle: "2493.315"
 field: "Engineering"
 type: "Republication"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Communications and Transit</dd></div>
   <div><dt>Dossier</dt><dd>Ansible and Communications</dd></div>
 <div><dt>Original date</dt><dd>2493.267</dd></div>
-  <div><dt>Republication date</dt><dd>2494.262</dd></div>
+  <div><dt>Republication date</dt><dd>2493.315</dd></div>
   <div><dt>Author</dt><dd>Siven Marr Khet, Postgraduate Researcher in Applied Field Physics, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Engineering</dd></div>
 </dl>

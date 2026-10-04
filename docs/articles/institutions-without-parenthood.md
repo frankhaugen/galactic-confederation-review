@@ -1,8 +1,8 @@
 ---
 title: "Institutions Without Parenthood"
 description: "Threni cohort bonds, technocracy, and the human misreading of cold institutions."
-selection_date: "2496.197"
-release_cycle: "2496.197"
+selection_date: "2497.018"
+release_cycle: "2497.018"
 field: "Xenology and Policy"
 type: "Republication"
 series:
@@ -26,7 +26,7 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Species Profiles</dd></div>
 <div><dt>Original date</dt><dd>2492.144</dd></div>
-  <div><dt>Republication date</dt><dd>2496.197</dd></div>
+  <div><dt>Republication date</dt><dd>2497.018</dd></div>
   <div><dt>Author</dt><dd>Professor Ven Ileth, Department of Long-Horizon Social Systems, Inari Institute of Civic Ecology</dd></div>
   <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
 </dl>

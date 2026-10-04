@@ -1,8 +1,8 @@
 ---
 title: "Status Laundering at the Registry Interface"
 description: "How paperwork converts coercion into transferable legal status."
-selection_date: "2496.172"
-release_cycle: "2496.172"
+selection_date: "2496.138"
+release_cycle: "2496.138"
 field: "Law and Enforcement"
 type: "Republication"
 series:
@@ -31,7 +31,7 @@ tags:
   <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
 <div><dt>Original date</dt><dd>2492.256</dd></div>
-  <div><dt>Republication date</dt><dd>2496.172</dd></div>
+  <div><dt>Republication date</dt><dd>2496.138</dd></div>
   <div><dt>Author</dt><dd>Commissioner Raleth Vo, Protective Policy Division, Nosies Customs</dd></div>
   <div><dt>Field</dt><dd>Law and Enforcement</dd></div>
 </dl>
@@ -39,7 +39,7 @@ tags:
 </div>
 
 !!! editorial "Republication note"
-    Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication. This selection closed the Guardianship issue after the Havren reply pair entered the register.
+    Selected after Cartel-linked recovery disputes in three frontier jurisdictions. The Review notes that several victim case files remain sealed and that Cartel institutional replies have not been selected for republication. This selection entered the register after the Havren reply pair as a procedural closing argument within the Guardianship track.
 
 <div class="review-abstract" markdown="1">
 
@@ -95,7 +95,7 @@ Where local law permits guardianship-linked control of reproduction or inherited
 
 ### Why Open-Market Sale Works
 
-The setting tolerates coercive institutions under administrative language such as guardianship. Sale therefore proceeds through liability transfer, dependent registry transfer, labor custody assignment, contract purchase, estate disposal, and secured asset liquidation.
+The legal environment tolerates coercive institutions under administrative language such as guardianship. Sale therefore proceeds through liability transfer, dependent registry transfer, labor custody assignment, contract purchase, estate disposal, and secured asset liquidation.
 
 The transaction needs only jurisdictions willing to call it something other than slavery.
 

@@ -1,8 +1,8 @@
 ---
 title: "Earth Did Not Steal Your Property"
 description: "An abolitionist legal reply to the Guardianship property complaint — the child hidden in the word Guardian."
-selection_date: "2496.299"
-release_cycle: "2496.299"
+selection_date: "2497.103"
+release_cycle: "2497.103"
 field: "Abolitionist Legal History"
 type: "Institutional Response"
 series:
@@ -32,7 +32,7 @@ tags:
   <div><dt>Series</dt><dd>Guardianship Debates, Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement, Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2487.178</dd></div>
-  <div><dt>Republication date</dt><dd>2496.299</dd></div>
+  <div><dt>Republication date</dt><dd>2497.103</dd></div>
   <div><dt>Author</dt><dd>Dr. Elian Voss, Senior Fellow in Abolitionist Legal History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>Abolitionist Legal History</dd></div>
 </dl>

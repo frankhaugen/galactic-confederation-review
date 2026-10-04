@@ -1,8 +1,8 @@
 ---
 title: "Bells, Bread, and Field Hospitals"
 description: "Earth-origin religious humanitarian institutions in external service."
-selection_date: "2494.303"
-release_cycle: "2494.303"
+selection_date: "2494.322"
+release_cycle: "2494.322"
 field: "Xenology and Policy"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2492.118</dd></div>
-  <div><dt>Republication date</dt><dd>2494.303</dd></div>
+  <div><dt>Republication date</dt><dd>2494.322</dd></div>
   <div><dt>Author</dt><dd>Professor Leth Avarin, Department of Social Systems and Comparative Kinship, Inari Institute of Civic Ecology</dd></div>
   <div><dt>Field</dt><dd>Xenology and Policy</dd></div>
 </dl>

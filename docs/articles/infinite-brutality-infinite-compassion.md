@@ -1,8 +1,8 @@
 ---
 title: "Infinite Brutality, Infinite Compassion"
 description: "Boarding Marine doctrine, rescue assault, and the motto that survived training."
-selection_date: "2496.219"
-release_cycle: "2496.219"
+selection_date: "2495.227"
+release_cycle: "2495.227"
 field: "History and Military Ethics"
 type: "Field Memoir"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Fleet and Rescue Doctrine, Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2483.156</dd></div>
-  <div><dt>Republication date</dt><dd>2496.219</dd></div>
+  <div><dt>Republication date</dt><dd>2495.227</dd></div>
   <div><dt>Author</dt><dd>Colonel Mara Venn, Earth Fleet Marine Corps (retired)</dd></div>
   <div><dt>Field</dt><dd>History and Military Ethics</dd></div>
 </dl>

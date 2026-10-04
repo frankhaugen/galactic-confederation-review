@@ -45,10 +45,10 @@ Solven on Type C0n cabins as self-contained, chainable inboard survival cells.
 </article>
 
 <article markdown>
-### [Certification and Licensing Framework](articles/certification-and-licensing-framework.md)
-<p class="selection-meta">2497.224 · Standards and Infrastructure · Personnel Standards</p>
+### [Why Does a Pilot Need an Ancient Sword?](articles/why-does-a-pilot-need-an-ancient-sword.md)
+<p class="selection-meta">2497.224 · Fleet and Rescue Doctrine · Military Education</p>
 
-Standards Office reference for spacer competence, licenses, and emergency authority.
+Varos on Earth Fleet officer formation, old martial practice, and judgment before force.
 </article>
 
 <article markdown>
@@ -80,7 +80,7 @@ Lessa Morin on MedBeds, AutoDocs, and why procedure is not judgment.
 
 <article class="selection-feature" markdown>
 ### [The Galactic Confederation at Founding](articles/galactic-confederation-at-founding.md)
-<p class="selection-meta">2494.205 · Historical Summaries · History and Policy</p>
+<p class="selection-meta">2492.247 · Historical Summaries · History and Policy</p>
 
 Founding-era institutional history remains the best way to understand why the Confederation behaves like an interface system rather than a conventional state. This selection also anchors several later disputes over Guardianship, communications, registry, and reform.
 </article>
@@ -115,9 +115,9 @@ indulgence disclaimers.
 
 ## About the Galactic Confederation
 
-Readers who need direct orientation before returning to the archive may begin with [The Galactic Confederation circa 2500](reference/galactic-confederation-circa-2500.md).
+Readers who need direct orientation before returning to the archive may begin with [The Galactic Confederation in the late 2490s](reference/galactic-confederation-circa-2500.md).
 
-The reference section is deliberately small. It explains the structural environment around the selections without turning the Review into an encyclopedia of the setting.
+The reference section is deliberately small. It explains the structural environment around the selections without turning the Review into an encyclopedia.
 
 ## Editorial mandate
 

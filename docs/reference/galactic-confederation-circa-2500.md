@@ -1,4 +1,4 @@
-# The Galactic Confederation circa 2500
+# The Galactic Confederation in the Late 2490s
 
 <p class="reference-label">Galactic Confederation Reference</p>
 

@@ -1,8 +1,8 @@
 ---
 title: "The Shuttle That Could Leave But Not Return"
 description: "A port-practice case study of an owner-built shuttle that can fly, maintain itself, and never legally re-enter the bay where it was made."
-selection_date: "2497.113"
-release_cycle: "2497.113"
+selection_date: "2497.121"
+release_cycle: "2497.121"
 field: "Field Memoir and Commercial Practice"
 type: "Field Memoir"
 series:
@@ -30,8 +30,8 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
   <div><dt>Original date</dt><dd>2495.071</dd></div>
-  <div><dt>Republication date</dt><dd>2497.113</dd></div>
-  <div><dt>Author</dt><dd>Sera Venn, Industrial Practice Correspondent, *Port and Yard Review*</dd></div>
+  <div><dt>Republication date</dt><dd>2497.121</dd></div>
+  <div><dt>Author</dt><dd>Sera Venn, Industrial Practice Correspondent, <em>Port and Yard Review</em></dd></div>
   <div><dt>Field</dt><dd>Field Memoir and Commercial Practice</dd></div>
 </dl>
 
@@ -50,7 +50,7 @@ They do not provide a family name, home system, species registration, or current
 
 That caution is not entirely unreasonable.
 
-Rell has spent the last three years arguing with port authorities, certification consultants, insurance representatives, and people online who alternate between calling them a visionary and calling them a public hazard.
+Rell has spent the last three years arguing with port authorities, certification consultants, insurance representatives, and people on public mesh boards who alternate between calling them a visionary and calling them a public hazard.
 
 Both groups usually begin with the same question.
 
@@ -110,7 +110,7 @@ They do not provide a family name, home system, species registration, or current
 
 That caution is not entirely unreasonable.
 
-Rell has spent the last three years arguing with port authorities, certification consultants, insurance representatives, and people online who alternate between calling them a visionary and calling them a public hazard.
+Rell has spent the last three years arguing with port authorities, certification consultants, insurance representatives, and people on public mesh boards who alternate between calling them a visionary and calling them a public hazard.
 
 Both groups usually begin with the same question.
 

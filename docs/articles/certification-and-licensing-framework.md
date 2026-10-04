@@ -1,8 +1,8 @@
 ---
 title: "Galactic Confederation Certification and Licensing Framework"
 description: "Canonical Confederation reference for personnel competence, certificate portability, professional licensing, and emergency safety authority."
-selection_date: "2497.224"
-release_cycle: "2497.224"
+selection_date: "2492.041"
+release_cycle: "2492.041"
 field: "Personnel Standards and Licensing"
 type: "Technical Note"
 series:
@@ -30,7 +30,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
   <div><dt>Original date</dt><dd>2472.220</dd></div>
-  <div><dt>Republication date</dt><dd>2497.224</dd></div>
+  <div><dt>Republication date</dt><dd>2492.041</dd></div>
   <div><dt>Author</dt><dd>Confederation Standards Office, Personnel Competence Working Group</dd></div>
   <div><dt>Field</dt><dd>Personnel Standards and Licensing</dd></div>
 </dl>

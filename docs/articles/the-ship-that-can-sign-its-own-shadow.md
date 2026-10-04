@@ -1,8 +1,8 @@
 ---
 title: "The Ship That Can Sign Its Own Shadow"
 description: "Legal personality, separated ownership, and how registered hulls make freedom of commerce and navigation operable at Confederation scale."
-selection_date: "2495.313"
-release_cycle: "2495.313"
+selection_date: "2493.196"
+release_cycle: "2493.196"
 field: "Commercial and Maritime Law"
 type: "Republication"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Standards and Infrastructure</dd></div>
   <div><dt>Dossier</dt><dd>Ship Law and Registry</dd></div>
 <div><dt>Original date</dt><dd>2488.167</dd></div>
-  <div><dt>Republication date</dt><dd>2495.313</dd></div>
+  <div><dt>Republication date</dt><dd>2493.196</dd></div>
   <div><dt>Author</dt><dd>Hareth Mol Vesh, Senior Lecturer in Commercial Institutions, Third Kethari School of Trade Law</dd></div>
   <div><dt>Field</dt><dd>Commercial and Maritime Law</dd></div>
 </dl>

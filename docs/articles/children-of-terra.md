@@ -1,8 +1,8 @@
 ---
 title: "Children of Terra"
 description: "How a translator's improvisation became a durable legal category."
-selection_date: "2495.004"
-release_cycle: "2495.004"
+selection_date: "2494.017"
+release_cycle: "2494.017"
 field: "Policy and Xenology"
 type: "Editorial Note"
 series:
@@ -29,7 +29,7 @@ tags:
   <div><dt>Series</dt><dd>Earth Union Studies</dd></div>
   <div><dt>Dossier</dt><dd>Earth Union Primer</dd></div>
 <div><dt>Original date</dt><dd>2493.187</dd></div>
-  <div><dt>Republication date</dt><dd>2495.004</dd></div>
+  <div><dt>Republication date</dt><dd>2494.017</dd></div>
   <div><dt>Author</dt><dd>Review Language Desk</dd></div>
   <div><dt>Field</dt><dd>Policy and Xenology</dd></div>
 </dl>

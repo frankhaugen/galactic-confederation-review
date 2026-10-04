@@ -2,15 +2,15 @@
 
 <p class="reference-label">Galactic Confederation Reference</p>
 
-This section gives actual readers a small amount of plain orientation to the setting around the Review.
+This section gives readers a small amount of plain orientation to the institutional environment around the Review.
 
-It is not a second publication, a dossier, a series, or a fictional source text. These pages do not carry authors, originating journals, republication dates, or Review mastheads. They exist because a reader outside the twenty-fifth century may need a short structural account before returning to the archive.
+It is not a second publication, a dossier, a series, or a source text. These pages do not carry authors, originating journals, republication dates, or Review mastheads. They exist because a reader may need a short structural account before returning to the archive.
 
 ## Start here
 
 | Page | Use |
 | ---- | --- |
-| [The Galactic Confederation circa 2500](galactic-confederation-circa-2500.md) | Basic political, legal, technical, and institutional orientation for the setting. |
+| [The Galactic Confederation in the late 2490s](galactic-confederation-circa-2500.md) | Basic political, legal, technical, and institutional orientation. |
 
 ## Editorial limit
 

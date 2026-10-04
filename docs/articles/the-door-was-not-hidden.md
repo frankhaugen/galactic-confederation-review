@@ -1,8 +1,8 @@
 ---
 title: "The Door Was Not Hidden"
 description: "Earth Union's public-law response to the Havren Claim — recognition without participation."
-selection_date: "2495.172"
-release_cycle: "2495.172"
+selection_date: "2494.150"
+release_cycle: "2494.150"
 field: "Comparative Public Law"
 type: "Republication"
 series:
@@ -31,7 +31,7 @@ tags:
   <div><dt>Series</dt><dd>Comparative Law, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement</dd></div>
 <div><dt>Original date</dt><dd>2491.056</dd></div>
-  <div><dt>Republication date</dt><dd>2495.172</dd></div>
+  <div><dt>Republication date</dt><dd>2494.150</dd></div>
   <div><dt>Author</dt><dd>Professor Seli Oranth, Chair of Comparative Public Law, Veyari Interstellar University</dd></div>
   <div><dt>Field</dt><dd>Comparative Public Law</dd></div>
 </dl>

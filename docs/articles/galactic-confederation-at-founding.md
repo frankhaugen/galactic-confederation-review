@@ -1,8 +1,8 @@
 ---
 title: "The Galactic Confederation at Founding"
 description: "Chronological history of how the GC was founded — from Compact dissolution through IUAS collapse to the 2295 proclamation."
-selection_date: "2494.205"
-release_cycle: "2494.205"
+selection_date: "2492.247"
+release_cycle: "2492.247"
 field: "History and Policy"
 type: "Republication"
 series:
@@ -32,7 +32,7 @@ tags:
   <div><dt>Series</dt><dd>Historical Summaries, Guardianship Debates</dd></div>
   <div><dt>Dossier</dt><dd>Guardianship Settlement, Compact and Confederation Origins</dd></div>
 <div><dt>Original date</dt><dd>2488.214</dd></div>
-  <div><dt>Republication date</dt><dd>2494.205</dd></div>
+  <div><dt>Republication date</dt><dd>2492.247</dd></div>
   <div><dt>Author</dt><dd>Professor Keth Maren, Department of Founding History, University of Mars</dd></div>
   <div><dt>Field</dt><dd>History and Policy</dd></div>
 </dl>
@@ -40,7 +40,7 @@ tags:
 </div>
 
 !!! editorial "Republication note"
-    The board held this chronology from the first Guardianship planning cycle as the issue's historical anchor. Argumentative essays on the chain, the ledger, and registry enforcement were selected later. The Review notes that Charter drafting memoranda, IUAS successor constitutional drafts, and several Nosies founding circulars remain outside this archive.
+    The board held this chronology from the first Guardianship planning cycle as the archive's historical anchor. Argumentative essays on the chain, the ledger, and registry enforcement were selected later. The Review notes that Charter drafting memoranda, IUAS successor constitutional drafts, and several Nosies founding circulars remain outside this archive.
 
 <div class="review-abstract" markdown="1">
 

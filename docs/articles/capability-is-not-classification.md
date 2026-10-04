@@ -1,8 +1,8 @@
 ---
 title: "Capability Is Not Classification"
 description: "The Confederation two-tier artificial cognition framework."
-selection_date: "2496.155"
-release_cycle: "2496.155"
+selection_date: "2496.177"
+release_cycle: "2496.177"
 field: "Law and Engineering"
 type: "Republication"
 series:
@@ -26,7 +26,7 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Comparative Law</dd></div>
 <div><dt>Original date</dt><dd>2491.089</dd></div>
-  <div><dt>Republication date</dt><dd>2496.155</dd></div>
+  <div><dt>Republication date</dt><dd>2496.177</dd></div>
   <div><dt>Author</dt><dd>Dr. Palet Rho, Comparative Cognitive Law Faculty, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Law and Engineering</dd></div>
 </dl>

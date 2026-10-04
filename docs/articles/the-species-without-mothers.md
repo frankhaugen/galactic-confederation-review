@@ -1,8 +1,8 @@
 ---
 title: "The Species Without Mothers"
 description: "Kharrek reproduction, exclusive imprinting, and solitary paternal rearing — biology that becomes institution at the cave mouth."
-selection_date: "2495.240"
-release_cycle: "2495.240"
+selection_date: "2494.076"
+release_cycle: "2494.076"
 field: "Xenology and Civic Biology"
 type: "Republication"
 series:
@@ -26,7 +26,7 @@ tags:
   <div><dt>Republished by</dt><dd>Galactic Confederation Review</dd></div>
   <div><dt>Series</dt><dd>Species Profiles</dd></div>
 <div><dt>Original date</dt><dd>2491.089</dd></div>
-  <div><dt>Republication date</dt><dd>2495.240</dd></div>
+  <div><dt>Republication date</dt><dd>2494.076</dd></div>
   <div><dt>Author</dt><dd>Professor Eren Vash-Tek, Department of Comparative Kinship and Civic Biology, Kharrek University of Tesh-Vorr</dd></div>
   <div><dt>Field</dt><dd>Xenology and Civic Biology</dd></div>
 </dl>
@@ -34,7 +34,7 @@ tags:
 </div>
 
 !!! editorial "Republication note"
-    The Review has chosen this essay to open its *Species In Context* selections within the Comparative Law issue because it begins with biology and refuses to stop there. Readers are advised that "without mothers" is a social and reproductive description, not an accusation. Several angry letters have already misunderstood this distinction in useful ways.
+    The Review has chosen this essay to open its *Species In Context* selections because it begins with biology and refuses to stop there. Readers are advised that "without mothers" is a social and reproductive description, not an accusation. Several angry letters have already misunderstood this distinction in useful ways.
 
     The Review has not selected Threni archival council replies or several Kharrek nesting-estate liability memoranda cited in the original proceedings.
 

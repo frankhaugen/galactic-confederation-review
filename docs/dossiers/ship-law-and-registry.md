@@ -22,6 +22,7 @@ It is not a registry handbook. It is a reading packet for readers who need to se
 | 12 | 2497.161 | [The Patient Is Not the Procedure](../articles/the-patient-is-not-the-procedure.md) | MedBed/AutoDoc role separation aboard ships and stations |
 | 13 | 2492.041 | [Certification and Licensing Framework](../articles/certification-and-licensing-framework.md) | Personnel competence, licenses, and emergency safety authority |
 | 14 | 2497.241 | [The Glorious Inboard Rescue Pod](../articles/the-glorious-inboard-rescue-pod.md) | Type C0n inboard survival cabins as certified escape-pod substitute |
+| 15 | 2497.278 | [The Door That Slams Before You Die](../articles/the-door-that-slams-before-you-die.md) | Passive pressure subdivision, certification, and the hatch crews can live with |
 
 Several selections in this dossier also appear in Comparative Law and Standards and Infrastructure. The Review indexes them here because registry and ship law remain the subject that binds them.
 

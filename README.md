@@ -1,10 +1,10 @@
 # Galactic Confederation Review
 
-Selected scholarship from across the Galactic Confederation.
+Selected writing and public-interest knowledge from across the Galactic Confederation.
 
-This repository contains the Markdown source for an in-universe academic republication archive connected to *The Calypso Cycle*.
+This repository contains the Markdown source for an in-universe public republication and cultural-exchange archive connected to *The Calypso Cycle*.
 
-The Review is funded by the Galactic Confederation but editorially independent. It republishes notable works from member polity journals, universities, institutes, veterans' organizations, policy offices, technical societies, and independent scholars.
+The Review is funded by the Galactic Confederation but editorially independent. It republishes notable works from member polity journals, universities, institutes, magazines, trade publications, veterans' organizations, policy offices, technical societies, and independent writers.
 
 ## Publication model
 
@@ -166,6 +166,7 @@ Dossiers
 Archive Register
 Authors
 Tags
+Galactic Confederation
 Editorial Policy
 Editorial Content
 About the Review

@@ -1,6 +1,6 @@
-# Galactic Confederation Reference
+# Galactic Confederation
 
-<p class="reference-label">Galactic Confederation Reference</p>
+<p class="reference-label">Setting reference</p>
 
 This section gives readers a small amount of plain orientation to the institutional environment around the Review.
 

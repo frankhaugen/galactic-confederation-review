@@ -1,6 +1,6 @@
 # The Galactic Confederation in the Late 2490s
 
-<p class="reference-label">Galactic Confederation Reference</p>
+<p class="reference-label">Setting reference</p>
 
 The Galactic Confederation is not a government of the galaxy. It is a framework that allows politically independent systems to participate in a common economic, legal, technical, and information environment.
 
